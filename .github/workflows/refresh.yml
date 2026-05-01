@@ -1,5 +1,4 @@
 name: refresh-intelligence
-
 on:
   schedule:
     - cron: "*/15 * * * *"
