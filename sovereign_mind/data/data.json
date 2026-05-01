@@ -1,0 +1,339 @@
+{
+  "generated_at": "2026-05-01T17:44:17.506639+00:00",
+  "model": "seed-fallback",
+  "article_count": 5,
+  "articles": [
+    {
+      "id": "seed01",
+      "title": "US tightens advanced-chip export controls toward Asia",
+      "summary": "New rules expand restrictions on AI-grade semiconductors, prompting reroute of supply chains and renewed Gulf interest in domestic capacity.",
+      "link": "https://example.com/a",
+      "source": "Reuters World",
+      "published": "2026-05-01T17:44:17.506639+00:00",
+      "region": "global",
+      "lang": "en",
+      "entities": [
+        "US Commerce",
+        "TSMC",
+        "G42"
+      ],
+      "geo_tags": [
+        "US",
+        "TW",
+        "AE",
+        "SA"
+      ],
+      "topics": [
+        "semiconductors",
+        "export-controls",
+        "AI"
+      ],
+      "sentiment": {
+        "MA": 0.05,
+        "SA": 0.2,
+        "AE": 0.55
+      },
+      "risk": {
+        "MA": 0.2,
+        "SA": 0.45,
+        "AE": 0.4
+      },
+      "arc_to": [
+        "AE",
+        "SA"
+      ],
+      "arc_strength": {
+        "MA": 0.2,
+        "SA": 0.6,
+        "AE": 0.85
+      },
+      "hidden_links": [
+        "C1"
+      ],
+      "body": ""
+    },
+    {
+      "id": "seed02",
+      "title": "EU green hydrogen partnership with North Africa advances",
+      "summary": "Brussels signals scale-up of cross-Mediterranean hydrogen corridor; Morocco positioned as anchor exporter.",
+      "link": "https://example.com/b",
+      "source": "FT World",
+      "published": "2026-05-01T17:44:17.506639+00:00",
+      "region": "global",
+      "lang": "en",
+      "entities": [
+        "EU Commission",
+        "ONEE",
+        "OCP"
+      ],
+      "geo_tags": [
+        "EU",
+        "MA",
+        "ES"
+      ],
+      "topics": [
+        "hydrogen",
+        "energy",
+        "trade"
+      ],
+      "sentiment": {
+        "MA": 0.75,
+        "SA": 0.1,
+        "AE": 0.05
+      },
+      "risk": {
+        "MA": 0.15,
+        "SA": 0.1,
+        "AE": 0.05
+      },
+      "arc_to": [
+        "MA"
+      ],
+      "arc_strength": {
+        "MA": 0.9,
+        "SA": 0.15,
+        "AE": 0.1
+      },
+      "hidden_links": [
+        "C2"
+      ],
+      "body": ""
+    },
+    {
+      "id": "seed03",
+      "title": "Red Sea shipping reroutes drive Gulf logistics demand",
+      "summary": "Carriers extend Cape-of-Good-Hope detours; Jebel Ali and KAEC see throughput gains and rate spikes.",
+      "link": "https://example.com/c",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-01T17:44:17.506639+00:00",
+      "region": "global",
+      "lang": "en",
+      "entities": [
+        "Maersk",
+        "DP World",
+        "Bahri"
+      ],
+      "geo_tags": [
+        "AE",
+        "SA",
+        "EG"
+      ],
+      "topics": [
+        "shipping",
+        "logistics",
+        "red-sea"
+      ],
+      "sentiment": {
+        "MA": -0.05,
+        "SA": 0.35,
+        "AE": 0.6
+      },
+      "risk": {
+        "MA": 0.1,
+        "SA": 0.55,
+        "AE": 0.5
+      },
+      "arc_to": [
+        "AE",
+        "SA"
+      ],
+      "arc_strength": {
+        "MA": 0.1,
+        "SA": 0.7,
+        "AE": 0.85
+      },
+      "hidden_links": [
+        "C3"
+      ],
+      "body": ""
+    },
+    {
+      "id": "seed04",
+      "title": "PIF announces fresh anchor commitment to AI compute fund",
+      "summary": "Riyadh deepens stake in domestic AI infrastructure, with potential co-investments alongside MGX.",
+      "link": "https://example.com/d",
+      "source": "Arab News",
+      "published": "2026-05-01T17:44:17.506639+00:00",
+      "region": "mena",
+      "lang": "en",
+      "entities": [
+        "PIF",
+        "MGX",
+        "NVIDIA"
+      ],
+      "geo_tags": [
+        "SA",
+        "AE",
+        "US"
+      ],
+      "topics": [
+        "AI",
+        "sovereign-wealth",
+        "compute"
+      ],
+      "sentiment": {
+        "MA": 0.05,
+        "SA": 0.7,
+        "AE": 0.55
+      },
+      "risk": {
+        "MA": 0.05,
+        "SA": 0.25,
+        "AE": 0.2
+      },
+      "arc_to": [
+        "SA",
+        "AE"
+      ],
+      "arc_strength": {
+        "MA": 0.05,
+        "SA": 0.95,
+        "AE": 0.7
+      },
+      "hidden_links": [
+        "C1"
+      ],
+      "body": ""
+    },
+    {
+      "id": "seed05",
+      "title": "Atlantic gas discoveries off Mauritania-Senegal coast",
+      "summary": "Field development progresses; downstream financing windows open for North African logistics partners.",
+      "link": "https://example.com/e",
+      "source": "Hespress EN",
+      "published": "2026-05-01T17:44:17.506639+00:00",
+      "region": "mena",
+      "lang": "en",
+      "entities": [
+        "BP",
+        "Kosmos",
+        "ONHYM"
+      ],
+      "geo_tags": [
+        "MR",
+        "SN",
+        "MA"
+      ],
+      "topics": [
+        "gas",
+        "atlantic",
+        "energy"
+      ],
+      "sentiment": {
+        "MA": 0.55,
+        "SA": -0.1,
+        "AE": 0.05
+      },
+      "risk": {
+        "MA": 0.2,
+        "SA": 0.15,
+        "AE": 0.1
+      },
+      "arc_to": [
+        "MA"
+      ],
+      "arc_strength": {
+        "MA": 0.85,
+        "SA": 0.1,
+        "AE": 0.1
+      },
+      "hidden_links": [
+        "C2"
+      ],
+      "body": ""
+    }
+  ],
+  "clusters": [
+    {
+      "id": "C1",
+      "label": "AI-Compute Sovereignty Bloc",
+      "narrative": "US chip controls + PIF AI commitments compound: capital flows into Gulf-domiciled compute as Asia routes diversify.",
+      "member_ids": [
+        "seed01",
+        "seed04"
+      ],
+      "personas": [
+        "SA",
+        "AE"
+      ]
+    },
+    {
+      "id": "C2",
+      "label": "Atlantic-Med Energy Corridor",
+      "narrative": "EU hydrogen pull + Atlantic gas finds reposition Morocco as the European energy gateway westward.",
+      "member_ids": [
+        "seed02",
+        "seed05"
+      ],
+      "personas": [
+        "MA"
+      ]
+    },
+    {
+      "id": "C3",
+      "label": "Red Sea Logistics Premium",
+      "narrative": "Persistent Bab-el-Mandeb risk locks in elevated Gulf transshipment volumes through 2026.",
+      "member_ids": [
+        "seed03"
+      ],
+      "personas": [
+        "AE",
+        "SA"
+      ]
+    }
+  ],
+  "recommendations": {
+    "MA": [
+      {
+        "title": "Lock multi-year EU hydrogen offtake",
+        "body": "Use the Brussels signaling window to convert MOUs into binding offtakes with Spanish and German anchor buyers — Morocco's grid-link to Iberia is the moat. Pair with phosphate-DAP financing tied to the same instruments to compound African food-security narrative.",
+        "horizon": "30d",
+        "confidence": 0.78
+      },
+      {
+        "title": "Activate Atlantic Initiative downstream",
+        "body": "Position Tan-Tan / Dakhla as midstream nodes for Mauritania-Senegal gas; pre-build storage and regas optionality before majors finalize FIDs.",
+        "horizon": "7d",
+        "confidence": 0.65
+      }
+    ],
+    "SA": [
+      {
+        "title": "Move first on AI-compute domestication",
+        "body": "Translate PIF anchor into a sovereign GPU reserve. The chip-control window favors jurisdictions with capital + grid. Stand up KAUST + NEOM compute clusters as licensed partners before Asian capacity returns.",
+        "horizon": "30d",
+        "confidence": 0.8
+      },
+      {
+        "title": "Hedge Red Sea premium",
+        "body": "Bahri rate gains are real but fragile — lock 18-month charters now, redirect surplus margin to NEOM port build-out.",
+        "horizon": "7d",
+        "confidence": 0.7
+      }
+    ],
+    "AE": [
+      {
+        "title": "Capture chip-control arbitrage",
+        "body": "G42 + MGX should accelerate licensing dialogues with US Commerce. The ADGM-domiciled compute structure is the pitch — neutral, audited, rules-bound.",
+        "horizon": "24h",
+        "confidence": 0.85
+      },
+      {
+        "title": "Convert logistics windfall to permanent share",
+        "body": "Use Jebel Ali rate uplift to subsidize long-tenor shipper contracts; the goal is structural share, not cyclical profit.",
+        "horizon": "7d",
+        "confidence": 0.72
+      }
+    ]
+  },
+  "advantage_index": {
+    "MA": 0.42,
+    "SA": 0.35,
+    "AE": 0.55
+  },
+  "risk_index": {
+    "MA": 0.18,
+    "SA": 0.32,
+    "AE": 0.28
+  }
+}

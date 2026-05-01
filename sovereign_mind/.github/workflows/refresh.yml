@@ -1,0 +1,66 @@
+# =====================================================================
+#  Sovereign Mind :: hourly intelligence refresh
+#  Runs processor.py, commits updated data/data.json back to repo.
+#  Free-tier friendly: ~2 minutes per run, well under quota.
+# =====================================================================
+name: refresh-intelligence
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"        # every 15 minutes — reliable on free tier
+  workflow_dispatch:              # manual trigger from Actions tab
+    inputs:
+      reason:
+        description: "Why are you triggering manually?"
+        required: false
+        default: "manual refresh"
+
+permissions:
+  contents: write                 # needed to push the updated data file
+
+concurrency:
+  group: refresh-intelligence
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run processor
+        env:
+          GROQ_API_KEY:       ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_API_ID:    ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH:  ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION:   ${{ secrets.TELEGRAM_SESSION }}
+          PYTHONUNBUFFERED:   "1"
+        run: python processor.py
+
+      - name: Commit data snapshot
+        run: |
+          git config user.name  "sovereign-mind-bot"
+          git config user.email "sovereign-mind-bot@users.noreply.github.com"
+          git add data/data.json
+          if git diff --staged --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "chore(data): refresh intelligence $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi

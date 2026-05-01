@@ -1,0 +1,35 @@
+# ============================================================
+#  SOVEREIGN MIND :: MENA COMMAND
+#  Zero-cost geopolitical intelligence stack
+# ============================================================
+
+# Core App
+streamlit==1.39.0
+streamlit-agraph==0.0.45
+streamlit-extras==0.4.7
+streamlit-autorefresh==1.0.1
+
+# LLM / Intelligence Engine
+groq==0.11.0
+
+# Data Ingestion (The Flux)
+feedparser==6.0.11
+requests==2.32.3
+beautifulsoup4==4.12.3
+telethon==1.36.0          # optional, for Telegram public channels
+trafilatura==1.12.2       # for cleaning article HTML
+
+# Geo + Visualization
+pydeck==0.9.1
+plotly==5.24.1
+
+# Data / Graph
+pandas==2.2.3
+numpy==1.26.4
+networkx==3.3
+
+# Utility
+python-dateutil==2.9.0
+pytz==2024.2
+tenacity==9.0.0           # retry logic for scrapers
+langdetect==1.0.9         # auto-detect article language

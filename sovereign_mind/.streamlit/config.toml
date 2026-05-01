@@ -1,0 +1,27 @@
+# =====================================================================
+#  Sovereign Mind :: MENA Command — base Streamlit theme
+#  Per-persona accents are layered on top via injected CSS in app.py.
+# =====================================================================
+
+[theme]
+base               = "dark"
+primaryColor       = "#00D4FF"           # default cyan glow — overridden per persona
+backgroundColor    = "#05070D"           # near-black, slight blue cast
+secondaryBackgroundColor = "#0C111B"     # panel surface
+textColor          = "#E6F1FF"
+font               = "serif"             # surrogate — real fonts loaded via @import in CSS
+
+[server]
+headless             = true
+runOnSave            = true
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats   = false
+
+[client]
+toolbarMode        = "minimal"
+showErrorDetails   = true
+
+[ui]
+hideTopBar         = false
