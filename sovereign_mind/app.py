@@ -56,7 +56,16 @@ st.set_page_config(
 )
 
 ROOT = Path(__file__).resolve().parent
-DATA_PATH = ROOT / "data" / "data.json"
+
+# Search for data.json in multiple candidate locations
+# (handles both local dev and Streamlit Cloud / GitHub subfolder layouts)
+_CANDIDATES = [
+    ROOT / "data" / "data.json",                          # normal: app.py beside data/
+    ROOT.parent / "data" / "data.json",                   # one level up
+    ROOT / "sovereign_mind" / "data" / "data.json",       # monorepo root
+    Path("/mount/src/sovereign-mind/sovereign_mind/data/data.json"),  # Streamlit Cloud explicit
+]
+DATA_PATH = next((p for p in _CANDIDATES if p.exists()), ROOT / "data" / "data.json")
 
 
 # ---------------------------------------------------------------------------
@@ -388,13 +397,22 @@ h3 {{ font-weight: 600; font-size: 1.15rem; }}
 # ---------------------------------------------------------------------------
 @st.cache_data(ttl=60, show_spinner=False)
 def load_data() -> dict[str, Any]:
-    if not DATA_PATH.exists():
-        return _seed_data()
-    try:
-        return json.loads(DATA_PATH.read_text(encoding="utf-8"))
-    except Exception as e:
-        st.warning(f"data.json unreadable, using seed: {e}")
-        return _seed_data()
+    # Re-evaluate candidates at call time (DATA_PATH may have been stale)
+    candidates = [
+        ROOT / "data" / "data.json",
+        ROOT.parent / "data" / "data.json",
+        Path("/mount/src/sovereign-mind/sovereign_mind/data/data.json"),
+        Path("/mount/src/sovereign-mind/data/data.json"),
+    ]
+    for p in candidates:
+        if p.exists() and p.stat().st_size > 100:
+            try:
+                data = json.loads(p.read_text(encoding="utf-8"))
+                if data.get("articles"):
+                    return data
+            except Exception:
+                continue
+    return _seed_data()
 
 
 def _seed_data() -> dict[str, Any]:
