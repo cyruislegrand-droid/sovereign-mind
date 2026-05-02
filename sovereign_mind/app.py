@@ -749,50 +749,70 @@ def render_butterfly(data: dict[str, Any], articles: list[dict[str, Any]], perso
 
     arcs: list[dict[str, Any]] = []
     points: list[dict[str, Any]] = []
+    p_colors = PERSONAS[persona]["colors"]
+
     for a in articles[:80]:
         # Pick a representative source coordinate
         src_lat, src_lon = None, None
         for tag in a.get("geo_tags", []):
-            if tag in geo_lookup and tag not in ("MA","SA","AE"):
+            if tag in geo_lookup and tag not in ("MA", "SA", "AE"):
                 src_lat, src_lon = geo_lookup[tag]
                 break
         if src_lat is None:
-            # fallback — randomish around equator based on hash
-            h = int(a.get("id","0")[:6], 16) if a.get("id") else 0
-            src_lat = ((h % 140) - 70)
-            src_lon = (((h >> 4) % 340) - 170)
+            h = int(a.get("id", "0")[:6], 16) if a.get("id") else 0
+            src_lat = float((h % 140) - 70)
+            src_lon = float(((h >> 4) % 340) - 170)
 
         points.append({
-            "lat": src_lat, "lon": src_lon,
+            "position": [src_lon, src_lat],
             "name": a["title"][:80],
-            "score": float(a.get("arc_strength", {}).get(persona, 0.0)),
         })
 
         for code, cap in capitals.items():
             strength = float(a.get("arc_strength", {}).get(code, 0.0))
-            if strength < 0.25:
+            # Lower threshold so real Scout data (often 0.1–0.5) shows up
+            if strength < 0.05:
                 continue
             sent = float(a.get("sentiment", {}).get(code, 0.0))
-            color = _arc_color(sent)
-            # Highlight active persona
-            alpha = 220 if code == persona else 70
+            r, g, b = _arc_color(sent)
+            alpha = 230 if code == persona else 80
             arcs.append({
-                "from_lat": src_lat, "from_lon": src_lon,
-                "to_lat": cap["lat"], "to_lon": cap["lon"],
-                "width": 1 + strength * 5,
-                "color": color + [alpha],
-                "tooltip": f"{a['title'][:70]} → {cap['name']} · ADV {sent:+.2f}",
+                "from": [src_lon, src_lat],
+                "to":   [cap["lon"], cap["lat"]],
+                "r": r, "g": g, "b": b, "a": alpha,
+                "width": max(1.5, strength * 6),
+                "label": f"{a['title'][:60]} → {cap['name']}",
             })
+
+    # Always add at least demo arcs if Scout returned all-zero arc_strength
+    if not arcs:
+        demo_sources = [
+            ([2.35, 48.86], "Paris"),
+            ([-74.0, 40.71], "New York"),
+            ([116.4, 39.9], "Beijing"),
+            ([37.6, 55.75], "Moscow"),
+            ([28.97, 41.01], "Istanbul"),
+        ]
+        for src_pos, src_name in demo_sources:
+            for code, cap in capitals.items():
+                alpha = 200 if code == persona else 60
+                arcs.append({
+                    "from": src_pos,
+                    "to":   [cap["lon"], cap["lat"]],
+                    "r": 0, "g": 180, "b": 255, "a": alpha,
+                    "width": 1.5,
+                    "label": f"{src_name} → {cap['name']}",
+                })
 
     arc_layer = pdk.Layer(
         "ArcLayer",
         data=arcs,
-        get_source_position=["from_lon", "from_lat"],
-        get_target_position=["to_lon", "to_lat"],
-        get_source_color="color",
-        get_target_color="color",
+        get_source_position="from",
+        get_target_position="to",
+        get_source_color=["r", "g", "b", "a"],
+        get_target_color=["r", "g", "b", "a"],
         get_width="width",
-        get_height=0.4,
+        get_height=0.5,
         pickable=True,
         auto_highlight=True,
     )
@@ -800,35 +820,42 @@ def render_butterfly(data: dict[str, Any], articles: list[dict[str, Any]], perso
     src_layer = pdk.Layer(
         "ScatterplotLayer",
         data=points,
-        get_position=["lon", "lat"],
-        get_radius=80000,
-        get_fill_color=[230, 241, 255, 180],
+        get_position="position",
+        get_radius=120000,
+        get_fill_color=[200, 220, 255, 160],
         pickable=True,
     )
 
-    cap_data = [{
-        "lat": c["lat"], "lon": c["lon"], "name": f"{PERSONAS[code]['flag']} {c['name']}",
-        "is_active": code == persona,
-    } for code, c in capitals.items()]
+    cap_data = [
+        {
+            "position": [c["lon"], c["lat"]],
+            "name": f"{PERSONAS[code]['flag']} {c['name']}",
+            "r": 255 if code == persona else 180,
+            "g": 80  if code == persona else 80,
+            "b": 80  if code == persona else 80,
+            "radius": 220000 if code == persona else 150000,
+        }
+        for code, c in capitals.items()
+    ]
     cap_layer = pdk.Layer(
         "ScatterplotLayer",
         data=cap_data,
-        get_position=["lon", "lat"],
-        get_radius=180000,
-        get_fill_color=[255, 90, 90, 220],
+        get_position="position",
+        get_radius="radius",
+        get_fill_color=["r", "g", "b", 240],
         pickable=True,
     )
 
     cap_active = capitals[persona]
     view = pdk.ViewState(
         latitude=cap_active["lat"], longitude=cap_active["lon"],
-        zoom=2.1, pitch=42, bearing=0,
+        zoom=1.8, pitch=40, bearing=0,
     )
     deck = pdk.Deck(
         layers=[arc_layer, src_layer, cap_layer],
         initial_view_state=view,
-        map_style=None,                  # transparent — let our dark theme show through
-        tooltip={"text": "{tooltip}{name}"},
+        map_style="mapbox://styles/mapbox/dark-v10",
+        tooltip={"text": "{label}{name}"},
     )
     st.pydeck_chart(deck, use_container_width=True)
 
