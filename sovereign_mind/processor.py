@@ -53,10 +53,19 @@ except ImportError:  # pragma: no cover
     Groq = None  # type: ignore
 
 try:
-    from langdetect import detect as _lang_detect, DetectorFactory
-    DetectorFactory.seed = 0
-except ImportError:  # pragma: no cover
-    _lang_detect = None
+    import httpx
+    import groq
+    # Force httpx client without proxies argument (fixes groq 0.11 + httpx 0.28 conflict)
+    if not hasattr(httpx.Client.__init__, '_patched'):
+        _orig_httpx_init = httpx.Client.__init__
+        def _patched_init(self, **kwargs):
+            kwargs.pop('proxies', None)
+            _orig_httpx_init(self, **kwargs)
+        _patched_init._patched = True
+        httpx.Client.__init__ = _patched_init
+    from groq import Groq
+except ImportError:
+    Groq = None
 
 
 # ---------------------------------------------------------------------------
