@@ -854,7 +854,7 @@ def render_butterfly(data: dict[str, Any], articles: list[dict[str, Any]], perso
     deck = pdk.Deck(
         layers=[arc_layer, src_layer, cap_layer],
         initial_view_state=view,
-        map_style="mapbox://styles/mapbox/dark-v10",
+        map_style="https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json",
         tooltip={"text": "{label}{name}"},
     )
     st.pydeck_chart(deck, use_container_width=True)
