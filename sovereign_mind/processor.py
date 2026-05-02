@@ -42,6 +42,11 @@ from pathlib import Path
 from typing import Any
 
 import feedparser
+try:
+    from langdetect import detect as _lang_detect, DetectorFactory
+    DetectorFactory.seed = 0
+except ImportError:
+    _lang_detect = None
 import requests
 from dateutil import parser as dtparser
 from tenacity import retry, stop_after_attempt, wait_exponential
