@@ -11,6 +11,7 @@ streamlit-autorefresh==1.0.1
 
 # LLM / Intelligence Engine
 groq==0.11.0
+httpx==0.27.2
 
 # Data Ingestion (The Flux)
 feedparser==6.0.11
