@@ -1,8 +1,1868 @@
 {
-  "generated_at": "2026-05-06T04:08:24.708758+00:00",
+  "generated_at": "2026-05-06T06:46:51.445397+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "12c9721879ccb166",
+      "title": "Oil falls on signs of de-escalation in Strait of Hormuz",
+      "summary": "US president has “paused” military mission to guide commercial ships through the vital waterway",
+      "link": "https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea",
+      "source": "FT World",
+      "published": "2026-05-06T06:45:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "94bc50370cfe7665",
+      "title": "Gold Jumps 2% on Weaker Dollar, Middle East Peace Hopes",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270118",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T06:41:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "da96365ae98befb0",
+      "title": "Kyiv Says Russia Broke Unilateral Ceasefire with Drone and Missile Attacks",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270117",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T06:38:09+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "06668379f17b22c8",
+      "title": "Israel says strikes targeted Hezbollah sites across southern Lebanon",
+      "summary": "Israel says strikes targeted Hezbollah sites across southern Lebanon The Israeli military said its forces struck multiple sites linked to Hezbollah in southern Lebanon over the past day, claiming several fighters were killed and around 25 targets hit. The army said Israeli jets targeted “several buildings” where Hezbollah fighters “were operating inside them”, including what it described as a weapons depot and other “terror infrastructures”. Since 2 March, Israeli operations in southern Lebanon have intensified, with widespread bombardment and ground incursions reported across towns and villag",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-strikes-targeted-hezbollah-sites-across-southern-lebanon",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T06:36:04+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4b6cc211ee0ad3c8",
+      "title": "Atletico Madrid's Simeone Proud and 'Peaceful' after Champions League Hopes Dashed Yet Again",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270116",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T06:33:32+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "97d5431820f11660",
+      "title": "Next Lifts Outlook as Strong Sales Offset Higher Iran Costs",
+      "summary": "Next Plc raised its profit outlook as the British fashion and homewares retailer saw robust demand at the start of the year even as costs related to the conflict in the Middle East tripled.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/next-lifts-outlook-as-strong-sales-offset-higher-iran-costs",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:27:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "62f35f99795c9ef4",
+      "title": "Morning update",
+      "summary": "Morning update Good morning Middle East Eye readers, There are early signs of a possible diplomatic shift after the US paused “Project Freedom”, the naval escort mission in the Strait of Hormuz, as talks with Iran appear to gain momentum. Donald Trump said the operation would be halted while negotiations move closer to what he described as a “final agreement”. Tensions remain high across the region, with continued military activity in Lebanon, warnings at the UN over Hormuz and growing economic pressure linked to the conflict. Here are the latest developments:&nbsp; US pauses “Project Freedom”",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-525",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T06:24:38+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "27496ed0b5db873d",
+      "title": "Casemiro Backs Carrick for Permanent Man United Manager's Job",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270114",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T06:23:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9eba5fdfaa586bd5",
+      "title": "Wetherspoon Issues Third Profit Warning in 2026 as Costs Bite",
+      "summary": "J D Wetherspoon Plc issued its third profit warning this year as higher costs eat into pub earnings.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/wetherspoon-issues-third-profit-warning-in-2026-as-costs-bite",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:23:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "33306ca6c1dfd9e8",
+      "title": "Iran’s top diplomat visits China ahead of Trump-Xi summit",
+      "summary": "Xi Jinping could seek to use relationship with Tehran as leverage in talks with US president, analysts say",
+      "link": "https://www.ft.com/content/f932425a-5023-426e-ae89-1521dbbfc07a",
+      "source": "FT World",
+      "published": "2026-05-06T06:19:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d15deb286a6103ba",
+      "title": "Orsted Keeps Guidance as Europe Focus Drives Turnaround",
+      "summary": "Orsted A/S reaffirmed its earnings guidance for the year, as the Danish utility doubles down on its European business.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/orsted-keeps-guidance-as-europe-focus-drives-turnaround",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:19:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1a2006fcc7e02bb9",
+      "title": "Novo Raises Forecast as Wegovy Pill Fuels Sales",
+      "summary": "Novo Nordisk A/S said this year’s declines won’t be as bad as initially expected thanks to the new Wegovy pill, which helped fuel sales in the first quarter. For the year, the worst drop for both profit and sales will be 12%, compared with 13% earlier. Bloomberg’s Sanne Wass reports from Copenhagen.",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-06/novo-raises-forecast-as-wegovy-pill-fuels-sales-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:18:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "151f20dda9b6c6e9",
+      "title": "Diageo Sales Beat Driven by Growth in Africa, Latin America",
+      "summary": "Diageo Plc’s sales rose more than expected in the third quarter as growth in Africa and Latin America was enough to offset significant weakness in the US.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/diageo-sales-beat-driven-by-growth-in-africa-latin-america",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:17:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5d07d657ee31658d",
+      "title": "Bear Attack Injures 2 Hikers in Yellowstone National Park in the US",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270110",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T06:14:23+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "99f5c5f667476cf3",
+      "title": "Iran seeks Fifa guarantees before attending World Cup in US",
+      "summary": "Iran seeks Fifa guarantees before attending World Cup in US Iran’s football federation chief, Mehdi Taj has demanded guarantees from Fifa that Iran’s Islamic Revolutionary Guard Corps and other state institutions will not be “insulted” when the national football team attends the World Cup in June. “We need a guarantee there, for our trip, that they have no right to insult the symbols of our system, especially the Islamic Revolutionary Guard Corps,” Taj told Reuters. “We are going to the World Cup, for which we qualified, and our host is FIFA – not Mr. Trump or America,” he added. The comments ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-seeks-fifa-guarantees-attending-world-cup-us",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T06:10:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aab846898dadaf4f",
+      "title": "Maniatis: Illegal to Toll Natural Passage Like Hormuz",
+      "summary": "Top US officials have shared new details on the role the US military will play in helping ships pass through the Strait of Hormuz as part of President Trump's bid to break Iran's chokehold over the waterway. The Strait so far remains largely empty, with no new commercial ship crossings recorded. Dimitris Maniatis, Marisks CEO spoke to Bloomberg’s Horizons Middle East & Africa anchor Joumanna Bercetche about the reopening of the strait. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-06/maniatis-illegal-to-toll-natural-passage-like-hormuz-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:08:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6c7ffbf33e4e6117",
+      "title": "US Wants 'Concrete Actions' on Iran from Next Iraqi PM",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270109",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T06:05:38+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b733674e289c420e",
+      "title": "IMF Chief Georgieva Says War’s 'Adverse Scenario' Already in Effect",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270108",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T06:05:14+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8062806521f56532",
+      "title": "China’s Chip Fund in Talks to Lead DeepSeek Funding, FT Says",
+      "summary": "China’s main chip-sector investment fund is in discussions to lead a fundraising round for DeepSeek at a valuation of about $45 billion, the Financial Times reported, citing people with knowledge of the talks.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding-ft-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:03:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8fefa6d73ca92935",
+      "title": "Picasso, Miró Art Among Latest 1MDB Assets Recovered by Malaysia",
+      "summary": "Malaysia has repatriated four artworks allegedly bought with money siphoned from state fund 1MDB, including works by Pablo Picasso and Joan Miró, as authorities press on with efforts to retrieve assets linked to one of the world’s biggest financial scandals.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/picasso-miro-art-among-latest-1mdb-assets-recovered-by-malaysia",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:00:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "910e09e42395b8e9",
+      "title": "Global Watchdog FSB Unveils Action Plan on Private Credit Risks",
+      "summary": "The world’s top financial stability watchdog unveiled a tentative plan to tame private credit risk, as bankers’ and policymakers’ escalating warnings about potential dangers collide with a political push toward deregulation.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/global-watchdog-fsb-unveils-action-plan-on-private-credit-risks",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T06:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2ac146d631ab5460",
+      "title": "Tuareg separatists and al-Qaeda-linked fighters combine to cause havoc in Mali",
+      "summary": "Tuareg separatists and al-Qaeda-linked fighters combine to cause havoc in Mali Submitted by Samira Elsaidi on Tue, 05/05/2026 - 14:06 An unofficial partnership has put Goita's government on the back foot. Can it last, or will ideological differences tear it apart? Malian President Assimi Goita attends the state funeral of Defence Minister Sadio Camara, who was killed in a suicide attack, in Bamako, Mali, 30 April 2026 (handout) On A new, undeclared partnership between Tuareg separatists and an al-Qaeda-affiliated armed coalition is rocking Mali’s ruling junta and causing havoc across the count",
+      "link": "https://www.middleeasteye.net/news/tuareg-separatists-and-al-qaeda-linked-fighters-combine-cause-havoc-mali",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T05:57:51+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bd6c7aa2351e16da",
+      "title": "In Gaza, the simplest of weddings are barely affordable",
+      "summary": "Couples marry in tents in Gaza as war, displacement, and soaring prices strip weddings of joy.",
+      "link": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-06T05:51:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "195ef493a12ba2e5",
+      "title": "Vestas Beats Profit Estimates as Wind Turbine Orders Swell",
+      "summary": "Vestas Wind Systems A/S beat analysts estimates for profits in the first quarter of the year, reflecting increasing orders for wind turbines.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/vestas-beats-profit-estimates-as-wind-turbine-orders-swell",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:51:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d2069636cbb1c4f6",
+      "title": "DeepSeek nears $45bn valuation as China’s ‘Big Fund’ leads investment talks",
+      "summary": "Value soars in ongoing fundraising discussions as investors including Tencent seek slice of AI lab",
+      "link": "https://www.ft.com/content/daaf2e0a-4a0d-4d7c-a85b-445480f6b9c7",
+      "source": "FT World",
+      "published": "2026-05-06T05:50:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "511a4132744de69f",
+      "title": "Albanese announces fuel stockpile plan amid Hormuz blockade concerns",
+      "summary": "Albanese announces fuel stockpile plan amid Hormuz blockade concerns Australian Prime Minister Anthony Albanese has announced a 10 billion Australian dollar ($7.22bn) package to strengthen the country’s fuel security by boosting national stockpiles and creating a government-owned reserve. The plan includes a reserve of about 1 billion litres aimed at ensuring Australia maintains at least 50 days of fuel onshore to protect against future supply disruptions. “This is aimed at making sure Australians can have more confidence in protecting our energy sovereignty, not just during this crisis but go",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/albanese-announces-fuel-stockpile-plan-amid-hormuz-blockade-concerns",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T05:47:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d4e9d1aecf0bc91c",
+      "title": "HelloFresh Beats Estimates as Cost Program Starts to Pay Off",
+      "summary": "HelloFresh SE’s earnings beat expectations as it begins to reap the benefits of its strategy of prioritizing customer loyalty over volumes.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/hellofresh-beats-estimates-as-cost-program-starts-to-pay-off",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:47:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bd58bd4f68edcc79",
+      "title": "FTSE 100 Futures, Pound Rise on Renewed Iran Deal Optimism",
+      "summary": "",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-05-06/ftse-100-live-uk-gilts-pound-iran-war-trump-diageo-next-what-s-moving-uk-markets-right-now-markets-today-motmvqf9",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:45:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4216639c1bba5d35",
+      "title": "What to know about Israeli President Herzog’s trip to Central America?",
+      "summary": "Israeli Foreign Ministry says that four-day visit to Panama and Costa Rica will deepen ties with partners in the region.",
+      "link": "https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-06T05:45:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2ec5e9ee88e0a395",
+      "title": "Trump pauses US plan to guide ships through Strait of Hormuz",
+      "summary": "US and Iranian forces clashed in the strait during the brief mission to help commercial vessels through the waterway",
+      "link": "https://www.ft.com/content/5f7ba94e-8a42-4f36-8c4c-19be932c8f66",
+      "source": "FT World",
+      "published": "2026-05-06T05:44:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c1ed6ddcfe211993",
+      "title": "Saudi Arabia Provides New Contribution of $2 Million to Support UNRWA",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270106",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T05:37:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "65a09755ae26bbcc",
+      "title": "Saudi Arabia Cuts Oil Prices for June",
+      "summary": "Saudi Arabia cut the price of its main oil grade for Asia next month from a record-high in May. The premium for next month is the second-highest on record as the war in the Middle East continues to severely disrupt supplies. Bloomberg’s Anthony di Paola reports.",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-06/saudi-arabia-cuts-oil-prices-for-june-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:34:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2a8d518a338adb05",
+      "title": "Europe Gas Traders Buy Options to Hedge for Winter Price Spike",
+      "summary": "Some European natural gas traders are already hedging against a spike in prices next winter as the war in the Middle East continues to disrupt supplies.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/europe-gas-traders-buy-options-to-hedge-for-winter-price-spike",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:32:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5770a0f286969dcb",
+      "title": "Gilts and UK local elections: Bad vibes, bad timing",
+      "summary": "Plus, more on emerging markets",
+      "link": "https://www.ft.com/content/c00c1d7b-0b95-482b-bbd0-f7a476ad175d",
+      "source": "FT World",
+      "published": "2026-05-06T05:30:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1a0285075deb2be3",
+      "title": "Iran Says No Damage after Drone Interception near Qeshm",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270105",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T05:27:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4182ba86e8d97457",
+      "title": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
+      "summary": "Donald Trump has reignited his public attacks on Pope Leo, claiming he supports Iran obtaining nuclear weapons.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-06T05:23:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4959884ec85d1bdb",
+      "title": "Trump Pauses Plan to Guide Ships While Seeking Iran Deal",
+      "summary": "President Donald Trump said he would pause an effort to help stranded ships exit the Strait of Hormuz to see if the US can reach an agreement with Iran to end the war. Bloomberg's Stuart Livingstone-Wallace has the latest. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-06/trump-pauses-plan-to-guide-ships-while-seeking-iran-deal-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:19:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "37b45e0a1729180e",
+      "title": "Saudi Cabinet Affirms Need to Spare Region Further Tension",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270104",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T05:19:25+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "508c8d6fe5ff1399",
+      "title": "China calls US Israel war against Iran illegitimate",
+      "summary": "China calls US Israel war against Iran illegitimate Chinese foreign minister Wang Yi said the war waged by the United States and Israel against Iran is “illegitimate”, as he met with Iranian foreign minister Abbas Araghchi in Beijing. Wang said China was ready to continue efforts to ease tensions, stressing that “a complete ceasefire is essential” and that the region is at a “critical juncture” where direct meetings between the sides are necessary. Araghchi thanked China for its “firm stance”, particularly its condemnation of the United States and Israel, saying Beijing remains “a close friend",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-us-israel-war-against-iran-illegitimate",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T05:17:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ba32c3a44f250467",
+      "title": "Pakistan Seeks Emergency LNG Supply to Ease Natural Gas Shortage",
+      "summary": "Pakistan is urgently looking to purchase liquefied natural gas from the spot market for delivery in May, as the country faces hot weather that threatens to stretch the grid and worsen a shortage of the power plant fuel.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/pakistan-seeks-emergency-lng-supply-to-ease-natural-gas-shortage",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:12:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1e65a4641a8d4d6e",
+      "title": "China Tech Stocks Join Broad Rally After Holiday | The China Show 5/6/2026",
+      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, David Ingles and Yvonne Man give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-06/the-china-show-5-6-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:10:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "49b408f224ab8641",
+      "title": "Samsung Joins $1T Club, Stocks Extend Rally on Iran | The Asia Trade 5/6/2026",
+      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-06/the-asia-trade-5-6-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:06:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "09ce195839baca8a",
+      "title": "Iran's Top Diplomat Holds Talks with Chinese Counterpart in Beijing",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270101",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T05:03:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9509031478750d7c",
+      "title": "Lufthansa Says Outlook More Risky on Fuel Cost, Availability",
+      "summary": "Deutsche Lufthansa AG warned of mounting risks that include the surge in fuel costs and a possible kerosene supply crunch later in the year, prompting a more muted profit outlook and the hunt for additional savings.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/lufthansa-reports-narrower-loss-sees-risks-from-fuel-supplies",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:00:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "00ae82aa5bb9ed2a",
+      "title": "American healthcare costs drive global imbalances",
+      "summary": "Dark matter revealed?",
+      "link": "https://www.ft.com/content/631ad342-c8ce-46e4-a3fb-d19edbd30b3e",
+      "source": "FT World",
+      "published": "2026-05-06T05:00:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1059e4ac4a7724e2",
+      "title": "Europe’s far-right firewall melts as Socialists topple Romania’s PM",
+      "summary": "Also in this newsletter: How to reuse and recycle more critical raw materials",
+      "link": "https://www.ft.com/content/0d5dd64c-8cfe-4ed5-904d-6a0bee3b01f3",
+      "source": "FT World",
+      "published": "2026-05-06T05:00:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "579a4a3d35605fae",
+      "title": "Romania Lets Leu Weaken as Politics Again Tests Managed Float",
+      "summary": "A Romanian political crisis is once again testing the country’s managed float currency regime, with the central bank allowing the leu to weaken to record lows this week.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/romania-lets-leu-weaken-as-politics-again-tests-managed-float",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T05:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "232e8f9d6477ce56",
+      "title": "Air defences engaged drones over Qeshm island, Iran says",
+      "summary": "Air defences engaged drones over Qeshm island, Iran says Iranian authorities said loud sounds heard on Qeshm Island in the Strait of Hormuz were caused by air defences “confronting” drones, denying reports of explosions or damage on the strategic island. Officials in Hormozgan province said the sounds were linked to air defence systems responding to small and reconnaissance drones, according to Iran’s Student News Network. The statement followed reports of explosions on Qeshm Island, which sits along the contested Strait of Hormuz, a vital global shipping route. Despite the ceasefire with the ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defences-engaged-drones-over-qeshm-island-iran-says",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T04:57:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b2a9b3a92c5e872e",
+      "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+      "summary": "Iran&#039;s foreign minister meets his Chinese counterpart one week before President Donald Trump&#039;s visit to Beijing.",
+      "link": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-06T04:55:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cf594584ddd586b4",
+      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+      "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+      "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-06T04:53:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "038d20edfbf5f62a",
+      "title": "Yen Rallies to Build on Gains Spurred by Recent Intervention",
+      "summary": "The yen rallied to the strongest level in over two months on Wednesday, spurring speculation that Japanese officials may have intervened again after stepping in to prop up the currency on April 30.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-06/yen-rallies-as-much-as-1-4-amid-broad-dollar-weakness",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-06T04:50:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6199a3ee8567bbc2",
+      "title": "Rubio says ‘Operation Epic Fury’ is over, insists US now acting defensively in Hormuz",
+      "summary": "Rubio says ‘Operation Epic Fury’ is over, insists US now acting defensively in Hormuz US Secretary of State Marco Rubio says “Operation Epic Fury” has concluded, claiming the US has achieved its objectives and is now operating in a purely “defensive” role near the Strait of Hormuz. He stressed that US forces would only fire if attacked first, describing the current phase as focused on protecting ships and keeping the vital waterway open. Despite that framing, Rubio also pointed to ongoing interceptions and warned Iran it risks “generational destruction” to its economy if tensions escalate, urg",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-operation-epic-fury-over-insists-us-now-acting-defensively",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T04:49:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0aeac777b8519e7a",
+      "title": "Cuba Says Rubio Lying about Oil Blockade",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270100",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T04:48:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8fab06a6cfbe9d50",
+      "title": "Rubio Warns against 'Destabilizing' Acts on Taiwan before Trump China Visit",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270099",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T04:44:12+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "beb4ae501a8037a3",
+      "title": "Trump Says Pausing Hormuz Operation in Push for Iran Deal",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270096",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T04:35:21+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cecc38cbe2dd4721",
+      "title": "FirstFT: Hormuz ‘Project Freedom’ mission paused",
+      "summary": "Also in today’s newsletter: Venice Biennale row and Macron’s central bank pick",
+      "link": "https://www.ft.com/content/163723d3-206d-4c28-975b-ce5643afc344",
+      "source": "FT World",
+      "published": "2026-05-06T04:31:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f55729347f40af19",
+      "title": "Fast-moving indicators are now showing the effects of the Gulf war",
+      "summary": "Monthly surveys of economic activity and confidence have fallen more sharply among energy importers than in the US",
+      "link": "https://www.ft.com/content/1851ca20-e96d-40ab-9b84-8b153d37951a",
+      "source": "FT World",
+      "published": "2026-05-06T04:30:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9098559581af53e6",
+      "title": "Oil Extends Slide as Trump Indicates Possible Iran Peace Deal",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5270094",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-06T04:26:30+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8609fd6ce35e6862",
+      "title": "Romania’s pro-EU government ousted after no-confidence vote",
+      "summary": "The pro-European Union coalition of Romanian Prime Minister Ilie Bolojan has collapsed after a vote of no confidence.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/romanias-pro-eu-government-ousted-after-no-confidence-vote?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-06T04:22:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "96c41fbf4232dd11",
+      "title": "Mother of detained flotilla activist Avila dies in Brazil",
+      "summary": "Mother of detained flotilla activist Avila dies in Brazil Teresa Regina de Avila e Silva, the mother of Global Sumud Flotilla activist Thiago Avila, has died at the age of 63, the group said in a post on X. “She was a woman of remarkable joy and great strength,” the flotilla said, adding that she faced years of serious illness “with courage, serenity, and dignity, driven by an unwavering will to live and surrounded by the unconditional dedication of her family”. Avila remains detained in Israel after being seized when a flotilla vessel was intercepted in international waters off Greece, accord",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mother-detained-flotilla-activist-avila-dies-brazil",
+      "source": "Middle East Eye",
+      "published": "2026-05-06T04:09:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "6ed2151fcc190c69",
       "title": "Muslim World League Condemns Attack on Khartoum Airport",
@@ -66,8 +1926,8 @@
       }
     },
     {
-      "id": "bc2a42de4cb19d45",
-      "title": "Samsung Electronics hits $1tn value on AI euphoria",
+      "id": "3c38e08f2b1f73a4",
+      "title": "Samsung’s stock market value hits $1tn on AI euphoria",
       "summary": "Memory chip giant’s surge pushes South Korea’s Kospi to new record",
       "link": "https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8",
       "source": "FT World",
@@ -500,322 +2360,12 @@
       }
     },
     {
-      "id": "238e86ce68367d54",
-      "title": "Plaid Cymru broadens its pitch to voters in push to win Welsh elections",
-      "summary": "Pro-independence party is vying with Reform UK ahead of this week’s Senedd vote as Labour support collapses",
+      "id": "ff522b708b031949",
+      "title": "‘Independence is not on the ballot’: Plaid Cymru broadens its pitch to Welsh voters",
+      "summary": "Party is vying with Reform UK ahead of this week’s Senedd vote as Labour support collapses",
       "link": "https://www.ft.com/content/10ce680d-949d-47db-85d8-1f51581d3ce3",
       "source": "FT World",
       "published": "2026-05-06T04:00:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0fe36fe0407e1805",
-      "title": "Dousing the DC ‘dumpster fire’: Democrats battle over party’s future",
-      "summary": "Candidates in pivotal Pennsylvania seat hope to woo voters away from Donald Trump’s Republicans",
-      "link": "https://www.ft.com/content/8e1267e2-0a43-4424-aab4-09d93cd26c64",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "320d33f2dc5ca9c4",
-      "title": "Republican-led group mounts $8mn midterms push to undo Musk aid cuts",
-      "summary": "Billionaire’s Doge assault emerges as vulnerability for Donald Trump’s party in swing districts",
-      "link": "https://www.ft.com/content/1f0cc492-7096-4594-a4eb-a567856134a7",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d6d62eda2d2a6112",
-      "title": "EU anti-dumping complaints against Chinese chemicals at record high",
-      "summary": "A wave of cheap imports is pushing Europe’s industry to ‘breaking point’",
-      "link": "https://www.ft.com/content/6822f01a-147a-4b04-a9d6-edeefc25d0d8",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ae2d7d310cac38b6",
-      "title": "Momentum Is Trampling Quality in Market Records",
-      "summary": "It can be dangerous to stand in the way of a rally like this.",
-      "link": "https://www.bloomberg.com/opinion/newsletters/2026-05-06/stocks-rally-momentum-is-trampling-quality-in-market-records",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T04:00:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5d20c59e866286bd",
-      "title": "Suits and the City revisited — how professionals dress in 2026",
-      "summary": "Sophie Elgort had a street style column for the FT in New York 15 years ago. Here, she returns to six former subjects to see how style — and attitudes — have changed",
-      "link": "https://www.ft.com/content/ab88a1b7-483d-4c81-b84d-55d8a7f0b2d3",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "da795d47de61b79c",
-      "title": "The future of Europe’s angry farmers",
-      "summary": "The model of political protection and heavy subsidies that has long supported European agriculture might be fracturing",
-      "link": "https://www.ft.com/content/276d4527-1196-4a39-ba45-6c3913253c3d",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dc5a5f7937ae6afb",
-      "title": "Netanyahu’s West Bank plan: annexation by law",
-      "summary": "Far-right Israeli government uses bureaucracy to cement takeover of Palestinian land",
-      "link": "https://www.ft.com/content/14f942de-cba9-4cc8-a6fd-983f5635790a",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dd6cde5fded16464",
-      "title": "‘Worst’ still ahead as oil price swings darken global trade outlook",
-      "summary": "Volatility is more damaging than higher prices and will cause merchandise flows to drop, according to Global Trade Alert",
-      "link": "https://www.ft.com/content/9ad38fc0-24bd-4378-997c-4dc215a9a7fd",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dcc03f50f8a64c04",
-      "title": "‘It’s quite womblike’ — how psychotherapists design their consulting rooms",
-      "summary": "As more consultations take place in private homes, professionals share the secrets of their decor decisions",
-      "link": "https://www.ft.com/content/5bf1ee59-bac7-4e4f-bea9-7a5f207b9f62",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "35c30a650a66428c",
-      "title": "Start-ups complain they are helping British military modernise on the cheap",
-      "summary": "Small tech groups impatient with ‘jam tomorrow’ promise of contracts in return for discounted or free equipment",
-      "link": "https://www.ft.com/content/9209a903-d33a-4c6d-9a90-32a3e05cd964",
-      "source": "FT World",
-      "published": "2026-05-06T04:00:11+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -903,6 +2453,37 @@
       }
     },
     {
+      "id": "7cb23aaaf0a6755a",
+      "title": "US pauses plan to guide ships through the Strait of Hormuz",
+      "summary": "Donald Trump has said that the US military operation guiding ships through the Strait of Hormuz will be paused.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-pauses-plan-to-guide-ships-through-the-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-06T03:39:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "3707b1e12dbebdad",
       "title": "More than 600 attacks hit US sites in Iraq, official says",
       "summary": "More than 600 attacks hit US sites in Iraq, official says More than 600 attacks have targeted US facilities in Iraq during the war with Iran, a senior US State Department official said, according to CNN. The official added that Iraqi leaders understand what Washington is seeking, stressing: “We are looking for actions, not words.” The official said this includes expelling “terrorist militias” from state institutions, cutting off their funding from the Iraqi budget and preventing salaries from being paid to their fighters. The official also said there is currently an “unclear dividing line” bet",
@@ -965,8 +2546,8 @@
       }
     },
     {
-      "id": "78a244d3e298c7d0",
-      "title": "Asian Currencies Rally on AI Enthusiasm, US-Iran Peace Hopes",
+      "id": "69abcd3eb46fb518",
+      "title": "Asia’s Beaten-Up Currencies Gain Traction After Defensive Moves",
       "summary": "Asian currencies extended a rebound as the artificial intelligence trade gathered pace and sentiment improved on hopes of a peace deal between the US and Iran.",
       "link": "https://www.bloomberg.com/news/articles/2026-05-06/asian-currencies-rally-on-ai-enthusiasm-us-iran-peace-hopes",
       "source": "Bloomberg Markets",
@@ -1003,37 +2584,6 @@
       "source": "Middle East Eye",
       "published": "2026-05-06T03:27:40+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bbddaeafa97b5b0f",
-      "title": "China’s Tech Gauge Jumps to Record High on AI-Fueled Rally",
-      "summary": "A gauge of Chinese tech shares surged to a record high, joining a broader artificial intelligence-related rally sweeping across Asian markets as investors piled into growth sectors.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-06/china-s-tech-gauge-jumps-to-record-high-on-ai-fueled-rally",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T03:26:47+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1126,37 +2676,6 @@
       "link": "https://www.aljazeera.com/news/2026/5/6/spain-agrees-to-let-hantavirus-hit-cruise-ship-dock-in-canary-islands?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-06T03:19:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "001e70856b82c609",
-      "title": "Asia Central Banks Expected to Move to Higher Interest Rates: JPMorgan AM",
-      "summary": "Jason Pang of JPMorgan Asset Management says that \"higher oil for longer will translate into a more hawkish bias\" among central banks in Asia. He also tells Bloomberg Television that \"Malaysia, local, remains a good exposure for investors.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-06/asia-expected-to-move-to-higher-interest-rates-jpmorgan-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T03:12:44+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1275,68 +2794,6 @@
       }
     },
     {
-      "id": "f0b057ac215c7e04",
-      "title": "India’s Individual Investors Are Leaving Stock Picking to the Pros",
-      "summary": "Small investors own fewer stocks directly, pour money into the market via mutual funds.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-05-06/individual-investors-direct-ownership-of-indian-stocks-hits-five-year-low",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T02:38:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "42cf4e5ecc131153",
-      "title": "Chinese Metals Demand Gets Lift as Mideast War Spurs Export Boom",
-      "summary": "Metal exports from China, especially aluminum, are getting a significant lift from the war in the Middle East, which has cut regional supplies while boosting demand for clean-tech products as fossil fuel prices soar.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-06/chinese-metals-demand-gets-lift-as-mideast-war-spurs-export-boom",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T02:35:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3b1c276ca7ec9bce",
       "title": "'No one else can make us surrender': Iran defies US threats",
       "summary": "'No one else can make us surrender': Iran defies US threats Iranian President Masoud Pezeshkian said “No one can make us surrender” as he responded to US calls for concessions in negotiations to end the war, adding that members of the Shia faith “cannot be coerced by force”. Writing on the social platform X, Pezeshkian said he had spoken with Iraq’s prime minister and urged the United States to remove military threats from the Middle East. Iran’s Islamic Revolutionary Guard Corps said in recent days that a new security plan for the Strait of Hormuz is aimed at preventing weapons and supplies f",
@@ -1430,43 +2887,12 @@
       }
     },
     {
-      "id": "de24bf373e1bdb72",
-      "title": "Iron Ore Rises as China Reopening After Holiday Spurs Buying",
-      "summary": "Iron ore rose to the highest since October 2024 as China’s markets reopened after a five-day holiday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-06/iron-ore-climbs-as-buyers-return-after-extended-china-holiday",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T02:20:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9f743a8e0c2c2feb",
-      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "summary": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
-      "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "id": "57edebd080471774",
+      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+      "summary": "The US president said the operation has been paused after starting on Monday.",
+      "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-05-06T02:18:45+00:00",
+      "published": "2026-05-06T02:23:36+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1529,6 +2955,37 @@
       "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-05-06T01:55:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ca1d035081227ef5",
+      "title": "IS families in Syria have booked tickets home to Australia, minister says",
+      "summary": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
+      "link": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-06T01:47:48+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1623,1463 +3080,6 @@
       "source": "Middle East Eye",
       "published": "2026-05-06T01:06:55+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d9c13552a626e6b2",
-      "title": "Sun Pharma Explores Funding Mix for $12 Billion Organon Deal",
-      "summary": "Global lenders to Sun Pharmaceutical Industries Ltd. are weighing multiple financing options for its proposed $12 billion acquisition of New York-listed healthcare company Organon &amp; Co., according to people familiar with the matter.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-06/sun-pharma-explores-funding-mix-for-12-billion-organon-deal",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T01:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f16e12e5d941a3bc",
-      "title": "US lawmakers challenge ambiguity over Israel's nuclear capabilities",
-      "summary": "US lawmakers challenge ambiguity over Israel's nuclear capabilities Thirty Democrats in the US House of Representatives have called for greater transparency regarding Israel’s nuclear capabilities, urging the administration of Secretary of State Marco Rubio to clarify longstanding ambiguity. In a joint statement, the lawmakers said the United States is “fighting this war side by side with a country whose potential nuclear weapons program the United States government officially refuses to acknowledge”.&nbsp; The Democrats said Congress has a “constitutional responsibility to be fully informed a",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmakers-challenge-ambiguity-over-israels-nuclear-capabilities",
-      "source": "Middle East Eye",
-      "published": "2026-05-06T00:55:13+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e457e45ff6568610",
-      "title": "Qatar reviews regional security and bilateral ties in talks with US",
-      "summary": "Qatar reviews regional security and bilateral ties in talks with US Qatar’s minister of state at the foreign ministry, Mohammed bin Abdulaziz Al Khulaifi, met senior United States officials in Washington, to discuss bilateral relations and regional developments, Qatar’s foreign ministry said. Al Khulaifi held talks with senior presidential adviser on counterterrorism Sebastian Gorka and separately with Assistant Secretary of State for South and Central Asian Affairs Paul Kapur. The meetings covered bilateral strategic relations and the latest developments in the Middle East and Africa, the min",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-reviews-regional-security-and-bilateral-ties-talks-us",
-      "source": "Middle East Eye",
-      "published": "2026-05-06T00:47:02+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c94eb326a06648b3",
-      "title": "Iran’s foreign minister arrives in Beijing for strategic talks",
-      "summary": "Iran’s foreign minister arrives in Beijing for strategic talks Iranian foreign minister Abbas Araghchi arrived in Beijing on Wednesday at the head of a diplomatic delegation, marking the latest high-level engagement between Tehran and Beijing. During the visit, Araghchi is scheduled to hold talks with his Chinese counterpart Wang Yi to discuss bilateral relations as well as regional and international developments, according to Iran’s foreign ministry. The visit comes amid heightened tension with the US as Iran and China continue to deepen political and economic ties under a long-term strategic",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-arrives-beijing-strategic-talks",
-      "source": "Middle East Eye",
-      "published": "2026-05-06T00:40:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c0bde34e0508f59f",
-      "title": "US to Pause Guiding Ships While Seeking Iran Deal: Trump",
-      "summary": "President Donald Trump said he would pause a US-led effort to help stranded ships exit the Strait of Hormuz to see if an agreement with Iran to end the war could be finalized. Bloomberg's Derek Wallbank breaks down the developments. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-06/us-to-pause-guiding-ships-while-seeking-iran-deal-trump-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T00:39:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c729be9cf0f5475a",
-      "title": "Israeli forces block Bethleham road, deploy gas and sound bombs",
-      "summary": "Israeli forces block Bethleham road, deploy gas and sound bombs Israeli forces closed the main road in the town of al-Khader, south of Bethlehem, according to the Palestinian news agency Wafa. Local sources told the news agency that troops blocked the main road linking the al-Bawaba area and the Old Town with mounds of dirt, restricting movement in and out of the area. Wafa reported that the closure will hinder residents’ access to the Old Town, the school complex and the surrounding countryside, and cut off the only entrance to nearby towns, including Battir and Nahalin, as well as the villag",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-block-bethleham-road-deploy-gas-sound-bombs",
-      "source": "Middle East Eye",
-      "published": "2026-05-06T00:33:13+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d4acc3ece4df00f4",
-      "title": "Trump: Project Freedom paused as talks with Iran near final agreement",
-      "summary": "Trump: Project Freedom paused as talks with Iran near final agreement President Donald Trump said the United States will temporarily pause “Project Freedom”, the military operation guiding commercial ships through the Strait of Hormuz. Citing a request from Pakistan, Trump said progress was being made toward a final agreement with Iran, adding that the US naval blockade targeting Iranian ports will remain fully in effect during the pause. “Based on the request of Pakistan and other Countries, the tremendous Military Success that we have had during the Campaign against the Country of Iran and, ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-project-freedom-paused-talks-iran-near-final-agreement",
-      "source": "Middle East Eye",
-      "published": "2026-05-06T00:24:34+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "66fedfac556d3943",
-      "title": "US pauses naval escorts in Strait of Hormuz amid renewed Iran dialogue",
-      "summary": "US pauses naval escorts in Strait of Hormuz amid renewed Iran dialogue The United States has paused its effort to escort commercial ships through the Strait of Hormuz, after weeks of indirect talks with Iran, officials have said.&nbsp; Discussions between Washington and Tehran have continued through intermediaries, with Pakistan relaying messages between the two sides, US media reported.&nbsp; While recent direct talks in Islamabad produced no agreement, signs of progress have emerged. The US is maintaining pressure through a blockade of Iranian ports while suspending escorts, a step aimed at ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-pauses-naval-escorts-strait-hormuz-amid-renewed-iran-dialogue",
-      "source": "Middle East Eye",
-      "published": "2026-05-06T00:17:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6156aabcf24d683d",
-      "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
-      "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-      "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-06T00:15:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "931bee4b1186a400",
-      "title": "Samsung Hits $1 Trillion Valuation, Joining TSMC in Elite Club",
-      "summary": "Samsung Electronics Co. reached a $1 trillion market valuation after shares in the world’s largest memory maker more than quadrupled over the past year on booming demand for the chips used in artificial intelligence.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-06/samsung-hits-1-trillion-valuation-joining-tsmc-in-elite-club",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T00:07:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "98b77dbed15736d0",
-      "title": "Indonesia Tightens Rule on FX Purchases After Rupiah Hit New Record Low",
-      "summary": "Indonesia further tightened rules on dollar purchases to support the beleaguered rupiah after the currency slumped to a series of record lows.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-06/idr-usd-indonesia-tightens-rule-on-fx-purchases-after-rupiah-hit-new-record-low",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-06T00:04:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9a1bd8a9e5ee6e8c",
-      "title": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
-      "summary": "US Defense Secretary Pete Hegseth says ceasefire with Iran remains in place despite growing tensions in Hormuz Strait.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-06T00:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1a0458246836b094",
-      "title": "Sydney Hedge Fund Regal Sees Inflows Jump for Inflation Hedges",
-      "summary": "Sydney-based fund manager Regal Partners Ltd. is on track to hit A$2 billion ($1.4 billion) in net inflows this year, as conflict in the Middle East spurs demand for investment strategies offering a hedge against inflation.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-05/sydney-hedge-fund-regal-sees-inflows-jump-for-inflation-hedges",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-05T23:44:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "facb7845666fb5a2",
-      "title": "Thai temples launch rockets in friendly festival rivalry",
-      "summary": "Temples in Thailand gathered for the annual ‘Look Noo’ rocket festival, an ancient Mon tradition.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T23:44:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d8ceb5d7b6664d5b",
-      "title": "Buses block off roads in Bolivia as transport workers strike over fuel",
-      "summary": "Public workers blocked the streets of El Alto, Bolivia with buses, cars, and trucks during a transportation strike.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/buses-block-off-roads-in-bolivia-as-transport-workers-strike-over-fuel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T23:44:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e0a8a6fa734d4ce4",
-      "title": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
-      "summary": "US president says &#039;Project Freedom&#039; suspended to see whether an agreement with Iran can be finalised and signed.",
-      "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T23:40:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "20bc417f9b26fd3a",
-      "title": "Babies may “catch” yawns in the womb, new study suggests",
-      "summary": "Babies may respond to their mothers’ yawns before birth, a study published Tuesday in Current Biology suggests, pointing to early links between maternal behavior and fetal development. Researchers observed 38 pregnant women and found that when mothers yawned, their fetuses often yawned shortly after. Women who yawned more frequently also tended to carry fetuses that [&#8230;] The post Babies may “catch” yawns in the womb, new study suggests appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137267-babies-may-catch-yawns-in-the-womb-new-study-suggests.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T23:32:55+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0d5a8d991f9e322b",
-      "title": "Private Credit Fund Touts Quick Profit Buying Debt at 65 Cents",
-      "summary": "A New Mountain Capital private credit fund that sold almost half-a-billion-dollars of assets at a discount earlier this year and used some of the cash to scoop up beaten-down loans says the strategy is already paying off.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-05/private-credit-fund-touts-quick-profit-buying-debt-at-65-cents",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-05T23:31:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2e1a1d3dda756a7a",
-      "title": "India's fiercest female politician faces a fight for survival",
-      "summary": "Mamata Banerjee loses West Bengal state, throwing her party - and political future - into doubt.",
-      "link": "https://www.bbc.com/news/articles/c202p14qwr5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-05T23:27:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "74ff44503a978710",
-      "title": "Finding soldier Tom: Solving family mystery of WW2 Soviet prisoner of war",
-      "summary": "He was saved by a Jersey family after escaping a Nazi labour camp, but after the war he disappeared in the Soviet Union.",
-      "link": "https://www.bbc.com/news/articles/cdjpdzvzy41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-05T23:24:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d2369ce2e1860e2a",
-      "title": "Australian Toll Operator Atlas Arteria Rejects Biggest Shareholder’s $5.3 Billion Takeover Bid",
-      "summary": "Sydney-listed toll road operator Atlas Arteria Ltd. rejected a takeover bid from its biggest shareholder IFM Investors Pty, saying the bid was too low.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-05/atlas-arteria-rejects-ifm-s-5-3-billion-takeover-bid-as-too-low",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-05T22:55:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d48f5889efb37af8",
-      "title": "Hezbollah says it struck Israeli vehicles as raids hit south Lebanon",
-      "summary": "Hezbollah says it struck Israeli vehicles as raids hit south Lebanon Hezbollah said it targeted Israeli military vehicles with artillery fire in the Wadi al-Jamal area between Meiss el-Jabal and Hula, according to Lebanon’s National News Agency. Israeli attacks continued overnight in southern Lebanon, with at least two people killed and others wounded in a strike on Deir Kifa, the report added.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-struck-israeli-vehicles-raids-hit-south-lebanon",
-      "source": "Middle East Eye",
-      "published": "2026-05-05T22:53:17+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a985b66e8973ba5e",
-      "title": "Calls to boycott meat spread across social media as prices surge",
-      "summary": "Calls for a consumer boycott of red meat are spreading across Moroccan social media as beef prices continue climbing, with campaigners urging households to stop buying meat in an effort to pressure the market into lowering prices. Activists behind the campaign describe the move as a “peaceful” form of economic pressure aimed at countering what [&#8230;] The post Calls to boycott meat spread across social media as prices surge appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137283-calls-to-boycott-meat-spread-across-social-media-as-prices-surge.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T22:43:06+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6b731e50b9b34121",
-      "title": "Gold Rises as Trump Touts Progress with Iran and Dollar Falls",
-      "summary": "Gold extended gains after US President Donald Trump touted progress on a final agreement with Iran, reducing inflationary pressure and sending the dollar lower.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-05/gold-steady-as-fragile-ceasefire-holds-in-gulf-after-flareup",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-05T22:42:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "549e13211b0a002a",
-      "title": "Nearly four in ten Morocco-born residents in Spain arrived after COVID-19, Spanish media says",
-      "summary": "Nearly four in ten residents in Spain born in Morocco arrived after the Covid-19 pandemic, according to a recent report by the Spanish media El Independiente. Citing data from the Annual Population Census published by the National Statistics Institute (INE), the report said that of the 1,165,955 Morocco-born residents living in Spain as of 1 [&#8230;] The post Nearly four in ten Morocco-born residents in Spain arrived after COVID-19, Spanish media says appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137281-nearly-four-in-ten-morocco-born-residents-in-spain-arrived-after-covid-19-spanish-media-says.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T22:41:18+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c22ee010b6b7417f",
-      "title": "Israeli settler attack in Masafer Yatta injures three Palestinians",
-      "summary": "Israeli settler attack in Masafer Yatta injures three Palestinians Three Palestinians have been injured in a settler attack in Masafer Yatta, south of Hebron in the occupied West Bank, according to Wafa news agency. Local activist Osama Makhamra said settlers targeted the community of Rujum I‘li, leaving three people wounded, including a child. All those injured were from the al-Adra family. Israeli forces present at the scene also detained three individuals, including two residents and a female foreign activist. Settlers also assaulted herders and attempted to seize livestock, while attacks w",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attack-masafer-yatta-injures-three-palestinians",
-      "source": "Middle East Eye",
-      "published": "2026-05-05T22:40:10+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6c469875d798e039",
-      "title": "Rubio says US military campaign in Iran ‘done’",
-      "summary": "Rubio says US military campaign in Iran ‘done’ US Secretary of State Marco Rubio said Washington’s military campaign in Iran, known as “Operation Epic Fury”, is now complete following the ceasefire. Rubio said Iran has a “high pain threshold”, but not an “unlimited pain threshold”. He also criticised the War Powers Act, saying it is “100 percent unconstitutional… Nonetheless, we complied with elements of it to preserve good relations with Congress”. Rubio added that the US had modified a draft UN resolution on the Strait of Hormuz in an effort to avoid vetoes from China and Russia. He said he ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-military-campaign-iran-done",
-      "source": "Middle East Eye",
-      "published": "2026-05-05T22:21:38+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9d8a2c5aca054604",
-      "title": "Stocks Extend Record Rally, Oil Declines on Iran: Markets Wrap",
-      "summary": "Stocks climbed to a record after President Donald Trump signaled progress toward a final agreement with Iran, adding fresh momentum to markets already buoyed by a rally in technology shares. Crude oil declined.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-05/asian-stocks-to-track-us-gains-on-truce-optimism-markets-wrap",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-05T22:10:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "495ae200b23ca0ac",
-      "title": "Oil Extends Decline as Trump Says ‘Great Progress’ in Iran Talks",
-      "summary": "Oil fell a second day as US President Donald Trump said “Great Progress” has been made on a final agreement to end the war with Iran.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-05/latest-oil-market-news-and-analysis-for-may-6",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-05T22:02:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c570a416d3ec911a",
-      "title": "Israeli strike kills one in southern Lebanon town of Adshit",
-      "summary": "Israeli strike kills one in southern Lebanon town of Adshit An Israeli air strike has killed one person in the town of Adshit in southern Lebanon, according to Lebanon’s National News Agency. The attack follows earlier reports of a deadly Israeli raid in Deir Kifa, also in the south.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-one-southern-lebanon-town-adshit",
-      "source": "Middle East Eye",
-      "published": "2026-05-05T21:58:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cbca7407141e2e66",
-      "title": "Arsenal beat Atletico Madrid to reach Champions League final",
-      "summary": "Bukayo Saka scored the only goal of the game as Arsenal beat Atletico Madrid 1-0 on Tuesday to progress to the Champions League final. The Gunners, who secured a 2-1 semi-final aggregate victory, will face either title-holders Paris Saint-Germain or Bayern Munich in only their second appearance in the final of Europe&#8217;s premier club competition. The post Arsenal beat Atletico Madrid to reach Champions League final appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137288-arsenal-beat-atletico-madrid-to-reach-champions-league-final.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T21:55:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "39c3702ad4fb92de",
-      "title": "Morocco sends mystery guests into 2,500 hotels to test if service matches the stars",
-      "summary": "They will check in anonymously, test room service, inspect bathrooms, rate reception staff and leave without revealing who they are. Starting this month, Morocco is deploying “mystery guests” across roughly 2,500 hotels, riads and tourist residences as authorities try to close the gap between record visitor growth and uneven service quality ahead of 2030. The [&#8230;] The post Morocco sends mystery guests into 2,500 hotels to test if service matches the stars appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137278-morocco-sends-mystery-guests-into-2500-hotels-to-test-if-service-matches-the-stars.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T21:39:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "546d9ea9c61023aa",
-      "title": "Compass Shares Surge After 2Q Revenue Forecast Beats Estimates",
-      "summary": "Compass Inc. shares soared as much as 21% in after-hours trading on Tuesday after the real estate brokerage company forecast stronger-than-expected quarterly revenue.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-05/compass-shares-surge-after-2q-revenue-forecast-beats-estimates",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-05T21:18:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "736d9ff8d7b0f12a",
-      "title": "UN mission inspects impact sites after projectiles land near Smara",
-      "summary": "Members of the United Nations mission in the Sahara (MINURSO) have conducted field inspections at sites where projectiles landed near the city of Smara, following reported fire from east of the security berm. According to a source cited by Hespress, the team visited three impact points, including areas near the city’s prison and a nearby [&#8230;] The post UN mission inspects impact sites after projectiles land near Smara appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137273-un-mission-inspects-impact-sites-after-projectiles-land-near-smara.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T21:18:24+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7f8a0c48c27f9590",
-      "title": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
-      "summary": "US CENTCOM spokesman Tim Hawkins says the main priorities in Hormuz are securing safe routes &amp; blockading Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T21:07:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b91939345bab0ebb",
-      "title": "Arsenal beat Atletico to reach first Champions League final in 20 years",
-      "summary": "Bukayo Saka seals a 1-0 win for Arsenal as they take their Champions League semifinal 2-1 on aggregate against Atletico.",
-      "link": "https://www.aljazeera.com/sports/2026/5/5/arsenal-beat-atletico-to-reach-first-champions-league-final-in-20-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T21:05:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "766a4acffc2d5a64",
-      "title": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
-      "summary": "Comments come before Marco Rubio’s meeting with Pope Leo XIV at the Vatican on Thursday.",
-      "link": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T20:53:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e9d51c6c7c301c6a",
-      "title": "Israel kills one boy, injures officers in strike on Gaza police station",
-      "summary": "A 15-year-old boy, Mahmoud Sahweil, was killed when Israel struck a Gaza police station.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T20:45:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1e48fb465be20bdc",
-      "title": "US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’",
-      "summary": "A US Central Command spokesperson says the mission to secure a safe passage of ships in the blocked waterway has begun.",
-      "link": "https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T20:42:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8d7261f00da74e7c",
-      "title": "Moroccan candidacy excluded as Algeria wins African parliament vote marred by irregularities",
-      "summary": "The exclusion of Morocco’s candidate from the race for the Pan-African Parliament presidency has cast a shadow over the vote that saw Algeria secure the post, with Rabat arguing the election unfolded under conditions that “lack the most basic standards of integrity and democracy.” Algeria’s Fateh Boutbig was elected at the end of April in [&#8230;] The post Moroccan candidacy excluded as Algeria wins African parliament vote marred by irregularities appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137268-moroccan-candidacy-excluded-as-algeria-wins-african-parliament-vote-marred-by-irregularities.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T20:28:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "893d060596c14b88",
-      "title": "Could OPEC break lead to era of energy volatility?",
-      "summary": "How unstable is the global oil market?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T20:23:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b4a312de75a3e9b3",
-      "title": "Rubio says offensive stage of Iran war is 'over'",
-      "summary": "The United States has completed its offensive operations against Iran, Secretary of State Marco Rubio said Tuesday, echoing statements to Congress nearly a month into a fragile ceasefire. &#8220;The operation is over &#8212; Epic Fury &#8212; as the president notified Congress. We&#8217;re done with that stage of it,&#8221; Rubio told reporters at the White House. The post Rubio says offensive stage of Iran war is &#039;over&#039; appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137265-rubio-says-offensive-stage-of-iran-war-is-over.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T20:16:55+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ca40ac640fd01353",
-      "title": "Mauritania’s plan to close private schools sparks backlash",
-      "summary": "Mauritania’s plan to shut most private primary schools and move students into free public schools is sparking backlash.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/mauritanias-plan-to-close-private-schools-sparks-backlash?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T20:02:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8155eacd9df5b4d0",
-      "title": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
-      "summary": "US says it will hike tariffs to 25% because the EU has not complied with trade deal last year that set tariffs at 15%.",
-      "link": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T19:50:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2ea3290a19d1f894",
-      "title": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
-      "summary": "Neither the US nor Iran are willing to compromise on the Strait of Hormuz, increasing the chance of miscalculation.",
-      "link": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-05T19:45:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d9a061349af65f81",
-      "title": "WHO tracks 80 contacts, says human transmission cannot be ruled out in hantavious ship cluster",
-      "summary": "The World Health Organization is tracing dozens of contacts linked to a hantavirus cluster aboard the MV Hondius as it investigates whether limited human-to-human transmission occurred on the ship. The focus has shifted from the initial outbreak to how the virus spread after early cases were likely infected before boarding. WHO officials say transmission between [&#8230;] The post WHO tracks 80 contacts, says human transmission cannot be ruled out in hantavious ship cluster appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137262-who-tracks-80-contacts-says-human-transmission-cannot-be-ruled-out-in-hantavious-ship-cluster.html",
-      "source": "Hespress EN",
-      "published": "2026-05-05T19:44:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "963bab2ac517d204",
-      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-      "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
-      "link": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-05T19:23:18+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
