@@ -1,8 +1,1155 @@
 {
-  "generated_at": "2026-05-08T16:24:27.280925+00:00",
+  "generated_at": "2026-05-08T17:54:11.300831+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "9dfb10478584e9b2",
+      "title": "Cuba Faces ‘Devastating’ Ripple Effects From US Hit to Mining",
+      "summary": "Canadian miner Sherritt International Corp.’s decision to shut down its nickel operations in Cuba under US duress will weigh heavily on an economy that’s already starved for hard currency and fuel.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/cuba-faces-devastating-ripple-effects-from-us-hit-to-mining",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T17:52:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "65a6b9977d2a9b8a",
+      "title": "Pentagon Begins Releasing Wave of Files on UFOs",
+      "summary": "The Pentagon has begun releasing a wave of government files on unidentified flying objects. Following a directive from President Trump, agencies are now identifying and declassifying decades of records. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-08/pentagon-begins-releasing-wave-of-files-on-ufos-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T17:44:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e472f7f0ad916f0c",
+      "title": "Syria Says Arrested Assad-Era General Over Chemical Attack",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271104",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-08T17:44:02+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ead979804f74bbb4",
+      "title": "The new politics may be more like the old politics than we assume",
+      "summary": "Our electoral system will force consolidation within the left and right blocs",
+      "link": "https://www.ft.com/content/e2db027f-79c2-4043-ad26-4648a76d286b",
+      "source": "FT World",
+      "published": "2026-05-08T17:42:58+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6f39160cb52f6d8c",
+      "title": "US Aims to Consolidate Lebanon-Israel Ceasefire Before Negotiations",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271102",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-08T17:36:28+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2e302cbb2e37bb9e",
+      "title": "Britain’s elections in maps and charts",
+      "summary": "Nigel Farage’s Reform UK made sweeping gains in northern England, with a Brexit divide still clear",
+      "link": "https://www.ft.com/content/a28c0f5c-61ea-47b4-a3cb-d91c4df56f82",
+      "source": "FT World",
+      "published": "2026-05-08T17:34:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ef83dc8aca13773d",
+      "title": "Labour MPs call on Keir Starmer to quit after heavy election defeat",
+      "summary": "Nigel Farage’s Reform UK makes big gains in English councils",
+      "link": "https://www.ft.com/content/8958faa6-cbde-499b-8016-b89ef857a22b",
+      "source": "FT World",
+      "published": "2026-05-08T17:32:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "219c973b56c306ae",
+      "title": "US presses allies to act as Rome balances ties with domestic pressure",
+      "summary": "US presses allies to act as Rome balances ties with domestic pressure US Secretary of State Marco Rubio has questioned why allies, including Italy, are not backing Washington’s war on Iran. Speaking after talks in Rome with Italian Prime Minister Giorgia Meloni, Rubio said stronger support from partners is needed. \"I don't understand why anybody would not be supportive,\" he told reporters, adding that countries required \"something more than just strongly worded statements\" if they opposed Iran’s actions. The US and Israel started their on Iran on the 28 February. Rubio’s visit to Italy formed ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-presses-allies-act-rome-balances-ties-domestic-pressure",
+      "source": "Middle East Eye",
+      "published": "2026-05-08T17:30:51+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a289b466c4cce277",
+      "title": "Olympic water polo resignations cite lack of respect, belittling behaviour",
+      "summary": "Olympic and European holders in mass resignation, saying Serbia chief has shown a lack of respect for their efforts.",
+      "link": "https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-08T17:29:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aa6eb1fa4d2ba51c",
+      "title": "How and when can Arsenal or Man City win the Premier League?",
+      "summary": "Manchester City face Brentford on Saturday, while Arsenal travel to West Ham on Sunday in red-hot Premier League race.",
+      "link": "https://www.aljazeera.com/sports/2026/5/8/how-and-when-can-arsenal-or-man-city-win-the-premier-league?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-08T17:27:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2345b63dc983c10b",
+      "title": "Labour admits defeat in Wales and Scotland",
+      "summary": "Plaid Cymru set to govern Senedd while SNP is poised to extend 19-year rule at Holyrood",
+      "link": "https://www.ft.com/content/7a3cad18-8d3a-416c-8adf-efc0d6730768",
+      "source": "FT World",
+      "published": "2026-05-08T17:23:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1d4aebe465b70bfa",
+      "title": "Apollo, Blackstone Weigh $35 Billion Financing for Broadcom",
+      "summary": "Apollo Global Management Inc. and Blackstone Inc. are among private credit lenders involved in talks with chipmaker Broadcom Inc. over a roughly $35 billion financing, the latest indication that companies are mobilizing all sources of capital to fund the AI build-out.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/apollo-blackstone-weigh-35-billion-financing-for-broadcom",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T17:22:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "edcd79507ecf0b09",
+      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+      "summary": "Israeli air raids on southern Lebanon escalate ahead of new round of talks expected next week in Washington, DC.",
+      "link": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-08T17:18:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8950ffef9814d03e",
+      "title": "Adviser to Iran Supreme Leader Compares Control of Hormuz to ‘Atomic Bomb’",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271098",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-08T17:12:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f60945c0f1aa2577",
+      "title": "Israeli army chief recommends commander who destroyed Gaza university for senior role",
+      "summary": "Israeli army chief recommends commander who destroyed Gaza university for senior role The&nbsp; Israeli &nbsp;army's chief of staff, Eyal Zamir, has recommended Barak Hiram, a senior commander who&nbsp;was responsible for&nbsp; deadly attacks in Gaza &nbsp;and for Israeli forces firing tank shells at an Israeli home during the 7 October attacks, for the post of military secretary to Prime Minister Benjamin Netanyahu. Israeli newspaper Ynet&nbsp; reported &nbsp;on Thursday that Hiram is one of two candidates being considered to replace&nbsp; Roman Gofman , a close Netanyahu ally who is expected",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-recommends-commander-who-destroyed-gaza-university",
+      "source": "Middle East Eye",
+      "published": "2026-05-08T17:11:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c09ab43f8824d7a7",
+      "title": "New Gaza Police Force Faces Uncertainty over Composition, Representation",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271097",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-08T17:09:05+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "40973475fcd6c0ae",
+      "title": "UK grapples with fallout from deadly hantavirus outbreak on cruise ship",
+      "summary": "British national is being treated on tiny territory of Tristan da Cunha",
+      "link": "https://www.ft.com/content/d687fd27-96fa-4121-9050-bd2a8755b19d",
+      "source": "FT World",
+      "published": "2026-05-08T17:06:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "30e91e8ec4931df8",
+      "title": "Morocco launches first digital observatory to track 6,240 Equipment ministry projects in real time",
+      "summary": "Morocco’s Ministry of Equipment and Water has launched the “Project Observatory,” the first digital platform of its kind in Morocco, allowing citizens to track 6,240 ministry-led projects by region, province, municipality, or through an interactive map. The platform brings together and organizes data on all ministry projects, from planning to completion, while providing real-time tracking [&#8230;] The post Morocco launches first digital observatory to track 6,240 Equipment ministry projects in real time appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/137497-morocco-launches-first-digital-observatory-to-track-6240-equipment-ministry-projects-in-real-time.html",
+      "source": "Hespress EN",
+      "published": "2026-05-08T17:06:03+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6f3b1db027e4fd8f",
+      "title": "Billionaire James Packer among backers of Architect’s OnlyFans deal",
+      "summary": "Australian mogul’s funds to invest in Architect Capital SPV taking a minority stake in platform",
+      "link": "https://www.ft.com/content/378da9d5-513c-4bb3-82b9-35484b95beed",
+      "source": "FT World",
+      "published": "2026-05-08T17:04:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "93e2820098a228ac",
+      "title": "Spanish passenger tested for hantavirus after sitting near Dutch victim on flight",
+      "summary": "Spanish authorities said Friday a woman had been tested for suspected hantavirus after travelling on the same flight as a Dutch woman who stayed on the MV Hondius cruise ship and later died from the virus. The woman has &#8220;symptoms mainly related to coughing while she was in her family home&#8221; in the eastern city [&#8230;] The post Spanish passenger tested for hantavirus after sitting near Dutch victim on flight appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/137495-spanish-passenger-tested-for-hantavirus-after-sitting-near-dutch-victim-on-flight.html",
+      "source": "Hespress EN",
+      "published": "2026-05-08T17:02:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "250db938dc0fbdef",
+      "title": "How politicians should talk to bond markets",
+      "summary": "It might be annoying that money is not free but a combative approach with investors is not a great choice",
+      "link": "https://www.ft.com/content/9ea48101-6925-4488-af71-2f04eaf5e424",
+      "source": "FT World",
+      "published": "2026-05-08T17:00:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a9e5c79bf09fb68d",
+      "title": "US Democrats face midterm election setback after Virginia court ruling",
+      "summary": "Referendum approving party’s plan to redraw congressional map is overturned by judges",
+      "link": "https://www.ft.com/content/e5b481a1-c506-43b5-8669-f31a8254a829",
+      "source": "FT World",
+      "published": "2026-05-08T16:55:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "612395e42e50fc72",
+      "title": "Lebanon seeks to ‘solidify’ ceasefire ahead of Israel talks",
+      "summary": "Lebanon seeks to ‘solidify’ ceasefire ahead of Israel talks Lebanese Prime Minister Nawaf Salam says Beirut will prioritise reinforcing the ceasefire in upcoming negotiations with Israel, warning that continued attacks could shape the agenda. In an interview with Al Jazeera, Salam said ongoing Israeli strikes would force Lebanon to focus first on securing the truce. “If Israeli attacks continue, the first item on the agenda will be solidifying the ceasefire,” he said. Salam outlined key issues Lebanon plans to raise in talks, including ending attacks, releasing detainees and agreeing on a time",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-seeks-solidify-ceasefire-ahead-israel-talks",
+      "source": "Middle East Eye",
+      "published": "2026-05-08T16:53:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bce8609a72c9ca77",
+      "title": "Taiwan passes $25bn defence budget that undercuts president’s demands",
+      "summary": "Package falls short of Lai Ching-te’s ambitions to boost domestic production",
+      "link": "https://www.ft.com/content/48e56592-e5b5-4335-8b40-361411f950df",
+      "source": "FT World",
+      "published": "2026-05-08T16:51:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9c9e22a73ecb7add",
+      "title": "Jobs Surge As AI Stocks Wobble | Open Interest 5/8/2026",
+      "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Jobs jump, Hormuz tensions rise, and CoreWeave exposes the pressure behind the AI boom. Rick Rieder says stocks aren’t in a bubble, Joanne Hsu explains why consumers are still gloomy, Kevin Hassett rejects Treasury default talk, and top CEOs break down AI, giving, cyber, recycling, and the market rally. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-08/open-interest-5-8-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T16:49:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "039e2c44db487bb2",
+      "title": "Market Leadership Still in Tech: Hermann",
+      "summary": "Julia Hermann, Global Market Strategist at New York Life Investment Management, says market leadership is still firmly sitting with tech and Fed rate cuts are still on the table for 2026. She speaks to Bloomberg's Dani Burger on \"Open Interest.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-08/market-leadership-still-in-tech-hermann-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T16:48:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0534d4511a471d20",
+      "title": "Gilts gain as Starmer clings on",
+      "summary": "Despite heavy losses, investors say results do not represent ‘doomsday scenario’ for prime minister",
+      "link": "https://www.ft.com/content/3ff804ec-7536-432b-b443-ce8c7b63fa9d",
+      "source": "FT World",
+      "published": "2026-05-08T16:47:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6a3ca5054661afaf",
+      "title": "Keir Starmer hangs on as Andy Burnham lies in wait",
+      "summary": "Terrible night at the polls marks opportunity for the Greater Manchester mayor, who could be back in Westminster ‘in months’, say allies",
+      "link": "https://www.ft.com/content/af82b92b-2f39-4558-ae6e-4575058974d3",
+      "source": "FT World",
+      "published": "2026-05-08T16:47:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8c6c811a3909ee65",
+      "title": "Keir Starmer and Britain’s new politics of instability",
+      "summary": "Labour’s failures in office have opened the way to Reform and other insurgent parties",
+      "link": "https://www.ft.com/content/eb1301b8-05a8-451a-8649-c78ef06fcb75",
+      "source": "FT World",
+      "published": "2026-05-08T16:47:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "97d2a4df40c21d2f",
+      "title": "Conservative election losses cast doubt on future of Badenoch’s party",
+      "summary": "The UK’s official opposition is being squeezed by both Reform UK and the Liberal Democrats",
+      "link": "https://www.ft.com/content/b1108564-5fce-4a0e-b29a-0237f2a9264b",
+      "source": "FT World",
+      "published": "2026-05-08T16:41:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "599557ec33f7cb09",
+      "title": "Venezuela’s Faulty Power Grid Risks Derailing Economic Comeback",
+      "summary": "Venezuela announced emergency measures to stabilize its power grid after electricity consumption hit a nine-year high this week, reviving memories of blackouts and rationing that once crippled the economy.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/venezuela-s-faulty-power-grid-risks-derailing-economic-comeback",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T16:39:34+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fc08b957ea3d6ce5",
+      "title": "Bradesco BBI Sees Brazil IPO Rebound After Compass Debut",
+      "summary": "The successful initial public offering of Compass Gas e Energia SA, the first in Brazil in nearly five years, means the country’s equity capital markets have now reopened even as global volatility keeps a cap on the pace of new deals, according to Banco Bradesco BBI.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/bradesco-bbi-sees-brazil-ipo-rebound-after-compass-debut",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T16:38:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "809c7cc9ace6f9dd",
+      "title": "Justice for Shireen: The American investigation",
+      "summary": "Four years after Shireen Abu Akleh’s killing, her family is still seeking US-backed accountability.",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/8/aje-onl-tt_rr_pal_shireeninvest_av_v1-080526?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-08T16:36:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2f02176d304064a0",
+      "title": "Iran warns US over ‘adventurism’ after strikes on vessels",
+      "summary": "Iran warns US over ‘adventurism’ after strikes on vessels Iran’s foreign ministry spokesperson, Esmail Baghaei, has condemned recent US military action against Iranian vessels in the Strait of Hormuz, warning against what he described as escalating behaviour. In a post on X, Baghaei condemned US conduct, cautioning against “adventurism and roguish behaviour”. He also appeared to respond to remarks by US President Donald Trump, saying: “…scheming and naive euphemisms such as ‘a light slap’ would not erase the profound disgrace born of narcissism, greed, reckless miscalculation, and lawless irre",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-over-adventurism-after-strikes-vessels",
+      "source": "Middle East Eye",
+      "published": "2026-05-08T16:28:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1f09a99ca9285a8b",
+      "title": "Saudi, Egyptian FMs Discuss Regional Developments",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271085",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-08T16:26:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0c346c1d23a561d1",
+      "title": "While AI pumps up portfolios, some companies sound the alarm",
+      "summary": "The clout of Big Tech groups is obscuring the precarious state of others",
+      "link": "https://www.ft.com/content/9fc6274f-8455-4728-bda7-d2ced906bdd6",
+      "source": "FT World",
+      "published": "2026-05-08T16:26:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ae8e44a455621929",
+      "title": "Five things we learnt in the UK elections",
+      "summary": "The results are a blow to Keir Starmer and evidence that the political landscape is fragmenting",
+      "link": "https://www.ft.com/content/393fdc2e-53bb-4a52-a6cd-bc3531a2c2eb",
+      "source": "FT World",
+      "published": "2026-05-08T16:24:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "953cb153499bd650",
       "title": "Pentagon publishes dozens of files on alleged UFOs",
@@ -10,6 +1157,37 @@
       "link": "https://www.ft.com/content/515802c2-4f80-42ab-a734-32984c3be28a",
       "source": "FT World",
       "published": "2026-05-08T16:21:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "630f9866ae3938af",
+      "title": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
+      "summary": "Real do not impose sporting sanctions saying 500,000 euro fines concludes the &#039;internal procedures&#039; against the pair.",
+      "link": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-08T16:19:46+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -97,9 +1275,40 @@
       }
     },
     {
+      "id": "228e672dc4116a7e",
+      "title": "ECB Is ‘Highly Vigilant’ to Rising Inflation Risks, Nagel Says",
+      "summary": "The European Central Bank is “highly vigilant” to rising inflation risks due to the Iran war and will act as needed to prevent higher energy costs spilling over into prices more broadly, Governing Council member Joachim Nagel said.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-08/ecb-is-highly-vigilant-to-rising-inflation-risks-nagel-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-08T16:15:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "1ec71158fc35a57a",
       "title": "Iran accuses US of 'reckless military adventure'",
-      "summary": "Iran's Foreign Minister Abbas Araghchi says the US opts for a \"reckless military adventure\" every time a \"diplomatic solution is on the table\".",
+      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
       "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-05-08T16:11:06+00:00",
@@ -314,9 +1523,9 @@
       }
     },
     {
-      "id": "101d6637668d770a",
-      "title": "Odyssey Therapeutics Climbs 11% After $304 Million US IPO",
-      "summary": "Odyssey Therapeutics Inc. shares jumped 11% in its trading debut, after the biopharmaceutical company raised $304 million in an upsized US initial public offering and private placement.",
+      "id": "cb14f69e37d7300a",
+      "title": "Health Firms Odyssey, Mobia Slide After $454 Million IPO Haul",
+      "summary": "A pair of healthcare companies are edging lower in their trading debuts after raising a combined $454 million in their initial public offerings.",
       "link": "https://www.bloomberg.com/news/articles/2026-05-08/odyssey-therapeutics-climbs-11-after-304-million-us-ipo",
       "source": "Bloomberg Markets",
       "published": "2026-05-08T15:58:48+00:00",
@@ -382,37 +1591,6 @@
       "link": "https://english.aawsat.com/node/5271074",
       "source": "Asharq Al-Awsat",
       "published": "2026-05-08T15:54:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "436f6a4f359b4eca",
-      "title": "Israeli army chief recommends commander who destroyed Gaza university for senior role",
-      "summary": "Israeli army chief recommends commander who destroyed Gaza university for senior role Submitted by Nadav Rapaport on Fri, 05/08/2026 - 15:50 Barak Hiram, who ordered tank shells to be fired at a home during the 7 October attacks, is recommended for the post of military secretary Brigadier-General Barak Hiram speaks about the 7 October attacks in a video released by the Israeli military on 11 October 2023 (AFP) Off The&nbsp; Israeli army's chief of staff, Eyal Zamir, has recommended Barak Hiram, a senior commander who&nbsp;was responsible for deadly attacks in Gaza and for Israeli forces firing",
-      "link": "https://www.middleeasteye.net/news/israeli-army-chief-recommends-commander-who-destroyed-gaza-university-senior-role",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T15:53:26+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -593,9 +1771,9 @@
       }
     },
     {
-      "id": "1cff0a72ca4e9932",
-      "title": "‘Leader of the pack’: What next as Reform UK makes huge election gains?",
-      "summary": "Keir Starmer&#039;s Labour has suffered a humiliating blow as the hard right makes sweeping gains.",
+      "id": "85f869dfe645320f",
+      "title": "‘Leader of the pack’: Reform UK makes election gains, humiliating Labour",
+      "summary": "Keir Starmer&#039;s Labour has suffered a humiliating defeat as the hard right makes sweeping gains.",
       "link": "https://www.aljazeera.com/news/2026/5/8/leader-of-the-pack-what-next-as-reform-makes-huge-election-gains?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-08T15:35:20+00:00",
@@ -661,37 +1839,6 @@
       "link": "https://www.ft.com/content/2e03d7ff-77d1-47e9-a44a-d0b22bffe307",
       "source": "FT World",
       "published": "2026-05-08T15:33:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "53791138b45c6cc9",
-      "title": "Starmer defies calls to quit after heavy Labour council losses",
-      "summary": "Nigel Farage’s Reform UK makes gains in English local elections",
-      "link": "https://www.ft.com/content/8958faa6-cbde-499b-8016-b89ef857a22b",
-      "source": "FT World",
-      "published": "2026-05-08T15:28:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1058,37 +2205,6 @@
       }
     },
     {
-      "id": "ae8e44a455621929",
-      "title": "Five things we learnt in the UK elections",
-      "summary": "The results are a blow to Keir Starmer and evidence that the political landscape is fragmenting",
-      "link": "https://www.ft.com/content/393fdc2e-53bb-4a52-a6cd-bc3531a2c2eb",
-      "source": "FT World",
-      "published": "2026-05-08T14:59:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "9eb6c1a3c3fdd790",
       "title": "Stock Strength Driven by Earnings, Not Economy: Santos",
       "summary": "The economy is being propped up by AI says JPMorgan’s Gabriela Santos. She joined Bloomberg Open Interest to explain why the labor market is weaker than headlines suggest, how the AI trade has shifted beyond big tech, and why markets keep rallying despite global chaos. (Source: Bloomberg)",
@@ -1306,37 +2422,6 @@
       }
     },
     {
-      "id": "76b0386d8c703616",
-      "title": "Hormuz Transits Halted Since Tuesday as US, Iran Clash",
-      "summary": "The Strait of Hormuz remains effectively closed to commercial shipping after the US and Iran clashed overnight near the waterway, attacking each other’s assets in the area.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-08/hormuz-tracker-transits-halted-since-tuesday-as-us-iran-clash",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T14:39:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "0d097f73b21071c9",
       "title": "US strikes 2 Iranian-flagged oil tankers as ceasefire comes under strain",
       "summary": "Donald Trump says truce between Washington and Tehran still in effect after the two sides exchanged fire",
@@ -1461,167 +2546,12 @@
       }
     },
     {
-      "id": "ea57c2d235356750",
-      "title": "Cyril Ramaphosa risks impeachment vote after ruling on burglary probe",
-      "summary": "Scandal over theft at his private game farm in 2020 has dogged South Africa’s president",
-      "link": "https://www.ft.com/content/d88cb529-0f33-4129-a34b-68ed27caaa25",
-      "source": "FT World",
-      "published": "2026-05-08T14:25:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "50cdad1b560e4dae",
-      "title": "Bloomberg Surveillance 5/8/2026",
-      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-08/bloomberg-surveillance-5-8-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T14:25:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "fa5816bcc6602d3a",
       "title": "Botswana’s former President Festus Mogae dies aged 86",
       "summary": "The former leader won praise for good governance and the fight against HIV/AIDS in the southern African nation.",
       "link": "https://www.aljazeera.com/news/2026/5/8/botswanas-former-president-festus-mogae-dies-aged-86?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-08T14:25:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "87722a73e9578b48",
-      "title": "Itau Asset’s Serra Sees Bulk of Brazil Rate Cuts After Elections",
-      "summary": "The bulk of interest-rate cuts in Brazil is likely to come only after October elections, according to former Central Bank director Bruno Serra.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-08/itau-asset-s-serra-sees-bulk-of-brazil-rate-cuts-after-elections",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T14:23:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "40973475fcd6c0ae",
-      "title": "UK grapples with fallout from deadly hantavirus outbreak on cruise ship",
-      "summary": "British national is being treated on tiny territory of Tristan da Cunha",
-      "link": "https://www.ft.com/content/d687fd27-96fa-4121-9050-bd2a8755b19d",
-      "source": "FT World",
-      "published": "2026-05-08T14:17:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1f379297fac6d645",
-      "title": "University College London Professor on the Cons of Hiring Consultants",
-      "summary": "Why do governments use consultants and why has that weakened businesses and economies? University College London Professor Mariana Mazzucato joins Tracy Alloway and Joe Weisenthal on the Odd Lots podcast to discuss why governments' use of consultants often leads to inefficiencies and civic failures. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-08/university-college-london-professor-on-the-cons-of-hiring-consultants",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T14:14:19+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1680,7 +2610,7 @@
     {
       "id": "2ea1210fef2d2f46",
       "title": "Kenya cancer cluster sparks ‘environmental genocide’ claims over oil waste",
-      "summary": "Kargi residents believe rising cancer cases are linked to toxic waste left behind during oil exploration in the 1980s.",
+      "summary": "Rising cancer cases are linked to toxic waste left behind during oil exploration in the 1980s.",
       "link": "https://www.aljazeera.com/features/2026/5/8/kenya-cancer-cluster-sparks-environmental-genocide-claims-over-oil-waste?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-08T14:11:49+00:00",
@@ -1802,37 +2732,6 @@
       }
     },
     {
-      "id": "65e996af513bc775",
-      "title": "Chris Hohn’s hedge fund slashes $8bn Microsoft stake in warning over AI disruption",
-      "summary": "TCI has cut its position in tech giant from 10% to 1%",
-      "link": "https://www.ft.com/content/ac5d90a9-b010-4529-9616-706420920681",
-      "source": "FT World",
-      "published": "2026-05-08T14:01:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "73c6202c4f6368d4",
       "title": "Arteta Calls for Arsenal Focus on 'Huge' West Ham Clash",
       "summary": "",
@@ -1871,37 +2770,6 @@
       "source": "Hespress EN",
       "published": "2026-05-08T14:00:02+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c6f7fc93981cd0c1",
-      "title": "Hormuz Woes Seen Lingering Into Second Half, Goldman Poll Shows",
-      "summary": "Wall Street is growing more convinced that shipping through the Strait of Hormuz will remain impaired into the second half of the year, highlighting expectations for a longer-lasting supply shock.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-08/hormuz-woes-seen-lingering-into-second-half-goldman-poll-shows",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T14:00:00+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2081,37 +2949,6 @@
       }
     },
     {
-      "id": "42c84e058976d293",
-      "title": "US labour market stable in April",
-      "summary": "Healthy payrolls growth and steady unemployment in April reinforces Fed holding stance",
-      "link": "https://www.ft.com/content/2bcaf369-ce39-45f5-9631-35eba1028a49",
-      "source": "FT World",
-      "published": "2026-05-08T13:42:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "740581c0ff92e009",
       "title": "Italy-US ties strained as pope and Iran war dominate talks",
       "summary": "Rome balances US ties with domestic pressure as the Iran war strains the alliance and fuels economic fallout.",
@@ -2243,843 +3080,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-05-08T13:25:35+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "82b2cecf15e16960",
-      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
-      "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-08T13:17:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e38a513e7de24ea6",
-      "title": "Israeli strikes kill four in Tyre, Lebanon",
-      "summary": "Israeli strikes kill four in Tyre, Lebanon The Lebanese Ministry of Health announced that four citizens were killed and at least eight injured in an Israeli strike in Tyre, in southern Lebanon, Wafa news agency reported. Local media also reported that citizens were killed as the Israeli military targeted surrounding villages and towns. According to Wafa, the Israeli military also issued an urgent evacuation order to residents of Al-Abbasiya, north of Tyre, while continuing its bombing campaigns across southern Lebanon.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-kill-four-tyre-lebanon",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T13:15:51+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6c1b9360969c7db7",
-      "title": "War gains, long-term pain: Wall Street's core business at risk due to Iran war",
-      "summary": "War gains, long-term pain: Wall Street's core business at risk due to Iran war Submitted by Ali Jaswal on Thu, 05/07/2026 - 12:45 Rising oil prices and market volatility have boosted trading profits, but the gains mask threats to long-term growth Traders on the floor of the New York Stock Exchange react as stocks slide on 10 March 2026, due to the war on Iran (Michael M. Santiago/Getty Images/AFP) Off Wall Street may be profiting from the US and Israeli war on Iran , but short-term gains due to rising oil prices and market volatility are causing a slowdown in dealmaking – threatening its core ",
-      "link": "https://www.middleeasteye.net/news/wall-street-core-business-dealmaking-risk-amid-iran-war",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T13:00:23+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "838c9d5634de3123",
-      "title": "'Secret Highway' to Mars Could Cut Journey Time to 153 Days",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5270997",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-08T12:56:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8ba5791aec605aeb",
-      "title": "US Secretary Rubio: Iran expected to respond regarding negotiations today",
-      "summary": "US Secretary Rubio: Iran expected to respond regarding negotiations today US Secretary of State Marco Rubio told journalists in Rome that the US expecting a response from Iran today. \"We’ll see what the response entails. ⁠The hope ⁠is it’s something that can put us ⁠into a serious ⁠process of negotiation.\" He described US-Iran clashes in the Strait of Hormuz as the US acting \"defensively\" to Iranian attacks. Rubio also stated that the US will not \"negotiate with Iran over Hezbollah\". \"Lebanon should be governed by the Lebanese government,\" the secretary added.&nbsp;",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-secretary-rubio-iran-expected-respond-regarding-negotiations-today",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T12:55:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3e3ebe2624693768",
-      "title": "Rubio says expecting Iran response to US proposal on Friday",
-      "summary": "US Secretary of State Marco Rubio said Washington was expecting a response from Iran on Friday to US proposals for a deal to end the conflict. &#8220;We&#8217;re expecting a response from them today at some point&#8230; I hope it&#8217;s a serious offer, I really do,&#8221; Rubio told reporters during a visit to Rome. The post Rubio says expecting Iran response to US proposal on Friday appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137478-rubio-says-expecting-iran-response-to-us-proposal-on-friday.html",
-      "source": "Hespress EN",
-      "published": "2026-05-08T12:54:09+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "33fc98ab46dc19e6",
-      "title": "Moroccans become largest foreign nationality in Israel as migration numbers climb worldwide",
-      "summary": "More Moroccans are now living in Israel than any other foreign nationality, according to the International Organization for Migration’s new 2026 World Migration Report. The numbers show a major jump in recent years, with the Moroccan community in Israel reaching 190,607 people, up from 158,396 in the previous 2024 report. That rise of more than [&#8230;] The post Moroccans become largest foreign nationality in Israel as migration numbers climb worldwide appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137476-moroccans-become-largest-foreign-nationality-in-israel-as-migration-numbers-climb-worldwide.html",
-      "source": "Hespress EN",
-      "published": "2026-05-08T12:52:51+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bb9361d930b34854",
-      "title": "UBS boss warns of European decline with ‘over-regulation across the board’",
-      "summary": "Sergio Ermotti tells FT it would take a ‘very profound and painful crisis’ to pressure politicians to take action",
-      "link": "https://www.ft.com/content/68adb016-2964-4379-92f5-bd43993e9de8",
-      "source": "FT World",
-      "published": "2026-05-08T12:46:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0534d4511a471d20",
-      "title": "Gilts gain as Starmer clings on",
-      "summary": "Despite heavy losses, investors say results do not represent ‘doomsday scenario’ for prime minister",
-      "link": "https://www.ft.com/content/3ff804ec-7536-432b-b443-ce8c7b63fa9d",
-      "source": "FT World",
-      "published": "2026-05-08T12:36:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c7bbd041fcf69ed9",
-      "title": "Head of Jewish National Fund UK loses council seat in UK local elections",
-      "summary": "Head of Jewish National Fund UK loses council seat in UK local elections Submitted by MEE staff on Fri, 05/08/2026 - 12:59 Alan Mendoza, whose charity donated £1m to 'Israel's largest militia', fails to be re-elected as Reform UK councillor Alan Mendoza is the executive director of the right-wing think tank the Henry Jackson Society and head of the Jewish National Fund UK (Screengrab) Off The president of the UK branch of the Jewish National Fund (JNF), an organisation involved in the displacement of Palestinians ,&nbsp;has failed to be re-elected as a councillor for the right-wing Reform UK p",
-      "link": "https://www.middleeasteye.net/news/head-jewish-national-fund-uk-loses-council-seat-uk-local-elections",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T12:31:19+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4ce162eb021cc5f4",
-      "title": "Local branch of IT firm wins prestigious FT Alphaville Pub Quiz",
-      "summary": "The Borg beat all comers at our latest London quiz. Could YOU have done better?",
-      "link": "https://www.ft.com/content/52c64a57-9f79-4695-9d6e-f05fd9bd921d",
-      "source": "FT World",
-      "published": "2026-05-08T12:30:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "38fc725075a7bf46",
-      "title": "The disaster unfolding on Russia’s Black Sea coast is of its own making",
-      "summary": "The pollution spreading across southern Russia exposes environmental collapse under Putin&#039;s system.",
-      "link": "https://www.aljazeera.com/opinions/2026/5/8/the-disaster-unfolding-on-russias-black-sea-coast-is-of-its-own-making?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-08T12:29:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "aa118cf59fab21f9",
-      "title": "Iran says seized tanker in Gulf of Oman, as US ‘disables’ two ships",
-      "summary": "Latest claims come hours after US and Iran exchanged fire in Strait of Hormuz, threatening ongoing push for ceasefire.",
-      "link": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-08T12:22:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e9a1ffe3f8e117de",
-      "title": "Iraq Denies US Claims Deputy Oil Minister Helped Iran Evade Sanctions",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5270983",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-08T12:17:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9588f22eadd487e0",
-      "title": "Holders Flamengo see Copa Libertadores match abandoned amid crowd trouble",
-      "summary": "The match in Colombia, hosted by Independiente Medellin, was twice interrupted by violence before being called off.",
-      "link": "https://www.aljazeera.com/sports/2026/5/8/holders-flamengo-see-copa-libertadores-match-abandoned-amid-crowd-trouble?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-08T12:17:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "55f66e94f9c0460f",
-      "title": "Reform UK up close",
-      "summary": "How Nigel Farage’s party operates — as it sets its sights on power",
-      "link": "https://www.ft.com/content/31f3ef3b-7aa2-46e7-a1db-7acc0212c16b",
-      "source": "FT World",
-      "published": "2026-05-08T12:12:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "57766a33e599498b",
-      "title": "Trump says Iran ceasefire holds despite exchange of fire",
-      "summary": "Washington and Tehran blame each other for sparking reciprocal attacks",
-      "link": "https://www.ft.com/content/71a32858-e7b4-45a5-aa63-1ff53ff9aeaf",
-      "source": "FT World",
-      "published": "2026-05-08T12:12:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "81c6f680dc4f18bf",
-      "title": "From Algiers, US Embassy condemns Polisario strike",
-      "summary": "The United States Embassy in Algiers reposted Washington’s condemnation of the recent attack on Smara on Friday, adding that “the status quo serves no one’s interest and cannot continue” in one of the clearest public messages issued by the embassy on the Sahara conflict. The statement was published on the embassy’s official X account in [&#8230;] The post From Algiers, US Embassy condemns Polisario strike appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137470-from-algiers-us-embassy-condemns-polisario-strike.html",
-      "source": "Hespress EN",
-      "published": "2026-05-08T12:00:46+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3b961d799cb3a4e1",
-      "title": "Three dead after volcano erupts on Indonesian island",
-      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
-      "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-08T11:54:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "86193f9f2e6f9811",
-      "title": "UAE's ruling al-Nayhan family receives tens of millions in EU farming subsidies",
-      "summary": "UAE's ruling al-Nayhan family receives tens of millions in EU farming subsidies Submitted by MEE staff on Fri, 05/08/2026 - 11:22 The world's second-richest family has acquired vast swathes of European farmland and is taking EU subsidies, DeSmog reveals Khaled bin Mohamed bin Zayed AI Nahyan, crown prince of Abu Dhabi, attends a meeting with China's President Xi Jinping, 14 April 2026 (Reuters/Haruna Furuhashi) Off The United Arab Emirates ’ ruling al-Nahyan family is benefiting from tens of millions in European Union subsidies to grow crops destined for the Gulf, according to a new investigat",
-      "link": "https://www.middleeasteye.net/news/uae-ruling-al-nayhan-family-banking-tens-millions-eu-farming-subsidies",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T11:52:48+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6aa1740adeff86bf",
-      "title": "Dollar Set for Second Straight Weekly Fall despite US-Iran Clashes",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5270976",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-08T11:51:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "56b37de620e12838",
-      "title": "What we know about Iran’s response to the latest US ceasefire proposal",
-      "summary": "Iran has not formally responded, but officials indicate a large divide remains between the two sides.",
-      "link": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-08T11:47:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6d99015e11435765",
-      "title": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’",
-      "summary": "Sexual violence against Palestinians in Israeli prisons is ‘systematic’, says analyst",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-08T11:45:28+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "64aeee54a6c7143f",
-      "title": "Project Get Zack: How the media used antisemitism against the Greens’ Jewish leader",
-      "summary": "Project Get Zack: How the media used antisemitism against the Greens’ Jewish leader Submitted by Joe Gill on Fri, 05/08/2026 - 10:45 The establishment media and major parties are waging a campaign to bring down Zack Polanski using personalised and antisemitic attacks Green Party leader Zack Polanski takes part in a march against the far right in central London on 28 March 2026 (AFP) On As I write, local election results across England have seen&nbsp; massive gains for Reform, the right-wing anti-immigration party, while Keir Starmer's Labour suffered huge losses . The Tories lost many seats, w",
-      "link": "https://www.middleeasteye.net/opinion/project-get-zack-polanski-how-media-used-antisemitism-against-greens-jewish-leader",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T11:45:03+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c9d814158169155c",
-      "title": "US Stocks Near Record High as Chip Stocks Roar, Payrolls Beat",
-      "summary": "US stocks were on track for a record closing high, buoyed by semiconductor stocks, strong monthly payrolls figures and a US-Iran ceasefire that appeared intact even with overnight clashes near the Strait of Hormuz.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-08/us-futures-rise-as-chip-stocks-rally-iran-ceasefire-holds",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T11:42:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c7910ca5f8df9ebd",
-      "title": "Exclusive: Karim Khan says he would cooperate with an inquiry into Cameron's alleged ICC threat",
-      "summary": "Exclusive: Karim Khan says he would cooperate with an inquiry into Cameron's alleged ICC threat Submitted by Imran Mulla on Thu, 05/07/2026 - 14:44 ICC prosecutor details 2024 call in which he said Cameron threatened to defund the court in interview with MEE Britain's former Prime Minister David Cameron leaves after a keynote discussion at the two-day Copenhagen Democracy Summit at the Royal Danish Playhouse in Copenhagen on May 13, 2025. (AFP) Off The British chief prosecutor of the International Criminal Court has confirmed he would cooperate with an inquiry into the April 2024 phone call be",
-      "link": "https://www.middleeasteye.net/news/karim-khan-would-cooperate-inquiry-david-camerons-alleged-icc-threat",
-      "source": "Middle East Eye",
-      "published": "2026-05-08T11:41:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "67a01d75af88c736",
-      "title": "When do results arrive? An hour-by-hour guide",
-      "summary": "Stephen Bush breaks down the contests that are set to confirm Britain’s shift to seven-party politics",
-      "link": "https://www.ft.com/content/4f880e6a-01c3-419d-a831-b45c5ff54143",
-      "source": "FT World",
-      "published": "2026-05-08T11:37:45+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
