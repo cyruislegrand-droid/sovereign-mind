@@ -1,15 +1,728 @@
 {
-  "generated_at": "2026-05-09T08:54:49.933936+00:00",
+  "generated_at": "2026-05-09T10:12:52.292090+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
+      "id": "d8d05cca91d7a50a",
+      "title": "Bahrain Says it Has Arrested 41 People Linked to IRGC",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271234",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-09T10:11:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d18192209ce172ff",
+      "title": "China Energy Imports Drop in April Amid Iran War as Fuel Exports Hit Decade Low",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271233",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-09T10:00:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "904680aa45d9a453",
+      "title": "Morocco approves MAD 581 billion in investment projects since 2021",
+      "summary": "Morocco’s Investment Commission approved 381 investment projects worth around MAD 581 billion since the current government took office, with the projects expected to generate more than 245,000 direct and indirect jobs, according to a government review document covering the 2021–2026 period. The government said 297 projects worth MAD 513 billion were approved after the new [&#8230;] The post Morocco approves MAD 581 billion in investment projects since 2021 appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/137534-morocco-approves-mad-581-billion-in-investment-projects-since-2021.html",
+      "source": "Hespress EN",
+      "published": "2026-05-09T10:00:51+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "8f29ed8d41e42a2e",
       "title": "Tory election losses cast doubt on Badenoch’s confidence",
-      "summary": "The electoral appeal that once propelled Boris Johnson to power continues to be dismantled by Reform UK and the Liberal Democrats",
+      "summary": "The wide electoral appeal that once propelled Boris Johnson to power continues to be dismantled by Reform UK and the Liberal Democrats",
       "link": "https://www.ft.com/content/b1108564-5fce-4a0e-b29a-0237f2a9264b",
       "source": "FT World",
-      "published": "2026-05-09T08:45:22+00:00",
+      "published": "2026-05-09T10:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ed58fe68bbd627c1",
+      "title": "New York Stock Exchange to open private members’ club on Wall Street",
+      "summary": "Exclusive social hub planned for renovated vault as NYSE competes with Nasdaq for lucrative tech IPOs",
+      "link": "https://www.ft.com/content/d8e49edb-feb9-4bfb-9f91-f10169c0961d",
+      "source": "FT World",
+      "published": "2026-05-09T10:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "952c2300d473eff4",
+      "title": "Labour MPs battle over Starmer’s future after election rout",
+      "summary": "Lucy Powell warns demands for prime minister to step down are ‘reckless’",
+      "link": "https://www.ft.com/content/50dccc39-c004-4687-a90d-2974928442b7",
+      "source": "FT World",
+      "published": "2026-05-09T09:53:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1246197df94b7c50",
+      "title": "World Cup 2026: How US football has evolved since hosting in 1994",
+      "summary": "In the 32 years since last hosting the World Cup, football has moved from the margins to the mainstream in the US.",
+      "link": "https://www.aljazeera.com/sports/2026/5/9/world-cup-2026-how-united-states-football-has-evolved-since-1994-hosting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-09T09:46:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f8261de1e079998b",
+      "title": "Israeli strikes kill at the least three in southern Lebanon",
+      "summary": "Israeli strikes kill at the least three in southern Lebanon Israeli bombing killed at least three people in the Tyre district in southern Lebanon on Saturday, according to Lebanon’s National News Agency. The strikes hit a car which was travelling near the Martyr Mohammed Saad High School, between Burj Rahhal and al-Abbassieh, the agency reported.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-three-killed-israeli-attack-southern-lebanon-1",
+      "source": "Middle East Eye",
+      "published": "2026-05-09T09:41:47+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "59669df505fb96b3",
+      "title": "Bahrain arrests 41 over alleged links to Iran’s IRGC",
+      "summary": "Bahrain arrests 41 over alleged links to Iran’s IRGC Bahrain’s interior minister said on Saturday that it arrested 41 people allegedly connected to Iran’s Islamic Revolutionary Guard Corps,&nbsp;the state news agency ⁠reported.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-arrests-41-people-linked-irans-irgc",
+      "source": "Middle East Eye",
+      "published": "2026-05-09T09:40:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ea46a8a8c8cc62c1",
+      "title": "Australian by-election a litmus test for right-wing One Nation Party",
+      "summary": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
+      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-09T09:33:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "54ace51947f776a1",
+      "title": "Wales and Scotland favour independence parties",
+      "summary": "Plaid Cymru set to govern Senedd while SNP is poised to extend 19-year rule at Holyrood",
+      "link": "https://www.ft.com/content/7a3cad18-8d3a-416c-8adf-efc0d6730768",
+      "source": "FT World",
+      "published": "2026-05-09T09:28:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8a0e01ba9c2e59be",
+      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+      "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-09T09:26:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6fc80fe2ed7a91bd",
+      "title": "Opinion: Germany's 'constructive dialogue' is a sham, a cloak used to shield its support of a genocidal regime",
+      "summary": "Opinion: Germany's 'constructive dialogue' is a sham, a cloak used to shield its support of a genocidal regime On 21 April,&nbsp;Germany, together with Italy,&nbsp;blocked&nbsp;a motion by Spain, Ireland, and Slovenia to suspend the&nbsp;EU-Israel trade agreement&nbsp;over Israel’s human rights violations, its&nbsp;genocidal war&nbsp;against&nbsp;Gaza, and settler violence in the occupied&nbsp;West Bank.&nbsp; Germany’s Foreign Minister&nbsp;Johann Wadephul&nbsp;declared the three countries’ move to be \"inappropriate\", saying: \"We have to talk with Israel about the critical issues… that has to",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-germanys-constructive-dialogue-sham-cloak-used-shield-its",
+      "source": "Middle East Eye",
+      "published": "2026-05-09T09:23:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7c23956c057c661a",
+      "title": "'Integrity costs something': Eurovision winners want Israel out of the contest",
+      "summary": "'Integrity costs something': Eurovision winners want Israel out of the contest Submitted by Alex MacDonald on Wed, 05/06/2026 - 14:43 Former champions call for boycott of event over 'catastrophe' in Gaza and say show cannot be separated from political reality 2013 Eurovision winner, Danish singer Emmelie de Forest, performs on stage during the song contest 2014 Grand Final in Copenhagen, Denmark, on 10 May 2014 (Jonathan Nackstrand/AFP) Off The organisers of the Eurovision song contest have always maintained that they want to keep politics out of the event. In practice, however, politics has a",
+      "link": "https://www.middleeasteye.net/news/eurovision-israel-former-winners-slam",
+      "source": "Middle East Eye",
+      "published": "2026-05-09T09:20:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6c7dc11a90596046",
+      "title": "Study says agriculture consumes 95% of water resources in lower Sebou basin",
+      "summary": "A recent Moroccan academic study found that agriculture consumes nearly 95% of water resources in rural areas of the lower Sebou basin, highlighting mounting pressure on one of the country’s most important groundwater reserves amid recurring drought conditions. The study, conducted between 2022 and 2024 by researcher Younes El Haymer at Ibn Tofail University, examined [&#8230;] The post Study says agriculture consumes 95% of water resources in lower Sebou basin appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/137532-study-says-agriculture-consumes-95-of-water-resources-in-lower-sebou-basin.html",
+      "source": "Hespress EN",
+      "published": "2026-05-09T09:18:40+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6c49d0e151d86c11",
+      "title": "WHO chief due in Canaries to coordinate hantavirus ship evacuation",
+      "summary": "The World Health Organization&#8217;s chief is due in the Spanish island of Tenerife on Saturday to help coordinate the evacuation of passengers hit by the hantavirus, Spanish ministry sources said. Tedros Adhanom Ghebreyesus will accompany Spain&#8217;s health and interior ministers to a command post there &#8220;to ensure coordination between administrations, health control, and the application [&#8230;] The post WHO chief due in Canaries to coordinate hantavirus ship evacuation appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/137530-who-chief-due-in-canaries-to-coordinate-hantavirus-ship-evacuation.html",
+      "source": "Hespress EN",
+      "published": "2026-05-09T09:15:56+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e1858cc4da7413f5",
+      "title": "The war on Iran will likely end in American retreat",
+      "summary": "The American empire cannot win the war against Iran at acceptable financial, military, and political costs.",
+      "link": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-09T09:14:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5004ce6d1657a68b",
+      "title": "Senior Sri Lankan monk arrested for alleged child sex crimes",
+      "summary": "Pallegama Hemarathana, the chief prelate of Colombo, is accused of abusing an 11-year-old girl in a temple.",
+      "link": "https://www.aljazeera.com/news/2026/5/9/senior-sri-lankan-monk-arrested-for-alleged-child-sex-crimes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-09T09:13:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "29c45f070d2c89df",
+      "title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-09T09:13:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee9c99335ae20910",
+      "title": "Germany's 'constructive dialogue' is a sham, a cloak used to shield its support of a genocidal regime",
+      "summary": "Germany's 'constructive dialogue' is a sham, a cloak used to shield its support of a genocidal regime Submitted by Jurgen Mackert on Wed, 04/29/2026 - 09:15 With its emphasis on weasel words, Germany has given Israel a free hand and backing for its barbaric campaigns of extermination German Foreign Minister Johann Wadephul pictured during a flight to Tel Aviv, Israel, 10 March 2026 (Felix Zahn/AA/Israeli Foreign Office supplied) On It was to be expected. On 21 April, Germany , together with Italy, blocked a motion by Spain, Ireland, and Slovenia to suspend the EU-Israel trade agreement due to ",
+      "link": "https://www.middleeasteye.net/opinion/germany-constructive-dialogue-sham-cloak-shield-support-genocidal-regime",
+      "source": "Middle East Eye",
+      "published": "2026-05-09T09:11:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5ce87f6f52ec5e9a",
+      "title": "Lens Secure Champions League Spot and Send Nantes Down",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271221",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-09T09:10:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "caaf4052f3051e07",
+      "title": "UN: 40,000 Palestinians displaced in West Bank since start of 2025",
+      "summary": "UN: 40,000 Palestinians displaced in West Bank since start of 2025 The UN says around 40,000 Palestinians have been internally displaced in the occupied West Bank since the start of 2025 due to Israeli army and settler violence.&nbsp; Farhan Haq, deputy spokesperson for the UN secretary-general, said in a statement on Friday that at least 42 people, including 12 children, were displaced due to home demolitions from Israeli settlers in the first week of May alone. An Israeli soldier gestures as Palestinian residents of the Jenin refugee camp wait at one of the entrances on 13 April 2026 (Jaafar",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-40000-palestinians-displaced-west-bank-start-2025",
+      "source": "Middle East Eye",
+      "published": "2026-05-09T09:03:25+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a02edff0405490a6",
+      "title": "Frontier Airlines Plane Suffers Engine Fire, Reportedly Hits Pedestrian in Denver",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5271220",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-09T09:01:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "dc8e06ca793f7433",
+      "title": "Hacked educational platform partially restored for millions of students",
+      "summary": "The hacker group, ShinyHunters, threatened to leak student data after breaching the educational platform Canvas.",
+      "link": "https://www.aljazeera.com/news/2026/5/9/hacked-educational-platform-partially-restored-for-millions-of-students?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-09T09:01:16+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -99,42 +812,11 @@
     {
       "id": "1b8a83425f030ef1",
       "title": "Israeli air strikes hit southern Lebanon",
-      "summary": "Israeli air strikes hit southern Lebanon Israeli air strike hit the outskirts of Nabatieh, along with the towns of Aroun and Kfar Tibnit on Saturday, according to Al Jazeera Arabic. The report also said that Israeli drones struck the towns of al-Mansouri, Burj Rahhal and Nabatieh al-Fawqa.",
+      "summary": "Israeli air strikes hit southern Lebanon Israeli air strikes hit the outskirts of Nabatieh and the towns of Aroun and Kfar Tebnit on Saturday, according to Al Jazeera Arabic. The report also said that Israeli drones struck the towns of al-Mansouri, Burj Rahhal and Nabatieh al-Fawqa.",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-areas-southern-lebanon",
       "source": "Middle East Eye",
       "published": "2026-05-09T08:34:07+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8a0e01ba9c2e59be",
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
-      "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
-      "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-09T08:27:48+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -192,7 +874,7 @@
     {
       "id": "83c62424b831fa74",
       "title": "Russia holds downsized Victory Day parade",
-      "summary": "Putin is set to speak at the World War II commemoration, which is scaled back this year due to security concerns.",
+      "summary": "Putin invoked the Soviet victory in World War II to rally his army in Ukraine, saying &#039;our heroes move forward&#039;.",
       "link": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-09T08:07:57+00:00",
@@ -1678,161 +2360,6 @@
       }
     },
     {
-      "id": "d51d88bc08ebe1b0",
-      "title": "Hezbollah claims 26 attacks amid deadly Israeli strikes in Lebanon",
-      "summary": "Hezbollah claims 26 attacks amid deadly Israeli strikes in Lebanon Hezbollah said it carried out 26 attacks against Israeli forces in southern Lebanon since Thursday afternoon, amid intensified Israeli strikes across the region that Lebanese media reported killed more than 30 people. The group said its operations included a missile strike on an Israeli tank near the town of Deir Siryan, shelling targeting Israeli forces advancing on Haddatha and an attack on soldiers gathered in the village of Labbouneh. Hezbollah claimed the attacks caused casualties among Israeli troops but did not provide f",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-26-attacks-amid-deadly-israeli-strikes-lebanon",
-      "source": "Middle East Eye",
-      "published": "2026-05-09T02:41:38+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bf294883cafeab91",
-      "title": "Rubio says sanctions target Chinese entities providing Iran with satellite imagery",
-      "summary": "Rubio says sanctions target Chinese entities providing Iran with satellite imagery US Secretary of State Marco Rubio said Washington had imposed sanctions on Chinese entities accused of providing Iran with satellite imagery used to support attacks against US forces in the Middle East. Rubio said the sanctions also targeted Iran’s overseas arms procurement networks and international companies alleged to have supplied raw materials for Tehran’s missile and drone programmes. “We will use our unilateral sanctions to pursue any party that violates UN Security Council resolutions on Iran,” Rubio sai",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-sanctions-target-chinese-entities-providing-iran-satellite",
-      "source": "Middle East Eye",
-      "published": "2026-05-09T02:39:44+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e4cc05b56fb4434a",
-      "title": "Israel condemns European criticism over West Bank settler violence",
-      "summary": "Israel condemns European criticism over West Bank settler violence Israel’s ambassador to the United Nations, Danny Danon, criticised Britain and France after the two countries called on Israel to halt settler attacks and land seizures in the occupied West Bank. In a post on X, Danon described the demands as “disappointing, but not surprising”, accusing European governments of applying a “double standard” towards Israel. “While countries like the UK and France are failing to deal with waves of terror within their own borders, they are busy diverting attention to Judea and Samaria,” Danon wrote",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-condemns-european-criticism-over-west-bank-settler-violence",
-      "source": "Middle East Eye",
-      "published": "2026-05-09T02:34:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "74e145cd351c68ef",
-      "title": "Oil spill spotted near Iran export terminal on Kharg Island, AP reports",
-      "summary": "Oil spill spotted near Iran export terminal on Kharg Island, AP reports The United States Department of War has declined to comment on reports of a possible recent strike near Iran’s Kharg Island, the country’s main oil export terminal, according to Associated Press. Satellite imagery reviewed by the agency showed an oil spill near the island earlier this week, before the latest round of US strikes on Iranian vessels and coastal targets on Thursday and early Friday. The oil slick was first detected on Tuesday in waters off Kharg Island and had expanded to about 71 square kilometres by Friday, ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-spill-spotted-near-iran-export-terminal-kharg-island-ap-reports",
-      "source": "Middle East Eye",
-      "published": "2026-05-09T01:32:13+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "427a7318f356ba7e",
-      "title": "Iran mocks Trump nuclear threat with Dr Strangelove reference",
-      "summary": "Iran mocks Trump nuclear threat with Dr Strangelove reference Iranian foreign ministry spokesman Esmaeil Baghaei mocked US President Donald Trump over recent comments threatening a possible nuclear strike on Iran. “It is a grotesque absurdity that they claim to seek peace and prevent a nuclear crisis, yet their proposed solution is ‘one big glow’,” Baghaei wrote in a post on X. The spokesman accompanied the post with a clip from Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, the Cold War satire directed by Stanley Kubrick about an accidental nuclear attack on the Soviet ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-spokesman-ridicules-trump-remarks-about-nuclear-strike-threat",
-      "source": "Middle East Eye",
-      "published": "2026-05-09T01:30:47+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "aaa3c3ddc4e1edc4",
       "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
       "summary": "Families displaced by fighting fear new clashes with Thailand, say education among areas most affected by border war.",
@@ -1864,74 +2391,12 @@
       }
     },
     {
-      "id": "81996e25e64b1f29",
-      "title": "Iran warns US Gulf actions threaten international peace, security",
-      "summary": "Iran warns US Gulf actions threaten international peace, security Iran’s ambassador to the United Nations, Amir Saeid Iravani, has condemned recent US actions in the Gulf and Strait of Hormuz as “unlawful” and warned they “constitute a grave and dangerous escalation that further destabilises an already fragile region and poses a serious threat to international peace and security”. In letters sent on Friday to the United Nations Security Council and UN Secretary-General Antonio Guterres, Iravani said the consequences of US military operations “could be catastrophic” and extend beyond the Middle",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-gulf-actions-threaten-international-peace-security",
-      "source": "Middle East Eye",
-      "published": "2026-05-09T01:21:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "04c40157ab59beca",
       "title": "International cyber attack disrupts swathe of universities and schools",
       "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
       "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-05-09T01:17:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "29c45f070d2c89df",
-      "title": "Hungary's new PM to be sworn in during 'regime change' party",
-      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-      "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-09T00:46:16+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2329,37 +2794,6 @@
       }
     },
     {
-      "id": "ea46a8a8c8cc62c1",
-      "title": "Australian by-election a litmus test for right-wing One Nation Party",
-      "summary": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
-      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-08T22:39:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "43d60054f5044b16",
       "title": "Pentagon releases video of strikes on Iranian oil tankers",
       "summary": "Footage released by the Pentagon shows US strikes on two Iranian oil tankers in the Strait of Hormuz.",
@@ -2645,440 +3079,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds",
       "source": "Bloomberg Markets",
       "published": "2026-05-08T21:18:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ab532f212f546827",
-      "title": "Turkey unveils new ICBM touted as able to hit US mainland",
-      "summary": "Promotional AI video showed Yıldırımhan missile seemingly striking nuclear sites in America well beyond its range",
-      "link": "https://www.ft.com/content/d2136091-9fd2-4923-b168-50539e5b27ab",
-      "source": "FT World",
-      "published": "2026-05-08T21:13:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e98922f26c738b68",
-      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-      "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
-      "link": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-08T21:02:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "374967cba934e3a5",
-      "title": "Morocco moves to regulate Eid livestock markets as prices ease amid supply surge",
-      "summary": "Moroccan authorities are moving to tighten oversight of livestock markets ahead of Eid al-Adha, as prices show signs of decline amid abundant supply while concerns persist over intermediaries, informal sales practices and consumer protection. Central services at the Interior Ministry have issued urgent directives to local authorities across the country, calling for the rapid adoption [&#8230;] The post Morocco moves to regulate Eid livestock markets as prices ease amid supply surge appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137522-morocco-moves-to-regulate-eid-livestock-markets-as-prices-ease-amid-supply-surge.html",
-      "source": "Hespress EN",
-      "published": "2026-05-08T21:00:34+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "69ff8635a556445b",
-      "title": "UAE condemns attack on Smara",
-      "summary": "The United Arab Emirates has strongly condemned the attack on the city of Smara in the Moroccan Sahara, which left one person injured, expressing full solidarity with Morocco in the face of any threat to its security and stability. In an official statement, the UAE Foreign Ministry denounced what it described as criminal acts and [&#8230;] The post UAE condemns attack on Smara appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137520-uae-condemns-polisario-attack-on-smara.html",
-      "source": "Hespress EN",
-      "published": "2026-05-08T20:54:29+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "874b6b61056d00e9",
-      "title": "Starmer clings on as Burnham lies in wait after Labour’s dire elections",
-      "summary": "Greater Manchester mayor is hoping to challenge prime minister for party leadership",
-      "link": "https://www.ft.com/content/af82b92b-2f39-4558-ae6e-4575058974d3",
-      "source": "FT World",
-      "published": "2026-05-08T20:46:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "06a179f7ff40aef2",
-      "title": "Shaquille O'Neal on Partnership with Authentic Brands",
-      "summary": "NBA Hall of Famer Shaquille O'Neal & Authentic Brands CEO Jamie Salter discuss the launch of 'Dunkman,' a new dunk league aiming to compete with the NBA dunk contest. They talk with Romaine Bostick at the Milken Institute Global Conference in Beverly Hills, California. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-08/shaquille-o-neal-on-partnership-with-authentic-brands-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T20:45:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c2e8be42eecfd0b9",
-      "title": "S&P Closes Out 6th Straight Week of Gains | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Scarlet Fu, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-08/s-p-closes-out-6th-straight-week-of-gains-closing-bell-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T20:35:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c7db5ecc4b8970b9",
-      "title": "Body of missing Moroccan man found in Mauritania, investigation underway",
-      "summary": "The body of a young Moroccan man, identified as Mohamed Fadel Kroum from Morocco’s southern provinces, was discovered Friday in the Mauritanian capital Nouakchott, days after he was reported missing under mysterious circumstances in late April 2026. According to consistent Hespress AR sources, the body was found inside a residence suspected to be linked to [&#8230;] The post Body of missing Moroccan man found in Mauritania, investigation underway appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/137513-body-of-missing-moroccan-man-found-in-mauritania-investigation-underway.html",
-      "source": "Hespress EN",
-      "published": "2026-05-08T20:24:24+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "40d8cc3ba959bfae",
-      "title": "Honeywell-Backed Computing Firm Quantinuum Files for US IPO",
-      "summary": "Quantinuum Inc., a quantum computing company backed by Honeywell International Inc., filed for a US initial public offering, capitalizing on enthusiasm around quantum computing stocks.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-08/honeywell-backed-computing-firm-quantinuum-files-for-us-ipo",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T20:22:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e17d70e705b155fc",
-      "title": "Precision Neuroscience CEO on Medtronic Partnership, What's Next",
-      "summary": "Precision Neuroscience Co-Founder & CEO Michael Mager discusses the development of a new neurological implant designed to create a communication link with the brain and external computers, as well as the company's partnership with Medtronic. He talks with Romaine Bostick at the Milken Institute Global Conference in Beverly Hills, California. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-08/precision-neuroscience-ceo-on-medtronic-partnership-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T20:15:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1781a0f8f2dfffa6",
-      "title": "Colombia Gives Priority to TGI’s LNG Project as Gas Dwindles",
-      "summary": "Transportadora de Gas Internacional’s planned liquefied natural gas import terminal in Colombia moved closer to execution after the government added it to a list of infrastructure priorities designed to address a growing shortfall in domestic gas supply.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-08/colombia-gives-priority-to-tgi-s-lng-project-as-gas-dwindles",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T20:14:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9664506ad55b5c2a",
-      "title": "Laura Fernandez sworn in as Costa Rica’s new president",
-      "summary": "Fernandez enters office with her right-wing party holding an absolute majority in the legislature.",
-      "link": "https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-08T20:12:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8d1e7c3e1d72f256",
-      "title": "Stocks Hit Record High on Jobs as Chipmakers Surge",
-      "summary": "Signs of labor-market strength drove stocks to all-time highs, bolstering speculation that the world’s largest economy remains resilient in the face of an energy shock triggered by the Iran war. Bets that solid growth will keep powering earnings sent the S&amp;P 500 to its sixth straight weekly advance. A revival of the artificial-intelligence trade fueled an 11% jump in a gauge of chipmakers since last Friday. Oil notched a slide for the week. The US and Iran are working with mediators to formulate a memorandum of understanding that would set the parameters for a month of talks to end the war",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-08/stocks-hit-record-high-on-jobs-as-chipmakers-surge-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-08T20:12:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d5de4992a3aaf807",
-      "title": "US adds 115,000 jobs in April as labour market shrugs off energy shock",
-      "summary": "Hiring exceeds Wall Street forecasts for second month in a row",
-      "link": "https://www.ft.com/content/245e5c30-0a0b-43cd-b4b5-13f023c0b42d",
-      "source": "FT World",
-      "published": "2026-05-08T20:07:09+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
