@@ -1,16 +1,326 @@
 {
-  "generated_at": "2026-05-16T15:36:02.737567+00:00",
+  "generated_at": "2026-05-16T16:39:33.387233+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "6c14921fef6f2e16",
-      "title": "Hamas confirms Israel's killing of leader of military leader",
-      "summary": "Hamas confirms Israel's killing of leader of military leader Hamas has confirmed that Israel killed Izz al-Din al-Haddad, the leader of the Qassam Brigades, Hamas' armed wing, in Gaza. Hamas said Israel killed al-Haddad with his wife, daughter and other Palestinian civilians on Friday evening and that this is a breach of the ceasefire agreement.",
+      "id": "7a822e78ca4cf3c9",
+      "title": "Man killed by 13ft shark in Western Australia",
+      "summary": "The attack occurred at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police say.",
+      "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-16T16:32:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "38ceeba36a72c6fd",
+      "title": "Streeting says he will battle Burnham for Labour leadership",
+      "summary": "Former health secretary promises that ‘I know how to win’ as he announces intention to succeed Sir Keir Starmer",
+      "link": "https://www.ft.com/content/63911cc2-6cad-4d38-9429-ee9749943192",
+      "source": "FT World",
+      "published": "2026-05-16T16:23:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4258ef7d2980afe7",
+      "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
+      "summary": "Israel targeted Izz al-Din al-Haddad, the head of Hamas&#039;s armed wing in Gaza, in an attack that killed seven others.",
+      "link": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-16T16:02:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ebbf0156c8c3fd48",
+      "title": "Trump officials urged UAE to seize Iranian island, report says",
+      "summary": "Trump officials urged UAE to seize Iranian island, report says Senior officials in the administration of Donald Trump encouraged the United Arab Emirates to take a more direct role in the conflict with Iran and capture one of its islands in the Persian Gulf, according to a report by The Telegraph. The report said figures close to Trump proposed that the UAE move to control Lavan Island, which it said had been targeted in covert Emirati strikes in early April. \"Go take them!\" one senior official told the British newspaper. \"It would be Emirati boots on the ground instead of American ones.\"",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-officials-urged-uae-seize-iranian-island-report-says",
+      "source": "Middle East Eye",
+      "published": "2026-05-16T15:59:51+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f0f72e29742bffc1",
+      "title": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
+      "summary": "Nigeria and the US say &#039;key&#039; ISIL leader was killed in joint military operation in Borno state.",
+      "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-16T15:58:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bd611477c7dae6e5",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
+      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-16T15:50:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "adeaee2b612ffdea",
+      "title": "Pakistan seeks Iran understandings to relay to US, sources say",
+      "summary": "Pakistan seeks Iran understandings to relay to US, sources say Pakistani sources told Saudi-owned Al Arabiya that Interior Minister Mohsin Naqvi is visiting Iran to secure understandings that could be passed on to the United States. The sources said Washington had asked for responses on specific issues it had raised, adding that some progress had been made on matters linked to the Strait of Hormuz.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-seeks-iran-understandings-relay-us-sources-say",
+      "source": "Middle East Eye",
+      "published": "2026-05-16T15:42:46+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c17bd2d5cc9c016d",
+      "title": "Returning from China, Trump is Ambiguous Over Taiwan",
+      "summary": "President Donald Trump said he made no commitment to Chinese President Xi Jinping over Taiwan, and would make a decision soon over a planned $14 billion arms deal with the island. Bloomberg White House Correspondent Courtney Subramanian and Reporter Michelle Kaske joined Christina Ruffini and David Gura this morning on Bloomberg This Weekend to discuss the summit’s deals, sticking points and unfinished business. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-16/returning-from-china-trump-is-ambiguous-over-taiwan-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-16T15:40:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "26a99aa5ff693934",
+      "title": "Israel kills last Hamas chief who oversaw October 7 attack",
+      "summary": "Death of Izz al-Din al-Haddad in an air strike piles greater pressure on fragile ceasefire",
+      "link": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
+      "source": "FT World",
+      "published": "2026-05-16T15:38:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "40db2b795df4972d",
+      "title": "Hamas confirms Israel's killing of military leader",
+      "summary": "Hamas confirms Israel's killing of military leader Hamas has confirmed that Israel killed Izz al-Din al-Haddad, leader of the Qassam Brigades, the group’s armed wing, in Gaza. The group said Haddad was killed alongside his wife, daughter and other Palestinian civilians in an Israeli strike on Friday evening in&nbsp;a breach of the ceasefire agreement.",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-confirms-israels-killing-leader-military-leader",
       "source": "Middle East Eye",
       "published": "2026-05-16T15:33:39+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "06271925f6edc1fd",
+      "title": "Iran warns of readiness for war and economic costs as US talks falter",
+      "summary": "Iranian leaders and TV have ramped up pressure on the US with a stream of messaging to domestic and foreign audiences.",
+      "link": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-16T15:33:13+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -97,6 +407,37 @@
       }
     },
     {
+      "id": "89a72844016a35d0",
+      "title": "How Thomas Massie came to represent Republican dissent in age of Trump",
+      "summary": "Massie is locked in a tight congressional primary race in Kentucky against a fellow Republican endorsed by US president.",
+      "link": "https://www.aljazeera.com/news/2026/5/16/how-thomas-massie-came-to-represent-republican-dissent-in-age-of-trump?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-16T15:21:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "d5ed6efb78b47dc4",
       "title": "Mercedes Benz Mulls Diversification into Defense",
       "summary": "",
@@ -105,6 +446,37 @@
       "published": "2026-05-16T15:20:52+00:00",
       "region": "mena",
       "lang": "de",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "af51fa55fce73fad",
+      "title": "Israeli army kills Palestinian man, raids homes in occupied West Bank",
+      "summary": "Israeli forces killed a 34-year-old man in Jenin Camp, the Palestinian health ministry said.",
+      "link": "https://www.aljazeera.com/news/2026/5/16/israeli-army-kills-palestinian-man-raids-homes-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-16T15:16:14+00:00",
+      "region": "global",
+      "lang": "en",
       "body": "",
       "entities": [],
       "geo_tags": [],
@@ -196,37 +568,6 @@
       "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-05-16T15:01:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "26a99aa5ff693934",
-      "title": "Israel kills last Hamas chief who oversaw October 7 attack",
-      "summary": "Death of Izz al-Din al-Haddad in an air strike piles greater pressure on fragile ceasefire",
-      "link": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
-      "source": "FT World",
-      "published": "2026-05-16T15:01:25+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -655,37 +996,6 @@
       }
     },
     {
-      "id": "bd611477c7dae6e5",
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
-      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-16T13:55:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "78f96f8c58d2aecf",
       "title": "Pakistani interior minister arrives in Tehran",
       "summary": "Pakistani interior minister arrives in Tehran Pakistani Interior Minister Mohsin Naqvi has arrived in Tehran to meet his Iranian counterpart and other officials, according to Iranian media. The visit had not been previously publicised.",
@@ -1089,9 +1399,9 @@
       }
     },
     {
-      "id": "15c4cd9669a71541",
-      "title": "London braces for weekend of protest as far right calls for ‘show of force’",
-      "summary": "Police will deploy 4,000 officers across two marches and FA Cup final",
+      "id": "d854891129311b47",
+      "title": "London braces for weekend of protest as far right attempts ‘show of force’",
+      "summary": "Police have deployed 4,000 officers across two marches and FA Cup final",
       "link": "https://www.ft.com/content/a2b18731-2720-496f-baa5-45edec972537",
       "source": "FT World",
       "published": "2026-05-16T12:18:14+00:00",
@@ -1339,7 +1649,7 @@
     {
       "id": "4d5475ba5beb5d28",
       "title": "Thousands march in parallel Nakba Day and far-right rallies in central London",
-      "summary": "Thousands march in parallel Nakba Day and far-right rallies in central London Submitted by Daniel Tester on Sat, 05/16/2026 - 09:56 Police officers deployed in 'unprecedented' numbers to tackle multiple rallies, with extra powers to target activists Protesters holding Palestinian flags and placards march along Piccadilly in central London during a \"Nakba\" demonstration in support of Palestine and against the Far Right, organised by Stop The War coalition on May 16, 2026 (Ben Stansall / AFP) Off Tens of thousands of people gathered in central London on Saturday for a march marking the 78th anni",
+      "summary": "Thousands march in parallel Nakba Day and far-right rallies in central London Submitted by Daniel Tester on Sat, 05/16/2026 - 09:56 Arrests made as police officers deployed in 'unprecedented' numbers to tackle multiple rallies, with extra powers to target activists Protesters march along Piccadilly in central London in support of Palestine and against the far right during a demonstration organised by the Stop the War Coalition on 16 May 2026 (Ben Stansall/AFP) Off Tens of thousands of people gathered in central London on Saturday to attend a march marking the 78th anniversary of the Nakba , wh",
       "link": "https://www.middleeasteye.net/news/thousands-march-parallel-nakba-day-and-far-right-rallies-central-london",
       "source": "Middle East Eye",
       "published": "2026-05-16T11:43:37+00:00",
@@ -1461,39 +1771,8 @@
       }
     },
     {
-      "id": "ba1bb50839e1afb0",
-      "title": "Streeting ally dismisses ‘arrogant’ talk of Burnham coronation",
-      "summary": "Adam Langleben says public deserves a proper Labour leadership contest to replace Keir Starmer",
-      "link": "https://www.ft.com/content/63911cc2-6cad-4d38-9429-ee9749943192",
-      "source": "FT World",
-      "published": "2026-05-16T11:11:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e1c46d4eb89c5200",
-      "title": "LIVE: Chelsea vs Manchester City – FA Cup final",
+      "id": "bf8a8a75b5f37d76",
+      "title": "LIVE: Chelsea 0-1 Manchester City – FA Cup final",
       "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream.",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss",
       "source": "Al Jazeera English",
@@ -2794,37 +3073,6 @@
       }
     },
     {
-      "id": "515b2beb3727015a",
-      "title": "Man killed by 13ft great white shark in Western Australia",
-      "summary": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
-      "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-16T07:04:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "9565ac26972cd726",
       "title": "Report: Trump Administration Prepares to Seek Raúl Castro Indictment as It pressures Cuba",
       "summary": "",
@@ -2832,254 +3080,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-05-16T07:00:40+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7c012ad6bc60864b",
-      "title": "YouTube, Snap and TikTok Settle School District’s Social Media Addiction Claims",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5273771",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-16T06:59:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ff6bda345d771b42",
-      "title": "Israeli military orders residents to flee nine Lebanese towns",
-      "summary": "Israeli military orders residents to flee nine Lebanese towns The Israeli military issued new forced displacement orders for residents of nine towns and villages in southern Lebanon, only hours after Beirut and Israel agreed to extend their ceasefire for another 45 days. The Israeli army warned civilians to leave immediately ahead of planned military action in Qaaqaaiyet al-Snoubar, Kawthariya al-Siyad, Al-Marwaniyah, Al-Ghassaniyah, Tefahta, Arzi, Al-Babliyah, Ansar and Al-Baysariyah.&nbsp; Smoke rises after an Israeli air strike targeted a neighbourhood in the southern Lebanese city of Tyre,",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-orders-residents-flee-nine-lebanese-towns",
-      "source": "Middle East Eye",
-      "published": "2026-05-16T06:56:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "38e20932794e25ff",
-      "title": "Liverpool’s Gomez Rues ‘Frustrating’ Villa Defeat Amid Tight Champions League Race",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5273770",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-16T06:55:45+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c2c72f8a38b0f265",
-      "title": "Aston Villa trounce Liverpool 4-2 to seal Champions League place",
-      "summary": "Liverpool&#039;s woes deepen as Ollie Watkins scores a brace to help his side to a dominant win at Villa Park.",
-      "link": "https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-16T06:48:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d0b142b62dd857c2",
-      "title": "Where did Eurovision go wrong?",
-      "summary": "Eurovision has long claimed to be apolitical. This year, that claim may be its most contested performance yet.",
-      "link": "https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-16T06:45:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "929739079d2fab7c",
-      "title": "Video: Israeli settlers spit towards shrine of Virgin Mary in Jerusalem",
-      "summary": "Video: Israeli settlers spit towards shrine of Virgin Mary in Jerusalem CCTV footage has captured the moment a group of Israeli settlers spat towards the shrine of the Virgin Mary in Jerusalem. The incident occurred on the day of “Flag March,” a national holiday marking the occupation of East Jerusalem by Israeli forces following the 1967 war. CCTV footage has captured the moment a group of Israeli settlers spat towards the shrine of the Virgin Mary in Jerusalem. The incident occurred on the day of “Flag March,” a national holiday marking the occupation of East Jerusalem by Israeli forces foll",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-settlers-spit-towards-shrine-virgin-mary-jerusalem",
-      "source": "Middle East Eye",
-      "published": "2026-05-16T06:42:56+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c0ee84b546aa7d14",
-      "title": "Morning update",
-      "summary": "Morning update Good morning Middle East Eye readers, There are cautious signs of diplomatic movement in the region after Lebanon and Israel agreed to extend their fragile ceasefire for another 45 days, while Iran confirmed it has received signals from Washington about possible new negotiations. Still, violence continues across southern Lebanon, and uncertainty remains over what Donald Trump will do next as tensions with Tehran continue to shape regional security and global markets. Here are the latest developments:&nbsp; Lebanon and Israel agree to extend the ceasefire by another 45 days Iran ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-535",
-      "source": "Middle East Eye",
-      "published": "2026-05-16T06:41:54+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2795597f47bf41a9",
-      "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
-      "summary": "The US Justice Department has arrested and charged an Iraqi national and senior commander of an Iran-backed armed group",
-      "link": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-16T06:24:45+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
