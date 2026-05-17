@@ -1,12 +1,322 @@
 {
-  "generated_at": "2026-05-17T15:10:55.640611+00:00",
+  "generated_at": "2026-05-17T16:14:24.588399+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "83071845c1d3567f",
-      "title": "Iran thanks Pakistan, Iraq and Afghanistan",
-      "summary": "Iran thanks Pakistan, Iraq and Afghanistan Iranian President Pezeshkian has said the goal of the US and Israel in attacking Iran has been \"to spread insecurity inside the country by supporting terrorist groups\". The president made the comments in a meeting in Tehran with Pakistan's Interior Minister Mohsin Naqvi. Pezeshkian said that the US-Israeli plan faiued due to the \"cooperation and responsibility of Iran’s neighbours in preventing any misuse of their territory against our country was a valuable and commendable act\". He also thanked Pakistan, Afghanistan and Iraq for not allowing the US o",
+      "id": "f8c6281645dfe021",
+      "title": "UAE says drone strike caused fire at nuclear plant",
+      "summary": "Attack at Barakah plant caused no injuries, and authorities say radiation levels remain normal",
+      "link": "https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6",
+      "source": "FT World",
+      "published": "2026-05-17T16:06:12+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2d3762bf687f0b92",
+      "title": "UAE condemns drone strike near nuclear plant as ‘dangerous escalation’",
+      "summary": "UAE condemns drone strike near nuclear plant as ‘dangerous escalation’ The United Arab Emirates has condemned the drone strike that sparked a fire near the Barakah nuclear power plant in the west of the country, without assigning responsibility. The Foreign Ministry described the incident as a “dangerous escalation” and an “unacceptable act of aggression” that poses a direct threat to national security. It added that “no threat to security and sovereignty will be tolerated, regardless of the circumstances.”",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-drone-strike-near-nuclear-plant-dangerous-escalation",
+      "source": "Middle East Eye",
+      "published": "2026-05-17T16:01:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0d2a294ec42272a9",
+      "title": "UAE reports drone strike near Abu Dhabi nuclear power plant",
+      "summary": "The country is investigating the source of the strike, which it says came from its western border.",
+      "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-17T15:52:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ba237debc2e8a653",
+      "title": "US college graduates face harsh job market amid economic uncertainty",
+      "summary": "Gov&#039;t funding cuts, war, tariffs and AI advancements intensify competition among recent graduates seeking stable jobs.",
+      "link": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-17T15:41:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8a8eb3d20ea09a1f",
+      "title": "Taiwan not to give up ‘free way of life under pressure’: President",
+      "summary": "Lai says Taiwan will not provoke conflict with China, but will not forsake its dignity or democratic values.",
+      "link": "https://www.aljazeera.com/news/2026/5/17/taiwan-not-to-give-up-free-way-of-life-under-pressure-president?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-17T15:37:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f47bb198af65c673",
+      "title": "UK closes in on trade deal with Gulf states",
+      "summary": "Long-awaited agreement would bring benefits for British luxury car and financial services industries",
+      "link": "https://www.ft.com/content/51379a6a-3ed1-427c-b303-d1491b863ece",
+      "source": "FT World",
+      "published": "2026-05-17T15:34:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d842e73cdfb9970b",
+      "title": "Moroccan fuel station group accuses distributors of diesel quantity fraud",
+      "summary": "A Moroccan association representing fuel station owners and managers has accused fuel distribution companies of delivering less fuel than billed, raising concerns about what it described as widespread irregularities in the sector. The accusation follows a diesel shipment delivered to a fuel station on May 15 that allegedly showed a shortage of more than 150 [&#8230;] The post Moroccan fuel station group accuses distributors of diesel quantity fraud appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138073-moroccan-fuel-station-group-accuses-distributors-of-diesel-quantity-fraud.html",
+      "source": "Hespress EN",
+      "published": "2026-05-17T15:30:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f8631d3537676c9f",
+      "title": "School Buses, Tipping, Dog Companions | BTW: Headlines You Should See",
+      "summary": "Catch up on all the headlines with BTW. Lisa Mateo, Christina Ruffini, David Gura and special guest Brutus the dog, dive into the headlines you may have missed on Bloomberg This Weekend. Watch the show LIVE every Saturday and Sunday morning. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-17/school-buses-tipping-dog-companions-btw-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-17T15:26:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "05e03844354e6cc0",
+      "title": "France moves to deport prominent Palestinian-Egyptian activist over criticism of Israel",
+      "summary": "France moves to deport prominent Palestinian-Egyptian activist over criticism of Israel Submitted by Alex MacDonald on Sun, 05/17/2026 - 15:19 Ramy Shaath was released from arbitrary detention in Egypt in 2022 following lobbying efforts by French President Emmanuel Macron Egyptian-Palestinian political activist Ramy Shaath holds hands with his wife, Celine Lebrun-Shaath, after arriving at Roissy airport outside Paris on 8 January 2022, following more than two years in detention in Egypt (Julien De Rosa/AFP) Off France is moving to deport prominent Egyptian -Palestinian activist Ramy Shaath ove",
+      "link": "https://www.middleeasteye.net/news/france-deport-prominent-palestinian-egyptian-activist-over-criticism-Israel",
+      "source": "Middle East Eye",
+      "published": "2026-05-17T15:21:58+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4d9abbff73d5e34e",
+      "title": "What to know about Panama at the FIFA World Cup 2026",
+      "summary": "Panama are World Cup-bound for a second time in eight years, but in 2026, they&#039;re not there to just make up the numbers.",
+      "link": "https://www.aljazeera.com/sports/2026/5/17/what-to-know-about-panama-at-the-fifa-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-17T15:10:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6faaea3bff944238",
+      "title": "Iran thanks Pakistan, Iraq and Afghanistan for refusing US-Israeli access",
+      "summary": "Iran thanks Pakistan, Iraq and Afghanistan for refusing US-Israeli access Iranian President Masoud Pezeshkian&nbsp;said the goal of the US and Israel in attacking Iran had been \"to spread insecurity inside the country by supporting terrorist groups\". Pezeshkian made the remarks during a meeting in Tehran with Pakistan’s Interior Minister&nbsp;Mohsin Naqvi. Pezeshkian said that the US-Israeli plan failed due to the \"cooperation and responsibility of Iran’s neighbours in preventing any misuse of their territory against our country was a valuable and commendable act\". According to Iranian media, ",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-thanks-pakistan-iraq-and-afghanistan",
       "source": "Middle East Eye",
       "published": "2026-05-17T15:08:07+00:00",
@@ -35,43 +345,12 @@
       }
     },
     {
-      "id": "f5de1bdf3e17f182",
-      "title": "Rep. Clarke: We Need to Take A Look at the Supreme Court",
+      "id": "9989a21846f1c09d",
+      "title": "Rep. Clarke on Impact of Supreme Court's Redistricting Decision",
       "summary": "Rep. Yvette Clarke, Chair of the Congressional Black Caucus, joined Christina Ruffini and David Gura this morning on Bloomberg This Weekend fro a wide-ranging conversation following a Supreme Court ruling that struck down Louisiana's second majority-Black congressional district. (Source: Bloomberg)",
       "link": "https://www.bloomberg.com/news/videos/2026-05-17/rep-clarke-we-need-to-take-a-look-at-the-supreme-court-video",
       "source": "Bloomberg Markets",
       "published": "2026-05-17T15:05:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f8c6281645dfe021",
-      "title": "UAE says drone strike caused fire at nuclear plant",
-      "summary": "Attack at Barakah plant caused no injuries, and authorities say radiation levels remain normal",
-      "link": "https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6",
-      "source": "FT World",
-      "published": "2026-05-17T15:02:44+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1833,8 +2112,8 @@
       }
     },
     {
-      "id": "d779c4ae590ff143",
-      "title": "Donald Trump Jr’s VC firm flaunts political edge in investment push",
+      "id": "38d42fd6963a5cf4",
+      "title": "Donald Trump Jr’s VC firm touts ‘patriotic capitalism’ in investment push",
       "summary": "1789 Capital is seeking to grow its assets to $10bn after building sprawling AI portfolio",
       "link": "https://www.ft.com/content/712a6afa-23e3-480c-a530-6b79cd08a17c",
       "source": "FT World",
@@ -2670,37 +2949,6 @@
       }
     },
     {
-      "id": "18711903f8ab9f0b",
-      "title": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
-      "summary": "Veteran striker Azmoun was not named in the 30-man squad, which will be trimmed to 26 by June 1.",
-      "link": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T08:40:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "854794ac063f5ab4",
       "title": "Saudi Leadership Condoles Kuwait on Death of Sheikh Fadhel Al-Fadhel Al-Sabah",
       "summary": "",
@@ -2708,68 +2956,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-05-17T08:39:19+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e926c16d4936d526",
-      "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
-      "summary": "Republicans seek to allocate $1bn in public funds for Secret Service security upgrades linked to the plans.",
-      "link": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T08:37:38+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a2e9acf120f4ef30",
-      "title": "Chelsea appoint Xabi Alonso as new manager on four-year deal",
-      "summary": "Former Real Madrid coach replaces Liam Rosenior at the end of a difficult season for the Premier League club.",
-      "link": "https://www.aljazeera.com/sports/2026/5/17/chelsea-appoint-xabi-alonso-as-new-manager-premier-league-club-says?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T08:37:02+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2893,192 +3079,6 @@
       "link": "https://english.aawsat.com/node/5274080",
       "source": "Asharq Al-Awsat",
       "published": "2026-05-17T08:02:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6c28459e07ef9c63",
-      "title": "Ukraine Drones Kill 4 in Russia, Moscow Faces Biggest Attack in Over a Year",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274078",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T07:51:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b9423b8b32efdd79",
-      "title": "Streeting says he will battle Burnham for Labour leadership and calls for UK to rejoin EU",
-      "summary": "Former health secretary announces intention to succeed Keir Starmer",
-      "link": "https://www.ft.com/content/63911cc2-6cad-4d38-9429-ee9749943192",
-      "source": "FT World",
-      "published": "2026-05-17T07:38:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c8018f0eedb92ff",
-      "title": "Gaza Talks Face Fallout from Haddad Killing",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274074",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T07:38:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bb814fee79f65c5a",
-      "title": "North Korean Women Footballers Land in South Ahead of Rare Match",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274071",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T07:17:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b67c8fc6bddddc9b",
-      "title": "Mourinho Says Will Decide Future by Next Week amid Real Madrid Talks",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274067",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T07:06:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "54d7b420da595801",
-      "title": "Israeli shelling strikes Khan Younis and Bureij refugee camp, Wafa reports",
-      "summary": "Israeli shelling strikes Khan Younis and Bureij refugee camp, Wafa reports Israeli forces launched attacks across the Gaza Strip, according to the Palestinian news agency Wafa. The agency, citing local sources, said artillery fire struck eastern and southern parts of Khan Younis amid heavy gunfire from Israeli military vehicles positioned near the city. Wafa also reported intense shelling in the eastern areas of the Bureij&nbsp;Refugee Camp, causing panic among residents. In Gaza City, Israeli warships reportedly fired toward the coastline. No casualties were immediately reported.&nbsp; Palest",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-shelling-strikes-khan-younis-and-bureij-refugee-camp-wafa",
-      "source": "Middle East Eye",
-      "published": "2026-05-17T06:58:30+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
