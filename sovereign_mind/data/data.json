@@ -1,8 +1,628 @@
 {
-  "generated_at": "2026-05-17T16:14:24.588399+00:00",
+  "generated_at": "2026-05-17T17:29:46.680704+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "78523b020e28bdd9",
+      "title": "Nvidia in the spotlight",
+      "summary": "Plus, former Google boss takes over at the BBC, primary elections in several US states and the Chelsea Flower Show",
+      "link": "https://www.ft.com/content/ec0583d8-dfe5-4f02-b330-86b6dd27e03d",
+      "source": "FT World",
+      "published": "2026-05-17T17:15:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "324019cbe3c02b62",
+      "title": "Trump warns Iran ‘clock is ticking’ threatening severe consequences",
+      "summary": "Trump warns Iran ‘clock is ticking’ threatening severe consequences US President Donald Trump issued a fresh warning to Iran on Sunday, saying Tehran must act quickly or face severe consequences. \"For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!,\" Trump wrote in a post on Truth Social.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-warns-iran-clock-ticking-threatening-severe-consequences",
+      "source": "Middle East Eye",
+      "published": "2026-05-17T17:13:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0e5441020773bb32",
+      "title": "Bear Mauls Man to Death in Bulgaria",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5274241",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-17T17:13:22+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "05f1709050890503",
+      "title": "The looming energy crunch",
+      "summary": "Supply squeeze due to the Iran war will get worse before it gets better",
+      "link": "https://www.ft.com/content/08665686-f673-46ca-9dba-fd34e1546e7c",
+      "source": "FT World",
+      "published": "2026-05-17T17:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b0e080c7674087ab",
+      "title": "Iran energy crisis enters new phase as peak summer season approaches",
+      "summary": "Emergency measures spread as oil stockpiles run low",
+      "link": "https://www.ft.com/content/f636f726-b185-4f6a-91d2-75ea3d1b9beb",
+      "source": "FT World",
+      "published": "2026-05-17T17:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4d446a590fab82fc",
+      "title": "Around 10 'new' victims in France's Epstein probe: prosecutor",
+      "summary": "Around 10 &#8220;new&#8221; suspected victims have come forward in a French probe into the network of late US sex offender Jeffrey Epstein, a prosecutor said Sunday. France opened a human trafficking investigation after the US Justice Department in January released the latest cache of files from the investigation into the disgraced financier, who died in prison [&#8230;] The post Around 10 &#039;new&#039; victims in France&#039;s Epstein probe: prosecutor appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138080-around-10-new-victims-in-frances-epstein-probe-prosecutor.html",
+      "source": "Hespress EN",
+      "published": "2026-05-17T16:54:06+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "43a5c410aad9dc4f",
+      "title": "US Presents Five-point List that Iran Describes as 'No Tangible Concessions'",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5274230",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-17T16:47:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f579a6a870b7cbcc",
+      "title": "Burnham plays down rejoining EU after Streeting advocates Brexit reversal",
+      "summary": "Contender to be next Labour leader also commits to Rachel Reeves’ fiscal rules in an effort to reassure markets",
+      "link": "https://www.ft.com/content/6338ad6f-cf26-44c6-96e4-c64f1db615dd",
+      "source": "FT World",
+      "published": "2026-05-17T16:43:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7ec4c6637e973ab7",
+      "title": "Israeli strikes in Gaza kill one, wound several in Khan Younis and Gaza City",
+      "summary": "Israeli strikes in Gaza kill one, wound several in Khan Younis and Gaza City Israeli air strikes on Khan Younis and Gaza City have killed one person and wounded several others, according to local reports. In southern Gaza, an Israeli strike on the Khan Younis area killed one person and injured others. In Gaza City, nine people were wounded after an air raid hit near the Broadcasting and Television Authority building in the Tel al-Hawa neighbourhood, southwest of the city. The injured were taken to Al-Quds Hospital, operated by the Palestinian Red Crescent Society. Medical sources said the over",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-gaza-kill-one-wound-several-khan-younis-and-gaza-city",
+      "source": "Middle East Eye",
+      "published": "2026-05-17T16:37:44+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3ea63d42af60afc4",
+      "title": "Israeli Strikes Kill Five People in Gaza",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5274224",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-17T16:34:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "59d0b8bd83e7b491",
+      "title": "Bloomberg This Weekend 5/17/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Luke Broadwater, New York Times White House Correspondent, Mike Lawler, Republican Representative of New York, Soumaya Keynes, Author of \"How to Win a Trade War,\" Missy Ryan, The Atlantic National Security Writer, Theo Baker, Author of \"How to Rule the World,\" Yvette Clarke, Democratic Representative of New York, Leslie Shedd, Former Republican Congressional Advisor, and Ameshia Cross, Democratic",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-17/bloomberg-this-weekend-5-17-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-17T16:33:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2fed3a07db61a0a4",
+      "title": "Three community kitchen workers among five killed by Israel in Gaza",
+      "summary": "Israeli attacks on Gaza have killed at least 871 Palestinians since the so-called ceasefire started last year.",
+      "link": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-17T16:31:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "191eea988e74bc58",
+      "title": "Canadian FM: Is the US still a reliable ally?",
+      "summary": "Anita Anand discusses Donald Trump, NATO, Israel, China and Canada’s international role.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-17T16:30:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "556664a7a175f11a",
+      "title": "Gundlach Says It’s ‘Just Not Possible’ for the Fed to Cut Rates",
+      "summary": "Investors won’t see a rate cut out of the next Federal Reserve policy meeting, according to DoubleLine Capital LP chief executive officer Jeffrey Gundlach.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-17/gundlach-says-it-s-just-not-possible-for-the-fed-to-cut-rates",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-17T16:26:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1c55c837cbf7cb65",
+      "title": "Gucci Takes Over New York's Times Square for Fashion Show",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5274220",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-17T16:25:41+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7cf08e86e710008d",
+      "title": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
+      "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-17T16:25:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8e204c8e922527d8",
+      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+      "summary": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
+      "link": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-17T16:25:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c9c8419d2a122acb",
+      "title": "Saudi Arabia: Imam Turki Reserve Authority Reaffirms Commitment to Protecting Endangered Species",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5274214",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-17T16:15:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eb0677c0d0faa240",
+      "title": "DRC faces deadly Ebola resurgence amid worsening humanitarian crisis",
+      "summary": "The new Ebola outbreak has been reported in the towns of Rwampara, Mongwalu, and Bunia in northeastern DRC",
+      "link": "https://www.aljazeera.com/features/2026/5/17/drc-faces-deadly-ebola-resurgence-amid-worsening-humanitarian-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-17T16:09:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "180834a57831cd3b",
+      "title": "Iranian civilians get defence training",
+      "summary": "Defence training sessions on light weapons were held for Iranian men and women in mosques in several cities.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-17T16:08:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "f8c6281645dfe021",
       "title": "UAE says drone strike caused fire at nuclear plant",
@@ -66,13 +686,13 @@
       }
     },
     {
-      "id": "0d2a294ec42272a9",
-      "title": "UAE reports drone strike near Abu Dhabi nuclear power plant",
-      "summary": "The country is investigating the source of the strike, which it says came from its western border.",
-      "link": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-17T15:52:46+00:00",
-      "region": "global",
+      "id": "af23b0dcb095e438",
+      "title": "Three arrested on beach near Casablanca in overnight police operation",
+      "summary": "Moroccan gendarmerie officers arrested three people overnight after they drove vehicles onto a beach near Soualem Trifiya, south of Casablanca, in violation of local regulations, security sources said Saturday. The suspects were detained by members of the Royal Gendarmerie attached to the Soualem Trifiya territorial unit in Berrechid province under the Settat regional command. According [&#8230;] The post Three arrested on beach near Casablanca in overnight police operation appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138077-three-arrested-on-beach-near-casablanca-in-overnight-police-operation.html",
+      "source": "Hespress EN",
+      "published": "2026-05-17T15:58:09+00:00",
+      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -786,37 +1406,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-05-17T14:17:22+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8e204c8e922527d8",
-      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
-      "summary": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
-      "link": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-17T14:16:00+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1771,37 +2360,6 @@
       }
     },
     {
-      "id": "f579a6a870b7cbcc",
-      "title": "Burnham plays down rejoining EU after Streeting advocates Brexit reversal",
-      "summary": "Cabinet minister Lisa Nandy criticises ex-health secretary’s ‘sudden focus on Europe’",
-      "link": "https://www.ft.com/content/6338ad6f-cf26-44c6-96e4-c64f1db615dd",
-      "source": "FT World",
-      "published": "2026-05-17T12:11:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "20e2195b65ec112c",
       "title": "Canadian from hantavirus-hit cruise ship tests positive",
       "summary": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
@@ -2521,564 +3079,6 @@
       "link": "https://www.middleeasteye.net/news/israel-booed-eurovision-final-bulgaria-wins-competition",
       "source": "Middle East Eye",
       "published": "2026-05-17T09:49:04+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "eacd00cb064a4c66",
-      "title": "Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title",
-      "summary": "Orfi, 18, beats compatriot Nour El-Sherbini in a five-game thriller to win the PSA World Championship title in Giza.",
-      "link": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T09:44:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "26174f984996b5ff",
-      "title": "Report Warns African Militaries Face New Era of Invisible Warfare",
-      "summary": "African militaries must fundamentally rethink their doctrines, intelligence systems and relationships with civilian populations if they hope to confront modern security threats, according to a new report by the defense-focused platform Military Africa. The report, titled “Winning the Invisible War: How African Militaries Must Adapt to Fifth-Generation Warfare,” argues that contemporary conflicts across Africa are [&#8230;] The post Report Warns African Militaries Face New Era of Invisible Warfare appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138062-report-warns-african-militaries-face-new-era-of-invisible-warfare.html",
-      "source": "Hespress EN",
-      "published": "2026-05-17T09:30:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9a4dcf629ac853c8",
-      "title": "How Arsenal or Man City can clinch Premier League title with two games left",
-      "summary": "Arsenal are two points ahead of City but have a slightly inferior goal difference as the season enters its final week.",
-      "link": "https://www.aljazeera.com/sports/2026/5/17/how-arsenal-or-man-city-can-clinch-premier-league-title-with-two-games-left?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T09:29:28+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dec8545ef6008e64",
-      "title": "Israeli strike kills one and injures two in Khan Younis",
-      "summary": "Israeli strike kills one and injures two in Khan Younis An Israeli drone strike in the Khan Younis area of Gaza&nbsp;killed one person and wounded two others in Nasser Hospital, according to a hospital spokesperson.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-one-and-injured-two-khan-younis",
-      "source": "Middle East Eye",
-      "published": "2026-05-17T09:28:25+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f59ceae3ea604f7f",
-      "title": "Ukrainian drone attacks on Russia kill at least five",
-      "summary": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
-      "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T09:14:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3a2f93786d3adef3",
-      "title": "Vietnam’s Largest Refinery Sees ‘Stable’ Operations Through June",
-      "summary": "Vietnam’s largest oil refinery continues to diversify crude supply and is confident that it can maintain stable operations through June, according to a company statement.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-17/vietnam-s-largest-refinery-sees-stable-operations-through-june",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-17T09:14:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0cce08aacf05c468",
-      "title": "Conor McGregor to fight Max Holloway in UFC return on July 11",
-      "summary": "MMA legend will compete for the first time in five years at UFC 329 in the United States.",
-      "link": "https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T09:09:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fec8098e55dac44c",
-      "title": "WHO declares international emergency as Ebola outbreak kills more than 80 in DR Congo",
-      "summary": "An Ebola outbreak in the Democratic Republic of Congo has killed more than 80 as authorities warned there was no vaccine for the strain in a crisis that the World Health Organization declared an international health emergency on Sunday. A total of 88 deaths and 336 suspected cases of the highly contagious haemorrhagic fever have [&#8230;] The post WHO declares international emergency as Ebola outbreak kills more than 80 in DR Congo appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138058-who-declares-international-emergency-as-ebola-outbreak-kills-more-than-80-in-dr-congo.html",
-      "source": "Hespress EN",
-      "published": "2026-05-17T09:05:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4b5564573c1b2b7a",
-      "title": "UAE foreign minister treats Nigel Farage like prime-minister-in-waiting on UK trip",
-      "summary": "UAE foreign minister treats Nigel Farage like prime-minister-in-waiting on UK trip Submitted by Imran Mulla on Sat, 05/16/2026 - 10:12 Abu Dhabi finds common ground with Reform UK over a shared opposition to political Islam UAE Foreign Minister Abdullah bin Zayed Al Nahyan meets Reform UK leader Nigel Farage in London on 15 May 2026 (Screengrab/X) Off The United Arab Emirates ' foreign minister met with Nigel Farage, leader of the right-wing Reform UK party, during a visit to London. Abdullah bin Zayed Al Nahyan, who also serves as the UAE’s deputy prime minister, was photographed sitting with",
-      "link": "https://www.middleeasteye.net/news/uae-foreign-minister-treats-nigel-farage-prime-minister-waiting-uk-trip",
-      "source": "Middle East Eye",
-      "published": "2026-05-17T09:00:47+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2324112bb1381400",
-      "title": "Xabi Alonso Appointed Chelsea Manager on Four-year Deal",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274098",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T09:00:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a9441559cad5dc03",
-      "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-      "summary": "Al Jazeera’s Tohid Asadi reports from the strait and explains Tehran’s newest plan to manage shipping.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T08:56:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "46658b67ce3f632e",
-      "title": "Iran Chief Negotiator Ghalibaf Appointed to Oversee Ties with China",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274095",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T08:48:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "495cd76344ca45c7",
-      "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-      "summary": "Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political boycott in Eurovision history over Gaza war.",
-      "link": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-17T08:42:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "854794ac063f5ab4",
-      "title": "Saudi Leadership Condoles Kuwait on Death of Sheikh Fadhel Al-Fadhel Al-Sabah",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274094",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T08:39:19+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "13291d72a8d7e3c8",
-      "title": "Palestinian President's Son Elected to Top Fatah Leadership Body",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274089",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T08:22:32+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d55659ac1f3b2f09",
-      "title": "Qatari and Saudi foreign ministers discuss US-Iran ceasefire",
-      "summary": "Qatari and Saudi foreign ministers discuss US-Iran ceasefire Qatari Foreign Minister Mohammed bin Abdulrahman bin Jassim Al Thani spoke by phone with Saudi Foreign Minister&nbsp;Faisal bin Farhan Al Saud. According to a statement from Doha, the two discussed the ceasefire between the US and Iran, as well as efforts to de-escalate tensions in the region. The call comes shortly before Iran is expected to unveil plans for managing the Strait of Hormuz, including the possibility of transit tolls.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-and-saudi-foreign-ministers-speak-phone-call",
-      "source": "Middle East Eye",
-      "published": "2026-05-17T08:20:24+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bd07562415144b6e",
-      "title": "Spacecraft to Probe How Earth Fends Off Raging Solar Winds",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274084",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T08:13:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5dd3cf719e998955",
-      "title": "Nepali Duo Break Own Records on Everest",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5274080",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-17T08:02:28+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
