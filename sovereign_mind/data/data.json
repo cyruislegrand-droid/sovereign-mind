@@ -1,8 +1,907 @@
 {
-  "generated_at": "2026-05-23T05:10:55.312190+00:00",
+  "generated_at": "2026-05-23T07:44:22.643399+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "65897d41ebeb2936",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-23T07:40:53+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5a78ff37787643dc",
+      "title": "China Set for Latest Space Launch, with Hong Kong Astronaut Aboard",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276335",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T07:06:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b0e628ba54c1d695",
+      "title": "Morning update",
+      "summary": "Morning update Good morning Middle East Eye readers, Diplomatic efforts to end the Iran conflict remain ongoing, but there has been no breakthrough. Iran says negotiations with Washington are continuing through mediators, while warning that US demands remain a major obstacle. At the same time, Donald Trump is keeping military options on the table if talks fail, even as regional powers, including Pakistan, Qatar and Saudi Arabia, push for de-escalation. Security concerns across the Gulf remain while violence continues in Lebanon and Gaza.&nbsp; Here are the most important developments this morn",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-501",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T07:02:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "208cae891c6d08be",
+      "title": "Gas explosion at Chinese coal mine kills at least 90",
+      "summary": "President Xi Jinping has called on authorities nationwide to learn from the incident.",
+      "link": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-23T06:57:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9a0ec9b05fecfedf",
+      "title": "World Cup 2026: Which star players will miss the tournament?",
+      "summary": "Al Jazeera takes a look at the high-profile players who will play no part in the tournament in North America.",
+      "link": "https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-which-star-players-will-miss-the-tournament?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-23T06:54:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "32c5c4b940d6721d",
+      "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+      "summary": "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.",
+      "link": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-23T06:51:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e837f1e45f7235df",
+      "title": "AI Will Help Make a Nobel Prize-Winning Discovery Within a Year",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276334",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T06:50:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "267b9738358d84be",
+      "title": "Gulf states must compensate Iran for war damages, envoy tells UN",
+      "summary": "Gulf states must compensate Iran for war damages, envoy tells UN Iran’s UN ambassador Amir Saeid Iravani said several Gulf governments should be held internationally responsible for their alleged role in facilitating aggression against Iran and must compensate Tehran for resulting damages. In a letter to UN Secretary-General Antonio Guterres and the Security Council, Iravani rejected what he described as “baseless claims” made by countries on the southern side of the Persian Gulf and criticised recent statements by US officials. The letter mentioned Qatar, Bahrain, Kuwait, Saudi Arabia, the Un",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-states-must-compensate-iran-war-damages-envoy-tells-un",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T06:49:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "26bf5cb274e3c6cd",
+      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+      "summary": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-23T06:40:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3d73024bea49dd11",
+      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-23T06:37:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "911ffa9c82e2bb41",
+      "title": "SpaceX's Upgraded Starship V3 Completes Debut Test Flight from Texas",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276333",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T06:35:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c349c1f680995789",
+      "title": "There’s been 'some progress' on Iran talks, Rubio says",
+      "summary": "There’s been 'some progress' on Iran talks, Rubio says US Secretary of State Marco Rubio has said there has been “some progress” in talks with Iran to end hostilities and reopen the Strait of Hormuz. “We're not there yet, and hopefully that'll change. It may not. Honestly, it may not. We're dealing with a very difficult group of people. And if it doesn't change, then the president's been clear he has other options.” Despite Rubio’s comments, significant divisions remain between Iran and the US. The talks, which are being mediated through Pakistan, Oman and Qatar, come amid fears that a collaps",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/theres-been-some-progress-iran-talks-rubio-says",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T06:31:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "53427b8f83304d14",
+      "title": "Mexico, EU Sign Stalled Trade Deal as they Aim to Diversify from US",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276331",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T06:27:58+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c355b77cec0435f5",
+      "title": "Iran says respecting its rights is key to ending conflict",
+      "summary": "Iran says respecting its rights is key to ending conflict An Iranian defence ministry spokesperson said US President Donald Trump must accept what he described as Iran’s legitimate rights and demands if he wants to avoid further setbacks. Speaking to Tasnim News, Sardar Talainik said Washington had “no choice” but to recognise the demands of the Iranian people and the rights of the country. Talainik said that securing Iran’s demands through both diplomacy and conflict resolution was the only path out of what he called the “third imposed war” involving the United States and Israel. He also urge",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-respecting-its-rights-key-ending-conflict",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T06:26:56+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee158596cb624d56",
+      "title": "Pakistan army chief travels to Tehran in push for US-Iran deal",
+      "summary": "Asim Munir joins mediators including Qatar as effort to prevent resumption of full-scale war intensifies",
+      "link": "https://www.ft.com/content/4fd37931-1f30-43e7-92ed-3ae26c87a00f",
+      "source": "FT World",
+      "published": "2026-05-23T06:22:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "653de50bb06b9322",
+      "title": "Air raid sirens sound in northern Israel over suspected drone intrusion",
+      "summary": "Air raid sirens sound in northern Israel over suspected drone intrusion Air raid sirens were activated in northern Israel on Friday after the Israeli military reported the infiltration of a “hostile aircraft” into the area. The military said aircraft were detected in the airspace over Kiryat Shmona and Rosh HaNikra, both near the border with southern Lebanon. The alerts come amid continuing Israeli attacks along the Lebanon-Israel frontier.&nbsp;&nbsp; Man searches through debris of destroyed building after Israeli strike in Tyre, southern Lebanon, 23 May 2026 (Kawnat Haju/AFP)",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-raid-sirens-sound-northern-israel-over-suspected-drone-intrusion",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T06:17:27+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9b87a626a47e94f0",
+      "title": "Gilgeous-Alexander leads Thunder past Spurs for 2-1 NBA playoff lead",
+      "summary": "Reigning NBA champions see four members of their bench finish in double figures to set up the precious road win.",
+      "link": "https://www.aljazeera.com/sports/2026/5/23/gilgeous-alexander-leads-thunder-past-spurs-for-2-1-nba-playoff-lead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-23T06:07:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ff2977ae7c7be7ca",
+      "title": "Thousands Ordered to Evacuate Around Leaking California Chemical Tank",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276327",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T06:07:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4cdfc25640d1e56b",
+      "title": "Tanker carrying Saudi crude set to arrive in Japan",
+      "summary": "Tanker carrying Saudi crude set to arrive in Japan The first Japanese-managed oil tanker to successfully transit the Strait of Hormuz since the blockade is expected to arrive in Japan shortly, according to public broadcaster NHK. The Panama-flagged Idemitsu Maru is scheduled to dock at a refining facility in Aichi Prefecture on Monday. The vessel is carrying about 2 million barrels of crude oil from Saudi Arabia, NHK reported. Three Japanese crew members aboard the tanker are reportedly in good health, as Japan closely monitors energy shipments through the strategically important waterway.&nbs",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-carrying-saudi-crude-set-arrive-japan",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T06:02:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "50d13a05d76df14b",
+      "title": "Video: Flotilla activist alleges torture and sexual abuse in Israeli detention",
+      "summary": "Video: Flotilla activist alleges torture and sexual abuse in Israeli detention Flotilla activist Meriem Hadjal has alleged abuse and sexual harassment in Israeli detention after returning to France. International outrage has grown following testimonies from flotilla activists, while a viral video appearing to show Israeli minister Itamar Ben-Gvir watching an attack on an activist has circulated online. The flotilla, consisting of more than 50 boats carrying activists, medical supplies, food, and other humanitarian aid, was intercepted by Israeli forces near Cyprus on Tuesday as it attempted to",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-flotilla-activist-alleges-torture-and-sexual-abuse-israeli",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T05:54:21+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b0b92a9ba68a3363",
+      "title": "Iran Weighs Peace Proposal, Accuses US of 'Excessive Demands'",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276324",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T05:51:09+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ac549b5714e0330f",
+      "title": "Tanker reports security incident near Yemen’s Socotra Island",
+      "summary": "Tanker reports security incident near Yemen’s Socotra Island The UK Maritime Trade Operations (UKMTO) agency said a tanker carrying petroleum products reported a security incident about 200 nautical miles west of Yemen’s Socotra Island after a small craft carrying five people approached the vessel. According to the UKMTO, the craft came within about 100 metres of the tanker before changing course after the vessel deployed its armed security team. The agency noted that a similar incident was reported north of Socotra on Friday, amid heightened maritime security concerns in regional waters. UKMT",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-reports-security-incident-near-yemens-socotra-island",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T05:48:56+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bf00aaf32547f0b8",
+      "title": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
+      "summary": "Overcrowded camps in Gaza see a surge in skin diseases. Children are most affected as healthcare services collapse.",
+      "link": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-23T05:46:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a1949c3e7d0c4057",
+      "title": "Trump releases new batch of previously classified UFO files",
+      "summary": "The Trump administration has released a second batch of previously classified files on UFO sightings.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/trump-releases-new-batch-of-previously-classified-ufo-files?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-23T05:33:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "49d5b104526cda1f",
+      "title": "Death Toll Jumps to at Least 90 in China Coal Mine Blast",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276322",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T05:33:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "184c150ae7afe475",
+      "title": "High oil prices help Gulf states weather regional turmoil",
+      "summary": "High oil prices help Gulf states weather regional turmoil Major global credit rating agencies have maintained the sovereign ratings of key Gulf states despite the economic uncertainty caused by the war with Iran and disruptions in the Strait of Hormuz. According to reports published by Investing.com citing data from Moody’s, Fitch and S&amp;P Global Ratings, the agencies pointed to large sovereign wealth assets, strong financial reserves and elevated oil prices as factors supporting the region’s creditworthiness. Qatar retained its Aa2 rating from Moody’s with a stable outlook, while Saudi Ara",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/high-oil-prices-help-gulf-states-weather-regional-turmoil",
+      "source": "Middle East Eye",
+      "published": "2026-05-23T05:28:10+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "acd955b2167bff13",
+      "title": "Thauvin Inspires Lens to Maiden French Cup Title with 3-1 Win Over Nice",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276320",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T05:21:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7812473f02dd9eca",
+      "title": "Mexico Ease Past Ghana in World Cup Warm-up in Puebla",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276318",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-23T05:12:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e291948b628465dc",
+      "title": "Boards of Canada fuse esoteric knowledge and science on Inferno",
+      "summary": "The electronic duo’s first record in 13 years is thought-provoking, but its retro-futurist soundworld loses steam",
+      "link": "https://www.ft.com/content/af214775-519b-4c94-8db7-6b5207cc70bd",
+      "source": "FT World",
+      "published": "2026-05-23T05:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "2e16b1d7df41aef4",
       "title": "Israeli forces target refugee camps in central Gaza despite ceasefire",
@@ -252,37 +1151,6 @@
       }
     },
     {
-      "id": "65897d41ebeb2936",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
-      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-23T04:05:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "31939a48fbc995e7",
       "title": "Gaza flotilla activists allege physical and sexual abuse in Israeli custody",
       "summary": "Gaza flotilla activists allege physical and sexual abuse in Israeli custody Activists detained by Israeli forces after attempting to deliver aid to Gaza aboard a flotilla have alleged that they were subjected to physical and sexual abuse while in custody, according to organisers of the mission. According to the group, some of the most serious incidents occurred aboard an Israeli landing craft converted into a temporary detention facility using shipping containers and barbed wire. The organisation said in a statement that detainees were beaten and subjected to \"humiliating strip searches, sexua",
@@ -440,7 +1308,7 @@
     {
       "id": "50d73ef11c9c308b",
       "title": "How AI has changed M&A",
-      "summary": "The size of deals is hitting new peaks, unloved companies are becoming sexy and PE has found a new gold mine",
+      "summary": "Deals hit record highs, unloved companies turn sexy and PE finds a new gold mine",
       "link": "https://www.ft.com/content/20aed12e-b196-44f8-8a9d-54ba5e37979f",
       "source": "FT World",
       "published": "2026-05-23T04:00:40+00:00",
@@ -1027,9 +1895,9 @@
       }
     },
     {
-      "id": "c1940d735bd607d0",
-      "title": "Xi Urges Chinese Authorities to Curb Accidents After Mine Blast",
-      "summary": "Chinese President Xi Jinping urged authorities nationwide to step up efforts to curb major industrial accidents following a deadly gas explosion at a coal mine in northern Shanxi province, underscoring persistent safety risks in mining and heavy industry.",
+      "id": "23e7503f8e904744",
+      "title": "China Coal Mine Explosion Kills 90 in Deadliest Blast Since 2009",
+      "summary": "A coal mine gas explosion in China’s Shanxi province has killed at least 90 people in the country’s deadliest such incident since 2009, prompting President Xi Jinping to urge nationwide efforts to curb major industrial accidents.",
       "link": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
       "source": "Bloomberg Markets",
       "published": "2026-05-23T03:19:21+00:00",
@@ -1244,37 +2112,6 @@
       }
     },
     {
-      "id": "825af4c86ddf5bd9",
-      "title": "States unable to agree on nuclear nonproliferation goals at UN conference",
-      "summary": "States unable to agree on nuclear nonproliferation goals at UN conference UN member states failed to reach an agreement after four weeks of negotiations on nuclear nonproliferation and disarmament goals, according to the diplomat leading the talks. Do Hung Viet, president of the conference, told reporters in New York that despite extensive efforts, participants were unable to achieve consensus on a final substantive document. Negotiators had been reviewing the Treaty on the Non-Proliferation of Nuclear Weapons, under which 191 countries agreed to limit recognised nuclear weapons states to Chin",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/states-unable-agree-nuclear-nonproliferation-goals-un-conference",
-      "source": "Middle East Eye",
-      "published": "2026-05-23T01:48:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "6d86c44a493cb7bc",
       "title": "India Raises Diesel, Gasoline Prices for Third Time in Eight Days",
       "summary": "India’s state-run refiners raised retail prices again of diesel and gasoline on Saturday to help processors cut losses on discounted sales and to control a spike in demand.",
@@ -1368,13 +2205,13 @@
       }
     },
     {
-      "id": "f7851434d883f46d",
-      "title": "US pauses $14bn Taiwan arms sale amid Iran war, navy says",
-      "summary": "US pauses $14bn Taiwan arms sale amid Iran war, navy says The United States has put a proposed $14 billion arms sale to Taiwan on hold to preserve munitions needed for its ongoing military campaign against Iran, acting Navy Secretary Hung Cao told a Senate hearing.&nbsp;&nbsp; Cao said the pause was intended to ensure the US military had sufficient weapons stockpiles for Operation Epic Fury, the campaign against Iran. “Right now we’re doing a pause in order to make sure we have the munitions we need for Epic Fury,” Cao said.&nbsp; The decision comes weeks after Taiwan’s arms purchases were rep",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-pauses-14bn-taiwan-arms-sale-amid-iran-war-navy-says",
-      "source": "Middle East Eye",
-      "published": "2026-05-23T00:35:27+00:00",
-      "region": "mena",
+      "id": "61593d653fa0b060",
+      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
+      "summary": "More than 30 people, including firefighters, were hurt in the incident, which was described as \"a complex, fast-developing emergency situation\".",
+      "link": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-23T00:35:16+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1430,37 +2267,6 @@
       }
     },
     {
-      "id": "ae7dc415f892fd07",
-      "title": "Trump says US earned back Iran war costs through Venezuela oil",
-      "summary": "Trump says US earned back Iran war costs through Venezuela oil US President Donald Trump said revenues from Venezuelan oil had more than offset the cost of the US war on Iran, claiming the gains had paid for the conflict “about 25 times over”. Speaking during a public address, Trump pointed to US actions involving Venezuela as evidence that his administration’s policies had produced significant economic benefits. “How did we do in Venezuela? Not bad,” Trump said. “We’ve taken out so much oil in Venezuela, we paid for the cost of the war [on Iran] about 25 times over.” The Pentagon said earlier",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-earned-back-iran-war-costs-through-venezuela-oil",
-      "source": "Middle East Eye",
-      "published": "2026-05-23T00:31:33+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "fa0611fa5bd6679f",
       "title": "SpaceX launches redesigned Starship in successful pre-IPO test",
       "summary": "Elon Musk’s company demonstrates the technology at the heart of the biggest initial public offering in history",
@@ -1492,68 +2298,6 @@
       }
     },
     {
-      "id": "6e54bce4823d1b82",
-      "title": "US lawmaker seeks fuel-tax suspension amid rising prices",
-      "summary": "US lawmaker seeks fuel-tax suspension amid rising prices California Congressman Mark Levin said rising fuel prices linked to the US war on Iran are placing a growing burden on American families and businesses, and announced support for legislation to suspend the federal gasoline tax through October 2026.&nbsp; In a post on X, Levin said the conflict had caused gas prices to surge, increasing costs for commuters, parents and small businesses. The proposed measure would temporarily suspend the federal gas tax of 18.4 cents per gallon as lawmakers debate ways to ease pressure on consumers facing ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmaker-seeks-gas-tax-suspension-amid-rising-fuel-prices",
-      "source": "Middle East Eye",
-      "published": "2026-05-23T00:18:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5c8da7fd223a10e2",
-      "title": "Qatar and Saudi Arabia back de-escalation efforts in Iran-US negotiations",
-      "summary": "Qatar and Saudi Arabia back de-escalation efforts in Iran-US negotiations Qatari Prime Minister and foreign minister Mohammed bin Abdulrahman Al Thani held discussions with the foreign ministers of Turkey, Saudi Arabia and Jordan on ongoing Pakistan-led mediation efforts between the United States and Iran, according to Qatar’s foreign ministry. In a summary of Sheikh Mohammed’s call with Saudi Foreign Minister Faisal bin Farhan Al Saud, Al Jazeera reported that both sides stressed the importance of resolving regional crises through peaceful dialogue and coordinating diplomatic efforts to suppo",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-and-saudi-arabia-stress-diplomacy-iran-us-talks",
-      "source": "Middle East Eye",
-      "published": "2026-05-23T00:08:18+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "6b2c31b462ae14e2",
       "title": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
       "summary": "Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
@@ -1561,68 +2305,6 @@
       "source": "Al Jazeera English",
       "published": "2026-05-23T00:00:00+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "949e8295ef70f7d2",
-      "title": "Excessive US demands hindering peace talks, Iran tells UN chief",
-      "summary": "Excessive US demands hindering peace talks, Iran tells UN chief Iranian foreign minister Abbas Araghchi told UN Secretary-General Antonio Guterres that Washington’s “excessive demands” remain the main obstacle to ongoing peace negotiations, Tasnim news reported.&nbsp; Araghchi, in a phone call with Guterres, said the United States had repeatedly undermined diplomacy through broken promises, contradictory positions and military actions, but added that Iran was continuing to engage seriously in Pakistan-mediated talks. Guterres rejected the use of force against any country’s sovereignty and call",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-demands-hindering-peace-talks-iran-tells-un-chief",
-      "source": "Middle East Eye",
-      "published": "2026-05-22T23:59:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3a8a80393ab04c51",
-      "title": "Nine nations condemn Israeli settlement expansion in West Bank",
-      "summary": "Nine nations condemn Israeli settlement expansion in West Bank The Palestinian Authority presidency welcomed a joint statement by nine Western countries condemning Israel’s settlement expansion in the occupied West Bank, describing it as “an important step in the right direction”. The statement specifically warned against the controversial E1 project, which would link the illegal Maale Adumim settlement to Jerusalem. Palestinian officials urged countries to follow their criticism with concrete measures to pressure Israel into halting settlement expansion and other policies in the occupied terr",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nine-nations-condemn-israeli-settlement-expansion-west-bank",
-      "source": "Middle East Eye",
-      "published": "2026-05-22T23:51:45+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1802,37 +2484,6 @@
       }
     },
     {
-      "id": "6e995257e8fe8bb4",
-      "title": "Israel kills at least ten people Lebanon throughout Saturday",
-      "summary": "Israel kills at least ten people Lebanon throughout Saturday Israel has carried out air strikes in Lebanon throughout the day and targeting an area near the Syrian border after earlier raids killed 10 people, according to Lebanese media and the government in Beirut. Lebanon’s state-run National News Agency said Israeli warplanes launched five strikes shortly before midnight on the mountainous Nabi Sreij area, on the outskirts of Brital.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-least-ten-people-lebanon-throughout-saturday",
-      "source": "Middle East Eye",
-      "published": "2026-05-22T22:37:17+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "0f5b38b58428e0c0",
       "title": "Bolivia rocked by protests as fuel shortages and rising costs bite",
       "summary": "Government and armed forces say they will open ‘humanitarian corridors’ to deliver necessities through roadblocks",
@@ -1964,37 +2615,6 @@
       "source": "Al Jazeera English",
       "published": "2026-05-22T22:15:14+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "24e731326bc1e0ce",
-      "title": "On the cusp of reining in Trump, House Republicans cancel war powers vote",
-      "summary": "On the cusp of reining in Trump, House Republicans cancel war powers vote The Republican-led House of Representatives on Thursday unexpectedly cancelled a war powers vote that could have reined in US President Donald Trump's ability to resume hostilities against&nbsp; Iran .&nbsp; It was to be the fourth attempt under the 1973 War Powers Act since February. The vote was scheduled to be among the last on the agenda before lawmakers went away for the extended Memorial Day holiday - and it was likely to be a successful one, given a similar vote held just a week ago came down to a 212-212 tie, whe",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cusp-reining-trump-house-republicans-cancel-war-powers-vote",
-      "source": "Middle East Eye",
-      "published": "2026-05-22T22:15:03+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2459,626 +3079,6 @@
       "link": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-22T20:43:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5065498827717601",
-      "title": "France's youngest PM Attal to run for president",
-      "summary": "Gabriel Attal, once France&#8217;s youngest prime minister, said Friday he would run for president next year when Emmanuel Macron steps down, becoming the second prominent centrist to challenge the far right. &#8220;I can&#8217;t take this kind of French politics anymore, where it&#8217;s just 50 shades of managing decline,&#8221; said the 37-year-old. &#8220;I have decided to [&#8230;] The post France&#039;s youngest PM Attal to run for president appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138498-frances-youngest-pm-attal-to-run-for-president-2.html",
-      "source": "Hespress EN",
-      "published": "2026-05-22T20:32:04+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c5907182f94d6c2e",
-      "title": "Tulsi Gabbard to resign as US director of national intelligence",
-      "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-22T20:30:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "db54240466faa395",
-      "title": "Bolivia in crisis: Social unrest, demands for president to resign escalate",
-      "summary": "Protests have spiraled out of control and President Rodrigo Paz is facing demands to resign.",
-      "link": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-22T20:29:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0ecbde69f66000ed",
-      "title": "EU rejects UK push to create a single market for goods",
-      "summary": "Brussels said it would only discuss the ‘reset’ package of measures at the bloc’s next summit with Britain",
-      "link": "https://www.ft.com/content/b13e35d4-93b2-4c24-8a30-412733978093",
-      "source": "FT World",
-      "published": "2026-05-22T20:22:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d265b417084e251c",
-      "title": "Man City boss and Palestine advocate Pep Guardiola to step down",
-      "summary": "Man City manager Pep Guardiola to step down as manager of Manchester City after a trophy-laden 10-year reign.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-22T20:03:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4f02923290af1201",
-      "title": "San Diego’s Muslims, a mosque, and a city shaken",
-      "summary": "After a deadly shooting, San Diego’s Muslim community mourns, supports one another, and searches for healing.",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/22/aje-onl-usa_sandiegomosque_av_v2-220526?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-22T20:03:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "51ba8f3e7ee43ae1",
-      "title": "What are the implications of US sanctions in Lebanon?",
-      "summary": "Nine people targeted, including Lebanese military officers.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-22T20:00:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a72b3bc038ed9df7",
-      "title": "Indian youth ‘cockroach’ protest goes viral",
-      "summary": "New online movement adopts mascot of household pest to express frustration over rising unemployment",
-      "link": "https://www.ft.com/content/2bfed8a4-8ea0-4627-b7a8-e9ca46945239",
-      "source": "FT World",
-      "published": "2026-05-22T20:00:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ea38b37f89a89b95",
-      "title": "Thousands in Cuba rally for Raul Castro to protest US indictment",
-      "summary": "Thousands of people are protesting outside the US embassy in Havana to show their support for Raul Castro.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-in-cuba-rally-for-raul-castro-to-protest-us-indictment?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-22T19:55:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1887341408090479",
-      "title": "Lantheus Explores Potential $7 Billion Sale Following Offer From Curium",
-      "summary": "Lantheus Holdings Inc. is weighing a sale after getting a takeover offer from Curium that values the radiopharma company at about $7 billion, according to people familiar with the matter.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-22/lantheus-is-said-to-weigh-sale-following-offer-from-curium",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-22T19:53:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8b9e739fd4607b57",
-      "title": "Muni Bond Sales Surge in 2026",
-      "summary": "Bloomberg's Aashah Shah joins Scarlet Fu on \"Bloomberg Real Yield.\" May has been a strong month for muni bond issuance, with about $35 billion of sales so far this year. This month has seen the most debt for a similar period in May since at least 2015, Bloomberg data show. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-22/muni-bond-sales-surge-in-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-22T19:43:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ac3f18a3435272b1",
-      "title": "Slovenia’s parliament approves right-wing Janez Jansa as prime minister",
-      "summary": "Approval of populist former leader is a shift for the EU country recently run by a liberal government.",
-      "link": "https://www.aljazeera.com/news/2026/5/22/slovenias-parliament-approves-right-wing-janez-jansa-as-prime-minister?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-22T19:42:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b4ba64a95646f511",
-      "title": "Credit Entry Points Incredibly Attractive: Steinbach",
-      "summary": "Margaret Steinbach, fixed income director at Capital Group, and Warren Pierson, co-chief investment officer of the Baird Funds, join Scarlet Fu on \"Bloomberg Real Yield.\" Junk debt is beating just about everything else in fixed-income markets after surging yields wiped out gains on most other bonds. Yet with high-yield credit spreads near two-decade lows, investor unease is building. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-22/credit-entry-points-incredibly-attractive-steinbach-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-22T19:42:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3567613b44c342f2",
-      "title": "Danaher Raises $3 Billion in Record Private-Placement Bond Sale",
-      "summary": "Danaher Corp. has completed what is being called a record $3 billion private-placement bond sale.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-22/danaher-raises-3-billion-in-record-private-placement-bond-sale",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-22T19:41:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e0bb8d72dd0774d6",
-      "title": "New York Tax on NYC Cash Home Purchases Close to Collapsing",
-      "summary": "Bloomberg's Nacha Cattan joins Scarlet Fu on \"Bloomberg Real Yield.\" A proposal to levy a new tax on all-cash real estate transactions over $1 million in New York City is likely to be dropped from the state budget, according to people familiar with the negotiations. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-22/new-york-tax-on-cash-home-purchases-close-to-collapsing-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-22T19:36:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c17f9f35db287636",
-      "title": "Tulsi Gabbard resigns as Donald Trump’s US intelligence chief",
-      "summary": "Departure comes as the president weighs whether to resume strikes on Iran",
-      "link": "https://www.ft.com/content/a347267d-c4f8-4ff6-9704-68cc153db4cd",
-      "source": "FT World",
-      "published": "2026-05-22T19:26:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f70f5dc2766cef99",
-      "title": "Sudan War: Is A Settlement Drawing Closer?",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276246",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-22T19:23:29+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b1668a3fb111f3aa",
-      "title": "Morocco declares exceptional public holiday for Eid al-Adha",
-      "summary": "The Moroccan government has announced an exceptional public holiday on Friday, May 29, 2026, in observance of Eid al-Adha. In a press release issued on May 22, authorities said the decision applies to state administrations and local government bodies. The measure follows the celebration of Eid al-Adha, which falls on Wednesday, May 27, 2026, corresponding [&#8230;] The post Morocco declares exceptional public holiday for Eid al-Adha appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138503-morocco-declares-exceptional-public-holiday-for-eid-al-adha-2.html",
-      "source": "Hespress EN",
-      "published": "2026-05-22T19:14:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "94986c3c10b23086",
-      "title": "WHO says new hantavirus case among Hondius ship's crew",
-      "summary": "A member of the MV Hondius cruise ship crew who disembarked in Spain&#8217;s Canary Islands and was repatriated to the Netherlands was confirmed Friday as a new hantavirus case, the WHO said. &#8220;Today, the Netherlands confirmed an additional case among a crew member who disembarked in Tenerife, was repatriated to the Netherlands and has been [&#8230;] The post WHO says new hantavirus case among Hondius ship&#039;s crew appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138482-who-says-new-hantavirus-case-among-hondius-ships-crew.html",
-      "source": "Hespress EN",
-      "published": "2026-05-22T19:14:09+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f37ad46ceb8a5c8d",
-      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
-      "summary": "Pakistan’s Asim Munir is in Tehran as part of mediation efforts, as EU moves to sanction Iran over the Hormuz blockade.",
-      "link": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-22T19:11:05+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
