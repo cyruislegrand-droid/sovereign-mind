@@ -1,8 +1,1124 @@
 {
-  "generated_at": "2026-05-24T06:07:40.788932+00:00",
+  "generated_at": "2026-05-24T08:45:40.136680+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "f8a74719c45a4a0f",
+      "title": "Cyprus Votes for New Parliament with Corruption and Living Costs in Focus",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276655",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T08:41:28+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5314569dd32391d1",
+      "title": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
+      "summary": "US president plans to announce agreement to end war after talks with Gulf leaders and allies",
+      "link": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
+      "source": "FT World",
+      "published": "2026-05-24T08:27:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "58f9e16de3ef5b38",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, according to Volodymyr Zelensky.",
+      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-24T08:22:58+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "be4dfb23a5622a82",
+      "title": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+      "summary": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
+      "link": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-24T08:22:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5b48600319548d81",
+      "title": "Bomb attack in Pakistan’s Balochistan province kills more than 20 people",
+      "summary": "The Balochistan Liberation Army has claimed responsibility for the attack.",
+      "link": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-24T08:21:58+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e4813d1139677fd7",
+      "title": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
+      "summary": "Capital rocked by explosions after Ukrainian leader Volodymyr Zelenskyy warned of imminent large-scale attack",
+      "link": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
+      "source": "FT World",
+      "published": "2026-05-24T08:06:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7d5fb2cd04f4686a",
+      "title": "Dozens Killed in Blast Targeting Train in SW Pakistan",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276647",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T08:05:56+00:00",
+      "region": "mena",
+      "lang": "de",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "31f5fe18d4a072cd",
+      "title": "Gaza Hospital Says Child among Three Killed in Israeli Strike",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276645",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T07:42:38+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b47340073816bbf4",
+      "title": "Trump Touts Imminent Iran Deal That Would Reopen Hormuz Strait",
+      "summary": "US President Donald Trump said a peace deal with Iran was nearing completion and that the reopening of the strategic Strait of Hormuz would be announced shortly, even as an Iranian media outlet cast doubt on the claim.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-24/trump-touts-imminent-iran-deal-that-would-reopen-hormuz-strait",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-24T07:40:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d7c939f34df181c7",
+      "title": "Knicks beat Cavaliers to reach brink of NBA Finals",
+      "summary": "Brunson scores 30 points as the Knicks beat the Cavs 121-108 to take a 3-0 lead in the Eastern Conference finals.",
+      "link": "https://www.aljazeera.com/sports/2026/5/24/knicks-beat-cavaliers-to-reach-brink-of-nba-finals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-24T07:37:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "60a42edec34d58a9",
+      "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
+      "summary": "Anger and mistrust growing over Ebola burials as traditions clash with medical response to prevent spread.",
+      "link": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-24T07:29:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "26692266243c42d9",
+      "title": "‘Party in the Back’: Competitors Vie for European Mullet Crown",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276640",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T07:15:10+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7d8dcd65ea5f0eff",
+      "title": "Man dies in northeast Australia after shark attack",
+      "summary": "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards.",
+      "link": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-24T07:13:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "732525bc358257f1",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-24T07:12:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9fdb73a46e1c1201",
+      "title": "De Zerbi Vows to Stay at Tottenham Even if Side Relegated",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276638",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T07:10:58+00:00",
+      "region": "mena",
+      "lang": "nl",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "89fbc3b158494a6d",
+      "title": "Britain’s Navy Prepares to Clear Mines in the Strait of Hormuz While Waiting for a Peace Deal",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276637",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T07:07:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4246c3d059b7fd00",
+      "title": "ECB Faces Pressure to Hike as Iran War Feeds Prices, Kocher Says",
+      "summary": "The European Central Bank is heading for an interest-rate increase next month unless a sustainable peace deal between the US and Iran can be found, according to Governing Council member Martin Kocher.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-faces-pressure-to-hike-as-iran-war-feeds-prices-kocher-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-24T07:04:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "77d66f8433fda3a5",
+      "title": "Norway-Set Drama About Political Polarization ‘Fjord’ Wins Palme ’Or at Cannes",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276635",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T07:03:05+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c01e8ce1a7bab016",
+      "title": "Iran Hangs Man for Spying during War with US, Israel, Says Judiciary",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276632",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:57:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d3a9533550fe2825",
+      "title": "Norris Encouraged by McLaren Pace Despite Mercedes Front-Row Lockout",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276631",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:55:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e185c3310dcba806",
+      "title": "Former US envoy says escalation would have been worse than deal",
+      "summary": "Former US envoy says escalation would have been worse than deal Former US ambassador to Israel, Dan Shapiro, said the reported agreement between Washington and Tehran was a “weak deal” but argued it was preferable to further military escalation. In a post on X, Shapiro said the conflict had been poorly conceived and lacked clear strategic objectives that could be achieved at an acceptable cost. Shapiro said the reported agreement was among the “less terrible” options available to President Donald Trump and welcomed the apparent decision not to intensify the conflict, warning that further escal",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-us-envoy-says-escalation-would-have-been-worse-deal",
+      "source": "Middle East Eye",
+      "published": "2026-05-24T06:53:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4043b2a565db26b5",
+      "title": "Djokovic Faces Tough Start in Quest for 25 as Roland Garros Begins",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276630",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:52:47+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "17637de83f95936c",
+      "title": "Hotels Strive to Be Found as AI Models Conduct Travel Search",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276628",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:48:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "af2d93fc78144b6c",
+      "title": "Venezuela’s Machado Vows Another Run for Presidency and Eyes Return from Exile Before End of 2026",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276627",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:48:05+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "96106381c1c0216c",
+      "title": "Bangladesh Puts AI in Driving Seat to Tackle Terrible Traffic",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276625",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:41:29+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c04d3c2258830db2",
+      "title": "Morning update",
+      "summary": "Morning update Good morning Middle East Eye readers,&nbsp; The strongest signs yet of a diplomatic breakthrough have emerged after Donald Trump said an agreement between the US, Iran and regional powers has been “largely negotiated”, with only final details left to be settled. Pakistan says another round of talks could take place very soon, while reports suggest the proposed agreement includes reopening the Strait of Hormuz and extending the ceasefire.&nbsp;&nbsp; Here are the key developments:&nbsp; Trump says a US-Iran agreement has been “largely negotiated” and details will be announced soo",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-507",
+      "source": "Middle East Eye",
+      "published": "2026-05-24T06:38:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "721fc55c9500b251",
+      "title": "Would-Be Challenger to UK PM Faces Uphill Battle in Key Vote",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276624",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:38:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eddf0b7f55134ef1",
+      "title": "Heatstroke Kills 16 in India as Temperatures Climb",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276623",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:34:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e90994174aeba317",
+      "title": "Shark Kills Man in Australia’s Queensland State",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276622",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:32:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6a726fc461038c4d",
+      "title": "Guardiola Says Man City Successor Cannot Be ‘Copy and Paste’",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276621",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:29:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "10fb0fd84086d0a8",
+      "title": "'Extremely Dangerous': Cycle-mad Amsterdam Slams Brakes on 'Fatbikes'",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276620",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:29:36+00:00",
+      "region": "mena",
+      "lang": "nl",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b64893ad5c619328",
+      "title": "Yemeni Minister to Asharq Al-Awsat: Hajj Pilgrims Have Been Registered Away from Political, Sectarian Affiliations",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276618",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:26:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "61c4280a05325497",
+      "title": "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven",
+      "summary": "The world heavyweight champion is pushed by the former Dutch kickboxer to 11 rounds in Egypt.",
+      "link": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-24T06:26:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ac152e34de4404cc",
+      "title": "'Imminent' US-Iran deal not in Tel Aviv's interest, Israeli media says",
+      "summary": "'Imminent' US-Iran deal not in Tel Aviv's interest, Israeli media says Israeli media outlets have reported growing concern over an \"imminent agreement\" between Washington and Tehran, with several commentators suggesting the emerging framework may not align with Israel’s strategic objectives. Channel 12 described the coming hours as critical and said details reported so far did not appear to favour Israel. According to Yedioth Ahronoth, concerns are mounting that any agreement may fall short of requiring the dismantling of Iran’s nuclear programme, limiting its missile capabilities or addressin",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/emerging-us-iran-deal-not-tel-avivs-favour-israeli-media-says",
+      "source": "Middle East Eye",
+      "published": "2026-05-24T06:21:10+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "130eda0f309f53a6",
+      "title": "Russia Uses Hypersonic Oreshnik Missile in Mass Attack on Kyiv",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5276616",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-05-24T06:16:28+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9366302d4f39eb77",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-24T06:15:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "61a8a9859b8299cb",
       "title": "Video: Berlin activist says police arrested him again over pro-Palestine pin",
@@ -11,6 +1127,37 @@
       "source": "Middle East Eye",
       "published": "2026-05-24T06:06:12+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f2b6c2bdabb62cdf",
+      "title": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
+      "summary": "More and more women and girls are making a mark in the overwhelmingly male sport, locally called &#039;neza baazi&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-24T06:05:18+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -252,9 +1399,9 @@
       }
     },
     {
-      "id": "d772f4d53691379f",
-      "title": "LIVE: Trump says new Iran deal ‘largely negotiated’ with talks ‘very soon’",
-      "summary": "Middle East leaders join Trump in call on Iran as US push for a peace deal intensifies.",
+      "id": "4fc158b0d2f5626a",
+      "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+      "summary": "US president makes announcement after mediator Pakistan holds &#039;highly productive&#039; talks in Tehran.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-24T05:35:02+00:00",
@@ -376,68 +1523,6 @@
       }
     },
     {
-      "id": "e5ee4bbab93a6d94",
-      "title": "Suspect Dead after Opening Fire near White House Security Checkpoint",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276607",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-24T05:10:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9366302d4f39eb77",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-24T05:06:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "2e65f2a11c804cc6",
       "title": "Haaretz says Netanyahu’s influence over Trump has declined",
       "summary": "Haaretz says Netanyahu’s influence over Trump has declined Relations between Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump are no longer as strong as they once were, according to the military and security affairs editor of the Israeli newspaper Haaretz. The commentator said Israel’s influence over Trump has diminished and argued that signs of a possible agreement between Washington and Tehran are not favourable to Israel. The assessment comes amid growing concern among Israeli political and security figures over reports that the United States and Iran are nearing a di",
@@ -469,99 +1554,6 @@
       }
     },
     {
-      "id": "d4012af3f767e0c3",
-      "title": "Saudi Leadership Condoles Kuwait over Passing of Sheikh Mohammed Faisal Mohammed Abdulaziz Al‑Malik Al‑Sabah",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276605",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-24T04:58:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "223df8dcafb69058",
-      "title": "10,000 Kurds Apply for Syrian Citizenship",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276604",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-24T04:57:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0dff0b142b638b50",
-      "title": "One dead, multiple injured after Russia launches wave of strikes on Ukraine",
-      "summary": "Twenty-one people have been injured, including a 15-year-old boy, with damage reported across all districts of Kyiv.",
-      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-24T04:54:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "66d951bb20ca550c",
       "title": "19 feared trapped after building collapse in Philippines",
       "summary": "An unfinished nine-storey building collapsed near Manila early on Sunday, with 19 workers feared trapped",
@@ -569,37 +1561,6 @@
       "source": "Al Jazeera English",
       "published": "2026-05-24T04:49:21+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b3e1e678bbc3c48c",
-      "title": "Crown Prince Discusses Regional Developments in Phone Call with US President, Arab, and Islamic Leaders",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276602",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-24T04:39:08+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -661,37 +1622,6 @@
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-flotilla-activists-allege-abuse-after-release-israeli-custody",
       "source": "Middle East Eye",
       "published": "2026-05-24T04:25:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5d5e591baf2d8d48",
-      "title": "Lebanon Civil Defense Says Israeli Strike Destroys its Nabatieh Facility",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276600",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-24T04:24:06+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -1399,37 +2329,6 @@
       }
     },
     {
-      "id": "5314569dd32391d1",
-      "title": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
-      "summary": "US president says he will announce agreement to end the war after talks with Gulf leaders and allies",
-      "link": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
-      "source": "FT World",
-      "published": "2026-05-24T01:29:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "1cee5f13c447cfbc",
       "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
@@ -1554,37 +2453,6 @@
       }
     },
     {
-      "id": "4959a22dcc8d9fb0",
-      "title": "CNN: White House shooting suspect dies of injuries",
-      "summary": "CNN: White House shooting suspect dies of injuries The suspect involved in an armed incident near the White House has died from injuries sustained during the confrontation, according to CNN, citing the US Secret Service. The incident prompted a major security response on Saturday evening, with police and federal agents deploying around the White House complex. US President Donald Trump was inside the White House at the time, according to earlier reports. The area was cordoned off and access restricted as authorities responded. Kash Patel said FBI personnel were assisting the US Secret Service ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-white-house-shooting-suspect-dies-injuries",
-      "source": "Middle East Eye",
-      "published": "2026-05-24T01:03:56+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "7c5229204c104e41",
       "title": "LNG Tanker Exits Hormuz for India for First Time Since War Began",
       "summary": "A liquefied natural gas tanker carrying a shipment for India has exited the Strait of Hormuz, the first for the country from the Persian Gulf since the Iran war began months ago as the region’s exporters discreetly supply key buyers.",
@@ -1592,68 +2460,6 @@
       "source": "Bloomberg Markets",
       "published": "2026-05-24T01:02:37+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e3b0c10fccf75c02",
-      "title": "Iran reviews negotiations with Iraq, Turkey and Qatar",
-      "summary": "Iran reviews negotiations with Iraq, Turkey and Qatar Iranian foreign minister Abbas Araghchi held separate phone calls with his counterparts from Iraq, Turkey and Qatar to discuss regional developments and ongoing Pakistan-mediated talks between Tehran and Washington. The discussions included Iraqi foreign minister Fuad Hussein, Turkish foreign minister Hakan Fidan and Qatari Prime Minister and foreign minister Mohammed bin Abdulrahman Al Thani. According to the Iraqi foreign ministry, Araghchi told Hussein that progress had been made in the latest round of negotiations, particularly regardin",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-reviews-negotiations-iraq-turkey-and-qatar",
-      "source": "Middle East Eye",
-      "published": "2026-05-24T00:53:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "90b65386eb519d59",
-      "title": "Egyptian President urges diplomacy in call with Trump and regional leaders",
-      "summary": "Egyptian President urges diplomacy in call with Trump and regional leaders Egyptian President Abdel Fattah el-Sisi called for a diplomatic agreement to end current tensions with Iran and prevent renewed escalation during a phone call with US President Donald Trump and several Middle Eastern leaders, according to a statement from Egypt’s presidency. The call included Abdullah II, Mohammed bin Salman, Mohamed bin Zayed Al Nahyan, Recep Tayyip Erdogan and Tamim bin Hamad Al Thani. El-Sisi stressed the need to seize what he called the available diplomatic window for a peaceful settlement and said ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-president-urges-diplomacy-call-trump-and-regional-leaders",
-      "source": "Middle East Eye",
-      "published": "2026-05-24T00:12:56+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1715,68 +2521,6 @@
       "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-05-23T23:34:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "135a1c1b90bb0aef",
-      "title": "Russia pounds Kyiv with missiles and drones in heavy overnight assault",
-      "summary": "Capital is rocked by explosions after Ukraine’s Zelenskyy warned of an imminent large-scale attack",
-      "link": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
-      "source": "FT World",
-      "published": "2026-05-23T23:25:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b27c7aa0555ad53a",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-23T23:24:03+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2336,750 +3080,6 @@
       "source": "BBC World",
       "published": "2026-05-23T19:55:16+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "220f091a9e7d413c",
-      "title": "Iran move World Cup base from US to Mexico with FIFA approval",
-      "summary": "Iran were expected to fly from Turkiye to Arizona to continue World Cup 2026 preparations but will switch to Mexico.",
-      "link": "https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T19:18:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f7f88df9a51dce09",
-      "title": "Hungary’s New Premier Warns Predecessor Left Budget ‘Skeletons’",
-      "summary": "Hungary’s new Prime Minister Peter Magyar said he was hoping for economic growth of about 2% this year but put voters on notice that the state of public finances left by his predecessor made it impossible to make firm forecasts.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-23/hungary-s-new-premier-warns-predcessor-left-budget-skeletons",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-23T19:17:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d6fcce40b855720e",
-      "title": "US warns Japan of severe delays in Tomahawk deliveries due to Iran war",
-      "summary": "Missiles could come two years late as Pentagon works to replenish stocks depleted in Middle East military campaign",
-      "link": "https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70",
-      "source": "FT World",
-      "published": "2026-05-23T19:00:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cfae5373ef1533ae",
-      "title": "Tens of thousands rally in Serbia for antigovernment demonstrations",
-      "summary": "The student-led movement, which began after the Novi Sad disaster in November 2024, is pushing for early elections.",
-      "link": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T18:58:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a7f338fcf8e0dde3",
-      "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-      "summary": "Munir met senior Iranian officials on Saturday as Islamabad and Doha push to finalise a memorandum to end the war.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T18:37:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c16cbafade80fc4d",
-      "title": "France bans Israeli security minister Ben Gvir from country",
-      "summary": "France announced on Saturday it has banned Israeli National Security Minister Itamar Ben Gvir from entry for mocking bound activists seized by Israeli soldiers on a Gaza-bound aid flotilla. &#8220;From today, Itamar Ben Gvir is banned from entering French territory&#8221; after &#8220;his reprehensible actions towards French and European citizens&#8221; who were part of the humanitarian [&#8230;] The post France bans Israeli security minister Ben Gvir from country appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138547-france-bans-israeli-security-minister-ben-gvir-from-country.html",
-      "source": "Hespress EN",
-      "published": "2026-05-23T18:33:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4695bce4542ff619",
-      "title": "US and Iran move closer to extending ceasefire by 60 days, say mediators",
-      "summary": "Terms of the deal include the gradual reopening of the Strait of Hormuz",
-      "link": "https://www.ft.com/content/0f6f9962-c6c4-4c75-bba2-8b103edfbc85",
-      "source": "FT World",
-      "published": "2026-05-23T18:31:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c567911761d0f0fe",
-      "title": "Police beat and detain Gaza flotilla activists at airport",
-      "summary": "Police forcibly detained members of the Global Sumud Flotilla and their supporters at Bilbao Airport.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T18:30:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c57f6b8f90c25be",
-      "title": "Barcelona beat Lyon 4-0 to win Women’s Champions League",
-      "summary": "Barcelona claim their fourth trophy of the season by beating Lyon 4-0 in Norway in the Women&#039;s Champions League final.",
-      "link": "https://www.aljazeera.com/sports/2026/5/23/barcelona-beat-lyon-to-claim-womens-champions-league-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T18:10:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bef14cbaee894514",
-      "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
-      "summary": "Latest Truth Social post comes amid &#039;delicate diplomacy&#039;, expert says, as US and Iran indicate progress in talks.",
-      "link": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T17:56:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cd64f34b5631910f",
-      "title": "Morocco king pardons jailed Senegal football fans from AFCON final",
-      "summary": "Morocco jailed 18 Senegal fans following fan disturbances at the Africa Cup of Nations final in January.",
-      "link": "https://www.aljazeera.com/sports/2026/5/23/morocco-king-pardons-jailed-senegal-football-fans-for-humanitarian-reasons?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T17:53:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "724f8873445d95e6",
-      "title": "Thousands march in Madrid demanding Spanish PM quit over graft allegations",
-      "summary": "Prime Minister Pedro Sanchez maintains the cases against his family and entourage are politically motivated.",
-      "link": "https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T17:40:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "afeaaf4e5af8e559",
-      "title": "Delivery Hero reveals Uber takeover bid at €10bn valuation",
-      "summary": "German food group has also been approached by rival DoorDash, people familiar with the situation said",
-      "link": "https://www.ft.com/content/6d5df0df-74b3-4be9-a1ec-27322e1c3184",
-      "source": "FT World",
-      "published": "2026-05-23T17:35:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1c2ba2bbf970eaff",
-      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
-      "summary": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
-      "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-23T17:33:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "68cc5de665ca2c10",
-      "title": "Official: Iraq Has Not Yet Applied for an IMF Loan",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276535",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-23T17:31:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e7239b7373d6160f",
-      "title": "Morocco pardons Senegal fans jailed after AFCON final unrest",
-      "summary": "Morocco’s King Mohammed VI has pardoned Senegalese supporters jailed after violence and disturbances surrounding the chaotic 2025 Africa Cup of Nations final. The royal cabinet said the pardon, announced ahead of Eid al Adha, concerned Senegalese fans convicted over offenses committed during the tournament Morocco hosted between Dec. 21, 2025 and Jan. 18, 2026. “This [&#8230;] The post Morocco pardons Senegal fans jailed after AFCON final unrest appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138545-morocco-pardons-senegal-fans-jailed-after-afcon-final-unrest.html",
-      "source": "Hespress EN",
-      "published": "2026-05-23T17:29:01+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d30f455b522d094c",
-      "title": "Hull beat Boro in world’s most lucrative game to reach Premier League",
-      "summary": "Hull City beat Middlesbrough 1-0 in Championship playoff final at Wembley to seal promotion and ease spy-gate scandal.",
-      "link": "https://www.aljazeera.com/sports/2026/5/23/hull-beat-boro-in-worlds-most-lucrative-game-to-reach-premier-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T17:18:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6f93f7a045a39926",
-      "title": "Thousands rally in Taiwan to boost defence spending amid China tensions",
-      "summary": "Thousands rally in Taipei backing higher defence spending after US pauses $14 billion arms sale to Taiwan.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/thousands-rally-in-taiwan-to-boost-defence-spending-amid-china-tensions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-23T17:14:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "41460f0d9e09f9eb",
-      "title": "More Children’s Hospitals Turn to Furry Caregivers to Help Kids Heal",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276528",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-23T17:07:46+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3ad89c764949be19",
-      "title": "US Military Conducts Rapid Response Exercise at Embassy in Venezuela",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276526",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-23T16:58:43+00:00",
-      "region": "mena",
-      "lang": "ca",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "eddd11f65f67de58",
-      "title": "Trump Says Negotiators Are Getting Closer to Iran Deal",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276524",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-23T16:50:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bea1cb82af7b6873",
-      "title": "Climate Change Threatens Global Plant Species as Habitats Shrink",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276522",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-23T16:39:11+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d2f7dc350f97973e",
-      "title": "Durov attacks WhatsApp as Texas challenges Meta’s encryption claims",
-      "summary": "Pavel Durov accused WhatsApp of misleading users over privacy protections after Texas sued the messaging platform and parent company Meta over claims tied to its encryption system. “WhatsApp encryption is a giant fraud,” the Pavel Durov wrote on X , citing allegations in a lawsuit filed by Texas Attorney General Ken Paxton accusing WhatsApp of [&#8230;] The post Durov attacks WhatsApp as Texas challenges Meta’s encryption claims appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138543-durov-attacks-whatsapp-as-texas-challenges-metas-encryption-claims.html",
-      "source": "Hespress EN",
-      "published": "2026-05-23T16:31:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8d0371d32ef4e053",
-      "title": "Saudi Foreign Minister, Egyptian Counterpart Discuss Regional Developments",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5276518",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-23T16:29:40+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
