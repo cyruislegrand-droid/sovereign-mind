@@ -1,12 +1,415 @@
 {
-  "generated_at": "2026-05-28T21:34:12.050604+00:00",
+  "generated_at": "2026-05-28T23:02:44.766434+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "6d786d0255c60762",
-      "title": "Iran’s president reiterates Tehran not seeking nuclear weapons",
-      "summary": "Iran’s president reiterates Tehran not seeking nuclear weapons Iranian President Masoud Pezeshkian has repeated that Iran is not seeking to develop nuclear weapons while accusing Israel of fuelling instability in the region. In comments reported by the state-linked ISNA news agency, Pezeshkian also appeared to refer to ongoing negotiations with the US, saying: “We do not engage in diplomacy with humiliation.” “If we stand against the strongest power in the world, we must accept the hardships, we cannot fight and expect the process to be as normal as before,” he added.",
+      "id": "44ad5ffe3e5c7232",
+      "title": "Israeli drone strike near Khan Younis kills three people",
+      "summary": "Israeli drone strike near Khan Younis kills three people Three people have been killed and others wounded in an Israeli drone attack on a security checkpoint in the al-Mawasi area near the southern Gaza city of Khan Younis. The information was reported by Al Jazeera Arabic, citing a source at Nasser Hospital in Khan Younis.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-near-khan-younis-kills-three-people",
+      "source": "Middle East Eye",
+      "published": "2026-05-28T22:53:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8a10bd4d3ba8660f",
+      "title": "Washington nearing deal to extend Iran ceasefire, US officials say",
+      "summary": "Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire",
+      "link": "https://www.ft.com/content/89c43161-27c3-4e4d-a5f6-49d895cde3da",
+      "source": "FT World",
+      "published": "2026-05-28T22:50:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ac3ddc8dec12d6c3",
+      "title": "Iranian forces fire warning shots at vessels near Hormuz",
+      "summary": "Iranian forces fire warning shots at vessels near Hormuz Iran’s Mehr news agency says Iranian armed forces fired warning shots at four vessels near the Strait of Hormuz. The vessels were “attempting to pass through the strait without coordination”, Mehr said in a post on Telegram.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-forces-fire-warning-shots-vessels-near-hormuz",
+      "source": "Middle East Eye",
+      "published": "2026-05-28T22:22:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8fdf8d4c223aa577",
+      "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
+      "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
+      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-05-28T22:13:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "07b5130089d05d84",
+      "title": "Asian Stocks to Rise on Firming US-Iran Sentiment: Markets Wrap",
+      "summary": "Asian equities were poised to advance after gains in US stocks and Treasuries, as reports suggested Washington and Tehran were nearing an agreement to extend a ceasefire.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/asian-stocks-to-rise-on-firming-us-iran-sentiment-markets-wrap",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-28T22:02:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ce112c9594371abd",
+      "title": "Oil Edges Lower on Tentative Deal to Extend US-Iranian Truce",
+      "summary": "Oil edged lower after the US and Iran tentatively agreed to extend a ceasefire by 60 days, according to a person familiar with the matter, potentially allowing shipments through the Strait of Hormuz to resume.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/oil-edges-lower-at-open-on-tentative-deal-to-extend-iran-truce",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-28T22:02:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "79e0fbfda30c993c",
+      "title": "Spanish police dismantle drone smuggling network moving drugs from Morocco to France",
+      "summary": "Spanish police have dismantled a cross border drug trafficking network that used large fixed wing drones to transport hashish and cocaine from northern Morocco into southern Spain before moving the shipments onward to France, authorities said. The operation, dubbed “Horus,” led to the arrest of eight suspects and the seizure of 40 kilograms of hashish, [&#8230;] The post Spanish police dismantle drone smuggling network moving drugs from Morocco to France appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138846-spanish-police-dismantle-drone-smuggling-network-moving-drugs-from-morocco-to-france.html",
+      "source": "Hespress EN",
+      "published": "2026-05-28T22:00:38+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee852994cded04bf",
+      "title": "Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt",
+      "summary": "A big challenge for Colombia&#039;s next president will be how to reduce country&#039;s debt without sacrificing social gains.",
+      "link": "https://www.aljazeera.com/economy/2026/5/28/colombias-first-left-wing-govt-has-reduced-poverty-but-has-pile-of-debt?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-28T21:56:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b5e026b66ea424c4",
+      "title": "FirstFT: Washington nearing agreement to extend Iran ceasefire, US officials say",
+      "summary": "Also in today’s newsletter: Anthropic finalises $65bn funding deal, and Nvidia chief Jensen Huang to join board at Tsinghua University",
+      "link": "https://www.ft.com/content/cc539034-0184-428a-a8ff-df48124f1eaf",
+      "source": "FT World",
+      "published": "2026-05-28T21:56:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d895b0539bac60e8",
+      "title": "Bessent says no sanctions relief before Hormuz reopens and uranium surrendered",
+      "summary": "Bessent says no sanctions relief before Hormuz reopens and uranium surrendered US Treasury Secretary Scott Bessent says Washington will not consider lifting sanctions on Iran until the Strait of Hormuz is reopened and Tehran agrees to hand over its stockpile of highly enriched uranium. “Nothing is going to be on the table until we see the Strait of Hormuz open, and the Iranians agree they have to turn over the highly enriched uranium,” Bessent said.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bessent-says-no-sanctions-relief-hormuz-reopens-and-uranium-surrendered",
+      "source": "Middle East Eye",
+      "published": "2026-05-28T21:49:32+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "33133f21de6cf83d",
+      "title": "Guatemala denies agreeing to US strikes against drug traffickers",
+      "summary": "President Bernardo Arevalo&#039;s government says it requested security cooperation but did not approve US attacks.",
+      "link": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-28T21:42:39+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "633b08fa824d3024",
+      "title": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
+      "summary": "Families in the Lebanese city of Tyre saw their homes destroyed by Israeli bombs just hours after they were ordered evac",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-28T21:40:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5f023087a6547691",
+      "title": "Senegal advance to AFCON U17 final after shootout win",
+      "summary": "Morocco’s U17 national team was eliminated from the U17 Africa Cup of Nations after losing 7-6 on penalties to Senegal in the semifinals on Thursday, following a 1-1 draw in regular time. Senegal took the lead in the 23rd minute through Mohamed Wagner and held their advantage for much of the match despite growing pressure [&#8230;] The post Senegal advance to AFCON U17 final after shootout win appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138853-senegal-advance-to-afcon-u17-final-after-shootout-win.html",
+      "source": "Hespress EN",
+      "published": "2026-05-28T21:32:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c3214220cfccb7c4",
+      "title": "Iran’s president reiterates that Tehran not seeking nuclear weapons",
+      "summary": "Iran’s president reiterates that Tehran not seeking nuclear weapons Iranian President Masoud Pezeshkian reiterated that Iran is not seeking to develop nuclear weapons while accusing Israel of fuelling instability in the region. In comments reported by the state-linked ISNA news agency, Pezeshkian also appeared to refer to ongoing negotiations with the US, saying: “We do not engage in diplomacy with humiliation.” “If we stand against the strongest power in the world, we must accept the hardships; we cannot fight and expect the process to be as normal as before,” he added.",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-reiterates-tehran-not-seeking-nuclear-weapons",
       "source": "Middle East Eye",
       "published": "2026-05-28T21:29:40+00:00",
@@ -42,6 +445,37 @@
       "source": "Hespress EN",
       "published": "2026-05-28T21:28:24+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "de05a4a3a12d136d",
+      "title": "US judge rejects immediate block on Trump’s mail-in voting executive order",
+      "summary": "Judge Carl Nichols says Democrats’ legal challenge is premature as the administration moves to implement the measure.",
+      "link": "https://www.aljazeera.com/news/2026/5/28/us-judge-rejects-immediate-block-on-trumps-mail-in-voting-executive-order?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-28T21:24:26+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -252,6 +686,37 @@
       }
     },
     {
+      "id": "79429c975bfd8cf6",
+      "title": "Five Charts That Show Rising Yields Reshaping Japanese Markets",
+      "summary": "Japan’s financial markets have entered a new phase in which rising bond yields no longer signal just the healthy normalization of monetary policy, but also the risk that inflation may increase too much.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/five-charts-that-show-rising-yields-reshaping-japanese-markets",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-28T21:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "2e8dacc79da4a5d6",
       "title": "Europe hit by record-breaking heatwave",
       "summary": "European countries are issuing heat warnings as an unseasonal heatwave drives record temperatures across the continent.",
@@ -376,12 +841,12 @@
       }
     },
     {
-      "id": "b80e8d4eb8dbe499",
-      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-      "summary": "European Union says sanctioned individuals and groups have violated the rights of Palestinians.",
-      "link": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-28T20:31:05+00:00",
+      "id": "217db0a18bd8810c",
+      "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores",
+      "summary": "Senior executive Dave Treadwell tells staff ‘don’t use AI just for the sake of using AI’ as costs rise",
+      "link": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+      "source": "FT World",
+      "published": "2026-05-28T20:31:09+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -407,12 +872,12 @@
       }
     },
     {
-      "id": "8fdf8d4c223aa577",
-      "title": "US and Iran reach tentative deal to extend ceasefire, US officials say",
-      "summary": "But there has been conflicting information from Tehran, with one news agency reporting that no deal has been finalised or confirmed.",
-      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-05-28T20:28:12+00:00",
+      "id": "b80e8d4eb8dbe499",
+      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+      "summary": "European Union says sanctioned individuals and groups have violated the rights of Palestinians.",
+      "link": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-28T20:31:05+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -903,37 +1368,6 @@
       }
     },
     {
-      "id": "8a10bd4d3ba8660f",
-      "title": "Washington nearing deal to extend Iran ceasefire, US officials say",
-      "summary": "Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire",
-      "link": "https://www.ft.com/content/89c43161-27c3-4e4d-a5f6-49d895cde3da",
-      "source": "FT World",
-      "published": "2026-05-28T19:27:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "500e3f222ba0bdfe",
       "title": "Bessent Says Trump Won’t Accept a Bad Deal on Iran: Full Briefing",
       "summary": "Treasury Secretary Scott Bessent said that President Trump will not make a bad deal with Iran amid reports of a 60-day truce extension waiting the president's approval. Bessent, speaking at the White House press briefing, outlined President Trump's conditions for a deal with Iran, saying that for a deal to happen the country must agree to open the Strait of Hormuz, turn over its enriched uranium and not to pursue a nuclear weapon. (Source: Bloomberg)",
@@ -996,37 +1430,6 @@
       }
     },
     {
-      "id": "fc4af983dde0f0b6",
-      "title": "Very Bifurcated Market in High Yield: Pimco's Forgash",
-      "summary": "David Forgash, managing director and head of leveraged finance at Pimco, joins Dani Burger on \"Bloomberg ETF IQ.\" They speak at the Goldman Sachs Annual Leveraged Finance Conference in Dana Point, California. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-28/very-bifurcated-market-in-high-yield-pimco-s-forgash-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-28T19:20:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "a93527c0bca348a7",
       "title": "Drilldown: AdvisorShares Psychedelics ETF",
       "summary": "Dan Ahrens, CIO & portfolio manager at AdvisorShares, joins Katie Greifeld and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the AdvisorShares Psychedelics ETF (ticker: PSIL). (Source: Bloomberg)",
@@ -1064,37 +1467,6 @@
       "link": "https://www.ft.com/content/7df0906c-6d9b-4440-b94e-65af0a785f7b",
       "source": "FT World",
       "published": "2026-05-28T19:17:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a6ffd47ccf25009d",
-      "title": "Index Rule Changes for SpaceX IPO 'Odd': Todd Sohn",
-      "summary": "Todd Sohn, ETF strategist at Strategas, joins Katie Greifeld and Eric Balchunas on \"Bloomberg ETF IQ.\" Nasdaq instituted a rule change that shortens the time for newly public companies to be added to its index, while S&amp;P Dow Jones and FTSE Russell are considering similar changes. This comes ahead of expected mega IPOs from SpaceX, OpenAI and Anthropic. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-28/index-rule-changes-for-spacex-ipo-odd-todd-sohn-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-28T19:16:38+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1281,6 +1653,37 @@
       "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-05-28T18:36:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bbf3fc45808d319f",
+      "title": "Jefferies Sued by Fund Investors Alleging Water Firm Fraud",
+      "summary": "Jefferies Financial Group Inc. has been hit with an investor class action lawsuit over bond purchases made by its 352 Capital fund in a water vending machine firm that federal prosecutors have called a scam.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-28/jefferies-sued-by-fund-investors-over-massive-water-bond-fraud",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-28T18:35:59+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2360,37 +2763,6 @@
       }
     },
     {
-      "id": "56de9309a3e606a6",
-      "title": "Pakistan foreign minister to meet Rubio in Washington",
-      "summary": "Pakistan foreign minister to meet Rubio in Washington Pakistan says Foreign Minister Mohammad Ishaq Dar will meet US Secretary of State Marco Rubio in Washington, DC, tomorrow to discuss “regional and global developments”, including Islamabad’s recent peace efforts. Pakistan has taken on a key mediation role between the US and Iran in recent months during the war in the Middle East, including helping negotiate a temporary ceasefire in April. Pakistan’s foreign ministry said the two officials will “review bilateral relations and exchange views on regional and global developments of mutual inter",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-foreign-minister-meet-rubio-washington",
-      "source": "Middle East Eye",
-      "published": "2026-05-28T16:26:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "cced51f3b652932e",
       "title": "Man arrested after three injured in stabbing at Swiss train station",
       "summary": "A 31-year-old Swiss man has been arrested, police say, as images from the scene show parts of the station cordoned off.",
@@ -2639,37 +3011,6 @@
       }
     },
     {
-      "id": "8557d2dae83ef5a8",
-      "title": "Oil prices rebound as markets watch war on Iran",
-      "summary": "Oil prices rebound as markets watch war on Iran&nbsp; Oil prices recovered some of their steep losses from earlier in the week on Thursday, while US stocks remained close to record highs as major companies continued reporting strong profits. The S&amp;P 500 slipped 0.1 percent from the all-time high it reached a day earlier. The Dow Jones Industrial Average fell 219 points, or 0.4 percent, by 9:35am Eastern time, while the Nasdaq composite dropped 0.2 percent after both indexes also hit record levels the previous day. Markets appeared less sensitive to swings in oil prices even as crude climbe",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rebound-markets-watch-war-iran",
-      "source": "Middle East Eye",
-      "published": "2026-05-28T16:05:44+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "c5f5ebaef3c45d23",
       "title": "Sinner Struggles with Illness, Low Energy as Cerundolo Shocks French Open Favorite in Second Round",
       "summary": "",
@@ -2739,347 +3080,6 @@
       "source": "Hespress EN",
       "published": "2026-05-28T16:00:15+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c28bbee72c1fbb84",
-      "title": "Why Jordan cannot be stripped of Al-Aqsa custodianship",
-      "summary": "Why Jordan cannot be stripped of Al-Aqsa custodianship Submitted by Mustafa Abu Sway on Thu, 05/28/2026 - 15:55 Tampering with the Hashemite status quo at Jerusalem's holy sites would put the region and the world on a collision course The author is pictured with Father Nabil Haddad at the Royal Hashemite Court in Amman, Jordan, in December 2025 (Supplied photo) Off Despite Washington’s long-standing recognition of Jordan as the custodian of Muslim and Christian holy sites in Jerusalem, including Al-Aqsa Mosque, Middle East Eye has reported that the US and Israel are “actively working” to disma",
-      "link": "https://www.middleeasteye.net/opinion/why-jordan-cannot-be-stripped-al-aqsa-custodianship",
-      "source": "Middle East Eye",
-      "published": "2026-05-28T15:59:01+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "563a9f8e1886d4d4",
-      "title": "Report Says Iran and US Reach Outline Ceasefire Deal After Latest Attacks",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5278161",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-28T15:57:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dad08f91a58e5d62",
-      "title": "US Stocks Hit Records on Iran Deal Report as Oil Pares Gains",
-      "summary": "Stocks climbed to fresh records Thursday after reports of a deal between the US and Iran fanned optimism that the conflict is inching toward an end.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-28/us-stocks-reverse-losses-on-iran-deal-report-as-oil-pares-gains",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-28T15:57:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "657a739273fdabd9",
-      "title": "Germany shifts on EU oversight of financial services",
-      "summary": "Capital markets union ‘more important than clinging to national interests’, says finance minister",
-      "link": "https://www.ft.com/content/c7507d54-768a-49ab-95e9-06ac13e94966",
-      "source": "FT World",
-      "published": "2026-05-28T15:55:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "df55a0a55b08d304",
-      "title": "Israel PM Says Orders Army to Take Control of 70 Percent of Gaza Strip",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5278159",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-05-28T15:53:11+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "98459f167e4fe051",
-      "title": "US, Mexico, Canada announce Ebola-related travel measures for World Cup",
-      "summary": "World Cup hosts agree steps to counter Ebola threat after WHO declares public health emergency ​of international concern",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/us-mexico-canada-announce-ebola-related-travel-measures-for-world-cup?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-28T15:52:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b6a56e00950d9cfc",
-      "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
-      "summary": "US official says Oman should know that Washington &#039;will aggressively target&#039; actors that facilitate tolls in waterway.",
-      "link": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-28T15:44:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f3fb9691714ac41d",
-      "title": "Neymar set to miss Brazil World Cup opener due to calf injury",
-      "summary": "Neymar was injured playing for Santos in the Brazil domestic league, and is now confirmed to miss World Cup friendlies.",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/neymar-out-of-brazil-world-cup-opener-due-to-calf-injury?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-28T15:34:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cf5460918b88156a",
-      "title": "Europe must build its own AI defense capabilities, Mistral CEO says",
-      "summary": "French artificial intelligence company Mistral AI defended the use of AI in military applications on Thursday, responding to criticism from Pope Leo XIV over the growing role of artificial intelligence in warfare. Arthur Mensch, the company’s co-founder and chief executive officer, said Europe could not ignore the expanding military use of AI by rival powers. [&#8230;] The post Europe must build its own AI defense capabilities, Mistral CEO says appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/138833-europe-must-build-its-own-ai-defense-capabilities-mistral-ceo-says.html",
-      "source": "Hespress EN",
-      "published": "2026-05-28T15:31:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2a81f1d5285a475e",
-      "title": "The Bethlehem Project Podcast: An immigration raid divides a community",
-      "summary": "In this first episode, we explore how an immigration raid sent a chill through the community",
-      "link": "https://www.ft.com/content/60ce0671-a60d-4041-85a9-ec137d09ec7a",
-      "source": "FT World",
-      "published": "2026-05-28T15:27:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5ebda20104f5eac0",
-      "title": "Dollar Falls Against Major Peers on Report of US-Iran Deal",
-      "summary": "The dollar fell against all of its major peers after a report that the US and Iran reached an agreement to extend a ceasefire, pending the approval of President Donald Trump.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-28/dollar-falls-against-major-peers-on-report-of-us-iran-deal",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-28T15:11:35+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
