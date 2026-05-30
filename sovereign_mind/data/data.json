@@ -1,15 +1,573 @@
 {
-  "generated_at": "2026-05-30T12:17:30.794885+00:00",
+  "generated_at": "2026-05-30T14:16:03.891377+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "8c7bacc015e8b7a0",
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
+      "id": "f1cf46a2b6969ac1",
+      "title": "Gaza death toll rises to 72,938 as Israeli attacks continue",
+      "summary": "Gaza death toll rises to 72,938 as Israeli attacks continue The number of Palestinians killed in Israeli attacks in the Gaza Strip has risen to&nbsp;72,938, with 172,919 people wounded since 7 October 2023, according to the Palestinian health ministry. The ministry added that Israeli strikes have killed 929 Palestinians and wounded 2,811 others&nbsp;since a nominal ceasefire took effect on 11 October.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-72938-israeli-attacks-continue",
+      "source": "Middle East Eye",
+      "published": "2026-05-30T14:03:35+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7ac3705feaebce69",
+      "title": "Can AI Grow Without Hurting Local Communities?",
+      "summary": "The rush to build AI data centers is drawing trillions of dollars in investment and long-term bets from infrastructure firms such as DigitalBridge. But in communities where those facilities are being built, residents and officials are raising concerns about electricity costs, water use, noise, transparency and who bears the risk if demand falls short. Michigan Attorney General Dana Nessel is challenging approval of a major data center project near Ann Arbor, arguing that ratepayers deserve more transparency about contracts and potential costs. DigitalBridge CEO Marc Ganzi says the industry can",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-30/can-ai-grow-without-hurting-local-communities-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-30T14:03:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "84420e1d7e7fa931",
+      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+      "summary": "Israel’s military has advanced beyond Lebanon&#039;s Litani River for the first time since 2006.",
+      "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-30T13:50:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7d8cbca0b5ec994c",
+      "title": "Ebola Outbreak Raises Global Health Concerns",
+      "summary": "Travel restrictions and border closures are hindering the response to Ebola as aid workers say they are battling to get to some of the areas where the outbreak has been the most vicious. Former Center of Disease Control and Prevention Director Dr. Tom Frieden joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-30/ebola-outbreak-raises-global-health-concerns-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-30T13:50:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1108b7a353f585d7",
+      "title": "Israeli military readies for possible surge in fire from Lebanon",
+      "summary": "Israeli military readies for possible surge in fire from Lebanon The Israeli army warned that it expects an escalation in fire from Lebanon towards northern Israel, amid its expansion of military operations in southern Lebanon, Israeli newspaper Haaretz reported. Sirencs sounded in several northern Israeli communities as the army attempted to intercept a drone launched from Lebanon, it added.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-readies-possible-surge-fire-lebanon",
+      "source": "Middle East Eye",
+      "published": "2026-05-30T13:47:41+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8dd6b90574b95d99",
+      "title": "Hegseth Reaffirms US Commitment to Pacific Allies",
+      "summary": "US Defense Secretary Pete Hegseth praised defense allies in Asia and hailed newly stable ties with China, while taking swipes at longstanding security partners in Europe. Bloomberg News Global Defense Editor Gerry Doyle joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss the comments Hegseth made Saturday at an Asia security forum in Singapore, which are the latest sign of the Trump administration shifting attention toward the Indo-Pacific while expressing antagonism toward Europe and the NATO alliance. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-reaffirms-us-commitment-to-pacific-allies-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-30T13:39:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b216c368943ba685",
+      "title": "US 'more than capable' of resuming war with Iran: Hegseth",
+      "summary": "The United States has more than sufficient stockpiles of weapons and is &#8220;more than capable&#8221; of resuming the war with Iran, Pentagon chief Pete Hegseth said in Singapore on Saturday. &#8220;Our ability to recommence if necessary is (that) we are more than capable, our stockpiles are more than suited for that, both there and around [&#8230;] The post US &#039;more than capable&#039; of resuming war with Iran: Hegseth appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138941-us-more-than-capable-of-resuming-war-with-iran-hegseth.html",
+      "source": "Hespress EN",
+      "published": "2026-05-30T13:38:46+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ae9041ea33a9489f",
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
       "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
       "link": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-05-30T12:16:40+00:00",
+      "published": "2026-05-30T13:34:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d165bf14389b3512",
+      "title": "BP’s High-Stakes Reboot Descended Into an Ugly Boardroom Drama",
+      "summary": "When Albert Manifold was hired as chairman of BP Plc, he joked to friends the company needed a “gurrier” &mdash; Irish slang for a savvy and scrappy streetfighter &mdash; to help turn its fortunes around.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-30/bp-s-high-stakes-reboot-descended-into-an-ugly-boardroom-drama",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-30T13:30:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee5a24f19a79915a",
+      "title": "Analysis Finds Trump's Deregulation Plan Falls Flat",
+      "summary": "A White House plan to rapidly repeal regulations has flopped, with just a handful of rules dumped via the expanded use of an administrative shortcut since a widespread review effort was ordered more than a year ago. Bloomberg Law Principal Legal Reporter Robert Iafolla joined David Gura and Christina Ruffini on Bloomberg This weekend to discuss. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-30/analysis-finds-trump-s-deregulation-plan-falls-flat-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-30T13:25:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "07da97e9dbce6f59",
+      "title": "Violence against foreign-owned shops in South Africa",
+      "summary": "Foreign workers in South Africa are again facing violence and protests by anti-immigrant groups.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-30T13:10:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cb9529b156245da6",
+      "title": "How Europe's new biometric border system is on a collision course with Marhaba 2026",
+      "summary": "Every summer, hundreds of thousands of Moroccan families living in Europe pack their cars and head home as part of the Marhaba operation; one of the world&#8217;s most logistically demanding seasonal migrations. This year, those travelling to Morocco meet something new at the border. The EU&#8217;s Entry/Exit System, known as the EES, became fully operational [&#8230;] The post How Europe&#039;s new biometric border system is on a collision course with Marhaba 2026 appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138939-how-europes-new-biometric-border-system-is-on-a-collision-course-with-marhaba-2026.html",
+      "source": "Hespress EN",
+      "published": "2026-05-30T13:04:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "93d6f2769cce2393",
+      "title": "Lebanon army says targeted Israeli strike wounds two soldiers",
+      "summary": "Lebanon army says targeted Israeli strike wounds two soldiers Lebanon's military has said that a \"targeted\" Israeli strike wounded two soldiers in southern Lebanon, a day after military delegations from the two countries met in Washington. In a statement, the Lebanese army said \"two soldiers were seriously wounded as a result of being targeted inside a vehicle by a hostile Israeli drone\" near the southern city of Nabatieh.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-army-says-targeted-israeli-strike-wounds-two-soldiers",
+      "source": "Middle East Eye",
+      "published": "2026-05-30T13:02:06+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "925188790e238388",
+      "title": "‘Dinosaur’ Tech Stocks Reborn as AI Fuels $1.7 Trillion Rally",
+      "summary": "They were all stars of the dot-com era before fading into the background as the bubble burst and a new generation of tech darlings rose to the forefront. But Dell Technologies Inc., Nokia Oyj and Lenovo Group Ltd. are back with a vengeance thanks to the unrelenting artificial intelligence spending boom.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-30T13:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "690b431977551be8",
+      "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
+      "summary": "WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-30T12:53:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9549735321d6ec08",
+      "title": "The Iran war is dividing Muslims in the Philippines",
+      "summary": "Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.",
+      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-30T12:49:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "629d146891661a4b",
+      "title": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
+      "summary": "Senior U.S. and Cuban military officials held a rare face-to-face meeting near Guantanamo Bay.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-30T12:49:12+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7890fd0bd7d98a32",
+      "title": "Three uncles arrested after video shows six year old pushed to drink alcohol",
+      "summary": "Moroccan police arrested two more suspects early Saturday after a widely shared video showed a six year old child being pushed to drink alcohol, bringing the number of detainees in the case to three. The National Judicial Police Brigade made the arrests based on intelligence from Morocco&#8217;s domestic intelligence service, the DGST, after the first [&#8230;] The post Three uncles arrested after video shows six year old pushed to drink alcohol appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/138937-three-uncles-arrested-after-video-shows-six-year-old-pushed-to-drink-alcohol.html",
+      "source": "Hespress EN",
+      "published": "2026-05-30T12:32:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "896a927e5a1dfebd",
+      "title": "Hegseth Praises Asian Allies, Takes Swipe at NATO",
+      "summary": "US Defense Secretary Pete Hegseth praised defense allies in Asia and hailed newly stable ties with China, while taking swipes at longstanding security partners in Europe. Bloomberg's Singapore Editor-At-Large Haslinda Amin joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss the comments Hegseth made Saturday at an Asia security forum in Singapore, which are the latest sign of the Trump administration shifting attention toward the Indo-Pacific while expressing antagonism toward Europe and the NATO alliance. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-praises-asian-allies-takes-swipe-at-nato-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-05-30T12:24:56+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -66,12 +624,74 @@
       }
     },
     {
+      "id": "6d2622cc0b816480",
+      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+      "summary": "Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.",
+      "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-30T12:04:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "83169d4b8878d10b",
       "title": "Why Britain’s Bond Market Is Sounding the Alarm",
       "summary": "As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country’s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, reviving memories of past market crises that helped topple governments from Harold Wilson to Liz Truss. With Britain’s debt burden elevated and both major parties under pressure to spend more, the bond market is increasingly shaping the limits of economic policy. Authers argues the UK may be confronting f",
       "link": "https://www.bloomberg.com/news/videos/2026-05-30/why-britain-s-bond-market-is-sounding-the-alarm-video",
       "source": "Bloomberg Markets",
       "published": "2026-05-30T12:03:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9e9daab9fa565a43",
+      "title": "LIVE: PSG vs Arsenal – Champions League final",
+      "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream of UEFA&#039;s showpiece final.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/30/live-psg-vs-arsenal-champions-league-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-05-30T12:02:50+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2460,626 +3080,6 @@
       "source": "Middle East Eye",
       "published": "2026-05-30T05:56:30+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8e4ce4318501468e",
-      "title": "President Pezeshkian says Iran ready for ‘dignified framework’ to end war",
-      "summary": "President Pezeshkian says Iran ready for ‘dignified framework’ to end war Iranian President Masoud Pezeshkian said the Islamic Republic is ready to achieve a “dignified framework” to end the ongoing war and reduce regional tensions, state media reported.&nbsp; During a phone call with Tamim bin Hamad Al Thani, Pezeshkian stressed that Tehran has consistently demonstrated its commitment to dialogue and diplomacy, the IRNA report said.&nbsp; The Iranian president said the other side must also show “genuine political will” and adhere to its international obligations in order to move the process f",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/president-pezeshkian-says-iran-ready-dignified-framework-end-war",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T05:47:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d422d80b850d1499",
-      "title": "Video: Israel attacks children’s playground in Gaza, reports of deaths and injuries",
-      "summary": "Video: Israel attacks children’s playground in Gaza, reports of deaths and injuries A children’s playground in Gaza was attacked by Israeli air strikes, with video showing destruction, damaged play equipment, and blood on the ground. Reports from locals indicate deaths and multiple injuries following the attack. The attack is part of ongoing Israeli attacks across Gaza that have repeatedly hit civilian infrastructure, including areas used by children and families, amid widespread atrocities committed during Israel's genocide in the enclave. A children’s playground in Gaza was attacked by Israe",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israel-attacks-childrens-playground-gaza-reports-deaths-and",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T05:32:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "50137782acc7a52d",
-      "title": "White House says Trump will accept only a deal that meets US red lines",
-      "summary": "White House says Trump will accept only a deal that meets US red lines A White House official said that a meeting of the US-Iran task force concluded after about two hours of discussions, stressing that President Donald Trump “will not make any agreement with Tehran unless it is good for the United States and meets its red lines”, Al Jazeera reported.&nbsp; Meanwhile, an Israeli official told CNN there is genuine concern that Trump could agree to what the official described as a “bad” interim deal with Iran. According to the official, any acceptable agreement must include the removal of Iran’s",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-trump-will-accept-only-deal-meets-us-red-lines",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T05:30:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "547565a0d373a23c",
-      "title": "Hegseth: US is ‘more than capable’ of resuming war with Iran",
-      "summary": "Hegseth: US is ‘more than capable’ of resuming war with Iran Speaking at the Shangri-La Dialogue, US Secretary of War Pete Hegseth said the United States has sufficient weapons stockpiles and remains ready to resume military operations against Iran if required. “Our ability to recommence if necessary is [that] we are more than capable; our stockpiles are more than suited for that, both there and around the globe, because of how we balance exquisite and more plentiful munitions,” Hegseth said, according to AFP. The Pentagon chief’s remarks come as Washington continues diplomatic efforts with Te",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-us-more-capable-resuming-war-iran",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T04:57:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f00b8f4abae0e6e5",
-      "title": "MiniMax Eyes China Listing, Takes on AI Rivals Like DeepSeek",
-      "summary": "China’s MiniMax Group Inc. has begun preparations for a domestic listing, according to a regulatory filing, as the fast‑growing artificial intelligence startup challenges local rivals including DeepSeek.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek",
-      "source": "Bloomberg Markets",
-      "published": "2026-05-30T04:48:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8b7fc80cddb8e3b5",
-      "title": "Petition forces UK debate on Israeli lobbying in British politics",
-      "summary": "Petition forces UK debate on Israeli lobbying in British politics British lawmakers are set to debate concerns about Israeli lobbying and its potential influence on UK politics after a public petition attracted more than 116,000 signatures, surpassing the threshold required for parliamentary consideration. The debate is scheduled for 22 June and will focus on what campaigners describe as “reported Israeli state-linked and pro-Israel lobbying activity in UK politics” and its possible impact on political decision-making. “We feel that the horrific devastation in Gaza, the ongoing suppression of ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/petition-forces-uk-debate-israeli-lobbying-british-politics",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T04:41:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d2b68bef995ebb15",
-      "title": "Frustration in Lebanon as Israel expands invasion",
-      "summary": "Israel’s ground invasion of Lebanon has moved deeper into sovereign territory, with troops crossing the Litani river.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-05-30T04:36:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "34b59eac5fed2147",
-      "title": "Video: Flotilla volunteer details torture after seizure in international waters",
-      "summary": "Video: Flotilla volunteer details torture after seizure in international waters Belgian sailor and Global Sumud Flotilla volunteer Arno Meyns says he suffered fractured ribs and a collapsed lung after Israeli forces illegally seized a Gaza-bound aid vessel in international waters and kidnapped those on board. Meyns described being transferred to a makeshift prison ship where detainees were stripped of most of their clothing, deprived of basic necessities and subjected to systematic violence and humiliation. He said passengers were kept disoriented, forced to keep their heads down, constantly a",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-flotilla-volunteer-details-torture-after-seizure-international",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T04:27:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "df2c2d9e6adc67cf",
-      "title": "Israeli forces demolish homes in southern Lebanon",
-      "summary": "Israeli forces demolish homes in southern Lebanon Israeli forces have demolished residential homes in the town of Dibbine in Lebanon’s Marjayoun district, according to reports from Al Jazeera Arabic. The demolitions came as the Israeli military said it had intercepted a “launch” that crossed into northern Israel from Lebanon. The military did not specify whether the projectile was a rocket or a drone and provided no information about damage or casualties. Earlier, air raid sirens were activated in several areas of northern Israel. The Israeli military also said its forces had destroyed a Hezbo",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-homes-southern-lebanon",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T04:23:01+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "61c2e669b544f5d6",
-      "title": "Netanyahu says Israeli troops have crossed north of Litani River",
-      "summary": "Netanyahu says Israeli troops have crossed north of Litani River Israeli Prime Minister Benjamin Netanyahu made a surprise visit to the Lebanese border, where he confirmed that Israeli troops had crossed north of the Litani River and advanced south of the city of Nabatieh. The announcement comes after more than a week of intensified Israeli military operations in southern Lebanon, including air strikes, drone attacks and artillery bombardments aimed at securing strategic high ground near Nabatieh. According to the announcement, military operations will continue in southern Lebanon and could in",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israeli-troops-have-crossed-north-litani-river",
-      "source": "Middle East Eye",
-      "published": "2026-05-30T04:13:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dcd7a2e8536b5a1a",
-      "title": "Greens discuss downgrading some policies to prepare for possible UK coalition",
-      "summary": "A wealth tax would be one of their non-negotiable pledges after the next general election, a senior party figure said",
-      "link": "https://www.ft.com/content/c2eb5a75-ebc0-4981-9452-2b5aceab4fea",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3a710c28181e726f",
-      "title": "Bulgaria to be punished for deficit only months after joining euro",
-      "summary": "European Commission to place Sofia under ‘excessive deficit procedure’ for breaching budget rules",
-      "link": "https://www.ft.com/content/38119f3e-4570-4367-a014-9c5bd626cfb6",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "eb453b2139a0b557",
-      "title": "The very British banality of the SNP’s shopping scandal",
-      "summary": "Seven Dyson vacuums, two Bremont watches . . . and a Jaguar in the driveway . . .",
-      "link": "https://www.ft.com/content/f49b6f10-e559-45f7-943a-0b0baf3ddcd9",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "320db45e276daffc",
-      "title": "Trump gets his man in Texas. The Republicans could be the losers",
-      "summary": "By favouring a divisive candidate, the president may have put the Senate in play",
-      "link": "https://www.ft.com/content/437dae98-dc36-432e-a2f6-3eab2eb1bb84",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e5dc59716a7b2f79",
-      "title": "Five emerging themes for US stock investors",
-      "summary": "Active portfolios need to take into account factors such as risk management of giga-caps",
-      "link": "https://www.ft.com/content/042e6cc2-c680-479d-803b-e3a47db69929",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "df9e948a05149b9b",
-      "title": "Wealth tax fears reignited by UK leadership uncertainty",
-      "summary": "Contenders Streeting and Burnham have both hinted at tax reforms",
-      "link": "https://www.ft.com/content/0194916f-c741-417d-94c8-b87aa437aee2",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1186f1fe0548dfa7",
-      "title": "No restaurant should be too posh to serve tap water",
-      "summary": "None of modernity’s silly purchases can compare with bottled water when there is drinkable stuff in the taps",
-      "link": "https://www.ft.com/content/8ac95015-39b6-4318-ac62-922736f0dd28",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fd9e2510729a9400",
-      "title": "The floor versus the ceiling",
-      "summary": "The world has come to prefer a high minimum to outright excellence",
-      "link": "https://www.ft.com/content/7d3ea5eb-8b5c-4282-af95-3b305d4a25f3",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f19dc8359872756f",
-      "title": "JPMorgan chases retail banking’s golden fleece",
-      "summary": "US bank’s international expansion is gaining some traction",
-      "link": "https://www.ft.com/content/3f90901f-e560-4347-a9d1-b2d640a4b8eb",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "df5a2013f9ef0730",
-      "title": "London Stadium back in spotlight after West Ham’s Premier League exit",
-      "summary": "East London club will pay less rent for venue that has struggled to satisfy public since 2012 Olympics",
-      "link": "https://www.ft.com/content/a43a86f3-5176-4718-ab9c-b0d64759f600",
-      "source": "FT World",
-      "published": "2026-05-30T04:00:51+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
