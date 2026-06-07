@@ -1,16 +1,326 @@
 {
-  "generated_at": "2026-06-07T18:50:35.357888+00:00",
+  "generated_at": "2026-06-07T20:18:03.315306+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "f4f01724f9e599b8",
-      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
-      "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
-      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-07T18:49:17+00:00",
+      "id": "ca8840699918e6ae",
+      "title": "Iran launches ballistic missiles at Israel",
+      "summary": "Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah",
+      "link": "https://www.ft.com/content/a312b725-8921-415a-a9da-c8f6836f5459",
+      "source": "FT World",
+      "published": "2026-06-07T20:13:22+00:00",
       "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1267437f273c5f22",
+      "title": "Iran partially closes western airspace amid missile fire",
+      "summary": "Iran partially closes western airspace amid missile fire Iran has partially closed its airspace in the west of the country, state media reports, following a missle attack on Israel.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-partially-closes-western-airspace-amid-missile-fire",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T20:10:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6cbd5f0c662645ad",
+      "title": "IRGC says missile attack on Israel was a ‘warning’",
+      "summary": "IRGC says missile attack on Israel was a ‘warning’ Iran’s Revolutionary Guards say their missile attack on Israel on Sunday night was a “warning” after Israel struck Beirut earlier in the day. The IRGC threatened a wider response if Israel carries out further attacks, raising the risk of a broader regional confrontation. “Tonight's operation was a warning. If such aggressions are repeated, the responses will be broader and will cover all US-Zionist targets in the region,” the force said.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-missile-attack-israel-was-warning",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T20:08:04+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c0faea655778a33f",
+      "title": "Iran losing patience with Israel and US over ceasefire violations",
+      "summary": "Iran’s patience has reached its limit with the continuous violations of the ‘ceasefire’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-07T20:01:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8bb4cdcca41bb67a",
+      "title": "IRGC says it targeted Israel’s Ramat David airbase",
+      "summary": "IRGC says it targeted Israel’s Ramat David airbase Iran’s Revolutionary Guards say they targeted Israel’s Ramat David airbase with ballistic missiles, as the regional confrontation fuelled by Israel’s attacks on Lebanon and Iran widens. The IRGC described the strike as a warning and cautioned that any further escalation would trigger a broader response.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-targeted-israels-ramat-david-airbase",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T19:59:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5981ffe5730c271b",
+      "title": "Etihad Airways CEO on Competition & Asian Market Growth",
+      "summary": "Etihad Airways CEO Antonoaldo Neves speaks at the International Air Transport Association (IATA) on EU carrier advantages, growing Asian traffic, and competition. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-07/etihad-airways-ceo-on-competition-asian-market-growth",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-07T19:57:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f0d2e7d571836ec1",
+      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+      "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+      "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-07T19:55:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9bc24572d3c34038",
+      "title": "Air New Zealand CEO on \"Sky Nest\" Beds",
+      "summary": "Air New Zealand CEO Nikhil Ravishankar speaks at the International Air Transport Association (IATA) on \"Sky Nest\" bunk beds, a lie-flat sleeping pod which can be booked for four-hour sessions on long-haul flights. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-07/air-new-zealand-ceo-on-sky-nest-beds",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-07T19:53:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3dcade13f7e010fd",
+      "title": "Israel says air defences intercept all Iranian missiles fired so far",
+      "summary": "Israel says air defences intercept all Iranian missiles fired so far The Israeli military says its air defences have intercepted all Iranian ballistic missiles fired towards Israel so far tonight. It said interception systems were now trying to shoot down another salvo launched from Iran, which triggered sirens across northern Israel.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-air-defences-intercept-all-iranian-missiles-fired-so-far",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T19:49:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a186738ed27e2b5e",
+      "title": "Iranian World Cup excitement dulled by war and economic crisis",
+      "summary": "Iranian World Cup excitement dulled by war and economic crisis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-07T19:43:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "119557b2938156e4",
+      "title": "Iran fires missiles at Israel in retaliation for continued attacks on Lebanon",
+      "summary": "Iran fires missiles at Israel in retaliation for continued attacks on Lebanon Submitted by Elis Gjevori on Sun, 06/07/2026 - 20:34 Missile fire from Iran followed Israel’s continued attacks on Beirut’s southern suburbs. Off Iran fired missiles towards northern Israel on Sunday after warning that Israel must stop its attacks on Lebanon or face “more crushing and regretful blows”. The Israeli military said it had detected missiles launched from Iran and activated air defence systems to intercept them. Iran’s Revolutionary Guards tied the attack directly to Israel’s assault on Lebanon, including ",
+      "link": "https://www.middleeasteye.net/news/iran-fires-missiles-after-israeli-attacks-lebanon",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T19:41:03+00:00",
+      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -40,7 +350,379 @@
       "summary": "Israel says the attacks on the Lebanese capital were ordered \"in response to Hezbollah's firing at Israeli territory\".",
       "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-06-07T18:45:20+00:00",
+      "published": "2026-06-07T19:39:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "52e791af800d24ae",
+      "title": "Denmark's Eriksen collapses during Ukraine friendly",
+      "summary": "Christian Eriksen collapsed during Denmark&#8217;s friendly against Ukraine on Sunday, five years after suffering a cardiac arrest during the European Championships. &#8220;Christian Eriksen is conscious and doing well under the circumstances,&#8221; the Danish football association wrote on social media. The 34-year-old has worn a pacemaker on his heart since he collapsed during the group stage [&#8230;] The post Denmark&#039;s Eriksen collapses during Ukraine friendly appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/139504-denmarks-eriksen-collapses-during-ukraine-friendly.html",
+      "source": "Hespress EN",
+      "published": "2026-06-07T19:33:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e2dd268eb60a123a",
+      "title": "IAG CEO on Asia demand, Consolidation & Fuel Prices",
+      "summary": "International Airlines Group (IAG) CEO Luis Gallego speaks at the International Air Transport Association (IATA) on growing demand for Asia, consolidation & increasing fuel prices. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-07/iag-ceo-on-asia-demand-consolidation-fuel-prices-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-07T19:27:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a600645ca8043b5d",
+      "title": "Israel says it intercepted two Iranian ballistic missiles",
+      "summary": "Israel says it intercepted two Iranian ballistic missiles Israel says its air defences intercepted two ballistic missiles launched from Iran towards northern Israel, marking the first Iranian missile attack since a ceasefire took effect on April 8. The Israeli military said the missiles were shot down a short while ago. There were no immediate reports of casualties or damage.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-intercepted-two-iranian-ballistic-missiles",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T19:26:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a74604779d454dfa",
+      "title": "Israel cancels schools and limits gatherings amid missile alerts",
+      "summary": "Israel cancels schools and limits gatherings amid missile alerts The Israeli military has announced that schools across Israel will be closed and public gatherings restricted amid fears of incoming missile attacks from Iran.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-cancels-schools-and-limits-gatherings-amid-missile-alerts",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T19:21:26+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "68ce4dd2951a5134",
+      "title": "Italy recovers 10 bodies as boat with nearly 60 on board capsizes off Malta",
+      "summary": "At least 990 refugees and migrants have died this year while attempting the perilous journey across the Mediterranean.",
+      "link": "https://www.aljazeera.com/news/2026/6/7/malta-latest?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-07T19:17:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "572e02311b393590",
+      "title": "Hezbollah MP: Resistance defends Lebanon where the state failed",
+      "summary": "Ibrahim Moussawi says Hezbollah stepped in after diplomacy and the Lebanese state failed.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/6/7/hezbollah-mp-resistance-defends-lebanon-where-the-state-failed?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-07T19:13:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5d2591d24b8be4f9",
+      "title": "Israel says it detects Iranian missile launches",
+      "summary": "Israel says it detects Iranian missile launches Early warnings have been issued across northern Israel after the Israeli military said it detected missiles launched from Iran, Israeli media reports. Sirens are expected to sound in the coming minutes as air defence systems attempt to intercept the incoming missiles. The Israeli claims could not be independently verified.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-detects-iranian-missile-launches",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T19:10:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1113280739e08db8",
+      "title": "Bond Traders Bet on a CPI Surge That Bolsters Case for Fed Pivot",
+      "summary": "Bond traders are wagering that inflation figures this week will show the biggest surge in consumer prices in several years, adding to pressure on the Federal Reserve to raise interest rates.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-07/bond-traders-bet-on-a-cpi-surge-that-bolsters-case-for-fed-pivot",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-07T19:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bbc409c0bf32480d",
+      "title": "Zelenskyy used Abramovich to send message to Putin about peace talks",
+      "summary": "Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations",
+      "link": "https://www.ft.com/content/d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+      "source": "FT World",
+      "published": "2026-06-07T18:56:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "612718fe06452441",
+      "title": "Lawsuit seeks to stop Trump’s planned White House UFC match",
+      "summary": "Legal challenge claims US president did not seek proper approval for fighting event to be held on his 80th birthday.",
+      "link": "https://www.aljazeera.com/news/2026/6/7/lawsuit-seeks-to-stop-trumps-planned-white-house-ufc-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-07T18:53:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c4821050d616f194",
+      "title": "Iran says frozen assets are not US war spoils",
+      "summary": "Iran says frozen assets are not US war spoils Iran has rejected reports that the United States could use frozen Iranian assets to compensate Gulf allies for war-related damage. Deputy Foreign Minister Kazem Gharibabadi said regional governments were “not in a position to demand reparations”, after Reuters reported that Washington could make Iranian assets available to Gulf allies for rebuilding and repairs tied to future damage caused by Iran. In a post on X, Gharibabadi said Iran’s assets were “neither war spoils for Washington nor a payment fund for its allies”.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-frozen-assets-are-not-us-war-spoils",
+      "source": "Middle East Eye",
+      "published": "2026-06-07T18:50:22+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f4f01724f9e599b8",
+      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
+      "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+      "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-07T18:49:17+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -97,12 +779,136 @@
       }
     },
     {
+      "id": "2eccebcf28c39575",
+      "title": "Alexander Zverev wins French Open to claim first Grand Slam title",
+      "summary": "Zverev&#039;s five-set defeat of Flavio Cobolli makes him the first German man to win a Slam since Boris Becker 30 years ago.",
+      "link": "https://www.aljazeera.com/sports/2026/6/7/alexander-zverev-wins-french-open-to-claim-first-grand-slam-title?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-07T18:38:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "59d517d41d78b3e5",
+      "title": "Eriksen conscious after collapsing in Denmark game",
+      "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
+      "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-07T18:31:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "ce4b308ad3f01462",
       "title": "RCMP: We attach great importance to our partnership with Morocco in addressing security challenges",
       "summary": "Following Canada’s new position on the Moroccan Sahara issue, and its recognition of Morocco’s autonomy plan as “a basis for a mutually acceptable solution” and as a “serious and credible initiative” toward a just and lasting settlement of the dispute, Canada’s official statement of April 28 also emphasized the renewal of bilateral relations with Morocco on the basis [&#8230;] The post RCMP: We attach great importance to our partnership with Morocco in addressing security challenges appeared first on HESPRESS English - Morocco News .",
       "link": "https://en.hespress.com/139493-rcmp-we-attach-great-importance-to-our-partnership-with-morocco-in-addressing-security-challenges.html",
       "source": "Hespress EN",
       "published": "2026-06-07T18:30:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "81c57dcffe1c9397",
+      "title": "Denmark’s Christian Eriksen collapses on football pitch during friendly",
+      "summary": "The football player has a special heart-starting device implanted since he collapsed during a match in 2021.",
+      "link": "https://www.aljazeera.com/sports/2026/6/7/denmarks-christian-eriksen-collapses-during-world-cup-warm-up-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-07T18:29:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a6458bef06a9d592",
+      "title": "Morocco names starting lineup for friendly against Norway in New Jersey",
+      "summary": "Morocco coach Mohamed Ouahbi announced his starting lineup Sunday for the national team&#8217;s international friendly against Norway, as both sides continue preparations for upcoming competitions, including the FIFA World Cup. The match is scheduled to take place at Red Bull Arena in Harrison, New Jersey, with kickoff set for 3 p.m. local time (1900 GMT). [&#8230;] The post Morocco names starting lineup for friendly against Norway in New Jersey appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/139499-morocco-names-starting-lineup-for-friendly-against-norway-in-new-jersey.html",
+      "source": "Hespress EN",
+      "published": "2026-06-07T18:13:35+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -227,6 +1033,37 @@
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-influencer-and-actor-share-raped-israeli-dogs-joke",
       "source": "Middle East Eye",
       "published": "2026-06-07T17:48:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "15f091642c86bcfc",
+      "title": "Youtuber Benesnes held in custody pending trial",
+      "summary": "A prosecutor at the Court of First Instance in Temara on Sunday ordered the detention of a Moroccan content creator known online as Benesnes pending trial, following his arrest in connection with a controversial video that sparked widespread public outrage. The suspect was transferred to the local prison of Arjat 1 and is scheduled to [&#8230;] The post Youtuber Benesnes held in custody pending trial appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/139496-youtuber-benesnes-held-in-custody-pending-trial.html",
+      "source": "Hespress EN",
+      "published": "2026-06-07T17:47:48+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -1957,37 +2794,6 @@
       }
     },
     {
-      "id": "a93388fdcb15483d",
-      "title": "Iran will deliver 'painful response' to Israel for Beirut strikes",
-      "summary": "Iran will deliver 'painful response' to Israel for Beirut strikes Iran \"will deliver a decisive and painful response\" to Israel's bombing of Beirut, an Iranian politician said on Sunday. \"These rabid dogs must be disciplined and put back in their place,\" Ebrahim Rezaei, a lawmaker and spokesperson for the foreign policy commission, posted on X. \"Look at the sky over the occupied lands tonight,\" he said. Rezaei was responding to Israeli strikes on Beirut's southern suburbs.&nbsp; به حمله رژیم صهیونسیتی به ضاحیه پاسخ قاطع و دردآور خواهیم داد. این سگ هار را باید تأدیب کرد و سر جایش نشاند. امشب آس",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-deliver-painful-response-israel-beirut-strikes",
-      "source": "Middle East Eye",
-      "published": "2026-06-07T14:58:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "994ebc3c72e7ec35",
       "title": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
       "summary": "It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.",
@@ -2267,68 +3073,6 @@
       }
     },
     {
-      "id": "7d23b3ec03c356e0",
-      "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
-      "summary": "Talks and attacks have continued for months, and could last much longer without a breakthrough.",
-      "link": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-07T14:14:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "364905e1fc6e953a",
-      "title": "Marc Marquez hits 100 career wins with Hungarian MotoGP victory",
-      "summary": "The seven-time MotoGP world champion beat KTM&#039;s Pedro Acosta to claim his first grand prix victory of the season.",
-      "link": "https://www.aljazeera.com/sports/2026/6/7/marc-marquez-hits-100-career-wins-with-hungarian-motogp-victory?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-07T14:12:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "df9d23e0b4d8fd04",
       "title": "Can a Forgotten Caribbean Town Become a Spaceport?",
       "summary": "The Dominican Republic’s plan to build a commercial spaceport in the small town of Oviedo is about far more than rockets. Launch on Demand founder Burton Catledge says the project could create thousands of jobs, attract new investment, and help diversify the country beyond tourism. Supporters envision a new hub for aerospace, technology, and education, while local residents hope the project can bring opportunities to a region that has long felt overlooked. But before launches begin, developers must build the infrastructure, workforce, and regulatory framework needed to support an entirely new ",
@@ -2336,750 +3080,6 @@
       "source": "Bloomberg Markets",
       "published": "2026-06-07T14:03:24+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "aa49ba8de4536c3c",
-      "title": "Hundreds of captives freed from Boko Haram mountain hideout",
-      "summary": "The group includes many women and children who were abducted in March from an area close to Cameroon.",
-      "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-07T14:00:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7cd0d33a27c27bb2",
-      "title": "Israel strikes southern suburbs of Lebanon’s capital Beirut",
-      "summary": "Videos show the aftermath of an Israeli attack on Beirut&#039;s southern suburbs, with multiple explosions reported.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israel-strikes-southern-suburbs-of-lebanons-capital-beirut?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-07T14:00:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "48286416b0be1e2a",
-      "title": "Air France-KLM CEO Discusses Resuming Gulf Flights",
-      "summary": "Air France-KLM CEO Benjamin Smith discussed the airline's cautious approach to resuming flights in the Gulf region, confirming the return to Riyadh while other destinations like Dubai, Tel Aviv, and Beirut remain closed. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/air-france-klm-ceo-discusses-resuming-gulf-flights-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T14:00:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "26571da54bb1ef92",
-      "title": "Worries Grow That Hedge Fund Crowding May Amplify Risk in Crisis",
-      "summary": "Friday’s sudden equities rout after a months-long rally is renewing concerns that the unwinding of crowded trades could exacerbate market losses.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/worries-grow-that-hedge-fund-crowding-may-amplify-risk-in-crisis",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T14:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "854e4ae10cab24d7",
-      "title": "GE Sees Potential For More China Deals After Trump-Xi Meeting",
-      "summary": "GE Aerospace remains optimistic that it can secure more aircraft-engine orders from China after President Donald Trump and his Chinese counterpart Xi Jinping met in Beijing last month and manufacturing partner Boeing Co. came home an initial batch of commitments.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/ge-sees-potential-more-china-deals-after-may-s-trump-xi-meeting",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:57:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bb483fa2fb83499a",
-      "title": "Africa Finance Corporation Samaila Zubairu Interview",
-      "summary": "Africa Finance Corporation President and CEO Samaila Zubairu sits down with Bloomberg to discuss $2 billion syndicated loan. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/africa-finance-corporation-samaila-zubairu-interview-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:56:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "607132d5d3a31eb6",
-      "title": "Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances",
-      "summary": "Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent",
-      "link": "https://www.ft.com/content/5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
-      "source": "FT World",
-      "published": "2026-06-07T13:53:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5fa68b0880988910",
-      "title": "Africa Finance Corporation CEO on Syndicated Loan",
-      "summary": "Africa Finance Corporation President and CEO Samaila Zubairu speaks on raising $2 billion via a syndicated loan. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/africa-finance-corporation-ceo-on-syndicated-loan-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:50:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a652b941a66c9389",
-      "title": "FIFA World Cup Set to Be Most Lucrative Cup Amid US Hosting Concerns",
-      "summary": "The upcoming FIFA World Cup, hosted across North America, is projected to generate a record $11 billion in revenue. However, there are some questions on the actual benefits for the United States playing host. Bloomberg Business of Sports Columnist Adam Minter came on Bloomberg This Weekend to discuss what hosting such an event means for the host country. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/fifa-world-cup-set-to-be-most-lucrative-cup-yet-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:47:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e5afbc38929efe1f",
-      "title": "Why has the Pentagon raised the risk of Israeli spying to the highest level?",
-      "summary": "The US agencies warn against Israeli efforts to collect information on the talks to end the war, according to reports.",
-      "link": "https://www.aljazeera.com/news/2026/6/7/why-has-the-pentagon-raised-the-risk-of-israeli-spying-to-the-highest-level?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-07T13:47:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "aa3620272889b0c8",
-      "title": "Air France-KLM CEO on Fuel Prices and Gulf Flights",
-      "summary": "Air France-KLM CEO Ben Smith speaks at the International Air Transport Association (IATA) saying \"we'll make do\" with the availability of fuel and the that he expects 5-10% of customers to return, when flights through the Gulf return to full capacity. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/air-france-klm-ceo-on-fuel-prices-and-gulf-flights-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:45:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b93680081bc3689d",
-      "title": "Trump says deal with Iran is 'very close'",
-      "summary": "Trump says deal with Iran is 'very close' US President Donald Trump has told NBC News that a deal with Iran is \"very close\".&nbsp; “We have a couple of points. They don’t even seem like big points,” Trump said. “They’ve conceded the fact that they will not have nuclear weapons. We had a clause in there that [they] will not develop nuclear weapons. And everybody was very happy with it except me.” Trump said he wanted an additional provision to ensure Iran can’t execute an end run around a deal. “And I said, ‘Well, what happens if they, not develop, but they go out and purchase, they acquire? I ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-deal-iran-very-close",
-      "source": "Middle East Eye",
-      "published": "2026-06-07T13:42:06+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4c0c0e4ce4b8b8db",
-      "title": "SpaceX IPO: What You Need to Know",
-      "summary": "Ahead of SpaceX's highly anticipated IPO Co-host of Bloomberg Tech Ed Ludlow, Bloomberg New's Senior Equities reporter Bailey Lipschultz, and Bloomberg's Senior Aerospace Defense and Airline analyst George Ferguson join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss market expectations and the potential impact on the industry. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/spacex-ipo-what-you-need-to-know-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:35:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e85daf3cdc3c86f6",
-      "title": "As OPEC+ meets, Iran war hobbles power to shape oil market",
-      "summary": "OPEC+ ministers meet Sunday to weigh higher production quotas in a bid to cap oil prices that have surged since the Iran war effectively choked off Gulf crude shipments. But even if the cartel members vow to ramp up output by thousands of barrels per day, analysts say geopolitical realities mean they probably won&#8217;t move [&#8230;] The post As OPEC+ meets, Iran war hobbles power to shape oil market appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/139473-as-opec-meets-iran-war-hobbles-power-to-shape-oil-market.html",
-      "source": "Hespress EN",
-      "published": "2026-06-07T13:33:50+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b789ec9c36d72988",
-      "title": "Pope Leo urges youth to be ‘sparks of a new humanity’",
-      "summary": "Pope Leo XIV urged young people to be &#039;sparks of a new humanity&#039;.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/pope-leo-urges-youth-to-be-sparks-of-a-new?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-07T13:29:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "42eb3676793e8de8",
-      "title": "‘Fear mongering is the main narrative’ in Armenia’s elections",
-      "summary": "‘Fear mongering is the main narrative’ in Armenia’s elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/fear-mongering-is-the-main-narrative-in-armenias-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-07T13:27:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "eb8f80e2ce97e4da",
-      "title": "‘What ceasefire?’ Palestinians inspect destruction after Israeli strike",
-      "summary": "Palestinians inspect the aftermath of an Israeli strike in Khan Younis.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/what-ceasefire-palestinians-inspect-destruction-after-israeli-strike?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-07T13:26:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0428f690ff167a59",
-      "title": "The Knicks Lead The Spurs 2-0",
-      "summary": "The NBA Finals features two of the most marketable teams in the league. On one side of the finals matchup, the New York Knicks have their ties to NYC, the iconic MSG, and their legacy as one of the original NBA franchises. The other side of the court, the San Antonio Spurs are led by 22 year-old French superstar Victor Wembanyama a 7'4 player considered to be the future of the league. Host of Sports City and Co-host of Bloomberg's Business of Sports podcast Randall Williams joins Bloomberg This Weekend hosts David Gura and Christina Ruffini to discuss how the broader NBA landscape could benefi",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/the-knicks-lead-the-spurs-2-0-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:22:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2dbc7d566ec775da",
-      "title": "AI’s Mega Stock Deals Raise Specter of More Shares Than Buyers",
-      "summary": "A flood of new shares from companies looking to fund their artificial intelligence ambitions is raising questions on Wall Street about whether there will be enough buyers to soak them all up and what this pile of fresh equity will mean for stock prices more broadly.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T13:00:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "70332aa604ffc0c3",
-      "title": "Morocco welcomes 7.7 million tourists in first five months of 2026 as sector maintains growth momentum",
-      "summary": "Morocco received more than 7.7 million tourists during the first five months of 2026, a 7% increase compared with the same period last year, reinforcing the country&#8217;s position as one of the region&#8217;s fastest-growing tourism destinations, according to tourism industry experts. The Ministry of Tourism, Handicrafts and Social and Solidarity Economy said the country welcomed [&#8230;] The post Morocco welcomes 7.7 million tourists in first five months of 2026 as sector maintains growth momentum appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/139471-morocco-welcomes-7-7-million-tourists-in-first-five-months-of-2026-as-sector-maintains-growth-momentum.html",
-      "source": "Hespress EN",
-      "published": "2026-06-07T13:00:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "975bb77de0e75dd2",
-      "title": "OPEC+ Agrees Another Symbolic Quota Increase for July",
-      "summary": "Major OPEC+ members agreed another modest symbolic increase to their oil output quotas for July, even as a blockage of exports from the Persian Gulf prevents most of them from implementing it.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/opec-agrees-another-symbolic-quota-hike-for-july-delegates-say",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T12:55:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4fb3e357edd4e2f4",
-      "title": "Rep. Steube Discusses Concerns Over Acting DNI Head",
-      "summary": "President Trump has appointed Bill Pulte as the Acting Director of National Intelligence which has mixed reactions from lawmakers on both sides of the aisle. Republican Congressman Greg Steube joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss his opinion on Pulte's appointment. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-07/rep-steube-discusses-concerns-over-acting-dni-head-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-07T12:49:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "559fb3fcf27f4a0e",
-      "title": "Israel bombs Beirut, with multiple blasts heard",
-      "summary": "Israel bombs Beirut, with multiple blasts heard Israel bombed Lebanon's capital, Beirut, again on Sunday, with at least three explosions heard so far.&nbsp; According to witnesses on the ground, a multi-storey building has been hit. The Israeli military said it had struck \"terrorist\" headquarters in Beirut's southern suburbs, in the Dahieh area. Israeli Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said in a joint statement that Israel was responding to Hezbollah firing towards Israeli territory.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-beirut-multiple-blasts-heard",
-      "source": "Middle East Eye",
-      "published": "2026-06-07T12:43:06+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2120d4d3b38ac5e3",
-      "title": "Opec+ set to increase oil output targets again",
-      "summary": "Opec+ set to increase oil output targets again Opec+ is set to agree on Sunday on a fourth increase in oil output targets in as many months, three sources from the oil cartel told Reuters, even though the war on Iran continues to prevent several members from increasing production. The war has disrupted oil flows through the Strait of Hormuz,&nbsp;creating the world's biggest supply crisis as key Opec+ members, including Saudi Arabia, have been unable to supply customers in full since the end of February, Reuters reported. The United Arab Emirates recently left the oil cartel after 60 years, de",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opec-set-increase-oil-output-targets-again",
-      "source": "Middle East Eye",
-      "published": "2026-06-07T12:32:40+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
