@@ -1,11 +1,476 @@
 {
-  "generated_at": "2026-06-13T17:47:19.607617+00:00",
+  "generated_at": "2026-06-13T19:45:13.746312+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "3a5f9205e5cd8867",
-      "title": "LIVE: Qatar vs Switzerland – World Cup 2026",
+      "id": "752d7002be59791a",
+      "title": "Trump says US and Iran will sign deal on Sunday to reopen Strait",
+      "summary": "Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close",
+      "link": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
+      "source": "FT World",
+      "published": "2026-06-13T19:31:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9480a8063ea6632d",
+      "title": "Israel fears US-Iran MoU could weaken pressure on Tehran",
+      "summary": "Israel fears US-Iran MoU could weaken pressure on Tehran Israeli political sources are voicing concern over the emerging US-Iran memorandum of understanding, with fears that the deal could reduce Washington’s leverage over Tehran, Haaretz reports. The sources worry that any agreement could make it harder to force the removal or dilution of Iran’s enriched uranium. One source told the Israeli outlet that Israel has had limited influence over the decision-making process. The source added that it remains unclear how a final deal would address Israel’s wider war aims, including restrictions on Ira",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-fears-us-iran-mou-could-weaken-pressure-tehran",
+      "source": "Middle East Eye",
+      "published": "2026-06-13T19:29:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c94ef8337c0d187b",
+      "title": "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
+      "summary": "The Jewish diaspora say they reject Israel’s authority over their name amid Smotrich’s Israel Day parade appearance.",
+      "link": "https://www.aljazeera.com/news/2026/6/13/not-in-my-name-the-jewish-diaspora-fighting-the-consensus-on-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T19:08:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "109614e5779c1f34",
+      "title": "Starmer tells Trump Iran deal must secure lasting peace",
+      "summary": "Starmer tells Trump Iran deal must secure lasting peace British Prime Minister Keir Starmer has told US President Donald Trump that any agreement to end the Iran conflict must secure a durable peace, Downing Street says. In a call with Trump, Starmer stressed “the importance of ensuring any deal delivers a durable and lasting peace”. His office said he also told the US president that the UK stood “ready to support the implementation of any peace agreement and to work with international partners to ensure its success”. Downing Street said both leaders agreed that freedom of navigation must be r",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/starmer-tells-trump-iran-deal-must-secure-lasting-peace",
+      "source": "Middle East Eye",
+      "published": "2026-06-13T18:57:35+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ed1e97e1b5007462",
+      "title": "Hungary’s former PM Orban re-elected party leader despite election loss",
+      "summary": "Viktor Orban, who ran unopposed, said he took full responsibility for his pro-Russian Fidesz party&#039;s defeat in April.",
+      "link": "https://www.aljazeera.com/news/2026/6/13/hungarys-former-pm-orban-re-elected-party-leader-despite-election-loss?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T18:54:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "df8854d2542741c6",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-13T18:39:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7918695f2cd2ccc3",
+      "title": "Ukraine to keep targeting Russian energy after hitting sea terminal",
+      "summary": "Ukraine&#039;s SBU security service claimed attack sparking fires in Russia&#039;s Tamanneftegaz terminal.",
+      "link": "https://www.aljazeera.com/news/2026/6/13/ukraine-to-keep-targeting-russian-energy-after-hitting-sea-terminal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T18:29:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8613653fcb4dbc83",
+      "title": "Keepy-up cop wows fans with football skills at World Cup event in Boston",
+      "summary": "A police officer stole the show at a World Cup fan festival in Boston, as he effortlessly juggled a football.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T18:29:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "01bd3bf8d5a435ad",
+      "title": "The EU pact on Migration and Asylum in force: What impact on Moroccans?",
+      "summary": "The European Union put into effect a new Pact on Migration and Asylum on June 12, adopted since 2024, tightening external border controls and speeding up asylum decisions, a shift experts say is expected to affect Moroccans amid stricter screening and returns. The pact means that migrants arriving in the EU will be quickly registered [&#8230;] The post The EU pact on Migration and Asylum in force: What impact on Moroccans? appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/139896-the-eu-pact-on-migration-and-asylum-in-force-what-impact-on-moroccans.html",
+      "source": "Hespress EN",
+      "published": "2026-06-13T18:20:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d40fff4813b03666",
+      "title": "Morocco voter registration deadline expires at midnight",
+      "summary": "Morocco’s Interior Ministry reminded citizens that the deadline to register on the general electoral lists expires at midnight on Saturday, June 13, ahead of legislative elections scheduled for September 23. The reminder applies to citizens who are not yet registered and meet the legal voting conditions, including those who are already 18 or will turn [&#8230;] The post Morocco voter registration deadline expires at midnight appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/139889-morocco-voter-registration-deadline-expires-at-midnight.html",
+      "source": "Hespress EN",
+      "published": "2026-06-13T18:19:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "42ef30c5769e37ba",
+      "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
+      "summary": "Both sides have indicated a deal to end the war is close, but have diverged on details and timeline for a breakthrough.",
+      "link": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T18:17:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5c76b770dc52b72e",
+      "title": "Bloomberg This Weekend 6/13/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Swarovski CEO Alexis Nasard, Johns Hopkins Center for Health Security Senior Scholar Dr. Amesh Adalja, and Pacific University Political Science Professor Jules Boykoff. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-13/bloomberg-this-weekend-6-13-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-13T18:09:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3e94e87c6fd04842",
+      "title": "US President Trump says US-Iran deal to be signed tomorrow",
+      "summary": "US President Donald Trump says a deal between Washington and Tehran will be signed on Sunday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T18:02:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6553cc443c06a24f",
+      "title": "Brazil vs Morocco live: World Cup 2026",
+      "summary": "Follow the updates as five-time record champions Brazil face African giants Morocco in a blockbuster Group C clash.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-brazil-vs-morocco-fifa-world-cup-2026-group-c-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T18:01:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0173f1e4f3edf6f3",
+      "title": "Albania protests escalate over Kushner-backed coastal development",
+      "summary": "Albania protests escalate over Kushner-backed coastal development",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/albania-protests-escalate-over-kushner-backed-coastal-development?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-13T17:57:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "daa3c3930df89191",
+      "title": "Qatar vs Switzerland live: World Cup 2026",
       "summary": "Follow our live build-up, with team news as it lands, before our text commentary stream.",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss",
       "source": "Al Jazeera English",
@@ -35,9 +500,9 @@
       }
     },
     {
-      "id": "6edbee5288182257",
-      "title": "Trump says Iran agreement due to be signed on Sunday",
-      "summary": "Trump says Iran agreement due to be signed on Sunday Submitted by Elis Gjevori on Sat, 06/13/2026 - 18:09 Trump says the agreement will reopen the Strait of Hormuz, but Iran appears to dispute the timing Off US President Donald Trump says a long-awaited agreement to end the US-Israeli war on Iran will be signed on Sunday, paving the way for the reopening of the strategic Strait of Hormuz after a conflict that engulfed the region and shook the global economy. \"The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL,\" Trump wrote on his ",
+      "id": "db3065aed3e7a409",
+      "title": "Trump says Iran deal set for Sunday, but Tehran has yet to confirm",
+      "summary": "Trump says Iran deal set for Sunday, but Tehran has yet to confirm Submitted by Elis Gjevori on Sat, 06/13/2026 - 18:09 Trump says the agreement will reopen the Strait of Hormuz, but Iran appears to dispute the timing US President Donald Trump speaks before signing a proclamation in the Oval Office of the White House in Washington, DC, on June 11, 2026. (Kent Nishimura/AFP) Off US President Donald Trump says a long-awaited agreement to end the US- Israeli war on Iran will be signed on Sunday, paving the way for the reopening of the strategic Strait of Hormuz after a conflict that engulfed the ",
       "link": "https://www.middleeasteye.net/news/trump-says-iran-deal-be-signed-weekend",
       "source": "Middle East Eye",
       "published": "2026-06-13T17:15:34+00:00",
@@ -103,37 +568,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-06-13T17:10:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "806d0b2a4245eb8e",
-      "title": "Pakistan says US-Iran deal to be signed within 24 hours",
-      "summary": "Strait of Hormuz will be reopened as part of ceasefire extension, Prime Minister Shehbaz Sharif says",
-      "link": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
-      "source": "FT World",
-      "published": "2026-06-13T17:09:41+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1988,37 +2422,6 @@
       }
     },
     {
-      "id": "f3d6dee7f5ce1da4",
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
-      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-13T11:15:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "87013a33eb9a44f5",
       "title": "Meteor Airlines becomes first North African band booked for Pol’and’Rock Festival",
       "summary": "The Amazigh rock band Meteor Airlines has been invited to represent Morocco at the 32nd edition of the Pol&#8217;and&#8217;Rock Festival, scheduled to take place from July 30 to August 1, 2026, at the Czaplinek-Broczyno airfield in Poland. The group will perform on the 31st of July on the festival’s second main stage, known as the [&#8230;] The post Meteor Airlines becomes first North African band booked for Pol’and’Rock Festival appeared first on HESPRESS English - Morocco News .",
@@ -2057,68 +2460,6 @@
       "source": "Al Jazeera English",
       "published": "2026-06-13T11:11:07+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d0708bddf938b40c",
-      "title": "Yemen’s ‘Spider-Man’ dies while scaling volcanic crater",
-      "summary": "Yemen’s &#039;Spider-Man&#039; dies while scaling volcanic crater",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/yemens-spider-man-dies-while-scaling-volcanic-crater?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T11:08:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "25f5f7590beaf03c",
-      "title": "Iran's slain supreme leader Ali Khamenei to be buried 9 July",
-      "summary": "Iran's slain supreme leader Ali Khamenei to be buried 9 July Iran's former supreme leader Ali Khamenei, who ruled Iran for nearly 37 years before being killed by Israeli and US air strikes on 28 February, will be buried on 9 July, state television reported. The burial in his hometown, the northeastern holy city of Mashhad, initially scheduled for March but postponed due to the war, will follow three days of funeral ceremonies in capital Tehran beginning 4 July and another in the holy city of Qom on 7 July, it said.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-slain-supreme-leader-ali-khamenei-be-buried-9-july",
-      "source": "Middle East Eye",
-      "published": "2026-06-13T11:01:20+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2298,74 +2639,12 @@
       }
     },
     {
-      "id": "82b61e0298440d95",
-      "title": "UAE denies reports of it releasing frozen funds to Iran: Report",
-      "summary": "UAE denies reports of it releasing frozen funds to Iran: Report The UAE on Saturday denied media reports that it agreed to release billions of dollars of frozen funds to Iran, according to CNBC.&nbsp; \"The Ministry of Foreign Affairs affirmed that these allegations are entirely false and unfounded, stressing that no frozen Iranian funds have been released, transferred, or facilitated through the UAE,\" the government told CNBC. &nbsp;",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-denies-reports-it-releasing-frozen-funds-iran-report",
-      "source": "Middle East Eye",
-      "published": "2026-06-13T10:22:56+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "159568158fa6fbed",
       "title": "Top Motorcycle Exporter China Urges Industry to Curb Price Wars",
       "summary": "China’s motorcycle industry trade body urged companies across the sector to curb price wars and focus on higher-quality growth, warning that imitation and a flood of similar products are squeezing profits and hurting the reputation of Chinese manufacturing.",
       "link": "https://www.bloomberg.com/news/articles/2026-06-13/top-motorcycle-exporter-china-urges-industry-to-curb-price-wars",
       "source": "Bloomberg Markets",
       "published": "2026-06-13T10:19:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8cf8b260be84cd92",
-      "title": "Israel attacks Lebanon despite being included in potential peace deal",
-      "summary": "Israel has continued to attack Lebanon, despite Iran saying it was included in a potential memorandum of understanding.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T10:13:54+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2484,68 +2763,6 @@
       }
     },
     {
-      "id": "96badecb33a4a188",
-      "title": "The US border runs straight through the World Cup",
-      "summary": "The tournament was sold as a symbol of unity, but Trump’s border politics have turned it into a spectacle of exclusion.",
-      "link": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T09:56:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "87178622fda0b330",
-      "title": "US orders Anthropic to disable AI models for all foreign nationals",
-      "summary": "The company said it received ⁠an export control directive to suspend access to Fable 5 and Mythos 5.",
-      "link": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T09:35:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ecba20421e835b6e",
       "title": "Chart of the Week: US headline inflation matters to consumers",
       "summary": "The headline annual inflation rate hit 4.2%, the highest since April 2023",
@@ -2577,167 +2794,12 @@
       }
     },
     {
-      "id": "206ba73b4857ce36",
-      "title": "Knicks face Spurs in Game 5, with first NBA title in 53 years in sight",
-      "summary": "After an epic comeback, the New York Knicks head to San Antonio, hoping to beat the Spurs to seal the 2026 championship.",
-      "link": "https://www.aljazeera.com/sports/2026/6/13/knicks-vs-spurs-game-5-nba-finals-2026-title-53-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T09:26:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b1d71a02e6adb910",
       "title": "Swedish Fighters Intercept Russian Jets near Border",
       "summary": "",
       "link": "https://english.aawsat.com/node/5283560",
       "source": "Asharq Al-Awsat",
       "published": "2026-06-13T09:13:50+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8a647fc714f8f7eb",
-      "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
-      "summary": "As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.",
-      "link": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T09:13:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6ce24ad54d09cb2b",
-      "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-      "summary": "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
-      "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T09:12:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e17c50b90d9962a2",
-      "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
-      "summary": "Smokers in Gaza turn to toxic molokhia nicotine cigarettes as tobacco prices surge, causing serious health risks.",
-      "link": "https://www.aljazeera.com/features/longform/2026/6/13/molokhia-cigarettes-gazas-toxic-alternative-to-tobacco?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-13T09:01:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b69684e5f08a48c8",
-      "title": "US says 'downed' multiple Iranian drones targeting commercial ships in Hormuz",
-      "summary": "US forces have &#8220;downed&#8221; several Iranian drones targeting commercial ships in the Strait of Hormuz, the military said late Friday. &#8220;Iran launched multiple one-way attack drones in an attempt to strike commercial ships transiting the Strait of Hormuz,&#8221; US Central Command (CENTCOM), which oversees operations in the region, posted on X. CENTCOM insisted that the [&#8230;] The post US says &#039;downed&#039; multiple Iranian drones targeting commercial ships in Hormuz appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/139861-us-says-downed-multiple-iranian-drones-targeting-commercial-ships-in-hormuz.html",
-      "source": "Hespress EN",
-      "published": "2026-06-13T09:00:45+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -2918,37 +2980,6 @@
       }
     },
     {
-      "id": "c5e4a3f75a9c2547",
-      "title": "Morocco food supplement industry pushes back against proposed pharmacy-only sales rule",
-      "summary": "A coalition representing Morocco’s food supplement industry is urging lawmakers to reject a proposed legal amendment that would restrict the sale of certain food supplements to pharmacies, arguing the measure would reduce competition, increase prices and threaten thousands of jobs. The proposal, which amends Article 30 of Law 17-04, was introduced in Parliament in March [&#8230;] The post Morocco food supplement industry pushes back against proposed pharmacy-only sales rule appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/139824-morocco-food-supplement-industry-pushes-back-against-proposed-pharmacy-only-sales-rule.html",
-      "source": "Hespress EN",
-      "published": "2026-06-13T08:00:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "2b5bd3a0429d30fa",
       "title": "Odd Lots: Midha’s Plan to Lower the Price of Compute (Podcast)",
       "summary": "",
@@ -3048,37 +3079,6 @@
       "link": "https://english.aawsat.com/node/5283544",
       "source": "Asharq Al-Awsat",
       "published": "2026-06-13T07:29:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e3a1378f48a742d8",
-      "title": "Riyadh to Host UNITAR’s First Cybersecurity Office",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5283541",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-13T07:20:58+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
