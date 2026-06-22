@@ -1,15 +1,2836 @@
 {
-  "generated_at": "2026-06-21T23:46:03.270527+00:00",
+  "generated_at": "2026-06-22T05:05:21.959167+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "bbbf8e24ad09193c",
-      "title": "Eileen Gu on Values That Define Success",
-      "summary": "Skiing synthetizes all of the values and reflects back to me those values I judge myself by,” Olympic gold medalist Eileen Gu tells Bloomberg in an exclusive interview in Hong Kong. The freestyle skier also describes what a week trailing her would look like, if someone can keep pace. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/eileen-gu-on-values-that-define-success-video",
+      "id": "c8daadd3fdfc49eb",
+      "title": "Malaysian airline reduces fares after drop in jet fuel prices",
+      "summary": "Malaysian airline reduces fares after drop in jet fuel prices AirAsia X Chief Executive Officer Benyamin Ismail, said the Malaysian budget carrier has reduced fares by 5 percent since 15 June and plans to continue adjusting ticket prices as jet fuel costs decline. Lingam said the US-Iran memorandum of understanding had brought welcome relief to the aviation sector, with fuel prices falling significantly from the highs reached during the conflict. \"The industry has been really affected by the rise in fuel prices. Hopefully, everything in the Middle East stays as it is today,\" he told reporters.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/malaysian-airline-reduces-fares-after-drop-jet-fuel-prices",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T05:01:26+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "43720ea6d37542dd",
+      "title": "Saudi Arabia Lacked Necessary Strength to Implement Their Defensive Plan",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286968",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T05:00:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8f8386387b957ecc",
+      "title": "How Mike Henry Reshaped the World's Largest Mining Company",
+      "summary": "As he prepares to step down after six years at the helm of BHP, Mike Henry joins Francine Lacqua to discuss the future of mining, the race for critical minerals and leadership lessons that shaped his tenure. Henry explains why copper has become one of the most strategic resources, how artificial intelligence and the energy transition are transforming demand and why BHP walked away from its pursuit of Anglo American. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-22/how-mike-henry-reshaped-the-world-s-largest-mining-company",
       "source": "Bloomberg Markets",
-      "published": "2026-06-21T23:23:58+00:00",
+      "published": "2026-06-22T05:00:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6a5a3c33a26a4ae8",
+      "title": "Heat and Drinks Breaks Help Smaller Teams at World Cup, Says Scaloni",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286966",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T04:56:25+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a232ba771bb360a8",
+      "title": "Belgium’s Garcia Laments Wastefulness Against Iran",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286965",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T04:52:51+00:00",
+      "region": "mena",
+      "lang": "ca",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1c23dff063c55c00",
+      "title": "Starmer on brink of quitting as UK prime minister",
+      "summary": "US President Donald Trump says Starmer will resign after failing ‘badly’",
+      "link": "https://www.ft.com/content/ed96e673-8d46-4dec-aebc-d69863b9e801",
+      "source": "FT World",
+      "published": "2026-06-22T04:50:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b3137024b665033d",
+      "title": "Beiranvand Heroics Help Iran Hold 10-Man Belgium to Goalless Draw",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286964",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T04:50:44+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c72cba3ee1e9d5d9",
+      "title": "US and Iran Make ‘Progress’, Aim to Keep Hormuz Open",
+      "summary": "The US and Iran made “encouraging progress” in talks on a peace deal and will continue technical-level discussions this week, according to mediators Qatar and Pakistan. Bloomberg's Stuart Livingstone-Wallace breaks down what we know so far. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-22/us-and-iran-make-progress-aim-to-keep-hormuz-open-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T04:48:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "820d2b560b31528f",
+      "title": "Uruguay Coach Bielsa Flummoxed by Tally of Two Points Rather Than Six",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286962",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T04:46:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f659bd83ddde9785",
+      "title": "First round of US-Iran talks end with 'encouraging progress', mediators say",
+      "summary": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
+      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-22T04:45:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b9d87e3f5c6d946e",
+      "title": "New York City welcomes the summer solstice with Times Square yoga",
+      "summary": "New Yorkers gathered for the 24th annual &quot;Solstice in Times Square” event to celebrate the summer solstice.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/new-york-city-welcomes-the-summer-solstice-with-times-square-yoga?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T04:44:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d5287912bc42b32d",
+      "title": "Cape Verde Gets 1st Goal of Tournament and Holds Uruguay to 2-2 Draw",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286960",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T04:43:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ec31662f89fcd9e0",
+      "title": "Ghalibaf likens Iran's World Cup draw to wartime resilience",
+      "summary": "Ghalibaf likens Iran's World Cup draw to wartime resilience Iranian Parliament Speaker Mohammad Baqer Ghalibaf has praised the national football team's defensive performance in its World Cup draw against Belgium, comparing the display to Iranian people's steadfast defence of their country during the war against the United States and Israel. In a post on X shortly after the match, Ghalibaf shared a photograph from the game with the caption: \"This is how we protect our land.\" The message drew a direct comparison between Iran's performance on the pitch and the country's response during the confli",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-likens-irans-world-cup-draw-wartime-resilience",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T04:39:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6aec8064ccad578d",
+      "title": "Salah Magic Inspires Egypt to Historic World Cup Victory",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286958",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T04:38:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e16d0c6ba533ca73",
+      "title": "Global Banks Drive India Asset-Backed Securities Sales to Record",
+      "summary": "India’s asset-backed securities market has surged to a record as global banks ramp up purchases to gain exposure to one of the world’s fastest-growing major economies.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/global-banks-drive-india-asset-backed-securities-sales-to-record",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T04:34:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ad6d7bfde063589b",
+      "title": "FirstFT: Starmer’s exit plans expected",
+      "summary": "Also in today’s newsletter: Middle East conflict and Bain’s vibecoding",
+      "link": "https://www.ft.com/content/9f3997f6-11b5-4360-aaed-0622f127a780",
+      "source": "FT World",
+      "published": "2026-06-22T04:31:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d08fd9d6bbdfe34c",
+      "title": "Colombia presidential candidate De la Espriella celebrates preliminary lead",
+      "summary": "Colombian outsider Abelardo de la Espriella in an armoured vehicle next to his vice-presidential candidate.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/colombia-presidential-candidate-de-la-espriella-celebrates-preliminary-lead?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T04:26:42+00:00",
+      "region": "global",
+      "lang": "es",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eadd98b272d9c8e0",
+      "title": "Mediators announce framework for final US-Iran agreement",
+      "summary": "Mediators announce framework for final US-Iran agreement The United States and Iran have agreed on a 60-day roadmap aimed at reaching a final agreement, according to a joint statement issued by mediators Pakistan and Qatar following talks in Switzerland. The mediators said a high-level committee has been established to provide political oversight of the process, while chief negotiators will regularly report to the body and oversee working groups focused on issues including Iran's nuclear programme, US sanctions and dispute resolution mechanisms. The statement said the parties also agreed to es",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mediators-announce-framework-final-us-iran-agreement",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T04:26:27+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a6e5078bfcb84726",
+      "title": "US-Iran Negotiations End, Technical Talks Will Continue after Trump Shakes Talks with Threats",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5286951",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-22T04:21:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4edb4080ec8ba72f",
+      "title": "Precious Shipping Sees Stronger Freight Rates For Longer",
+      "summary": "Precious Shipping MD Khalid Hashim says limited new vessel supply, combined with the resilience of older tonnage, is setting the stage for sustained strength in freight rates. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-22/precious-shipping-sees-stronger-freight-rates-for-longer-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T04:15:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d630574e5f743bae",
+      "title": "Burnham will have to be brave if he wants to get Britain growing again",
+      "summary": "Unfortunately UK politics is hostile to making tough, but necessary, choices",
+      "link": "https://www.ft.com/content/0f752e27-5268-4a6e-a45d-c48d13fb8ef0",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3c4124c5a490c7eb",
+      "title": "Italy open to Germany joining fighter jet project, says Leonardo chief",
+      "summary": "Lorenzo Mariani says Berlin role in GCAP would slow progress but bring benefits after collapse of rival FCAS programme",
+      "link": "https://www.ft.com/content/4c5df333-b164-4ee8-be28-c17c17fbae54",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2d66144c887519b6",
+      "title": "Ireland says it can secure an EU capital markets deal this year",
+      "summary": "Taoiseach Micheál Martin tells FT there are ‘ways of landing this’",
+      "link": "https://www.ft.com/content/022cb596-b92a-4fe3-838d-1e536cb95a7d",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "83fdc0e2cafd8bd4",
+      "title": "UK’s out-of-town retail parks ‘effectively full’",
+      "summary": "Industry says shortage of space reflects rising demand from some retailers and a dearth of new sites",
+      "link": "https://www.ft.com/content/490d94d6-0511-4f0c-bf1a-b2c85099999f",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7cb3ebdeab9e2af9",
+      "title": "Iran war supercharges electric vehicle uptake in Africa",
+      "summary": "Boom in demand for electric motorbikes and buses on continent is a boost for China",
+      "link": "https://www.ft.com/content/14cb294b-cdf0-4623-9393-3287fb85a4e4",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ab3cdb01baa39159",
+      "title": "How Benjamin Netanyahu’s big moment backfired",
+      "summary": "The war in Iran fulfilled a longtime goal of the Israeli premier. But it has left him in his worst position in years",
+      "link": "https://www.ft.com/content/e8ea1e5a-f681-4c9b-9549-e7000842054b",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "15aa5acd3e1b0cd4",
+      "title": "New home builds set to fall short of government’s 1.5mn target, Savills says",
+      "summary": "Real estate group’s forecast adds to questions over housebuilding agenda in England",
+      "link": "https://www.ft.com/content/09b7f623-22f4-42d1-b23a-f3bdf5f0f4e7",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f802aff8094f76f2",
+      "title": "Germany’s spy agency comes in from the cold",
+      "summary": "Berlin wants to loosen the shackles on the BND as part of a Europe-wide drive to reduce dependence on US intelligence",
+      "link": "https://www.ft.com/content/50069749-fe38-4a6e-80d4-fe84d53f94a1",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bda5ba336b0bda13",
+      "title": "How Brexiters blame each other for their cause’s failure",
+      "summary": "Boris Johnson, Michael Gove and Dominic Cummings among those criticised by the Leave faithful",
+      "link": "https://www.ft.com/content/a47e6ef4-255d-466a-a892-54983256615f",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0d5972e5fd44828b",
+      "title": "Luxury’s race to secure Milan’s hidden palazzos",
+      "summary": "In a bid for the next level of exclusivity, brands pay tens of thousands of euros a day to stage events in the city’s historic residences",
+      "link": "https://www.ft.com/content/86efd283-6fe6-4872-8ef0-8223c12dac55",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8a66392c2dbb3dda",
+      "title": "How tennis agents spot the next stars",
+      "summary": "Identifying talent rarely follows an exact formula, but building up a network of contacts still acts as the best guide",
+      "link": "https://www.ft.com/content/0553f22b-76ed-4e37-b675-a787a3e3bd03",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "23bfe70c426f10c5",
+      "title": "Great libraries: inside Paris’s once-derided Bibliothèque François-Mitterrand",
+      "summary": "Originally panned as a costly blunder, the four-towered site of France’s National Library is one of the capital’s most striking landmarks, with a wild forest-garden at its heart",
+      "link": "https://www.ft.com/content/1a15964a-61ba-4ec3-9d3d-dda4f40050df",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eb5c3958e6b4bceb",
+      "title": "US Open venue overhaul drives shift to more premium sales",
+      "summary": "As players demand ever bigger prize pots, Grand Slam organisers are investing in infrastructure to maximise revenues",
+      "link": "https://www.ft.com/content/c47747e1-1538-4325-889b-b87b47f8304a",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2b3966c6b623c8c9",
+      "title": "Wimbledon and its sponsors draw on power of influencers",
+      "summary": "Invitations to the royal box are extended to a mix of talent and celebrity, from Mary Berry to Olivia Rodrigo, but increasingly with Gen Z in mind",
+      "link": "https://www.ft.com/content/10262aae-0522-48bb-8614-b627d47daeda",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "396195b10f89155d",
+      "title": "Bain tests software takeover targets by vibecoding AI replicas",
+      "summary": "Private equity groups swiftly recreate software products to gauge their competitive advantages",
+      "link": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "38d478f36b6510fa",
+      "title": "ATP chair warns tennis divide leads to billions in lost revenue",
+      "summary": "Andrea Gaudenzi says professional sport’s $3.5bn annual turnover could double if tours and tournaments combine forces",
+      "link": "https://www.ft.com/content/abaa919c-4bc1-47e7-a785-8d468f219afe",
+      "source": "FT World",
+      "published": "2026-06-22T04:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d869ea17f1297d04",
+      "title": "Malaysia to lower diesel prices amid confidence in diplomacy",
+      "summary": "Malaysia to lower diesel prices amid confidence in diplomacy Malaysian Prime Minister Anwar Ibrahim has linked a planned reduction in subsidised diesel prices to growing confidence that negotiations aimed at ending the Iran war could ease tensions in the Middle East and stabilise energy markets. According to Malaysia's Star newspaper, Anwar said his government had decided to lower, rather than increase, subsidised diesel prices from next month despite global uncertainty. He said Pakistani Prime Minister Shehbaz Sharif, who has played a key role in coordinating negotiations between the United S",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/malaysia-lower-diesel-prices-amid-confidence-diplomacy",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T03:59:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ab659166ec8792b8",
+      "title": "Qatar LNG factory explosion injures 54, leaves 18 missing, gov’t says",
+      "summary": "Blast at Ras Laffan Industrial City caused by &#039;technical malfunction&#039;, Ministry of Interior says.",
+      "link": "https://www.aljazeera.com/economy/2026/6/22/qatar-lng-factory-explosion-injures-54-leaves-18-missing-govt-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T03:57:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8c75b0172c37463e",
+      "title": "Letta: Europe Needs To Be United In Front Of Trump",
+      "summary": "Former Italian Prime Minister and IE School of Politics, Economics & Global Affairs Dean Enrico Letta, underscores the urgency of European unity in the face of Donald Trump’s presidency. Letta argues that only a cohesive and determined Europe can safeguard its interests and values in a shifting global landscape. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-22/letta-europe-needs-to-be-united-in-front-of-trump-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:53:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "94aa9790bceed686",
+      "title": "Kuwait Adds to Signs Hormuz Is Reopening With Offer for Products",
+      "summary": "Kuwait is asking customers to pick up refined petroleum from its ports deep inside the Persian Gulf, as the region’s oil giants try to ratchet up production and traffic through the Strait of Hormuz increases.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/kuwait-adds-to-signs-hormuz-is-reopening-with-offer-for-products",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:53:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "39be528c243b3b14",
+      "title": "US military says forces remain active throughout region",
+      "summary": "US military says forces remain active throughout region The US military's Central Command (Centcom) has said American forces remain deployed across the Middle East, stating that US personnel continue to operate \"in the skies, on land, and at sea\" throughout the region. In a social media post, Centcom shared a photograph of two warplanes conducting what it described as a routine patrol. Earlier, the command also released images showing US service members aboard the aircraft carrier USS Abraham Lincoln in the Arabian Sea. The statement comes as diplomatic efforts between the United States and Ir",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-forces-remain-active-throughout-region",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T03:49:40+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ba68cbb23055ac30",
+      "title": "Salah scores as Egypt beat New Zealand 3-1 for first World Cup win",
+      "summary": "Egypt rallied from a goal down at half-time to turn the game on its head and strengthen their case for the knockouts.",
+      "link": "https://www.aljazeera.com/sports/2026/6/22/salah-scores-as-egypt-beat-new-zealand-3-1-for-first-world-cup-win?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T03:46:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fdc170b8ef462e1f",
+      "title": "Olympian Eileen GU on Her Motivations for Success",
+      "summary": "Olympic gold medalist Eileen Gu sits down exclusively with Bloomberg's Haslinda Amin to talk about her recent achievements, personal motivations and how she views her brand partnerships. The freestyle skier also shared why she prefers Peking Duck over Dim Sum, as well as why her favorite place is somewhere that is close to home. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-22/olympian-eileen-gu-on-her-motivations-for-success-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:40:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "32a3f24a7330eb2c",
+      "title": "Qatari PM says ‘work continues’ on US-Iran negotiations",
+      "summary": "Qatari PM says ‘work continues’ on US-Iran negotiations Qatari Prime Minister and Foreign Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has indicated that diplomatic efforts surrounding the US-Iran negotiations remain active, sharing a photograph with US negotiators JD Vance and Jared Kushner from Switzerland. In a post on X, Sheikh Mohammed wrote: \"Live from Lucerne, work continues.\" The brief update came as mediators from Qatar and Pakistan continued efforts to advance implementation of the memorandum of understanding between Washington and Tehran, following a day of talks tha",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-pm-says-work-continues-us-iran-negotiations",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T03:40:26+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6e06a502b9667333",
+      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+      "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
+      "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-22T03:31:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "390490012df4e716",
+      "title": "Japan Insurers Sold Domestic Super-Long Bonds as Yields Soared",
+      "summary": "Japan’s insurers sold domestic super-long government bonds in May, reversing course from the start of the fiscal year as yields climbed to multi-decade highs.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/japan-insurers-sold-domestic-super-long-bonds-as-yields-soared",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:30:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9425ce25fff16cd4",
+      "title": "Araghchi says officials and footballers defend Iran's dignity",
+      "summary": "Araghchi says officials and footballers defend Iran's dignity Iranian Foreign Minister Abbas Araghchi has said the country's officials, negotiators and footballers are all engaged in defending the honour and dignity of the Iranian people, sharing a social media post that combined images of schoolgirls killed in a February strike with scenes from the World Cup. \"From the football pitch to the negotiating table to the battlefield, every step we take as Iranians is part of a larger struggle: defending the honor and dignity of our dear people,\" Araghchi wrote. The post came as mediators reported p",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-officials-and-footballers-defend-irans-dignity",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T03:29:56+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9df61c57f6f03d9e",
+      "title": "Emerging-Market Stocks Mark Fresh High as US-Iran Talks Progress, Oil Falls",
+      "summary": "Emerging-market stocks rose to a fresh record as the US and Iran agreed upon a roadmap to a final peace deal, indicating progress in talks that have proceeded in fits and starts amid threats by President Donald Trump.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/em-stocks-mark-fresh-high-as-us-iran-talks-progress-oil-falls",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:28:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "620e6955a44511bf",
+      "title": "Oil Price Decline Could Remove Some Central Bank Hawkish Bias: Citigroup Global Markets",
+      "summary": "Johanna Chua of Citigroup Global Markets discusses the outlook for monetary policy and energy prices. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-22/oil-price-decline-could-remove-some-hawkish-bias-citi-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:28:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eb9199f286d110ab",
+      "title": "Asset Manager CSOP Lifts Options Cap for SK Hynix Leveraged Fund",
+      "summary": "CSOP Asset Management Ltd. is lifting a ceiling on the use of options in a $14.4 billion leveraged exchange-traded fund linked to South Korean chipmaker SK Hynix Inc., giving the fund manager more flexibility after a wild rally in the company’s shares.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/asset-manager-csop-lifts-options-cap-for-sk-hynix-leveraged-fund",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:27:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "dc57de896a7450f8",
+      "title": "Chinese Oil Imports May Never Fully Recover From Iran War",
+      "summary": "Chinese oil imports may never fully recover from the Iran war, with analysts saying the conflict accelerated a permanent shift away from fuels like gasoline and diesel.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-oil-imports-may-never-fully-recover-from-the-iran-war",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T03:26:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ca9ab5a05b1f7fcb",
+      "title": "Crimea halts fuel sales after Ukraine strikes cause shortages",
+      "summary": "Gas sales in Russian-controlled Crimea have halted after Ukrainian drone strikes on the peninsula’s supply route.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/crimea-halts-fuel-sales-after-ukraine-strikes-cause-shortages?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T03:18:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "26cc36ad64265128",
+      "title": "Japanese fans clean up stands after celebrating World Cup win",
+      "summary": "Japanese fans stayed behind after celebrating their 4-0 victory over Tunisia, by collecting rubbish from the stands.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/japanese-fans-clean-up-stands-after-celebrating-world-cup-win?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T03:14:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "15257244a40e0c5c",
+      "title": "Iran hails ‘progress’ to end Lebanon war",
+      "summary": "Tehran and Washington locked in talks in Switzerland over deal to settle four-month conflict",
+      "link": "https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676",
+      "source": "FT World",
+      "published": "2026-06-22T03:02:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a22fa03a60da6970",
+      "title": "‘We’re here to win’: Nike CEO on the race to revive the biggest brand in sport",
+      "summary": "Elliott Hill says scale of problems means restructuring is taking longer than hoped",
+      "link": "https://www.ft.com/content/8a2d2b92-4ab4-405b-9f3c-63401e17e17f",
+      "source": "FT World",
+      "published": "2026-06-22T03:00:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ed02144854b71984",
+      "title": "Why sinodollars outweigh the petroyuan",
+      "summary": "China’s currency is becoming a more important part of the global financial system but the dollar is still in control",
+      "link": "https://www.ft.com/content/0948fa97-1585-4484-90a5-6df769367dfe",
+      "source": "FT World",
+      "published": "2026-06-22T02:51:39+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "31e06da7ae90554a",
+      "title": "Iran Deal 'Strategic Defeat' for US: Defense Analyst",
+      "summary": "Stimson Center Senior Fellow Kelly Grieco argues the new memorandum of understanding largely restores the prewar status quo rather than delivering decisive gains for the United States, calling it a \"strategic defeat\" for the US. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-22/iran-deal-strategic-defeat-for-us-defense-analyst-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T02:51:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0eafcd29ac4e5bb2",
+      "title": "Rupee May Get Further Boost as Indian Banks Line Up Overseas Debt",
+      "summary": "A Nifty gauge of lenders has risen about 6% since June 5.",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/india-banks-rebound-as-dollar-inflows-gather-pace",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T02:45:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "38e9a2265495b0ad",
+      "title": "Colombia’s De La Espriella claims victory on preliminary results",
+      "summary": "Right-wing candidate Abelardo de la Espriella has claimed victory in Colombia&#039;s presidential election.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/colombias-de-la-espriella-claims-victory-on-preliminary-results?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T02:45:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d74b60c2173e08ea",
+      "title": "Qatar Domestic Gas Plant Malfunction Blast Leaves 18 Missing",
+      "summary": "Qatar said an incident during the startup of the Ras Laffan industrial complex resulted in a blast that has injured dozens, underscoring the risks to Middle East energy facilities as they ramp up production after the US-Iran ceasefire.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/qatar-says-malfunction-causes-blast-at-domestic-gas-plant",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T02:31:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "977d2840106e37e1",
+      "title": "Masan Plans Tungsten Mine Expansion in Vietnam as It Courts Foreign Capital",
+      "summary": "Masan High-Tech Materials announced an expansion of its Nui Phao mine and Nui Chiem area, potentially adding 115 million tons of tungsten-polymetallic resources as the company seeks to attract foreign investors and establish a stronger foothold in the global critical minerals supply chain.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/masan-plans-tungsten-mine-expansion-as-it-courts-foreign-capital",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T02:18:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f0a23a40c63d4530",
+      "title": "Chinese Stocks in Hong Kong Near Bear Market After Holiday",
+      "summary": "A gauge of Chinese stocks in Hong Kong edged toward a bear market as trading resumed after the holiday, weighed by weak consumption data and investors chasing AI shares elsewhere.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/chinese-stocks-in-hong-kong-near-bear-market-after-holiday",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T02:04:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7f434fa00218c52c",
+      "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+      "summary": "Ship tracking data shows sharp fall in transits as US and Iranian officials hold talks to save fragile peace framework.",
+      "link": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T02:03:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1da785f575b510d8",
+      "title": "Iran says implementation in Lebanon will determine deal's future",
+      "summary": "Iran says implementation in Lebanon will determine deal's future Iranian foreign minister Abbas Araghchi has welcomed the outcome of the latest US-Iran talks in Switzerland, crediting Pakistani and Qatari mediation efforts with helping achieve what he described as major progress towards ending the war in Lebanon. In a post on social media, Araghchi said that oil and petrochemical exports had been exempted from restrictions, the blockade had been lifted, some frozen Iranian assets had been released and a major reconstruction and development programme for Iran had been launched. Despite the repo",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-implementation-lebanon-will-determine-deals-future",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T01:54:52+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9bcd8498ed92b8ed",
+      "title": "Iran says negotiating team's work in Switzerland is complete",
+      "summary": "Iran says negotiating team's work in Switzerland is complete Iran's foreign ministry spokesperson Esmaeil Baghaei said the work of Tehran's negotiating delegation in Switzerland has been completed, with the next phase of discussions to be handled by technical teams tasked with implementing the memorandum of understanding between Iran and the United States. Speaking to Iranian media, Baghaei said it had been agreed that technical teams would continue work on issues necessary for the effective implementation of the agreement. \"It was agreed that technical teams will continue their work on the is",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-negotiating-teams-work-switzerland-complete",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T01:54:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3c7ef275cf07f832",
+      "title": "US and Iran mediators announce Lebanon de-confliction mechanism",
+      "summary": "US and Iran mediators announce Lebanon de-confliction mechanism A joint statement issued by the mediators of the US-Iran negotiations said the parties had agreed to establish a de-confliction cell aimed at supporting the implementation of the memorandum of understanding's provisions on Lebanon. According to the statement, the mechanism will involve representatives of the United States, Iran and the Lebanese government, with mediation support from the countries facilitating the talks. The statement said the de-confliction cell would work \"to ensure the adherence of the termination of military o",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-mediators-announce-lebanon-de-confliction-mechanism",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T01:46:59+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d82648fd7e2ccaba",
+      "title": "China Targets US Rare Earths Firms in Response to Pentagon List",
+      "summary": "China has imposed export controls against two US rare earth producers that are part of Washington’s effort to reduce its dependence on Beijing by establishing an alternative supply chain for the critical minerals.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/china-places-two-us-rare-earths-producers-on-export-control-list",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T01:42:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c4850e393ab6f0bc",
+      "title": "Iran says talks format changed after US ‘threatening statement’",
+      "summary": "Iran says talks format changed after US ‘threatening statement’ Iran's foreign ministry spokesperson Esmaeil Baghaei said the Iranian delegation refused to continue quadrilateral talks involving the United States, Pakistan and Qatar in Switzerland after what he described as a \"threatening statement\" by US President Donald Trump during the negotiations. Speaking to Iranian media, Baghaei said Qatar and Pakistan attempted to keep the four-party format in place, but Tehran rejected the proposal. \"Qatar and Pakistan tried to continue the talks, and we said it would not be a quadrilateral meeting,\"",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-format-changed-after-us-threatening-statement",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T01:32:30+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1c2e5a9189b53a9e",
+      "title": "Qatar Brings Empty LNG Ships Through Hormuz as Exports Rise",
+      "summary": "Qatar is rushing to bring home more empty liquefied natural gas tankers as the nation prepares to restart shipments accounting for about a fifth of global supply.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/qatar-rushes-to-bring-back-empty-lng-ships-as-it-lifts-exports",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T01:29:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "95c88c4ff5557c82",
+      "title": "Pakistan and Qatar announce roadmap towards final US-Iran agreement",
+      "summary": "Pakistan and Qatar announce roadmap towards final US-Iran agreement Pakistan and Qatar said talks between the United States and Iran in Switzerland were conducted in a \"positive and constructive atmosphere\", with mediators reporting encouraging progress on several key issues. In a joint statement, the two countries said the parties had agreed to create a mechanism for further technical talks as efforts continue to build on the memorandum of understanding reached earlier. The statement said a High-Level Committee would be established to provide political oversight of the mediation process, with",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-and-qatar-announce-roadmap-towards-final-us-iran-agreement",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T01:23:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "428b14fb4fd0d68e",
+      "title": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
+      "summary": "Negotiators from the US and Iran wrapped a day of talks in Switzerland.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T01:19:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7151c6c4f279e358",
+      "title": "Pound Trades Near 2026 Low as UK Political Uncertainty Builds",
+      "summary": "The pound traded near this year’s low on expectations Keir Starmer will set out a timetable for his departure as UK prime minister in coming days.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/pound-trades-near-2026-low-as-uk-political-uncertainty-builds",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T01:16:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0834038f31bd9567",
+      "title": "Tehran says talks advance on sanctions and frozen assets",
+      "summary": "Tehran says talks advance on sanctions and frozen assets Iran said \"good progress\" was made during the first day of talks with the United States on issues including the release of Iranian assets and relief from oil-related sanctions. Foreign ministry spokesman Esmaeil Baghaei said the Iranian delegation stressed that the conflict must end on all fronts, including Lebanon, while discussions also addressed \"the issuance of necessary licenses for oil sales and the release of Iranian assets\". Baghaei said discussions were held on the safe passage of ships through the Strait of Hormuz and “a mechan",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-talks-advance-sanctions-and-frozen-assets",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T01:15:25+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1bcd77dd7a0a8137",
+      "title": "Vale Board Resists Shareholder Previ’s Bid to Oust Chairman",
+      "summary": "Board members of Vale SA, the world’s top iron ore producer, voted against a proposal by one of the company’s largest shareholders to remove Daniel André Stieler as chairman, according to people familiar with the matter.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/vale-board-resists-shareholder-previ-s-bid-to-oust-chairman",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-22T01:13:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aff2e58ca8924c31",
+      "title": "No pressure to pass the ball to Ronaldo in World Cup: Portugal’s Conceicao",
+      "summary": "Ronaldo has faced criticism after his performance in Portugal’s first match of the FIFA World Cup.",
+      "link": "https://www.aljazeera.com/sports/2026/6/22/no-pressure-to-pass-the-ball-to-ronaldo-in-world-cup-portugals-conceicao?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T01:12:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0bde6802c45908a8",
+      "title": "Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda",
+      "summary": "Health officials defend the restrictions, but traders say the measures have disrupted the flow of goods and income.",
+      "link": "https://www.aljazeera.com/news/2026/6/22/ebola-closure-cuts-off-a-lifeline-between-drcs-goma-and-rwanda?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T01:06:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3a90fc617ef5a505",
+      "title": "Negotiations with Iran will continue overnight, US official says",
+      "summary": "Negotiations with Iran will continue overnight, US official says A senior US official involved in the negotiations said that discussions between American and Iranian representatives in Switzerland remain ongoing and are expected to continue throughout the night, Al Jazeera Arabic reported. The official said the US delegation had been engaged in continuous meetings since the morning and rejected reports suggesting the Iranian delegation had left, stating that negotiations were still actively underway. The official said discussions covered Iranian messaging regarding the Strait of Hormuz, with m",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/negotiations-iran-remain-under-way-us-official-says",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T01:02:09+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b64b4f015941dee5",
+      "title": "Cape Verde fight back for second World Cup draw 2-2 against Uruguay",
+      "summary": "Uruguay could need a win over Spain next weekend to avoid a second consecutive FIFA World Cup group-stage exit.",
+      "link": "https://www.aljazeera.com/sports/2026/6/22/cape-verde-fight-back-for-second-world-cup-draw-2-2-against-uruguay?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T00:58:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c52151bc5d7e0474",
+      "title": "Egyptian football fans chant for Palestine in Vancouver",
+      "summary": "Egyptian fans gathered outside BC Place in Vancouver ahead of their World Cup match against New Zealand.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/egyptian-football-fans-chant-for-palestine-in-vancouver?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T00:58:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1340201b6409e74a",
+      "title": "After Trump inspects Reflecting Pool, he says repair work will begin 'immediately'",
+      "summary": "On Sunday, the president flew by helicopter over the refurbished landmark, which is plagued by algae and peeling paint. He claims vandals are partly to blame.",
+      "link": "https://www.bbc.com/news/articles/c872e8d9el1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-22T00:54:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "220d3596e7572a3b",
+      "title": "Trump questions Nato allies' support during Iran conflict",
+      "summary": "Trump questions Nato allies' support during Iran conflict US President Donald Trump has criticised Italy and Prime Minister Giorgia Meloni for not joining the United States and Israel in their military campaign against Iran. In a social media post, Trump argued that Nato allies had benefited from American support for decades but failed to reciprocate during the conflict. \"After spending Trillions of Dollars on NATO, Italy, and its Prime Minister, wouldn't even think of becoming involved with the Islamic Republic of Iran and their very serious Nuclear Threat,\" Trump wrote. He added: \"For decade",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-questions-nato-allies-support-during-iran-conflict",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T00:54:06+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "17859eaf233570ed",
+      "title": "Iranian defence official calls for regional Islamic security alliance",
+      "summary": "Iranian defence official calls for regional Islamic security alliance Iran's acting defence minister, Majid Ibn al-Reza, called on Islamic countries to establish a regional security belt, arguing that greater cooperation is needed to address shared security challenges. According to the IRNA news agency, al-Reza made the proposal during a telephone conversation with Pakistan's defence minister Khawaja Asif. The remarks come as countries across the Gulf continue to reassess regional security arrangements following the conflict that began in late February. Iran has maintained that its military op",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-defence-official-calls-regional-islamic-security-alliance",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T00:52:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "752b843cb9e9e4ea",
+      "title": "Oil prices rise amid uncertainty over US-Iran talks",
+      "summary": "Oil prices rise amid uncertainty over US-Iran talks Oil prices rose on Sunday as traders assessed the implications of ongoing US-Iran negotiations and the durability of the ceasefire between the two countries. According to Reuters, Brent crude futures climbed by $1.09, or 1.35 percent, to $81.66 a barrel by 22:06 GMT, after reaching an early session high of $82.30. The increase came amid continued uncertainty over future oil supplies and the outcome of diplomatic talks. Oil prices had fallen last week after several tankers successfully transited the Strait of Hormuz, easing concerns about disr",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-amid-uncertainty-over-us-iran-talks",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T00:48:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "101d2eaabd42e669",
+      "title": "UK lawmakers to debate influence of pro-Israel lobbying groups",
+      "summary": "UK lawmakers to debate influence of pro-Israel lobbying groups UK lawmakers are set to debate the influence of pro-Israel lobbying groups on British politics on Monday and consider calls for a public inquiry into the issue. The discussion follows a petition that has attracted more than 118,000 signatures, surpassing the threshold required for parliamentary consideration. Supporters of the petition argue that the role of pro-Israel organisations in UK politics should be examined in light of the government's response to the war in Gaza and rising settler violence in the occupied West Bank. The U",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-lawmakers-debate-influence-pro-israel-lobbying-groups",
+      "source": "Middle East Eye",
+      "published": "2026-06-22T00:47:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "94e45187afb7624d",
+      "title": "US and Iran conduct tense peace talks in Switzerland",
+      "summary": "Oil prices rise as Trump threatens new strikes if Tehran does not rein in Hizbollah in Lebanon",
+      "link": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
+      "source": "FT World",
+      "published": "2026-06-22T00:41:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aa10df7d20a85726",
+      "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+      "summary": "Iranian fans in Tehran watched their team secure a 0-0 draw against Belgium at the World Cup in Los Angeles.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T00:14:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "782814f5b8a9d247",
+      "title": "Iran war live: US-Tehran agree roadmap to reach a final deal in 60 days",
+      "summary": "US, Iran establish committee to oversee talks and a &#039;de-confliction cell&#039; to end attacks in Lebanon, mediators say.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-22T00:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0bf3cdf2ad9ca09e",
+      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+      "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+      "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-21T23:57:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d5fff8e6a34f9906",
+      "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+      "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
+      "link": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-21T23:53:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e9083381f150c8da",
+      "title": "Rightwing populist ‘El Tigre’ wins Colombia election",
+      "summary": "Trump-loving political outsider Abelardo de la Espriella narrowly beats leftist continuity candidate",
+      "link": "https://www.ft.com/content/49294716-56be-40a4-ba31-b4e376ccb47f",
+      "source": "FT World",
+      "published": "2026-06-21T23:47:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d22caf62acd44063",
+      "title": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
+      "summary": "As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.",
+      "link": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-21T23:44:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "766d25ea2551c100",
+      "title": "Gold Advances After Negotiators Flag Headway in US-Iran Talks",
+      "summary": "Gold rose after negotiators heralded progress in talks between the US and Iran to find a permanent resolution to the war that’s roiled global markets.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-21/gold-holds-decline-after-trump-warns-iran-during-peace-talks",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-21T23:37:35+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -41,37 +2862,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-06-21T23:19:53+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "94e45187afb7624d",
-      "title": "US and Iran conduct tense peace talks in Switzerland",
-      "summary": "Oil prices rise as Trump threatens new strikes if Tehran does not rein in Hizbollah in Lebanon",
-      "link": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
-      "source": "FT World",
-      "published": "2026-06-21T22:41:54+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -190,9 +2980,9 @@
       }
     },
     {
-      "id": "bbeaa037ecbf613c",
-      "title": "Oil Climbs, US Futures Dip on Tense US-Iran Talks: Markets Wrap",
-      "summary": "US stock futures fell and oil climbed on Monday as talks between Washington and Tehran over a peace deal were clouded by a renewed threat from President Donald Trump to strike Iran.",
+      "id": "2ab8f50485439eb8",
+      "title": "Oil Falls, Asia Stocks Rise as Iran Talks Progress: Markets Wrap",
+      "summary": "Oil gave up early gains and Asian stocks advanced as investors welcomed signs of progress in diplomatic talks between the US and Iran.",
       "link": "https://www.bloomberg.com/news/articles/2026-06-21/us-futures-slip-oil-climbs-on-renewed-iran-threat-markets-wrap",
       "source": "Bloomberg Markets",
       "published": "2026-06-21T22:08:56+00:00",
@@ -221,43 +3011,12 @@
       }
     },
     {
-      "id": "cd6aeabcc1e05b79",
-      "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
-      "summary": "Oil advanced after President Donald Trump threatened strikes on Iran if Hezbollah keeps attacking Israel, raising concerns about progress for peace talks between Washington and Tehran.",
+      "id": "21a4bacd7bcf60b1",
+      "title": "Oil Declines After US-Iran Peace Talks Show Signs of Progress",
+      "summary": "Oil dropped following signs of progress in peace talks between Washington and Tehran, which appeared to get off to a rocky start after US President Donald Trump issued a fresh threat against Iran.",
       "link": "https://www.bloomberg.com/news/articles/2026-06-21/latest-oil-market-news-and-analysis-for-june-22",
       "source": "Bloomberg Markets",
       "published": "2026-06-21T22:02:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7027fc72b4bdf9db",
-      "title": "Singapore Dollar Set to Gain Despite Hawkish Fed, Analysts Say",
-      "summary": "The Singapore dollar is poised to strengthen against the US dollar in the second half of the year despite a hawkish Federal Reserve boosting sentiment toward the greenback, according to strategists.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/singapore-dollar-set-to-gain-despite-hawkish-fed-analysts-say",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T22:00:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -314,2771 +3073,12 @@
       }
     },
     {
-      "id": "e77596c2c8f5665d",
-      "title": "FirstFT: US and Iran hold high-stakes talks in Switzerland",
-      "summary": "Also in today’s newsletter: Philippines warns over Chinese military activity around Scarborough Shoal, and Keir Starmer’s premiership in doubt",
-      "link": "https://www.ft.com/content/9f3997f6-11b5-4360-aaed-0622f127a780",
-      "source": "FT World",
-      "published": "2026-06-21T21:54:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ff2317fa4bc9191c",
-      "title": "Trump Ally Wins Initial Count in Colombian Presidential Vote",
-      "summary": "Conservative lawyer Abelardo de la Espriella narrowly won the preliminary vote count in Colombia’s presidential election, likely sweeping aside Gustavo Petro’s leftist movement and realigning Bogota with the US.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/trump-backed-conservative-leads-in-colombia-presidential-runoff",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T21:49:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "2007d4ba58d100b6",
       "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
       "summary": "Nathan Ngoy was sent off for hauling down Mehdi Taremi, whose first-half strike was ruled offside in close Group G game.",
       "link": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-06-21T21:45:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4f5f449516238934",
-      "title": "Israeli attacks kill nine people in Gaza in past 24 hours",
-      "summary": "Israeli attacks kill nine people in Gaza in past 24 hours Israeli attacks have killed nine Palestinians in Gaza and wounded 41 others in the past 24 hours, the Health Ministry in the Strip says. Since the “ceasefire” took effect in October, at least 1,021 people have been killed and 3,249 wounded by Israeli attacks. Mourners carry bodies during the funeral of Palestinians killed in an Israeli strike, according to medics, at Al-Shifa Hospital in Gaza City, 20 June 2026. (Dawoud Abu Alkas / Reuters)",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-nine-people-gaza-past-24-hours",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T21:17:24+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f2fcba51f0783dda",
-      "title": "Syria president denies wanting to intervene in Lebanon after Trump remarks",
-      "summary": "Syria president denies wanting to intervene in Lebanon after Trump remarks Syrian President Ahmed al-Sharaa denied on Sunday that his country sought to intervene militarily in Lebanon after US President Donald Trump repeatedly suggested Damascus could get involved. \"We are looking for economic channels between Lebanon and Syria, not military ones,\" Sharaa said in an interview broadcast on television channel Al Mashhad. On Sunday, Trump told Fox News he was \"disappointed Israel can't put Hezbollah away\", adding in reference to the fight against the militant group: \"I'm close to giving it over t",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-president-denies-wanting-intervene-lebanon-after-trump-remarks",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T21:11:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b93568d467ee1227",
-      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
-      "summary": "米イラン和平協議、ホルムズ原油輸送続く、英首相が近く退任表明か、重要鉱物、日産取締役案に不支持",
-      "link": "https://www.bloomberg.com/jp/news/newsletters/2026-06-21/TH02G2RKV32600",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T21:02:26+00:00",
-      "region": "global",
-      "lang": "ja",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3e6966b66e7a329e",
-      "title": "India plays ‘whack-a-mole’ with online financial influencers",
-      "summary": "Regulator targets scammers who give stock tips under guise of financial education as ranks of retail investors grow",
-      "link": "https://www.ft.com/content/79ef658b-e5df-48cf-9e0a-f520dfed8836",
-      "source": "FT World",
-      "published": "2026-06-21T21:00:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1263b948d5abfddb",
-      "title": "Renault Pushback on Nissan Board Picks Targets Creditor Mizuho",
-      "summary": "Renault SA’s push against two of Nissan Motor Co.’s appointments to the board effectively pits the Japanese carmaker’s top shareholder against its biggest creditor.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/renault-pushback-on-nissan-board-picks-targets-creditor-mizuho",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T21:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e104b15956c06141",
-      "title": "What are the end goals of Iran-US negotiations?",
-      "summary": "Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T20:59:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "55c2aa9884ca3681",
-      "title": "Turkish minister warns of Israeli sabotage risk to US-Iran deal",
-      "summary": "Turkish minister warns of Israeli sabotage risk to US-Iran deal Turkish Foreign Minister Hakan Fidan says that technical issues remaining in the recently signed memorandum of understanding&nbsp;may not be quickly resolved, and cautioned that Israel could try to derail the process. “These are important issues. It may not be easy to immediately resolve their technical details. We may see deadlocks from time to time. We need to be prepared for that,” Fidan told the Turkish Anadolu Agency. “Secondly, of course, there is always an Israel waiting in the corner, ready to sabotage the process as soon ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-minister-warns-israeli-sabotage-risk-us-iran-deal",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T20:33:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d37c75b98d6c8512",
-      "title": "Europe sweats through new heatwave, with worse to come",
-      "summary": "France banned alcohol in red-alert areas Sunday, Spain and Germany cancelled sports events and Britain warned of &#8220;tropical nights&#8221; as Europe sweltered through a heatwave threatening to break June temperature records. Less than a month after a May heatwave that set records in several European countries, the continent is facing a new bout of extreme weather, [&#8230;] The post Europe sweats through new heatwave, with worse to come appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140405-europe-sweats-through-new-heatwave-with-worse-to-come.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T20:23:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "deb17e2387baa5e3",
-      "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
-      "summary": "People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T20:21:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c1697664cab13b2a",
-      "title": "Philippines fears China may move to seize full control of disputed atoll",
-      "summary": "Defence secretary warns of heightened Chinese military activity around Scarborough Shoal",
-      "link": "https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93",
-      "source": "FT World",
-      "published": "2026-06-21T20:19:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "83169fb46adffa2c",
-      "title": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
-      "summary": "Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T20:11:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f7cd70b764bf1632",
-      "title": "Serena Williams to play women’s singles at Wimbledon as wildcard entrant",
-      "summary": "The seven-time ladies&#039; singles champion will make her Grand Slam return at Wimbledon, six years after her last appearance.",
-      "link": "https://www.aljazeera.com/sports/2026/6/21/serena-williams-to-play-womens-singles-at-wimbledon-as-wildcard-entrant?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T20:05:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "863ba2bab565bf2c",
-      "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
-      "summary": "Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T20:04:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "40e1b6ebf0f6d1f3",
-      "title": "Loud boom heard in Doha as explosion at factory reported",
-      "summary": "Loud boom heard in Doha as explosion at factory reported A loud boom was heard in the Qatari capital, Doha, on Sunday evening, according to a Reuters witness. Qatar's Interior Ministry later said the sound was linked to an explosion at a factory in Ras Laffan as a result of a \"technical incident,\" with no injuries or leaks reported.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-boom-heard-doha-factory-explosion-reported",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T19:58:36+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7dd44df45f6b0ffb",
-      "title": "Colombia elections take place as Abelardo de la Espriella leads polls",
-      "summary": "Colombians are voting in an election where senator Ivan Cepeda is racing against Abelardo de la Espriella.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/colombia-elections-take-place-as-abelardo-de-la-espriella-leads-polls?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T19:58:00+00:00",
-      "region": "global",
-      "lang": "es",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4800886accf772c8",
-      "title": "CRH Near Biggest-Ever Deal for Arcosa, Financial Times Says",
-      "summary": "Building materials group CRH Plc. is close to its biggest deal ever to acquire competitor Arcosa Inc., and an agreement could come as soon as next week, the Financial Times reports, citing people familiar with the matter.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/crh-near-biggest-ever-deal-for-arcosa-financial-times-says",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T19:55:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c7c71bdb0e0f5ef",
-      "title": "Japan fans celebrate 4-0 World Cup win in Tokyo",
-      "summary": "Fans gathered at Tokyo&#039;s Shibuya Crossing after Japan beat Tunisia 4-0 in a World Cup group-stage match.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/japan-fans-celebrate-4-0-world-cup-win-in-tokyo?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T19:54:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "16f0811621c25b0e",
-      "title": "Ramiro Valdes, one of Cuba’s last living revolutionary figures, dies at 94",
-      "summary": "Valdes was close ally of Castro brothers and helped found Cuba&#039;s notorious intelligence apparatus.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/ramiro-valdes-one-of-cubas-last-living-revolutionary-figures-dies-at-94?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T19:51:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bc930f781193ce91",
-      "title": "Iran delegation 'remains engaged' in Switzerland talks, report says",
-      "summary": "Iran delegation 'remains engaged' in Switzerland talks, report says Iran is still engaged in talks with the United States in Switzerland, mediated by Pakistan and Qatar and aimed at ending the war, a diplomat with knowledge of the negotiations told AFP late Sunday. \"The Iranian delegation remains engaged in the talks and has not indicated to the mediators any intention to leave,\" the diplomat told AFP on condition of anonymity to discuss the sensitive topic after Iranian media reported Tehran's negotiators had left the venue where the summit was being held.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-delegation-remains-engaged-switzerland-talks-report-says",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T19:49:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bdce94703a709f02",
-      "title": "Dutch Coach: Brazil holds no edge over Morocco ahead of potential knockout clash",
-      "summary": "Netherlands head coach Ronald Koeman has praised Morocco’s performances at the 2026 FIFA World Cup, saying he sees no clear advantage in facing Brazil over the Atlas Lions should the Dutch side meet either team in the knockout stages. Speaking to reporters, Koeman said he had no preference regarding the Netherlands’ potential next opponent, stressing [&#8230;] The post Dutch Coach: Brazil holds no edge over Morocco ahead of potential knockout clash appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140402-dutch-coach-brazil-holds-no-edge-over-morocco-ahead-of-potential-knockout-clash.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T19:49:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b3ac11adb484550f",
-      "title": "Israeli defence minister says Israel has 'no intention of withdrawing' from southern Lebanon",
-      "summary": "Israeli defence minister says Israel has 'no intention of withdrawing' from southern Lebanon Israel's Defence Minister Israel Katz wrote on X that \"Israel will not withdraw from the security zone in Lebanon.\" \"Israel has no intention of withdrawing from the Beaufort, which is an integral part of the security zone in Lebanon and essential for the defense of the Galilee communities and Israeli Defense Forces,\" he said. Israeli troops have captured the 900-year-old Beaufort Castle and the strategic ridge surrounding it in southern Lebanon on 31 May.&nbsp; The capture of the medieval castle and ri",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defense-minister-says-israel-has-no-intention-withdrawing",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T19:41:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "df039219c1339a81",
-      "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
-      "summary": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
-      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-21T19:33:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8dcca8b2a866d861",
-      "title": "Building materials group CRH nears its biggest-ever deal to buy Arcosa",
-      "summary": "Irish company closes in on purchase of Dallas-based construction firm with market capitalisation of almost $7bn",
-      "link": "https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981",
-      "source": "FT World",
-      "published": "2026-06-21T19:31:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fc4398f1ff96b5be",
-      "title": "Drone hub, cyber defense and Gibraltar: Inside the new US-Morocco security vision",
-      "summary": "The United States and Morocco are preparing to deepen defense cooperation over the next decade under a 2026–2036 roadmap that outlines expanded collaboration in drones, cybersecurity, military infrastructure and advanced command systems, while strengthening Morocco’s role in regional security dynamics. A central element of the proposed framework is the creation of a drone center in [&#8230;] The post Drone hub, cyber defense and Gibraltar: Inside the new US-Morocco security vision appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140399-drone-hub-cyber-defense-and-gibraltar-inside-the-new-us-morocco-security-vision.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T19:30:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9e471cc674ad31ad",
-      "title": "Israel lifts all war-related restrictions on northern border areas",
-      "summary": "Israel lifts all war-related restrictions on northern border areas Israel on Sunday announced the lifting of all restrictions imposed on northern border areas as part of the war on Lebanon. The Israeli military said all restrictions will be lifted starting at 6:00 am on Monday, 22 June 22 2026,&nbsp;adding that the border communities \"will move to a full activity level, with no restrictions, instead of a partial activity level\". Smoke rises following Israeli bombardment in southern Lebanon as seen from a position across the border in the Upper Galilee in northern Israel on 19 June 2026. (AFP)",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lifts-all-war-related-restrictions-northern-border-areas",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T19:04:32+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a1ecf441c89935b4",
-      "title": "UK statistics agency admits fresh error over key jobs data",
-      "summary": "ONS warns of ‘level of reduced quality’, in setback to efforts to restore confidence in closely watched figures",
-      "link": "https://www.ft.com/content/137b9379-de54-4411-8729-bc41e000345a",
-      "source": "FT World",
-      "published": "2026-06-21T19:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "693089270926d550",
-      "title": "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil",
-      "summary": "Bond traders, recently forced to reposition for the possibility of higher interest rates ahead, are looking to this week’s personal spending data for an early read on whether the market’s newly hawkish stance is warranted.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/bond-traders-burned-by-fed-s-pivot-look-to-prices-gauge-oil",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T19:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "127d99d8e5441127",
-      "title": "Europe heatwave scorches cities and wildlife",
-      "summary": "Europe heatwave scorches cities and wildlife",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/europe-heatwave-scorches-cities-and-wildlife?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T18:47:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ffb33f71516c4835",
-      "title": "Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia",
-      "summary": "Yamal makes a goal-scoring return for Spain as European champions get their World Cup campaign back on track.",
-      "link": "https://www.aljazeera.com/sports/2026/6/21/spain-thrash-saudi-arabia-as-lamine-yamal-off-mark-at-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T18:37:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9793def903bac579",
-      "title": "Iran-US talks in Switzerland paused but not ended, Iranian source says",
-      "summary": "Iran-US talks in Switzerland paused but not ended, Iranian source says Talks between Iran and the United States in Switzerland have been paused, but have not been terminated, an Iranian source told Reuters.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-talks-switzerland-paused-not-ended-iranian-source-says-0",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T18:32:12+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "edd33c9fb2067d69",
-      "title": "Iran says talks covered frozen assets, oil sanctions relief proposal",
-      "summary": "Iran says talks covered frozen assets, oil sanctions relief proposal Hussein Gurbanzadeh, ‌a member of Iran’s team negotiating with the ⁠US, told state television that the issue of our frozen assets and the arrangements for their release has been discussed in today’s negotiations. He added that discussions had focused on sanctions relief tied to Iran’s energy sector. “In Switzerland, we discussed the temporary exemption from sanctions on oil and its derivatives, and the final draft of a proposal on this matter has been completed,” he said.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-talks-switzerland-paused-not-ended-iranian-source-says",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T18:29:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b41b629a5af4f645",
-      "title": "Trump wishes UK PM Starmer well amid reports of resignation plans",
-      "summary": "US President Donald Trump on Sunday said he wished UK Prime Minister Keir Starmer well amid reports he plans to resign. &#8220;Keir Starmer will resign as Prime Minister of The United Kingdom,&#8221; Trump wrote on Truth Social in a post that gave no evidence he had inside information. &#8220;I wish him well.&#8221; His post came [&#8230;] The post Trump wishes UK PM Starmer well amid reports of resignation plans appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140396-trump-wishes-uk-pm-starmer-well-amid-reports-of-resignation-plans.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T18:26:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e715321ce67cc583",
-      "title": "Yamal Scores on Injury Return as Spain Defeat Saudi Arabia",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286825",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T18:17:59+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a02e7baba249b03f",
-      "title": "Germany, KNDS Family Owners Agree on Stake Sale Ahead of IPO",
-      "summary": "Families that own half of tankmaker KNDS NV agreed to sell a 40% stake to the German government, according to people familiar with the matter, paving the way for one of Europe’s key defense companies to go public.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/germany-knds-family-owners-agree-on-stake-sale-ahead-of-ipo",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T18:17:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c87b0cb83eb7f0ca",
-      "title": "Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn",
-      "summary": "Traders see more volatility ahead as new central bank chair declines to give dot plot on future path of interest rates",
-      "link": "https://www.ft.com/content/6a9330ad-a2db-494b-bf61-7dd417ab9c9a",
-      "source": "FT World",
-      "published": "2026-06-21T18:00:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f938d65dd9cf9325",
-      "title": "South Korea’s Hyundai Rotem secures major Morocco rail maintenance deal",
-      "summary": "Hyundai Rotem has secured a railway maintenance contract in Morocco worth 748.2 billion won ($487 million), expanding its footprint in the kingdom following an earlier agreement to supply trains to the country&#8217;s national rail operator. The South Korean company, a subsidiary of Hyundai Motor Group, announced that it signed the maintenance agreement this week with [&#8230;] The post South Korea’s Hyundai Rotem secures major Morocco rail maintenance deal appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140393-south-koreas-hyundai-rotem-secures-major-morocco-rail-maintenance-deal.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T17:55:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "625840affad48b31",
-      "title": "What’s next in the Strait of Hormuz crisis?",
-      "summary": "Iranian armed forces say they&#039;ve closed the vital waterway after Israeli attacks on Lebanon.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T17:36:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c235c539f0abfc6e",
-      "title": "Fake Belgian work contracts at center of expanding fraud investigation",
-      "summary": "Police in Tangier have intensified their investigation into an alleged international fraud network accused of scamming dozens of Moroccans seeking employment opportunities in Belgium through fake work contracts worth millions of dirhams. According to Hespress AR sources familiar with the case, the investigation was launched following direct instructions from the Prosecutor General at the Tangier [&#8230;] The post Fake Belgian work contracts at center of expanding fraud investigation appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140391-fake-belgian-work-contracts-at-center-of-expanding-fraud-investigation.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T17:30:23+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2450d2f1f04f7d57",
-      "title": "Bloomberg This Weekend 6/21/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The Associated Press International Correspondent Philip Crowther, ABC News State Department Reporter Shannon Kingston, International Maritime Organization Arsenio Domingues, Founder and Author, “The Energy Word” Dan Dicker, Author of “Users” BeeBan Kidron, Fmr. Defense Secretary Mark Esper, Georgia Senator Raphael Warnock, Politico NY State Politics Reporter Jason Beeferman and “The New Fatherhoo",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/bloomberg-this-weekend-6-21-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T17:28:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1add661e62aa7546",
-      "title": "Sanctions waivers for Iranian oil to be issued soon, says Iranian negotiator",
-      "summary": "Sanctions waivers for Iranian oil to be issued soon, says Iranian negotiator A draft has been finalised regarding sanctions waivers for&nbsp;Iranian oil, a member of&nbsp;Iran's team negotiating with the US told state media on Sunday. They added that the waivers would be issued soon.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctions-waivers-iranian-oil-be-issued-soon-says-iranian-negotiator",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T17:27:10+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ddba33a677f418e1",
-      "title": "A nation still divided 10 years on from the Brexit vote",
-      "summary": "UK braced for leadership challenge, the US updates its growth estimate, and chip designer Cerebras reports earnings",
-      "link": "https://www.ft.com/content/0b0092ea-1fcd-4463-9e3b-c3d2a45d349f",
-      "source": "FT World",
-      "published": "2026-06-21T17:15:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "70157e2186946a04",
-      "title": "‘Toy Story 5’ Rakes in the Biggest Box-Office Debut of the Year with a Franchise-Best $160 Million",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286809",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T17:14:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2061049e725f7827",
-      "title": "Ethiopian prime minister’s party easily wins parliamentary election",
-      "summary": "Nobel Peace Prize winner PM Abiy Ahmed will stay in power, as analysts warn of renewed conflicts in Ethiopia.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T17:07:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "83283ce217a13a51",
-      "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
-      "summary": "Supreme leader has expressed reservations about interim deal with US, but most top decision-makers back it.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T17:01:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "300f54bda267228e",
-      "title": "Iran warns US to 'be careful' after Trump threat",
-      "summary": "Iran warns US to 'be careful' after Trump threat Iran's chief negotiator Mohammad Bagher Ghalibaf on Sunday warned the United States against making threats at the Islamic republic, vowing that \"our armed forces are ready to respond\". \"Don't they think that if their threats had any effect, they would not have reached today's state of desperation? We do not take American threats into account,\" said Ghalibaf, after President Donald Trump threatened to strike&nbsp;Iran&nbsp;over its support for Hezbollah. \"They would do better to be careful with their statements; our armed forces are ready to resp",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-be-careful-after-trump-threat",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T16:55:45+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "03ec25fcca56df7b",
-      "title": "Iran, US, Israel: Memorandum of misunderstanding?",
-      "summary": "Chances are slim for progress between Iran and the US, argues Drop Site News co-founder Jeremy Scahill.",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T16:49:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8a8e32c6cd3f6a66",
-      "title": "The looming Super El Nino",
-      "summary": "A powerful El Nino is expected to peak in November that could threaten food supply and increase extreme weather events.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/the-looming-super-el-nino?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T16:45:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "701fd69e7ddc7c13",
-      "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
-      "summary": "The viral &#039;Cockroach&#039; movement&#039;s supporters occupy New Delhi&#039;s protest site, refusing to leave until minister resigns.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T16:37:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8cbb87751687b199",
-      "title": "Starmer retreats to Chequers to mull podium moment",
-      "summary": "Prime minister goes ‘dark’ on colleagues as he spends weekend discussing his political future with wife, Victoria",
-      "link": "https://www.ft.com/content/7852c1e4-9629-4a67-bf36-7177bc711e34",
-      "source": "FT World",
-      "published": "2026-06-21T16:35:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3f47c7db94a9420c",
-      "title": "Poll: Most Israelis believe Iran emerged stronger from conflict",
-      "summary": "An overwhelming majority of Israelis believe Iran emerged stronger from the recent conflict in the Middle East and the subsequent agreement reached with the United States, according to the results of a new public opinion survey published Sunday. The poll, conducted by the Hebrew University of Jerusalem in cooperation with the Agam Institute, surveyed 3,644 [&#8230;] The post Poll: Most Israelis believe Iran emerged stronger from conflict appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140389-poll-most-israelis-believe-iran-emerged-stronger-from-conflict.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T16:32:44+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "91f0267ef7d5ed85",
-      "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
-      "summary": "Hezbollah chief rejects any Israeli security zone in Lebanon Hezbollah chief Naim Qassem on Sunday rejected any Israeli security zone in Lebanon, after Israel's Prime Minister Benjamin Netanyahu vowed his troops would remain in the country's south for as long as necessary. Israeli troops \"remaining on Lebanese land is impossible. There are no security zones for Israel... we have a national army which deploys, and it is responsible for preserving sovereignty, and it is who we cooperate with,\" Qassem said in a televised address, adding that \"Israel is an aggressor and must leave.\"",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T16:29:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "399bf15716056e80",
-      "title": "Hungary Names OTP’s Tardos as Debt Chief in Charge of Cost Cuts",
-      "summary": "Hungary appointed Gergely Tardos, head of the research at OTP Bank Nyrt., as chief executive of the government’s Debt Management Agency, Finance Minister Andras Karman said Sunday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/hungary-names-otp-s-tardos-as-debt-chief-in-charge-of-cost-cuts",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T16:28:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4c580280c0f2d965",
-      "title": "Fatherhood Books Are Failing to Reflect Modern Dads",
-      "summary": "On Father's Day, Kevin Maguire, author of \"The New Fatherhood,\" joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the evolving role of fathers and the shortcomings of current fatherhood literature. Maguire emphasized that existing parenting books often reinforce outdated gender roles, leaving many contemporary dads without relevant guidance. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/fatherhood-books-failing-to-reflect-modern-dads-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T16:22:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9fa6c4f1aa882db7",
-      "title": "FDA to Review Easing Restrictions on Peptides",
-      "summary": "This summer the FDA will consider loosening restrictions on certain peptide injections, with encouragement from RFK Jr. and the Trump administration. Bloomberg Businessweek senior reporter Amanda Mull explains to hosts David Gura and Christina Ruffini how peptides are popular among wellness enthusiasts and biohackers, who claim they offer benefits ranging from treating tendonitis to enhancing tanning. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/fda-to-review-easing-restrictions-on-peptides-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T16:17:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a1d9b1714b255823",
-      "title": "Saudi Arabia, Egypt, Pakistan, Türkiye Push for Swift Progress in US-Iran Talks",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286797",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T16:14:55+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0681399a8be6e849",
-      "title": "Hezbollah chief says would respond to any violation from Israel",
-      "summary": "Hezbollah chief says would respond to any violation from Israel Hezbollah chief Naim Qassem said on Sunday that Israel will not stay in Lebanon, adding that the group would respond to any violation from the Israeli side. His statements came as Israeli officials say that troops are free to act without restriction to eliminate threats in Lebanon, despite an agreed ceasefire that took effect on Friday.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T16:10:26+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0b9a007ab9945836",
-      "title": "US hopes to turn over 'new leaf' with Iran, but Trump threatens to resume bombing",
-      "summary": "US hopes to turn over 'new leaf' with Iran, but Trump threatens to resume bombing US &nbsp;Vice President JD Vance said on Sunday that President Donald Trump had asked him to turn over \"a new leaf\" in American ties with the Iranian people. But at the same time as the talks were occurring, Trump threatened to continue bombing&nbsp; Iran &nbsp;if it did not contain Hezbollah. Vance arrived at the Burgenstock mountain resort in Switzerland on Sunday morning to join Trump's special envoy, Steve Witkoff, and son-in-law, Jared Kushner, for technical talks with Iranian officials following last week's",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hopes-turn-over-new-leaf-iran-trump-threatens-resume-bombing",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T16:03:52+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2461c2743de20547",
-      "title": "Iran state media says nuclear programme not discussed in US talks",
-      "summary": "Iran state media says nuclear programme not discussed in US talks Iranian state television reported on Sunday that US-Iran talks in Switzerland, mediated by Pakistan and Qatar, had been paused, adding that Tehran's nuclear programme had not been discussed. \"No negotiations regarding&nbsp;Iran's nuclear programme took place during the 80-minute first round of talks,\" the broadcaster said, adding that discussions focused on implementing the memorandum of understanding between Tehran and Washington, as well as the situation in Lebanon.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-media-says-nuclear-programme-not-discussed-us-talks",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T16:01:26+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c03148b8d63b7ca9",
-      "title": "Starmer Is on the Precipice as Pressure Builds for the UK Leader to Resign",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286793",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T15:59:29+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e8960770ecee1098",
-      "title": "Syria frees activist Hassan Akkad days after he was detained",
-      "summary": "His release comes after journalist Mousa al-Omar reportedly withdrew a complaint against Akkad over online criticism.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T15:56:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4d9ffc5bd55a8370",
-      "title": "Prada Pares Back to Essentials in Milan Menswear Show",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286791",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T15:55:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "35f58468e4961fac",
-      "title": "Hakimi 'calm' despite facing rape trial, says Morocco World Cup coach",
-      "summary": "Morocco captain Achraf Hakimi is &#8220;very calm&#8221; despite confirmation that he faces trial in France on rape charges, his national team coach Mohamed Ouahbi said after the 1-0 win over Scotland at the World Cup on Friday. &#8220;He is fine. He woke up this morning, ate like everyone else, got ready for the game and [&#8230;] The post Hakimi &#039;calm&#039; despite facing rape trial, says Morocco World Cup coach appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140387-hakimi-calm-despite-facing-rape-trial-says-morocco-world-cup-coach.html",
-      "source": "Hespress EN",
-      "published": "2026-06-21T15:50:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cc07fc7b3b4dc7d4",
-      "title": "Iran Avoids Shared US Photo at Summit",
-      "summary": "Iran’s delegation briefly entered the Lake Lucerne Summit meeting room before leaving, reflecting Tehran’s reported refusal to participate in a joint photograph with US officials amid sensitive diplomatic negotiations. Bloomberg News' Bastian Benrath-Wright' joins Bloomberg This Weekend to explain that despite the public snub and behind-the-scenes wrangling over protocol, Iranian, US, Qatari and Pakistani representatives later took their seats and proceeded with talks behind closed doors. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/iran-avoids-shared-us-photo-at-summit-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T15:49:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "45b06f1ed84894ff",
-      "title": "Esper: Hezbollah is 'Spoiler' for US-Iran Deal",
-      "summary": "Former US Defense Secretary Mark Esper joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains how Hezbollah remains a key spoiler to any lasting Iran deal because the group continues attacking Israeli forces and communities, giving Israel justification to keep responding militarily. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/esper-hezbollah-is-spoiler-for-us-iran-deal-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T15:27:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7550c7089a4f506e",
-      "title": "Some South Lebanon Residents Trickle Back as Israel-Hezbollah Fighting Pauses",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286778",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T15:26:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e99f8a77da7c0846",
-      "title": "First round of Iran-US talks concludes in Switzerland: Report",
-      "summary": "First round of Iran-US talks concludes in Switzerland: Report The first round of Iran-US talks in Switzerland has concluded, according to Reuters. The talks in the mountain resort of Buergenstock were the first to be held under the terms of a memorandum of understanding agreed a week ago.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/first-round-iran-us-talks-concludes-switzerland-reports-say",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T15:25:26+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "25f0688645da4efa",
-      "title": "What to Know about the Legacy of Brexit, Which Still Divides Britain 10 Years on",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286777",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T15:23:23+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1ed14306c3664f4d",
-      "title": "Half of France under red heat alert as alcohol banned at street music festival",
-      "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
-      "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-21T15:22:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "57a464de8483df4c",
-      "title": "Mbappe, France play Iraq in World Cup match: prediction, team news, lineups",
-      "summary": "Star forward Kylian Mbappe and France face Iraq with Les Bleus focused on securing a place in knockout phase.",
-      "link": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T15:17:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1663bc41c8e7be28",
-      "title": "Key Netherlands Duo Hopeful of Facing Tunisia in Final Pool Game",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286775",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T15:17:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "648150bca3b14689",
-      "title": "US-Iran negotiations in Switzerland kick off",
-      "summary": "US-Iran talks opened in Switzerland with mediators Qatar and Pakistan hailing a ‘historic’ opportunity for stability.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-negotiations-in-switzerland-kick-off?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T15:16:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "031f902611057f6f",
-      "title": "Lebanon death toll rises to 4,106",
-      "summary": "Lebanon death toll rises to 4,106 At least&nbsp;4,106 have been killed and 12,153 wounded since 2 March, according to Lebanon’s Ministry of Public Health. Among those killed were 383 women, 251 children, and 135 medical workers. A man inspects the damage at the site of an Israeli strike that targeted an area in the southern Lebanese city of Nabatieh on 21 June 2026 (Abbas Fakih/AFP)",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-rises-2",
-      "source": "Middle East Eye",
-      "published": "2026-06-21T15:15:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "60b260e54b36b4cd",
-      "title": "Trump Threatens to Strike Iran Over Support for Hezbollah",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286771",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T15:13:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "953d8a689a2b98a5",
-      "title": "Europe Braces for Prolonged Heatwave as Temperatures Approach 40C",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5286769",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-21T15:09:38+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "38a57f8097008597",
-      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
-      "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
-      "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-21T15:01:28+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "25edac621dbb2310",
-      "title": "A $2.8 Trillion Asset Management Star Is a Deal Away From Losing Its Crown",
-      "summary": "Amundi became Europe’s largest fund firm with the help of acquisitions. But after years without a major takeover, rivals are catching up.",
-      "link": "https://www.bloomberg.com/news/features/2026-06-21/europe-s-largest-asset-manager-amundi-is-under-pressure-to-make-a-deal",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T15:00:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e247d15be82bb69a",
-      "title": "Back-stabbing myths are driving the US and Europe further apart",
-      "summary": "Competing narratives of abandonment — from Iran to Greenland — could lead to Nato’s permanent unravelling",
-      "link": "https://www.ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db",
-      "source": "FT World",
-      "published": "2026-06-21T15:00:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f9b2dfd207fababb",
-      "title": "Senator Warnock Calls Republican Party a Cult",
-      "summary": "Senator Raphael Warnock (D-Georgia) delivers a pointed critique of the current state of the Republican Party, describing it as a cult centered around loyalty to President Donald Trump rather than principles or ideas. Watch the Senator discuss with David Gura on Bloomberg This Weekend how progress is not automatic, Americans need to resist despair and to continue advocating for positive change. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/senator-warnock-calls-republican-party-a-cult-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T14:58:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "477cbd4dc7b59ab8",
-      "title": "Iran-US launch historic peace talks with 60-day roadmap",
-      "summary": "Iran-US launch historic peace talks with 60-day roadmap",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T14:54:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "45e3ff41386274c5",
-      "title": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
-      "summary": "Spain and Saudi Arabia fans filled the streets of Atlanta with chants and celebrations ahead of their World Cup clash.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T14:48:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1c23dff063c55c00",
-      "title": "Starmer on brink of quitting as UK prime minister",
-      "summary": "US President Donald Trump says Starmer will resign after failing ‘badly’",
-      "link": "https://www.ft.com/content/ed96e673-8d46-4dec-aebc-d69863b9e801",
-      "source": "FT World",
-      "published": "2026-06-21T14:41:53+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c1843efeb715f604",
-      "title": "Bolivian authorities say no active blockades after state of emergency decree",
-      "summary": "State of emergency permits deployment of military to support police amid five weeks of anti-government protests.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T14:27:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d5b26e37e782a057",
-      "title": "Gaza bids farewell to slain journalist Ahmed Wishah",
-      "summary": "Gaza bids farewell to slain journalist Ahmed Wishah.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-21T14:12:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "edc7c5b058f1fbd0",
-      "title": "Oil Stockpiles Near Danger Zone",
-      "summary": "Energy markets expert and author of Oil's Endless Bid Dan Dicker says oil markets are underestimating the impact of ongoing supply disruptions, warning that global stockpiles have been drawn down significantly as millions of barrels per day remain unable to reach end markets. Dicker warns hosts of Bloomberg This Weekend David Gura and Christina Ruffini if inventories continue to fall, crude prices could surge from current levels to as high as $135 a barrel. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/oil-stockpiles-near-danger-zone-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T14:08:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "13057a264222cf73",
-      "title": "UK's Starmer Faces Growing Pressure to Step Down",
-      "summary": "With escalating political turmoil surrounding the the UK's Prime Minister Keir Starmer, the PM has reportedly contacted cabinet ministers amid mounting speculation about his potential departure. Anchor of Bloomberg's Daybreak Europe Lizzy Burden explains to David Gura and Christina Ruffini on Bloomberg This Weekend how the situation appears to be reaching a tipping point. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/uk-s-starmer-faces-growing-pressure-to-step-down-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T13:44:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b1f68a676150c0c8",
-      "title": "Guinea’s President Doumbouya Announces Ban on Raw Gold Exports",
-      "summary": "Guinean President Mamadi Doumbouya announced a ban on raw gold exports, in an effort to boost local processing of the metal and help the domestic economy.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/guinea-s-president-doumbouya-announces-ban-on-raw-gold-exports",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T13:42:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c12a6e4d2ae08cad",
-      "title": "Efforts Underway for Safe Evacuation of Strait of Hormuz",
-      "summary": "Secretary-General of the International Maritime Organization Arsenio Dominguez joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the ongoing coordination efforts to establish a safe evacuation route for vessels through in the Strait of Hormuz. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/efforts-underway-for-safe-evacuation-of-strait-of-hormuz-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-21T13:37:26+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
