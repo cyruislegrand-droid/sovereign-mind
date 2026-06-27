@@ -1,16 +1,636 @@
 {
-  "generated_at": "2026-06-27T14:51:01.405445+00:00",
+  "generated_at": "2026-06-27T16:11:05.149341+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "f8dfee7b587f62ae",
-      "title": "Damascus races to reassure Beirut as Trump pushes Syria to take on Hezbollah",
-      "summary": "Damascus races to reassure Beirut as Trump pushes Syria to take on Hezbollah Submitted by Adam Chamseddine on Sat, 06/27/2026 - 13:10 Talks of a Syrian role in Lebanon revive memories of decades of troubled relations and military occupation US President Donald Trump shakes hands with Syrian President Ahmed al-Sharaa at the White House in Washington on 10 November 2025 (AFP/Sana) Off US President Donald Trump has repeatedly suggested handing responsibility for dealing with Hezbollah to Syrian President Ahmed al-Sharaa, reviving fears in Lebanon of renewed Syrian military involvement despite den",
-      "link": "https://www.middleeasteye.net/news/damascus-races-reassure-beirut-trump-pushes-syria-take-on-hezbollah",
+      "id": "0e3a6a4cb6a68196",
+      "title": "Lebanese army commander meets UK defence chiefs",
+      "summary": "Lebanese army commander meets UK defence chiefs A statement from Lebanon’s army on Saturday said that its commander, Major General Rodolphe Haykal, visited the UK for talks with British defence chiefs. The officials discussed “ways to support the army and enhance cooperation between the two sides,” as well as addressing “the challenges facing the army in the context of peacekeeping and stability missions and border protection” towards achieving “a sustainable ceasefire in Lebanon”. Haykal also thanked his British counterpart for Britiain's continued support for the Lebanese army. زار قائد الجي",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-commander-meets-uk-defence-chiefs",
       "source": "Middle East Eye",
-      "published": "2026-06-27T14:34:38+00:00",
+      "published": "2026-06-27T16:07:40+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "be5be402b1ec73a0",
+      "title": "EU Chief Salutes Lebanon-Israel Deal",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289309",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T16:07:29+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8534855c0d0a1a19",
+      "title": "Israeli Drone Strike Kills Palestinian Siblings in a Gaza Tent Camp",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289308",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T16:04:22+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b4af80e5b28a27ca",
+      "title": "UN Estimates Nearly 6.8 Mn People May Be Affected by Venezuela Quakes",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289304",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T16:01:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "975a260a9e3abb41",
+      "title": "Tanker Struck in Hormuz as Iran, US Trade Attacks in Worst Escalation Since Peace Deal",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289302",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:58:22+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bccad188f9711301",
+      "title": "Newborn Baby Rescued from Rubble of Venezuela Quake",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289298",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:52:26+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6cb7aa9907e4c404",
+      "title": "What Challenges Lie Ahead for the US-Lebanon-Israel Agreement?",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289297",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:50:15+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "895dc1f0cb629b90",
+      "title": "Saudi Arabia Strongly Condemns Iranian Drone Attacks on Bahrain",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289293",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:46:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "769f2eaec7ea5fe4",
+      "title": "Companies account for 90% of Morocco’s field tax audits in 2025",
+      "summary": "Morocco’s field tax audits generated MAD 10.67 billion in 2025 as the tax authority sharply increased scrutiny of companies and institutions, according to its annual report. Legal entities accounted for 90% of field audits, up from 54% in 2024, while the amount recovered through on-site inspections rose 11%. The General Directorate of Taxes attributed the [&#8230;] The post Companies account for 90% of Morocco’s field tax audits in 2025 appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140805-companies-account-for-90-of-moroccos-field-tax-audits-in-2025.html",
+      "source": "Hespress EN",
+      "published": "2026-06-27T15:42:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d1b7b1572402ea85",
+      "title": "Hezbollah Chief Rejects US-Lebanon-Israel Deal",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289291",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:40:10+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "25d0be58b21fae1c",
+      "title": "Czech Republic Marks New Temperature Record at 40.6C",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289290",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:35:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a98b6e474bfed256",
+      "title": "Denmark Records Hottest Day on Record at 37C",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289288",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:32:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7fc2ddbf0a349735",
+      "title": "5.9 Magnitude Earthquake Shakes Pakistan and Afghanistan, No Damage Reported",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289286",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-27T15:30:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "829b59bd2af39703",
+      "title": "Damascus races to reassure Beirut as Trump pushes Syria to take on Hezbollah",
+      "summary": "Damascus races to reassure Beirut as Trump pushes Syria to take on Hezbollah US&nbsp;President Donald Trump has repeatedly suggested handing responsibility for dealing with Hezbollah to&nbsp;Syrian&nbsp;President Ahmed al-Sharaa, reviving fears in&nbsp;Lebanon&nbsp;of renewed Syrian military involvement despite denials from Damascus. Trump’s increasingly explicit statements have also appeared to contradict an earlier denial by US envoy to Syria Tom Barrack, who dismissed reports that Washington had pressured Damascus to send forces into Lebanon as “false and inaccurate”. The latest remarks cam",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/damascus-races-reassure-beirut-trump-pushes-syria-take-hezbollah",
+      "source": "Middle East Eye",
+      "published": "2026-06-27T15:14:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9c8b6921d7920d5e",
+      "title": "Several Palestinians injured in Israeli drone strike on Gaza City tent",
+      "summary": "Several Palestinians injured in Israeli drone strike on Gaza City tent Several Palestinians were wounded on Saturday in an Israeli attack on Gaza City. According to the Wafa news agency, an Israeli drone struck a tent sheltering displaced people in western Gaza City, wounding several Palestinians, who were transferred to al-Shifa hospital for treatment.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-israeli-drone-strike-gaza-city-tent",
+      "source": "Middle East Eye",
+      "published": "2026-06-27T15:12:34+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3ce9231bea300596",
+      "title": "With water cuts looming in Arizona in US, locals fight data centres",
+      "summary": "Arizona residents have campaigned against state’s data centres as they seek a share of the shrinking water supply.",
+      "link": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-27T15:11:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fed290a20ae95534",
+      "title": "Pointed News Quiz | Reddit, Music, YA Novels",
+      "summary": "David Gura, Christina Ruffini, and Lisa Mateo of “Bloomberg This Weekend” play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-27/pointed-news-quiz-reddit-music-ya-novels-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-27T15:11:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "32fd5107a016d844",
+      "title": "Spain revives bill offering nationality to Sahrawis born under its rule",
+      "summary": "Spain’s parliament has revived a bill that would open a special route to citizenship for Sahrawis born in the Sahara under Spanish administration, after Foreign Minister José Manuel Albares publicly backed the measure and lawmakers moved to end more than a year of delays. The Justice Committee’s working group is due to meet on Tuesday [&#8230;] The post Spain revives bill offering nationality to Sahrawis born under its rule appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140808-spain-revives-bill-offering-nationality-to-sahrawis-born-under-its-rule.html",
+      "source": "Hespress EN",
+      "published": "2026-06-27T15:08:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cd151cd3fcf92448",
+      "title": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
+      "summary": "The world number one is in a group of players seeking a greater prize return at Grand Slams.",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-27T15:05:58+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0fe4d336992a5047",
+      "title": "Bodycam shows driver offering armed police a lift mid-chase",
+      "summary": "Bodycam video showing a van driver offering an armed officer a lift to catch a fleeing suspect has gone viral in the UK.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-27T14:40:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aad59781e2314dc6",
+      "title": "Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock",
+      "summary": "Uruguay&#039;s outgoing Argentinian coach Marcelo Bielsa has previously described himself as a &#039;toxic perfectionist&#039;.",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/toxic-bielsa-leaves-nothing-good-behind-in-uruguay-shock-world-cup-exit?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-27T14:38:59+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -42,6 +662,68 @@
       "source": "Middle East Eye",
       "published": "2026-06-27T14:32:47+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "584c4fd043ae6ae9",
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+      "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-27T14:22:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f4f6cdbb8c88d4d5",
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "summary": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-27T14:21:31+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1771,37 +2453,6 @@
       }
     },
     {
-      "id": "164fd668d0f2350d",
-      "title": "Iranian official says cargo clearance from UAE port resumes",
-      "summary": "Iranian official says cargo clearance from UAE port resumes An Iranian trade official told state media on Saturday that Tehran had resumed cargo clearance after US attacks on Iran following a drone attack on a cargo ship transiting the Strait of Hormuz. The official said containers that could not be processed due to “wartime conditions” were now being cleared from the Port of Jebel Ali, a major transit hub for Iranian goods in the United Arab Emirates, adding that trade was expected to gradually return to pre-war levels.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-cargo-clearance-uae-port-resumes",
-      "source": "Middle East Eye",
-      "published": "2026-06-27T10:12:47+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "0937ccaa8fd572b6",
       "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
       "summary": "Egyptians hail historic qualification as Iranians voice appreciation to Team Melli who may still make it to next round.",
@@ -1871,68 +2522,6 @@
       "source": "FT World",
       "published": "2026-06-27T10:00:00+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bc40acfbf4453638",
-      "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
-      "summary": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd In Lamerd, in&nbsp;Iran’s southern Fars province, the threat of war gave way to reality when previously&nbsp;untested missiles&nbsp;struck a school, sports grounds and nearby neighbourhoods. The attack came just six hours after the double-tap strikes on the Shajareh Tayyebeh school in Minab on 28 February, over 400km away in Hormozgan province, where 120 children, 24 staff, seven parents, a school bus driver and a pharmacist were killed. Four missiles from a new weapon system, the Lockheed Martin Precision Strike ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/shadow-minab-inside-us-testing-new-missiles-irans-lamerd",
-      "source": "Middle East Eye",
-      "published": "2026-06-27T09:54:06+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5ac4b276743b138f",
-      "title": "Tanker hit by unidentified projectile in Strait of Hormuz",
-      "summary": "Tanker hit by unidentified projectile in Strait of Hormuz The UK Maritime Trade Operations (UKMTO) said on Saturday that it had received a report from a tanker that it had been struck by an unidentified projectile in the Strait of Hormuz. The vessel sustained damage to its bridge, but all crew members were reported safe and no environmental damage had been reported at the time, according to the UKMTO.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unidentified-projectile-strait-hormuz",
-      "source": "Middle East Eye",
-      "published": "2026-06-27T09:52:11+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2491,595 +3080,6 @@
       "source": "Bloomberg Markets",
       "published": "2026-06-27T08:00:00+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ac5cf89ef7e24c5d",
-      "title": "City of London Braces for Burnham Government’s Chancellor Pick",
-      "summary": "The Mansion House dinner each summer is normally a chance for the City of London to hear what’s on the Chancellor of the Exchequer’s mind. Except this year, nobody’s sure who the chancellor will be.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-27/city-of-london-braces-for-burnham-government-s-chancellor-pick",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-27T08:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "59caab7e60f95723",
-      "title": "Lebanon President Says Israel Deal First Step to Restoring Sovereignty",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289159",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:57:24+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "70d46d7d17cb7e34",
-      "title": "Iran Coach Criticizes US Travel Restrictions after Egypt Match",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289158",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:52:03+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5c36d27623615b16",
-      "title": "Older Buildings and Substandard Construction Left Venezuela Vulnerable to Earthquakes",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289157",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:45:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "41f4ea29412fc728",
-      "title": "Israel’s Netanyahu Faces Election Challenge from Hawkish Ex-General",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289153",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:32:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11e6e89a03f6f4ff",
-      "title": "Iran Accuses US of 'Blatant Violation' of Peace Deal",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289152",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:32:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2aba8323dcce64cf",
-      "title": "Rubio: Trump Likely to Visit India Early Next Year",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289150",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:27:17+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7385371e2edc17e6",
-      "title": "Rubio: Lebanon-Israel Agreement Paves Way for Lasting Peace",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289148",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:22:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b27cab9d339d0e13",
-      "title": "Somali intelligence helps US arrest alleged leader of Minnesota fraud",
-      "summary": "US prosecutors reach into Somalia for a suspect in US fraud case.",
-      "link": "https://www.aljazeera.com/news/2026/6/27/somali-intelligence-helps-us-arrest-alleged-ringleader-of-minnesota-fraud?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-27T07:20:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "55b96e9f4d3c9f91",
-      "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-      "summary": "US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.",
-      "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-27T07:20:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a31c6669df0142c5",
-      "title": "Who profits from Africa’s gold?",
-      "summary": "African governments seek greater control over gold, but much of its value continues to flow abroad.",
-      "link": "https://www.aljazeera.com/economy/2026/6/27/who-profits-from-africas-gold?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-27T07:11:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bd71516d8e969a02",
-      "title": "Netanyahu Says Israel to Remain in South Lebanon Until Hezbollah Disarms",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289139",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:10:10+00:00",
-      "region": "mena",
-      "lang": "id",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4451d09d8d190989",
-      "title": "Jordan Coach Sellami in Awe of Argentina Despite Possible Messi Absence",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289138",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:05:11+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e1daca0cb8540627",
-      "title": "Belgium reach World Cup knockouts as New Zealand exit tournament",
-      "summary": "A double strike from Arsenal&#039;s Leandro Trossard against New Zealand carried Belgium to top of Group G, ahead of Egypt.",
-      "link": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-27T07:04:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "eee3877f6d12c727",
-      "title": "Senegal’s Quiet Man Sarr Becomes His Nation’s Leading World Cup Scorer",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289137",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T07:02:24+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "452ee140727eda02",
-      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-      "summary": "Vance warned &#039;violence will be met with violence&#039; while the IRGC says future responses to aggression will be &#039;broader&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-27T07:00:13+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11218281a233f07f",
-      "title": "Iraq Should Be Proud of World Cup Display Despite Early Exit, Says Coach",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289136",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T06:59:42+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6d933b874b54dc6f",
-      "title": "Germany Hit by Record Temperatures as Heatwave Moves East",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289135",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T06:54:36+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4abd021d99b7e699",
-      "title": "England, Portugal Eye Top Spots as World Cup Group Stages Wrap Up",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289133",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-27T06:50:06+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
