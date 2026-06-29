@@ -1,8 +1,907 @@
 {
-  "generated_at": "2026-06-29T19:07:37.626782+00:00",
+  "generated_at": "2026-06-29T21:01:18.920233+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "cf62e815a78ac97d",
+      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
+      "summary": "円が40年ぶり安値、米イラン協議、FRBの独立性、ウォール街沸く、ビットコインETFから資金流出",
+      "link": "https://www.bloomberg.com/jp/news/newsletters/2026-06-29/THEVNRKIUPS400",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T20:59:51+00:00",
+      "region": "global",
+      "lang": "ja",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6c13405031444221",
+      "title": "Iran leaves World Cup with dignity despite unprecedented political pressure and logistical hurdles",
+      "summary": "Iran leaves World Cup with dignity despite unprecedented political pressure and logistical hurdles Iran’s World Cup 2026 campaign is over, but the team’s farewell has sparked an outpouring of support that stretches far beyond the results on the pitch. Team Melli exited the tournament unbeaten after three draws, including a 1-1 result against Egypt in Seattle. But Iran’s goodbye came with a final moment of heartbreak: defender Shoja Khalilzadeh appeared to have scored a stoppage-time winner that could have transformed their qualification hopes, only for VAR to rule it out for offside. The decis",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-leaves-world-cup-dignity-despite-unprecedented-political-pressure",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T20:59:10+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f365256baec84c73",
+      "title": "The Supreme Court Contradicted Itself",
+      "summary": "The Supreme Court has issued two opinions that affect the independence of the US Federal Reserve, creating an extremely high-risk strategy, explains Bloomberg Opinion columnist and Harvard Law professor Noah Feldman. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/opinion-the-supreme-court-contradicted-itself-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T20:50:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1abc975d7a5e56f1",
+      "title": "Khadijah Farrakhan, 'First Lady' of Nation of Islam, dies aged 90",
+      "summary": "Khadijah Farrakhan, 'First Lady' of Nation of Islam, dies aged 90 Submitted by MEE staff on Mon, 06/29/2026 - 20:08 Known as 'Mother Khadijah', she devoted more than seven decades to shaping one of the most prominent religious and political movements in US Louis Farrakhan, head of the Nation of Islam, with his wife, Khadijah, in Baltimore, Maryland, on 23 November 1996 (John Mathew Smith/Wikimedia Commons) Off The Nation of Islam has bid farewell to Khadijah Farrakhan, the beloved wife of its longtime head, Louis Farrakhan, who passed away on 27 June, aged 90.&nbsp; Endearingly known as “Mothe",
+      "link": "https://www.middleeasteye.net/news/khadijah-farrakhan-first-lady-nation-islam-dies-90",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T20:31:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6e69389e8c953516",
+      "title": "Antibiotic resistance is getting harder to treat in Morocco, studies warn",
+      "summary": "A growing body of research points to high and rising rates of antimicrobial resistance (AMR) across Morocco, with clinicians now routinely encountering infections that no longer respond to standard treatments. A 2022 scoping review published in BMC Infectious Diseases examined 49 studies on antibiotic resistance in Morocco conducted between 2011 and 2021. The review found [&#8230;] The post Antibiotic resistance is getting harder to treat in Morocco, studies warn appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140922-antibiotic-resistance-is-getting-harder-to-treat-in-morocco-studies-warn.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T20:30:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fbc72231b7e377ef",
+      "title": "Burnham vows to ‘rewire’ British state",
+      "summary": "UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs",
+      "link": "https://www.ft.com/content/10b1ec7e-a6f6-484b-81a9-214764797a3c",
+      "source": "FT World",
+      "published": "2026-06-29T20:30:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "368aad3c38dcea55",
+      "title": "Comcast to Spinoff NBCUniversal & Sky | Closing Bell",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/comcast-to-spinoff-nbcuniversal-sky-closing-bell-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T20:28:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d2e02488a1f95895",
+      "title": "What’s behind the anti-corruption crackdown in Iraq?",
+      "summary": "A number of senior politicians have been detained in a wave of arrests.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T20:24:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "99171f3324e6694c",
+      "title": "Moroccan fashion designer found dead in car near Casablanca",
+      "summary": "A Moroccan fashion designer who had been missing for several days was found dead inside her car in Mansouria, near Casablanca, prompting a judicial investigation and an autopsy,sources told Hespress. The woman, born in 1990, had designed clothing for several celebrities and had recently lost contact with relatives living in Casablanca’s Bernoussi district, according to [&#8230;] The post Moroccan fashion designer found dead in car near Casablanca appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140920-moroccan-fashion-designer-found-dead-in-car-near-casablanca.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T20:22:23+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f2761a28dda2cc79",
+      "title": "The Ring and Lilo & Stitch actress Daveigh Chase died of Aids",
+      "summary": "Substance abuse was listed as another significant condition the former child star was experiencing.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T20:21:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "71d6513458f6ff32",
+      "title": "Supermicro Taiwan offices raided in chip smuggling probe",
+      "summary": "Server maker’s shares fell about 8% after news of the investigation",
+      "link": "https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23",
+      "source": "FT World",
+      "published": "2026-06-29T20:17:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "451f8b7edc069a30",
+      "title": "Susquehanna Says It Lost Millions to Mystery Insider Traders",
+      "summary": "Susquehanna Investment Group is attempting to unmask the identities of individuals it claims made at least $100 million trading on inside information about a Chinese government crackdown on cross-border brokerages last month.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/susquehanna-says-it-lost-millions-to-mystery-insider-traders",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T20:13:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6a4556d1084fa422",
+      "title": "Lebanon state media says Israeli strike hits south",
+      "summary": "Lebanon state media says Israeli strike hits south Lebanese state media on Monday said an Israeli strike hit the country's south, despite a framework accord signed by the two countries last week aimed at securing a peace deal. \"Israeli warplanes carried out a strike targeting the area between the southern Lebanese towns of Qantara and Deir Seryan,\" the National News Agency said.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-state-media-says-israeli-strike-hits-south",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T20:04:56+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "df1b7ccff050ee4a",
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T20:00:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "04c24a4cb107e010",
+      "title": "Six people shot dead at centre for mothers and children in Germany",
+      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T19:53:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4f15e6d186bc4e6c",
+      "title": "Former Governors Teams Up to Address AI Job Losses",
+      "summary": "Former Indiana Governor Eric Holcomb (R) says he is co-chairing an organization called RAISE US that is aimed at easing the American workforce’s transition to an artificial intelligence-based economy. Speaking to Carol Massar and Tim Stenovec on Bloomberg Businessweek, Holcomb explains that gaining support from big tech and leading AI companies like Amazon, Anthropic and Microsoft shows that shared commitment to preparing workers for AI-driven jobs. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/former-governors-teams-up-to-address-ai-job-losses-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:53:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ff1c3e84aaf275da",
+      "title": "BofA to Pay SEC $7.5 Million Over Reporting Lapse Allegations",
+      "summary": "Bank of America Corp. agreed to pay $7.5 million to the Securities and Exchange Commission to settle allegations that its Merrill Lynch brokerage failed to properly file all required suspicious activity reports, according to a administrative action filed Monday.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/bofa-to-pay-sec-7-5-million-over-reporting-lapse-allegations",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:47:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c4970dc6b6afa947",
+      "title": "JPMorgan Says Private Muni-Bond Accounts Swell to $1.6 Trillion",
+      "summary": "The business of overseeing individually tailored municipal-bond portfolios has continued to grow rapidly, turning those money managers into the biggest holders of state and local government debt, according to JPMorgan Chase &amp; Co.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/jpmorgan-says-private-muni-bond-accounts-swell-to-1-6-trillion",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:47:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0383215da312fff1",
+      "title": "Lagarde Says European Banking System More Resilient to Shocks",
+      "summary": "European Central Bank President Christine Lagarde says Europe is becoming less vulnerable to outside shocks thanks to a better financial framework and progress on the green transition. She speaks during her institution’s annual retreat in Sintra, Portugal. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/lagarde-says-european-banking-system-more-resilient-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:45:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "20c2dd2f59948e66",
+      "title": "Test Your ETF Knowledge In Our IQ Test",
+      "summary": "Bloomberg's Joel Weber puts Scarlet Fu, Katie Greifeld, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/test-your-etf-knowledge-in-our-iq-test-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:34:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "95cb7775f9ce9fa3",
+      "title": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
+      "summary": "Martinelli&#039;s stoppage-time goal in Houston takes the five-time champions to the Round of 16, breaking Japanese hearts.",
+      "link": "https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T19:33:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6f0d15f01e96f7bb",
+      "title": "Deadly heatwave grips Italy and Balkans as wildfire fears grow",
+      "summary": "Older people remain most at risk as the heatwave drives up excess deaths across Europe.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T19:30:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b200233ccdbf5dfc",
+      "title": "ETF IQ 6/29/2026",
+      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Laffer Tengler CEO & CIO Nancy Tengler, Gabelli Funds President & Co-CIO of Value Chris Marangi, Founders ETFs Portfolio Manager Michael Monaghan, and Securitize VP & Head of Issuer Growth Giang Bui. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/etf-iq-6-29-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:23:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e43bb0d797650757",
+      "title": "Tokenization Diversifies Away from Crypto: Bui",
+      "summary": "Giang Bui, VP and head of issuer growth at Securitize, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/tokenization-diversifies-away-from-crypto-bui-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:22:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9d0f5eedc7bbc54b",
+      "title": "Cook Stays At Fed But Trump Wins Power Over Other Agencies",
+      "summary": "A closely divided US Supreme Court said Fed Governor Lisa Cook can stay in her job while she fights Trump’s bid to oust her. The ruling reinforced the Federal Reserve’s independence from the White House, for now. Maria Eloisa Capurro reports. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/cook-stays-at-fed-but-trump-wins-power-over-other-agencies",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:18:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eb5216cb6c53fd87",
+      "title": "Brazil defeat Japan 2-1 to reach World Cup last 16",
+      "summary": "Brazil reached the last 16 of the World Cup on Monday after Gabriel Martinelli scored deep into stoppage time to secure a 2-1 defeat of Japan in Houston. Martinelli&#8217;s winner in the sixth minute of time added on settled an enthralling last 32 battle that sends Brazil into a last-16 clash with either Norway or [&#8230;] The post Brazil defeat Japan 2-1 to reach World Cup last 16 appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140916-brazil-defeat-japan-2-1-to-reach-world-cup-last-16.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T19:17:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aec0050fe4e5c01c",
+      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
+      "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T19:16:34+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "65cd87e1ad1cef9e",
+      "title": "Congress Hasn't Been Briefed Since The Iran Negotiations Took Place Says Rep. Malliotakis",
+      "summary": "Secretary of State Marco Rubio and special envoy Steve Witkoff will brief the full House and Senate today on the initial peace deal between the US and Iran, Punchbowl reports citing a White House official. Rep. Nicole Malliotakis joined Balance of Power to discuss the Housing Bill as well as the upcoming meeting between the US and Iran. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/we-haven-t-been-briefed-since-iran-talks-malliotakis-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:13:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4483e5e03b564ecf",
+      "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
+      "summary": "Israeli rights group B’Tselem has condemned the &#039;unprecedented killing of Palestinian children and teenagers&quot;",
+      "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T19:08:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "4c9114cd3fd42939",
       "title": "EU sets deadline of October for reduction in trade deficit with China",
@@ -99,10 +998,41 @@
     {
       "id": "48cd70e56ea9d33d",
       "title": "ECB does not need to fight inflation with ‘same force’ as in 2022-23, Lagarde says",
-      "summary": "President of central bank signals there could be a modest increase in interest rates",
+      "summary": "President of central bank signals that there could be a modest increase in interest rates",
       "link": "https://www.ft.com/content/b88c0d88-b4b4-4191-98e4-3edc51a9b41e",
       "source": "FT World",
       "published": "2026-06-29T19:00:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2e4191b18a69efc5",
+      "title": "NZ Rate Hike Bets Dialed Back on US-Iran Peace Progress",
+      "summary": "New Zealand economists are dialing back expectations for a Reserve Bank interest-rate increase next week, saying early signs of peace between the US and Iran have eased inflation risks enough to justify keeping borrowing costs on hold.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/nz-rate-hike-bets-dialed-back-on-us-iran-peace-progress",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T19:00:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -190,12 +1120,12 @@
       }
     },
     {
-      "id": "267e7176c1f16790",
-      "title": "Not Late Innings in Bull Market: Nancy Tengler",
-      "summary": "Nancy Tengler, CEO & CIO of Laffer Tengler, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the Tengler Equity Income ETF (ticker: TGLR) and Tengler's top stock picks. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-29/not-late-innings-in-bull-market-nancy-tengler-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T18:54:57+00:00",
+      "id": "e8360e29474f4f4e",
+      "title": "Pakistani strikes kill dozens of Afghan villagers",
+      "summary": "Afghan villagers inspected destroyed homes after overnight Pakistani strikes targeting Taliban-allied fighters.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T18:44:34+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -221,12 +1151,12 @@
       }
     },
     {
-      "id": "04c24a4cb107e010",
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T18:47:00+00:00",
+      "id": "be09140eb3e27336",
+      "title": "Israel launches attacks and incursions inside southern Syria",
+      "summary": "Israeli forces have shelled a village in southern Syria, firing artillery and illumination flares overnight.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T18:43:15+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -314,13 +1244,13 @@
       }
     },
     {
-      "id": "7032ca8ff45aef2c",
-      "title": "Morocco ranks 14th in Opta’s World Cup title forecast",
-      "summary": "Morocco has a 1.6% chance of winning the 2026 World Cup, placing it 14th among the remaining teams in Opta’s latest forecast following the end of the group stage. The sports analytics company ran 25,000 simulations of the knockout rounds, using team strength, previous results, group-stage performances and each country’s possible route through the bracket. [&#8230;] The post Morocco ranks 14th in Opta’s World Cup title forecast appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140911-morocco-ranks-14th-in-optas-world-cup-title-forecast.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T18:32:59+00:00",
-      "region": "mena",
+      "id": "30f7d9071da243f3",
+      "title": "‘Miracle’: Man pulled from rubble four days after Venezuelan quakes",
+      "summary": "A 21-year-old man was pulled alive from the rubble of an apartment building in La Guaira, Venezuela.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/miracle-man-pulled-from-rubble-four-days-after-venezuelan-quakes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T18:35:12+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -345,13 +1275,13 @@
       }
     },
     {
-      "id": "085b04751eec2bb8",
-      "title": "The Supreme Court is 'Unquestionably an Ideological Court' Says Wydra",
-      "summary": "A closely divided US Supreme Court reinforced the Federal Reserve’s independence from the White House, protecting governors from being fired by the president without proof of wrongdoing. Elizabeth Wydra, President of the Constitutional Accountability Center joins to discuss the Supreme Court decisions released today. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-29/high-court-is-unquestionably-an-ideological-court-wydra-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T18:28:59+00:00",
-      "region": "global",
+      "id": "7032ca8ff45aef2c",
+      "title": "Morocco ranks 14th in Opta’s World Cup title forecast",
+      "summary": "Morocco has a 1.6% chance of winning the 2026 World Cup, placing it 14th among the remaining teams in Opta’s latest forecast following the end of the group stage. The sports analytics company ran 25,000 simulations of the knockout rounds, using team strength, previous results, group-stage performances and each country’s possible route through the bracket. [&#8230;] The post Morocco ranks 14th in Opta’s World Cup title forecast appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140911-morocco-ranks-14th-in-optas-world-cup-title-forecast.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T18:32:59+00:00",
+      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -506,37 +1436,6 @@
       "link": "https://www.aljazeera.com/news/2026/6/29/burnham-pledges-devolution-and-discipline-if-he-becomes-uk-prime-minister?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-06-29T18:15:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "96c5ebedbad4b1c4",
-      "title": "BofA Technician Sees a ‘Three-Wave Correction’ in S&amp;P 500 Index",
-      "summary": "Investors must hedge any further S&amp;P 500 rallies and brace for a potential “three-wave correction” in the next few months, according to the head of technical research at Bank of America Corp.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/bofa-technician-sees-a-three-wave-correction-in-s-p-500-index",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T18:08:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -872,37 +1771,6 @@
       }
     },
     {
-      "id": "6a8c878bce68398e",
-      "title": "Charter Junk Bonds, CDS See Record Moves on Bets of Comcast Deal",
-      "summary": "Some Charter Communications Inc. debt securities saw record improvement Monday, as traders bet that rival Comcast Corp.’s pending breakup could result in a combination of the two broadband heavyweights.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/charter-junk-bonds-cds-see-record-moves-on-bets-of-comcast-deal",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T17:13:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e50a5aa904f22075",
       "title": "Demining of Strait of Hormuz to be carried out only by Iran, deputy foreign minister says",
       "summary": "Demining of Strait of Hormuz to be carried out only by Iran, deputy foreign minister says The removal of mines from the Strait of Hormuz is to be carried out solely by&nbsp;Iran, according to the Islamabad MoU between Tehran and Washington,&nbsp;Iran's Deputy Foreign Minister Kazem Gharibabadi said in a post on X on Monday, in response to French President Macron's comments on the subject. Macron said on Monday that France and Oman are working together to de-escalate tensions in the Middle East and will cooperate with their partners on clearing mines from the Strait of Hormuz. \"We fundamentally",
@@ -965,9 +1833,9 @@
       }
     },
     {
-      "id": "cb66e360eeca38ef",
-      "title": "Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook",
-      "summary": "Supreme Court blocks Trump&#039;s attempt to fire Fed governor Lisa Cook over unproven mortgage fraud allegations",
+      "id": "830fe2c46ce8cb41",
+      "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
+      "summary": "Justices rule in favour of expanded executive power, preserving Lisa Cook’s Fed position amid Trump’s dismissal attempt.",
       "link": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-06-29T16:59:51+00:00",
@@ -1027,43 +1895,12 @@
       }
     },
     {
-      "id": "c0a75675914eb8c9",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+      "id": "e369541e181de70d",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
       "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
       "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-06-29T16:51:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7b719ca06612e900",
-      "title": "Soaring US Equity Funding Costs Risk Spilling Over to Repo Rates",
-      "summary": "US equity financing needs have been building up and risk crowding out capacity in bank dealers’ balance sheets, which in turn could boost short-term interest rates even amid limited quarter-end pressures.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/us-equity-soaring-funding-costs-risk-spilling-over-to-repo-rates",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T16:50:37+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1120,9 +1957,9 @@
       }
     },
     {
-      "id": "0393b0d8a1d4c77d",
-      "title": "Mexico Central Bank Adds Bond-Buying Tool to Support Liquidity",
-      "summary": "Mexico’s central bank published regulations allowing it to buy some local government securities to boost money-market liquidity if needed, a possible preemptive move to help the regulator step in if investors are forced to sell Mexican assets.",
+      "id": "6315a5bde390c7ed",
+      "title": "Mexico Central Bank Adds Bond-Buying Tool to Back Liquidity",
+      "summary": "Mexico’s central bank published regulations allowing it to buy some local government securities to support money-market liquidity when needed, expanding its toolkit to ensure the proper functioning of markets during selloffs or periods of high volatility.",
       "link": "https://www.bloomberg.com/news/articles/2026-06-29/mexico-central-bank-adds-bond-buying-tool-to-support-liquidity",
       "source": "Bloomberg Markets",
       "published": "2026-06-29T16:45:14+00:00",
@@ -1151,43 +1988,12 @@
       }
     },
     {
-      "id": "5f32b6ed238b0137",
-      "title": "Aftershock hits Caracas during critical hours for Venezuela rescue efforts",
+      "id": "7dd01738267cb301",
+      "title": "Venezuela quakes death toll rises to 1,719, thousands still missing",
       "summary": "Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week",
       "link": "https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-06-29T16:42:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7ca5366e57858d63",
-      "title": "France, Oman Back Free Transit Through Hormuz Without Conditions",
-      "summary": "France’s Emmanuel Macron and Oman’s Sultan Haitham bin Tariq said that they would promote restriction-free transit in the Strait of Hormuz.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/france-oman-back-free-transit-through-hormuz-without-conditions",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T16:39:20+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1375,68 +2181,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-06-29T16:27:15+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1f4b608142f7f621",
-      "title": "HDFC Bank Appoints Ex-Bureaucrat Rajiv Kumar as Part-Time Chair",
-      "summary": "HDFC Bank Ltd. named former finance secretary, Rajiv Kumar, as its part-time chairman, months after the abrupt resignation of Atanu Chakraborty sparked questions about governance at the nation’s largest private lender.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/hdfc-bank-appoints-ex-bureaucrat-rajiv-kumar-as-part-time-chair",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T16:26:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fbc72231b7e377ef",
-      "title": "Burnham vows to ‘rewire’ British state",
-      "summary": "UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs",
-      "link": "https://www.ft.com/content/10b1ec7e-a6f6-484b-81a9-214764797a3c",
-      "source": "FT World",
-      "published": "2026-06-29T16:24:00+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1678,37 +2422,6 @@
       }
     },
     {
-      "id": "e650b9649b5007ae",
-      "title": "Fossil Fuel Subsidies to Hit $1 Trillion in War’s Energy Price Shock, UN Says",
-      "summary": "Fossil fuel subsidies are projected to reach $1.1 trillion in 2026 as governments spend more to shield consumers from high energy prices triggered by the war in Iran.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/fossil-fuel-subsidies-to-hit-1-trillion-in-war-s-energy-price-shock-un-says",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T16:11:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "d63e6a592271042a",
       "title": "Trump defeated on Lisa Cook case",
       "summary": "Justices ruled on the basis of due process but also indicated a desire to protect the central bank’s independence",
@@ -1747,37 +2460,6 @@
       "source": "Hespress EN",
       "published": "2026-06-29T16:06:44+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "857c19eea62e1a40",
-      "title": "Siris-Backed TPx Files Bankruptcy, Mulls $1 Billion Debt Cut",
-      "summary": "Technology solutions provider U.S. TelePacific, also known as TPx Communications, filed for bankruptcy in Texas on Sunday after undergoing repeated debt restructuring while struggling to stay liquid.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/siris-backed-tpx-files-bankruptcy-mulls-1-billion-debt-cut",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T16:04:00+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2236,37 +2918,6 @@
       }
     },
     {
-      "id": "333e705f91515144",
-      "title": "Congo Orders Cobalt Miners to Give Up Unused Export Quotas",
-      "summary": "Cobalt miners in the Democratic Republic of Congo will be required to surrender unused export quotas for the first half of the year to a government regulator.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/congo-orders-cobalt-miners-to-give-up-unused-export-quotas",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T15:47:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "f253e6202ea4606f",
       "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
       "summary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
@@ -2428,657 +3079,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-aje_onl_lebanon_wrap-290626?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-06-29T15:30:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e577719619a0f7ff",
-      "title": "Europe’s Deadly Heatwave Scorches Eastern Flank, Takes Aim at Ukraine",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5290042",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T15:30:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4470c6012c2e66dc",
-      "title": "Israel finds new breakaway allies in Bosnia's Serbs",
-      "summary": "Israel finds new breakaway allies in Bosnia's Serbs Submitted by Mersiha Gadzo on Mon, 06/29/2026 - 15:15 Serbia and Bosnia's Republika Srpska are both strengthening ties with Israel, as recent meetings and arms deals show Zeljka Cvijanovic, the Serb member of Bosnia’s tripartite presidency, meets Israeli Prime Minister Benjamin Netanyahu, 22 June 2026 (Social media) Off With Israel ’s international standing severely damaged by the genocide in Gaza , invasion of Lebanon and the war on Iran , it is continuing to develop ties with breakaway regions in search of recognition. The latest of these i",
-      "link": "https://www.middleeasteye.net/news/israel-finds-new-breakaway-allies-bosnias-serbs",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T15:29:33+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fa4b249072dcc03a",
-      "title": "Man City Hires Maresca to Replace Guardiola as Manager After Paying Compensation to Chelsea",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5290039",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T15:26:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "15ffdd06dad49298",
-      "title": "Lebanon’s displaced begin to return home, but some have nowhere to go",
-      "summary": "Thousands in Lebanon attempt to return home, yet rampant destruction leaves many trapped in displacement centres.",
-      "link": "https://www.aljazeera.com/features/2026/6/29/lebanons-displaced-begin-to-return-home-but-some-have-nowhere-to-go?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T15:25:38+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "76a5bfc04ec523b8",
-      "title": "‘The risk of a deleveraging event is rising’",
-      "summary": "Morgan Stanley’s analysts are worried about quarter-end money tightness",
-      "link": "https://www.ft.com/content/45a7e7b1-1064-4efe-b5a2-01499f24a1eb",
-      "source": "FT World",
-      "published": "2026-06-29T15:25:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a9be3f2455dd6e51",
-      "title": "The morning after the Lebanon 'agreement'",
-      "summary": "The morning after the Lebanon 'agreement' Submitted by Ussama Makdisi on Mon, 06/29/2026 - 15:22 Document signed in Washington gives Israel a green light to continue its occupation of Lebanese territory US Secretary of State Marco Rubio (centre of back row) looks on as Israeli, American and Lebanese officials sign a framework agreement in Washington, D.C., 26 June 2026 (Saul Loeb/AFP) Off There was a 19th-century Orientalist traveller and diplomat by the name of David Urquhart, who said about (Mount) Lebanon that there “never was a country for which God has done so much, nor a people who could",
-      "link": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T15:23:52+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b9d9518b038ed59f",
-      "title": "US says it has agreed deal with Iran to halt strikes and resume talks",
-      "summary": "White House announces Steve Witkoff and Jared Kushner will fly to Doha for ‘high-level meetings’ but Tehran disputes that further negotiations have been confirmed",
-      "link": "https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1",
-      "source": "FT World",
-      "published": "2026-06-29T15:23:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e22480b7010833df",
-      "title": "Lebanon-Israel deal could block war crimes accountability, experts warn",
-      "summary": "Lebanon-Israel deal could block war crimes accountability, experts warn A framework agreement signed between&nbsp; Lebanon &nbsp;and&nbsp; Israel &nbsp;has drawn warnings that a clause in the deal could effectively shield Israel from accountability for war crimes. Article 13 of the 14-point trilateral framework, signed on 26 June, commits Israel and Lebanon to \"take good faith measures that demonstrate positive intent, including the cessation of all hostile or adverse actions in international political or legal fora.\" The provision has raised alarm among Lebanese human rights and legal experts",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-deal-could-block-war-crimes-accountability-experts-warn",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T15:18:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f9bf178fc1ba2815",
-      "title": "Two killed, 12 injured after bus overturns near Chefchaouen",
-      "summary": "Two people were killed and 12 others injured after a passenger bus overturned Monday on Regional Road 412 between Chefchaouen and the commune of Derdara, according to local Hespress AR sources. The bus was traveling from Chefchaouen to Casablanca when the driver reportedly lost control while negotiating a bend, causing the vehicle to overturn down [&#8230;] The post Two killed, 12 injured after bus overturns near Chefchaouen appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140898-two-killed-12-injured-after-bus-overturns-near-chefchaouen.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T15:13:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e7e61451aac730e5",
-      "title": "JD Vance’s 2028 strategy is starting to take shape",
-      "summary": "The vice president’s decision to criticise Israel and distance himself from rival Rubio means he is reading the base.",
-      "link": "https://www.aljazeera.com/opinions/2026/6/29/jd-vances-2028-strategy-is-starting-to-take-shape?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T15:08:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "35cac8984748b3dc",
-      "title": "Five killed in shooting at German youth centre",
-      "summary": "Five people were killed in a shooting at a youth welfare centre in Stade, northern Germany.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/five-killed-in-shooting-at-german-youth-centre?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T15:03:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7b5cc28be50ab0c2",
-      "title": "MWL Condemns Continued Israeli Attacks in the Region, Incursion into Syrian Territory",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5290028",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T15:01:24+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1e0799f0ab77a842",
-      "title": "Palestinian child dies after being shot by Israeli forces in raid on West Bank",
-      "summary": "Palestinian child dies after being shot by Israeli forces in raid on West Bank A Palestinian child has succumbed to wounds sustained by Israeli fire in the occupied West Bank city of al-Bireh, Wafa news agency is reporting, citing medical sources. The Ministry of Health reported that 15-year-old Amir Ahmed Jawad Jaber died after being shot in the head and chest by Israeli forces during a raid on the city's&nbsp;Um Al-Sharayet neighbourhood. Israeli rights group B'Tselem released a report earlier on Monday which found that 54 Palestinian children and teenagers had been killed by Israeli forces ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-child-succumbs-wounds-sustained-israeli-fire",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T15:00:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b2ff1538a9df2a17",
-      "title": "Saudi Real Estate Developers Move to Capitalize on New Foreign Ownership Rules",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5290026",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T14:57:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7838f3e2e072bf02",
-      "title": "Enzo Maresca appointed Manchester City manager to succeed Pep Guardiola",
-      "summary": "Former Blues boss signs three-year City deal to succeed Pep Guardiola who stepped down in May.",
-      "link": "https://www.aljazeera.com/sports/2026/6/29/enzo-maresca-appointed-man-city-manager-to-succeed-pep-guardiola?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T14:57:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "36e275b12bd16311",
-      "title": "English cricket thrown into uncertainty by Ben Stokes’ chaotic exit",
-      "summary": "Abrupt retirement of brilliantly aggressive captain comes after tensions with sport’s hierarchy",
-      "link": "https://www.ft.com/content/f4cccc3b-a9cb-401b-8868-8ec13abd3873",
-      "source": "FT World",
-      "published": "2026-06-29T14:53:13+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "801d12a085bbec83",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T14:52:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "94d921d3011b7a43",
-      "title": "Why the Arab League could not stop Israel’s genocide",
-      "summary": "Arab governments are constrained by dependency, regime survival and fear of empowering Iran-aligned rivals.",
-      "link": "https://www.aljazeera.com/opinions/2026/6/29/why-the-arab-league-could-not-stop-israels-genocide?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T14:43:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0d1f08c5fec5a836",
-      "title": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
-      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-      "link": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T14:40:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "59d87e8531b72384",
-      "title": "EIB President: Morocco attracts growing confidence from international investors",
-      "summary": "Morocco is attracting growing confidence from international investors, according to Nadia Calviño, President of the European Investment Bank (EIB). &#8220;Thanks to the consistency of its reforms, carried out under the enlightened leadership of His Majesty King Mohammed VI, the stability of its macroeconomic framework, and the strength of its financial system, Morocco is now attracting [&#8230;] The post EIB President: Morocco attracts growing confidence from international investors appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140896-eib-president-morocco-attracts-growing-confidence-from-international-investors.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T14:35:00+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "54b19ceae57af623",
-      "title": "Burnham’s Middle England challenge on devolution",
-      "summary": "A boost for town centres and cities against the suburbs could come back to bite him",
-      "link": "https://www.ft.com/content/8ca4994b-375f-4062-95f1-f57b016eb26d",
-      "source": "FT World",
-      "published": "2026-06-29T14:26:17+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
