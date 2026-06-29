@@ -1,8 +1,2767 @@
 {
-  "generated_at": "2026-06-29T13:52:05.599138+00:00",
+  "generated_at": "2026-06-29T16:55:43.278244+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "c0a75675914eb8c9",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+      "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T16:51:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ec04d28743fd9ff5",
+      "title": "Syria, Iraq Agree to Expand Cooperation in Energy, Security and Economy",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290077",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:45:44+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7ca5366e57858d63",
+      "title": "France, Oman Back Free Transit Through Hormuz Without Conditions",
+      "summary": "France’s Emmanuel Macron and Oman’s Sultan Haitham bin Tariq said that they would promote restriction-free transit in the Strait of Hormuz.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/france-oman-back-free-transit-through-hormuz-without-conditions",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T16:39:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9780aaa383ff4dcd",
+      "title": "UN Chief Slams ‘Relentless’ Israeli Settlement Expansion",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290076",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:36:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "072807a1d11762e7",
+      "title": "Iraq to Probe World Cup Failure, Map Overhaul After Winless Return",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290073",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:32:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "028f82760ab9fcca",
+      "title": "Rabat venues stay open late as fans gather for Morocco-Netherlands World Cup clash",
+      "summary": "Cafés and hospitality venues across Rabat remained open late Monday as supporters gathered to watch Morocco&#8217;s Round of 32 World Cup match against the Netherlands, with many businesses extending their hours and setting up large screens for fans. Traditional cafés, restaurants and other licensed hospitality establishments welcomed supporters seeking to watch the late-night fixture in [&#8230;] The post Rabat venues stay open late as fans gather for Morocco-Netherlands World Cup clash appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140908-rabat-venues-stay-open-late-as-fans-gather-for-morocco-netherlands-world-cup-clash.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T16:30:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "daa9d55be89ee4b0",
+      "title": "Supreme Court blocks Trump from sacking Fed governor Cook",
+      "summary": "Justices say president can fire top regulator in separate decision",
+      "link": "https://www.ft.com/content/84db4001-8c8c-4dfa-9c6f-b501c38bc2fb",
+      "source": "FT World",
+      "published": "2026-06-29T16:27:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a2ab274e9b2f7670",
+      "title": "French Parliament Adopts Bill to Regulate Fast Fashion",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290072",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:27:15+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1f4b608142f7f621",
+      "title": "HDFC Bank Appoints Ex-Bureaucrat Rajiv Kumar as Part-Time Chair",
+      "summary": "HDFC Bank Ltd. named former finance secretary, Rajiv Kumar, as its part-time chairman, months after the abrupt resignation of Atanu Chakraborty sparked questions about governance at the nation’s largest private lender.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/hdfc-bank-appoints-ex-bureaucrat-rajiv-kumar-as-part-time-chair",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T16:26:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c60f2db048388d15",
+      "title": "Sixth person dies after shooting at youth welfare centre in Germany",
+      "summary": "Four women and a man were shot dead at the scene while a sixth person died in hospital, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T16:24:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fbc72231b7e377ef",
+      "title": "Burnham vows to ‘rewire’ British state",
+      "summary": "UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs",
+      "link": "https://www.ft.com/content/10b1ec7e-a6f6-484b-81a9-214764797a3c",
+      "source": "FT World",
+      "published": "2026-06-29T16:24:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "050f91729ae01022",
+      "title": "Macron Reappears Wearing Viral Aviator Sunglasses",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290071",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:23:46+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8919560544979baf",
+      "title": "Osaka Makes Spectacular Wimbledon Arrival in Kimono-Inspired Dress",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290070",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:20:30+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b1ee82db88f11236",
+      "title": "Ethiopia makes deal to cut payments on $1bn bond",
+      "summary": "Bondholder agreement comes after $8bn of debt relief from official creditors in recent years",
+      "link": "https://www.ft.com/content/90770782-517e-4b23-aaae-4b5a20720878",
+      "source": "FT World",
+      "published": "2026-06-29T16:18:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "51783d4e38398246",
+      "title": "Ben Shapiro-backed 'propaganda' film portrays pro-Palestine 'terrorists' on campus",
+      "summary": "Ben Shapiro-backed 'propaganda' film portrays pro-Palestine 'terrorists' on campus Submitted by Hannah. Smith on Mon, 06/29/2026 - 14:54 Starring Jonathan Majors, the film has been dubbed 'AI slop' and slammed as Islamophobic Poster for Run, Fight, Hide: Infidels (2026), a film from the Daily Wire, a media company co-founded by right-wing media host Ben Shapiro (X/@benshapiro) Off Run, Hide, Fight: Infidels , a new film produced by the Daily Wire, the media company co-founded by American right-wing comentator Ben Shapiro, has drawn backlash online after the trailer was released alongside detai",
+      "link": "https://www.middleeasteye.net/trending/ben-shapiro-backed-propaganda-film-portrays-pro-palestine-terrorists",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T16:18:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "78d4ab3381c9b471",
+      "title": "WhatsApp Will Allow Users to Go by Usernames Instead of Phone Numbers, Closing a Privacy Blind Spot",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290068",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:17:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7f2ad1174ed874dc",
+      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
+      "summary": "Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T16:15:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b355846374bbb676",
+      "title": "Heat Forces Yodelers at Annual Swiss Festival to Sing in Fountains",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290067",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:14:47+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e650b9649b5007ae",
+      "title": "Fossil Fuel Subsidies to Hit $1 Trillion in War’s Energy Price Shock, UN Says",
+      "summary": "Fossil fuel subsidies are projected to reach $1.1 trillion in 2026 as governments spend more to shield consumers from high energy prices triggered by the war in Iran.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/fossil-fuel-subsidies-to-hit-1-trillion-in-war-s-energy-price-shock-un-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T16:11:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d63e6a592271042a",
+      "title": "Trump defeated on Lisa Cook case",
+      "summary": "Justices ruled on the basis of due process but also indicated a desire to protect the central bank’s independence",
+      "link": "https://www.ft.com/content/4fd60e28-2567-4f4f-a137-4d70d010bc60",
+      "source": "FT World",
+      "published": "2026-06-29T16:07:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b6adf36669b0986c",
+      "title": "2026 World Cup draws record 4.64 million fans in group stage",
+      "summary": "The 2026 FIFA World Cup has set new records for group-stage attendance and goals under its expanded format, FIFA announced following the conclusion of the first round of the tournament. In a statement, football&#8217;s governing body said the tournament attracted 4,644,549 spectators across the 72 group-stage matches, setting a new benchmark for attendance at this [&#8230;] The post 2026 World Cup draws record 4.64 million fans in group stage appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140905-2026-world-cup-draws-record-4-64-million-fans-in-group-stage.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T16:06:44+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "857c19eea62e1a40",
+      "title": "Siris-Backed TPx Files Bankruptcy, Mulls $1 Billion Debt Cut",
+      "summary": "Technology solutions provider U.S. TelePacific, also known as TPx Communications, filed for bankruptcy in Texas on Sunday after undergoing repeated debt restructuring while struggling to stay liquid.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/siris-backed-tpx-files-bankruptcy-mulls-1-billion-debt-cut",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T16:04:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d62a79d1cdfd5f87",
+      "title": "Iraq Sets September 30 Deadline for Pro-Iran Groups to Disarm",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290060",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T16:03:55+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "67cd5a15a48a0bf5",
+      "title": "US petrol prices ease despite ongoing uncertainties with Iran",
+      "summary": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
+      "link": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T16:01:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "23ecbff5329d3604",
+      "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
+      "summary": "The US Supreme Court has rejected a push by President Trump to throw out a jury&#039;s findings of sexual assault.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:59:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0c145588b6159a06",
+      "title": "France and Oman to Cooperate with Partners on De-Mining Hormuz, Macron Says",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290059",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:58:41+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "39bd9f4144269298",
+      "title": "Iraq’s corruption crackdown is a start, not a solution",
+      "summary": "New PM Ali al-Zaidi&#039;s arrest of 47 officials is welcome, but the rot runs through the system that put him in power.",
+      "link": "https://www.aljazeera.com/opinions/2026/6/29/iraqs-corruption-crackdown-is-a-start-not-a-solution?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:57:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "28cd56ed35c3d8f1",
+      "title": "Israeli Forces Kill Palestinian Teen in West Bank",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290056",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:54:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d659b28192983a4f",
+      "title": "Gaza high school student’s fight for a future",
+      "summary": "Amid Israel’s genocidal war on Gaza that destroyed most schools, 18-year-old Dana Shabat sits her final exams online.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:54:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "16f532f26d276dcf",
+      "title": "June Payrolls Expected to Boost Rate-Hike Bets",
+      "summary": "The FOMC’s tone at the June meeting, together with Chairman Kevin Warsh’s news conference, has raised the prospect of a near-term rate hike. Aditya Bhave, Head: US Economics at Bank of America, discusses the Fed and his interest rate outlook for the remainder of 2026. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/june-payrolls-expected-to-boost-rate-hike-bets-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T15:53:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0219b037b262115e",
+      "title": "Lebanon President Says Determined to Deploy Army up to Israel Border",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290055",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:51:27+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2b074b2bce68e594",
+      "title": "Argentina’s warning for Venezuela on debt restructuring",
+      "summary": "Caracas must secure the backing of the IMF in order to rebuild investor confidence",
+      "link": "https://www.ft.com/content/9c15e960-a74b-4ac2-8776-29bda8fe5bed",
+      "source": "FT World",
+      "published": "2026-06-29T15:51:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "95b6aa2372647467",
+      "title": "Fire and floods hit Ghana’s capital as residents are left stranded",
+      "summary": "A massive fire engulfed a rubber factory in Ghana’s capital, Accra, as severe flooding swamped parts of the city.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/fire-and-floods-hit-ghanas-capital-as-residents-are-left-stranded?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:51:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6fee026aaaf0c4b8",
+      "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
+      "summary": "The US-Iran MoU acts as a state-to-state framework managing mutual pain, not a definitive end to regional conflict.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:51:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6a5342164c55258a",
+      "title": "Earthquake jolts southwest China",
+      "summary": "An earthquake with a magnitude of 5.5 struck Yibin in China’s southwest province of Sichuan shortly on Monday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/earthquake-jolts-southwest-china?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:50:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e82b0657ab8cb6af",
+      "title": "Türkiye Must Be ‘Included’ in Europe Security Structures, Says Erdogan",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290052",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:48:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4e1f817896078a45",
+      "title": "Burnham’s devolution plan fits the corporate zeitgeist",
+      "summary": "Centrepiece of prime minister-in-waiting’s speech involves a strategy most executives would approve of",
+      "link": "https://www.ft.com/content/2136eb2e-1518-467b-8af6-b523c433262e",
+      "source": "FT World",
+      "published": "2026-06-29T15:48:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "333e705f91515144",
+      "title": "Congo Orders Cobalt Miners to Give Up Unused Export Quotas",
+      "summary": "Cobalt miners in the Democratic Republic of Congo will be required to surrender unused export quotas for the first half of the year to a government regulator.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/congo-orders-cobalt-miners-to-give-up-unused-export-quotas",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T15:47:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f253e6202ea4606f",
+      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
+      "summary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T15:46:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5ed5c1f1f9898d3e",
+      "title": "Three Firefighters Die as Blazes Torch Western US",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290049",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:43:36+00:00",
+      "region": "mena",
+      "lang": "de",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "771f273ccaae747a",
+      "title": "Burnham has become more unpopular since Starmer’s resignation",
+      "summary": "Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of power away from Westminster",
+      "link": "https://www.ft.com/content/467b5332-2840-42eb-8d0b-0aae9c5c1107",
+      "source": "FT World",
+      "published": "2026-06-29T15:42:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e919bd91d7cad285",
+      "title": "Lebanon-Israel Deal May Entrench Stalemate Rather Than End War, Analysts Say",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290048",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:40:35+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fdbd8b36dcd40d2a",
+      "title": "Rocket Lab to Buy Iridium in Challenge to SpaceX",
+      "summary": "Rocket Lab will acquire Iridium, a pioneer in satellite telephones, for $54 a share in a cash-and-stock transaction as smaller players in the orbital economy try to catch up with market leader SpaceX. Rocket Lab CEO Peter Beck explains how the deal came together with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/rocket-lab-to-buy-iridium-in-challenge-to-spacex-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T15:35:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "57d99701af99637c",
+      "title": "Star-Maker Clive Davis Honored at Funeral That Draws Bruce Springsteen, Dionne Warwick and Others",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290046",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:34:38+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cd69be9c4c602831",
+      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "summary": "The decision means the US president will now have to pay her the $5m (£3.6m) in damages she had been awarded.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T15:30:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f214ef7c30b77b7d",
+      "title": "Lebanon Latest: Israel strikes as Hezbollah condemns new deal",
+      "summary": "Israeli strikes continue as the new Israel-Lebanon agreement faces opposition.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-aje_onl_lebanon_wrap-290626?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:30:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e577719619a0f7ff",
+      "title": "Europe’s Deadly Heatwave Scorches Eastern Flank, Takes Aim at Ukraine",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290042",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:30:22+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "91572b1f7d9011dd",
+      "title": "Corn Drops With USDA Set to Show Biggest US Supply Since 1988",
+      "summary": "Corn tumbled as traders looked past potential crop stress from the building heat dome to a US Department of Agriculture report due Tuesday that’s expected to show the largest American stockpile since 1988.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/corn-drops-with-usda-set-to-show-biggest-us-supply-since-1988",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T15:30:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4470c6012c2e66dc",
+      "title": "Israel finds new breakaway allies in Bosnia's Serbs",
+      "summary": "Israel finds new breakaway allies in Bosnia's Serbs Submitted by Mersiha Gadzo on Mon, 06/29/2026 - 15:15 Serbia and Bosnia's Republika Srpska are both strengthening ties with Israel, as recent meetings and arms deals show Zeljka Cvijanovic, the Serb member of Bosnia’s tripartite presidency, meets Israeli Prime Minister Benjamin Netanyahu, 22 June 2026 (Social media) Off With Israel ’s international standing severely damaged by the genocide in Gaza , invasion of Lebanon and the war on Iran , it is continuing to develop ties with breakaway regions in search of recognition. The latest of these i",
+      "link": "https://www.middleeasteye.net/news/israel-finds-new-breakaway-allies-bosnias-serbs",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T15:29:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fa4b249072dcc03a",
+      "title": "Man City Hires Maresca to Replace Guardiola as Manager After Paying Compensation to Chelsea",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290039",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:26:14+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "15ffdd06dad49298",
+      "title": "Lebanon’s displaced begin to return home, but some have nowhere to go",
+      "summary": "Thousands in Lebanon attempt to return home, yet rampant destruction leaves many trapped in displacement centres.",
+      "link": "https://www.aljazeera.com/features/2026/6/29/lebanons-displaced-begin-to-return-home-but-some-have-nowhere-to-go?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:25:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "76a5bfc04ec523b8",
+      "title": "‘The risk of a deleveraging event is rising’",
+      "summary": "Morgan Stanley’s analysts are worried about quarter-end money tightness",
+      "link": "https://www.ft.com/content/45a7e7b1-1064-4efe-b5a2-01499f24a1eb",
+      "source": "FT World",
+      "published": "2026-06-29T15:25:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a9be3f2455dd6e51",
+      "title": "The morning after the Lebanon 'agreement'",
+      "summary": "The morning after the Lebanon 'agreement' Submitted by Ussama Makdisi on Mon, 06/29/2026 - 15:22 Document signed in Washington gives Israel a green light to continue its occupation of Lebanese territory US Secretary of State Marco Rubio (centre of back row) looks on as Israeli, American and Lebanese officials sign a framework agreement in Washington, D.C., 26 June 2026 (Saul Loeb/AFP) Off There was a 19th-century Orientalist traveller and diplomat by the name of David Urquhart, who said about (Mount) Lebanon that there “never was a country for which God has done so much, nor a people who could",
+      "link": "https://www.middleeasteye.net/opinion/shameful-israel-lebanon-agreement-evokes-oslo-disaster",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T15:23:52+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b9d9518b038ed59f",
+      "title": "US says it has agreed deal with Iran to halt strikes and resume talks",
+      "summary": "White House announces Steve Witkoff and Jared Kushner will fly to Doha for ‘high-level meetings’ but Tehran disputes that further negotiations have been confirmed",
+      "link": "https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1",
+      "source": "FT World",
+      "published": "2026-06-29T15:23:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3c69c2b0fedeb451",
+      "title": "Bloomberg Surveillance 6/29/2026",
+      "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/bloomberg-surveillance-6-29-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T15:22:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d2f8e16f62e1641e",
+      "title": "Del Monte Corporation Reunites After 37 Years",
+      "summary": "Del Monte Corporation Chairman and CEO Mohammad Abu-Ghazaleh joined Bloomberg Open Interest to explain why the iconic food brand reunited after nearly four decades and discusses easing supply chain pressures. He also reveals some surprising pharmaceutical research using pineapple-derived compounds (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/del-monte-corporation-reunites-after-37-years-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T15:22:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4bde368c9ffad485",
+      "title": "Iger, Kushner Mull Bid for NBA Expansion Team",
+      "summary": "The race to own the NBA's next expansion franchise is heating up. Bloomberg's Randall Williams joins Open Interest to break down why Las Vegas is attracting a crowded field of billionaire bidders, when Adam Silver could make a decision, and how private equity could reshape the economics of professional sports ownership. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/iger-kushner-mull-bid-for-nba-expansion-team-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T15:21:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e22480b7010833df",
+      "title": "Lebanon-Israel deal could block war crimes accountability, experts warn",
+      "summary": "Lebanon-Israel deal could block war crimes accountability, experts warn A framework agreement signed between&nbsp; Lebanon &nbsp;and&nbsp; Israel &nbsp;has drawn warnings that a clause in the deal could effectively shield Israel from accountability for war crimes. Article 13 of the 14-point trilateral framework, signed on 26 June, commits Israel and Lebanon to \"take good faith measures that demonstrate positive intent, including the cessation of all hostile or adverse actions in international political or legal fora.\" The provision has raised alarm among Lebanese human rights and legal experts",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-deal-could-block-war-crimes-accountability-experts-warn",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T15:18:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f9bf178fc1ba2815",
+      "title": "Two killed, 12 injured after bus overturns near Chefchaouen",
+      "summary": "Two people were killed and 12 others injured after a passenger bus overturned Monday on Regional Road 412 between Chefchaouen and the commune of Derdara, according to local Hespress AR sources. The bus was traveling from Chefchaouen to Casablanca when the driver reportedly lost control while negotiating a bend, causing the vehicle to overturn down [&#8230;] The post Two killed, 12 injured after bus overturns near Chefchaouen appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140898-two-killed-12-injured-after-bus-overturns-near-chefchaouen.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T15:13:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e7e61451aac730e5",
+      "title": "JD Vance’s 2028 strategy is starting to take shape",
+      "summary": "The vice president’s decision to criticise Israel and distance himself from rival Rubio means he is reading the base.",
+      "link": "https://www.aljazeera.com/opinions/2026/6/29/jd-vances-2028-strategy-is-starting-to-take-shape?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:08:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "35cac8984748b3dc",
+      "title": "Five killed in shooting at German youth centre",
+      "summary": "Five people were killed in a shooting at a youth welfare centre in Stade, northern Germany.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/five-killed-in-shooting-at-german-youth-centre?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T15:03:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7b5cc28be50ab0c2",
+      "title": "MWL Condemns Continued Israeli Attacks in the Region, Incursion into Syrian Territory",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290028",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T15:01:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1e0799f0ab77a842",
+      "title": "Palestinian child dies after being shot by Israeli forces in raid on West Bank",
+      "summary": "Palestinian child dies after being shot by Israeli forces in raid on West Bank A Palestinian child has succumbed to wounds sustained by Israeli fire in the occupied West Bank city of al-Bireh, Wafa news agency is reporting, citing medical sources. The Ministry of Health reported that 15-year-old Amir Ahmed Jawad Jaber died after being shot in the head and chest by Israeli forces during a raid on the city's&nbsp;Um Al-Sharayet neighbourhood. Israeli rights group B'Tselem released a report earlier on Monday which found that 54 Palestinian children and teenagers had been killed by Israeli forces ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-child-succumbs-wounds-sustained-israeli-fire",
+      "source": "Middle East Eye",
+      "published": "2026-06-29T15:00:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b2ff1538a9df2a17",
+      "title": "Saudi Real Estate Developers Move to Capitalize on New Foreign Ownership Rules",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290026",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T14:57:35+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7838f3e2e072bf02",
+      "title": "Enzo Maresca appointed Manchester City manager to succeed Pep Guardiola",
+      "summary": "Former Blues boss signs three-year City deal to succeed Pep Guardiola who stepped down in May.",
+      "link": "https://www.aljazeera.com/sports/2026/6/29/enzo-maresca-appointed-man-city-manager-to-succeed-pep-guardiola?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T14:57:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "36e275b12bd16311",
+      "title": "English cricket thrown into uncertainty by Ben Stokes’ chaotic exit",
+      "summary": "Abrupt retirement of brilliantly aggressive captain comes after tensions with sport’s hierarchy",
+      "link": "https://www.ft.com/content/f4cccc3b-a9cb-401b-8868-8ec13abd3873",
+      "source": "FT World",
+      "published": "2026-06-29T14:53:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "801d12a085bbec83",
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T14:52:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cd0e9dc47cf0dfad",
+      "title": "Citadel Securities Warns of ‘Shifting Landscape’ Under Warsh Fed",
+      "summary": "Investors are underestimating how determined Federal Reserve Chairman Kevin Warsh is to bring inflation back to the central bank’s 2% target and the likely drag that will create on risk assets, according to Citadel Securities.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/citadel-securities-warns-of-shifting-landscape-under-warsh-fed",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:51:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9a211185fecdcca0",
+      "title": "World Cup to Drive Billions in Betting Volume",
+      "summary": "This year’s World Cup is the first since prediction markets like Kalshi and Polymarket exploded to popularity as a new way to bet on sports. Chad Beynon, Senior Gaming, Lodging, and Theaters Analyst at Macquarie, talks about how the World Cup is impacting the US sports betting market and which stocks stand to benefit. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/world-cup-to-drive-billions-in-betting-volume-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:50:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "21b587cb27a65cb3",
+      "title": "Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers",
+      "summary": "On this episode of Stock Movers with Alexis Christoforous: - Comcast (CMCSA) is rising after it announced its intention to separate into two independent publicly traded companies through a tax-free spin-off of NBCUniversal and Sky. Upon completion of the transaction, Comcast shareholders will own shares in both Comcast and NBCUniversal. - Iridium (IRDM) is moving on news Rocket Lab will acquire the company in a deal that focuses on vertically integrating space and satellite capabilities. - SpaceX (SPCX) is up in the premarket as it will become a component of the Nasdaq-100 Index prior to marke",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/comcast-rises-on-split-iridium-up-on-rocket-lab-deal-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:48:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "73388701607d98ca",
+      "title": "Supreme Court Rules Lisa Cook Can Remain at Fed for Now",
+      "summary": "The US Supreme Court refused to let President Donald Trump immediately fire Federal Reserve Governor Lisa Cook. In a 5-4 vote, the high court said Cook can stay in her job while she fights Trump’s bid to oust her over unproven mortgage fraud allegations. Michael McKee reports on Bloomberg Television. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-29/supreme-court-rules-lisa-cook-can-remain-at-fed-for-now-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:45:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "94d921d3011b7a43",
+      "title": "Why the Arab League could not stop Israel’s genocide",
+      "summary": "Arab governments are constrained by dependency, regime survival and fear of empowering Iran-aligned rivals.",
+      "link": "https://www.aljazeera.com/opinions/2026/6/29/why-the-arab-league-could-not-stop-israels-genocide?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T14:43:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0d1f08c5fec5a836",
+      "title": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
+      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
+      "link": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-06-29T14:40:58+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a857e1945ce81c11",
+      "title": "A Potentially Terrible AI Economic Dilemma",
+      "summary": "Austerity for the non-AI economy?",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/a-potentially-terrible-ai-economic-dilemma",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:35:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "59d87e8531b72384",
+      "title": "EIB President: Morocco attracts growing confidence from international investors",
+      "summary": "Morocco is attracting growing confidence from international investors, according to Nadia Calviño, President of the European Investment Bank (EIB). &#8220;Thanks to the consistency of its reforms, carried out under the enlightened leadership of His Majesty King Mohammed VI, the stability of its macroeconomic framework, and the strength of its financial system, Morocco is now attracting [&#8230;] The post EIB President: Morocco attracts growing confidence from international investors appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140896-eib-president-morocco-attracts-growing-confidence-from-international-investors.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T14:35:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "22a527fd5e72fb48",
+      "title": "Burnham’s big challenges on devolution",
+      "summary": "A boost for town centres and cities against the suburbs could come back to bite him",
+      "link": "https://www.ft.com/content/8ca4994b-375f-4062-95f1-f57b016eb26d",
+      "source": "FT World",
+      "published": "2026-06-29T14:26:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d1db092aeb4c336d",
+      "title": "Arab Water Ministers Agree on Roadmap for Secure Regional Water Future",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5290007",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T14:25:54+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f6bb56907bccdb81",
+      "title": "Bomb Attack Damages Ecuador Mining Agency Probing Illegal Gold",
+      "summary": "A bomb apparently targeting Ecuador’s mining regulator blew out several floors of windows at a major government building in the capital of Quito early Monday morning.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/bomb-attack-damages-ecuador-mining-agency-probing-illegal-gold",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:25:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a87de07a5fcd7a0c",
+      "title": "Cook Stays at Fed But Trump Wins More Power Over Other Agencies",
+      "summary": "The US Supreme Court reinforced the Federal Reserve’s independence from the White House, protecting governors from being fired by the president without proof of wrongdoing.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/supreme-court-lets-fed-s-lisa-cook-stay-in-job-for-now",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:21:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ce6926759087d888",
+      "title": "Sudan’s el-Obeid: Life on the edge of collapse",
+      "summary": "Sudan&#039;s el-Obeid faces mass atrocities, like el-Fasher in 2025, the UN warns.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/sudans-el-obeid-life-on-the-edge-of-collapse?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T14:18:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9416d5a141693e7e",
+      "title": "Orbán hid half of Hungary’s budget deficit, new PM says",
+      "summary": "Péter Magyar says his predecessor ‘lied’ about 2026 shortfall of 8% of GDP",
+      "link": "https://www.ft.com/content/532705eb-c723-4e98-bf24-f5b60688ff3b",
+      "source": "FT World",
+      "published": "2026-06-29T14:18:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2bf1d26c77ac3ce5",
+      "title": "Trump announces meeting with Iran in Qatar despite military skirmishes",
+      "summary": "US president says talks will take place on Tuesday, but Tehran has not confirmed the negotiations in Doha.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T14:12:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "af1924b03eda8f17",
+      "title": "Brazil vs Japan LIVE: FIFA World Cup 2026",
+      "summary": "Follow updates as Brazil face Japan in the last 32, as we bring you the build-up, analysis and text commentary.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/29/brazil-vs-japan-live-fifa-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T14:10:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ecee634a8fa36d4c",
+      "title": "Yen Hits 40-Year Low in Historic Slide That’s Rattled Japan",
+      "summary": "The yen slid to its weakest level against the dollar since 1986, a milestone that will generate unease in Japan and put traders on high alert for authorities wading into the market.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan",
+      "source": "Bloomberg Markets",
+      "published": "2026-06-29T14:09:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "685320fe7a2a08d3",
+      "title": "Morocco warns of extreme heat, strong winds and local sandstorms through the week",
+      "summary": "Morocco&#8217;s General Directorate of Meteorology has issued a new orange-level weather alert warning of extreme heat, strong winds and localized sandstorms across large parts of the country this week. The weather agency said temperatures of between 38 and 41 degrees Celsius are expected from Monday through Wednesday in the provinces of Sidi Kacem, Sidi Slimane, [&#8230;] The post Morocco warns of extreme heat, strong winds and local sandstorms through the week appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/140903-morocco-warns-of-extreme-heat-strong-winds-and-local-sandstorms-through-the-week.html",
+      "source": "Hespress EN",
+      "published": "2026-06-29T14:00:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1ff3811ef54cab7d",
+      "title": "Trump Says Iran Requested Meeting to be Held in Doha Tuesday",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5289997",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-06-29T13:58:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ca03cb354d079546",
+      "title": "Lebanon’s deal with Israel sparks backlash",
+      "summary": "Hizbollah and allies say they will not adhere to US-backed agreement as Israeli troops continue to occupy territory",
+      "link": "https://www.ft.com/content/5e138e21-9e72-4e3d-b240-c5c3c39355da",
+      "source": "FT World",
+      "published": "2026-06-29T13:56:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8ef0693a7b9b7dec",
+      "title": "Is the Israeli military deliberately targeting children in Gaza?",
+      "summary": "A UN inquiry found that children in Gaza are being shot with a single bullet.",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/29/is-the-israeli-military-deliberately-targeting-children-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T13:55:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1646812f8f8fa842",
+      "title": "Russian missile and drone attacks kill at least eight in Ukraine",
+      "summary": "President Volodymyr Zelenskyy condemns the &#039;horrific attacks&#039; and urges allies to boost Ukraine&#039;s air defences.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T13:54:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "abca2b82155450e4",
       "title": "Saudi Arabia Strengthens Public Safety with Smart Security Measures",
@@ -11,6 +2770,68 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-06-29T13:51:47+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "567f6023e6ea4c1c",
+      "title": "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
+      "summary": "Analysts warn military pressure alone cannot contain a threat from armed groups that has reached Pakistan&#039;s cities.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/why-pakistans-afghan-air-strikes-arent-stopping-armed-attacks?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T13:51:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b8ef49ac990b2f91",
+      "title": "More than 1,300 deaths in Europe amid heatwave: What can countries do?",
+      "summary": "Temperatures reached 40 degrees Celsius (104 degrees Fahrenheit) in parts of Europe on Sunday.",
+      "link": "https://www.aljazeera.com/news/2026/6/29/more-than-1300-deaths-in-europe-amid-heatwave-what-can-countries-do?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T13:47:50+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -66,12 +2887,12 @@
       }
     },
     {
-      "id": "ef84992fe0a04eba",
-      "title": "Poor Pod Counts Signal Sharp Drop in Ivory Coast Cocoa Crop",
-      "summary": "The cocoa crop in top grower Ivory Coast could fall by about a fifth in the next season as the number of pods on trees lags, risking tighter global supplies, according to traders surveyed by Bloomberg.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/poor-pod-counts-signal-sharp-drop-in-ivory-coast-cocoa-crop",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T13:42:02+00:00",
+      "id": "e70b3096fb5ddad4",
+      "title": "Five things we learnt from Andy Burnham’s speech",
+      "summary": "UK’s likely next prime minister gave the clearest indication yet of his policy priorities — but left many questions unanswered",
+      "link": "https://www.ft.com/content/abc26903-8463-42d3-9378-3cacefc30622",
+      "source": "FT World",
+      "published": "2026-06-29T13:46:37+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -104,6 +2925,37 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-06-29T13:38:15+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6c5ca9df1e6115c7",
+      "title": "Brazil supporters in Indonesia grab Israeli flag off motorcyclist",
+      "summary": "A video of an Israeli flag being grabbed off two young men in Indonesia has gone viral.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/brazil-supporters-in-indonesia-grab-israeli-flag-off-motorcyclist?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-06-29T13:38:10+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -190,136 +3042,12 @@
       }
     },
     {
-      "id": "9dfa8bff99c4eb51",
-      "title": "Investors Snub a 1,400 Basis-Point Outperformance in Small Caps",
-      "summary": "The smallest, riskiest group of US stocks has put in a magnificent performance in the first half of the year. You never would have guessed it by looking at investor positioning.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/investors-snub-a-1-400-basis-point-outperformance-in-small-caps",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T13:29:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "498b1200137fb524",
       "title": "Egyptian President Offers Condolences to Saudi King, Crown Prince on Martyrs of Aramco Helicopter Crash",
       "summary": "",
       "link": "https://english.aawsat.com/node/5289984",
       "source": "Asharq Al-Awsat",
       "published": "2026-06-29T13:28:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "def858c9704c2d29",
-      "title": "Saudi FM Receives Phone Call from Deputy Prime Minister, Foreign Minister of Pakistan",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289978",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T13:16:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fbc72231b7e377ef",
-      "title": "Burnham vows to ‘rewire’ British state",
-      "summary": "UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs",
-      "link": "https://www.ft.com/content/10b1ec7e-a6f6-484b-81a9-214764797a3c",
-      "source": "FT World",
-      "published": "2026-06-29T13:14:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d886b5b872b55e2b",
-      "title": "GCC Secretary-General Condemns Israeli Attacks on Syrian Territories",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289973",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T13:14:17+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -352,2734 +3080,6 @@
       "source": "Middle East Eye",
       "published": "2026-06-29T13:09:15+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fffc787fa968e2cc",
-      "title": "Five killed in shooting at youth welfare centre in Germany’s Stade",
-      "summary": "Police say several people also injured while the suspected shooter has been arrested.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/five-killed-in-shooting-at-youth-welfare-centre-in-germanys-stade?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T13:05:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "02865505121ea0fc",
-      "title": "AI money is going to swamp the midterms this year",
-      "summary": "Alex Bores’ defeat in a New York congressional primary was a taste of things to come",
-      "link": "https://www.ft.com/content/8f872761-76d9-43c7-bbcd-d313c4732e81",
-      "source": "FT World",
-      "published": "2026-06-29T13:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8683d5d43b2bda5c",
-      "title": "Five dead following shooting at youth centre in Stade, northern Germany",
-      "summary": "Two people have been arrested, one of whom is a suspect, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T12:52:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "801d12a085bbec83",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T12:51:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dbb4ea1c50e8b597",
-      "title": "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?",
-      "summary": "China and Sudan signed off on a waiver of $50m as Sudan’s military-led government seeks support amid Western sanctions.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T12:51:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "88b32b669084e225",
-      "title": "Ali Al-Zaidi to Asharq Al-Awsat: No Protection for the Corrupt, Restricting Arms to the State Will Be Enforced",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289965",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T12:50:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bae0f1f538c05e87",
-      "title": "US Futures Up as Dip Buyers Lift Tech, US-Iran Hostilities Fade",
-      "summary": "Dip buyers emerging to pick up beaten-down technology stocks and easing tensions in the Middle East helped lift US stock-index futures before the bell on Monday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/us-futures-up-as-dip-buyers-lift-tech-us-iran-hostilities-fade",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T12:49:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9a8d489db6cb85e5",
-      "title": "Israel killing Palestinian children in the West Bank at highest rate since 1967: B'Tselem",
-      "summary": "Israel killing Palestinian children in the West Bank at highest rate since 1967: B'Tselem Israeli &nbsp;forces are killing&nbsp; Palestinian &nbsp;children in the&nbsp; occupied &nbsp;West Bank at the highest rate since 1967, with 54 shot dead in 2025, B'Tselem said on Monday. The Israeli human rights group said nearly one in four Palestinians killed by Israeli forces in the occupied territory since October 2023 has been a minor, marking the highest proportion since the occupation began. Despite the high child death toll, no one has been held accountable and there are no known indictments link",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-killing-palestinian-children-west-bank-highest-rate-1967-btselem",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T12:46:32+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3158f38ec5cb24f2",
-      "title": "Senior South African police officer survives assassination attempt",
-      "summary": "Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T12:38:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "93133dc8b2c8df78",
-      "title": "SpaceX Pushes US Share Sales to Record $251 Billion at Midyear",
-      "summary": "Wall Street bankers are on a high after record-setting offerings from SpaceX and Google parent Alphabet Inc., lifting expectations for deal activity in the rest of 2026.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/spacex-pushes-us-share-sales-to-record-251-billion-at-midyear",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T12:35:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c6d6944ef3f1cad2",
-      "title": "John Major says Reform are ‘ragbag’ scapegoating Muslims and migrants",
-      "summary": "John Major says Reform are ‘ragbag’ scapegoating Muslims and migrants Submitted by MEE staff on Mon, 06/29/2026 - 13:05 Former Conservative prime minister says right wing party have 'nothing good to offer' and are hostile to those they disagree with Britain's former Prime Minister John Major attends the second Proclamation of King Charles III, at the Royal Exchange, in the City of London, on 10 September 2022 (AFP/David Levene) Off John Major, the former Conservative British prime minister, has launched a scathing criticism of right-wing party Reform UK, accusing it of scapegoating Muslims and",
-      "link": "https://www.middleeasteye.net/news/ex-british-pm-john-major-says-reform-are-ragbag-scapegoating-muslims-and-migrants",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T12:33:25+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8b429a57c067d2b2",
-      "title": "Eni and Adnoc Investment Arm XRG Buy into Argentine LNG Project",
-      "summary": "Italian energy giant Eni SpA and the investment unit of the Abu Dhabi National Oil Co. agreed to buy stakes in a liquefied natural gas production and export project in Argentina.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/eni-and-adnoc-investment-arm-xrg-buy-into-argentine-lng-project",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T12:33:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6a4e708b018949c1",
-      "title": "Midelt residents protest isolation, demand roads and basic services",
-      "summary": "A renewed wave of protests has erupted in Morocco&#8217;s Midelt Province, where residents of several mountainous communes are demanding improved infrastructure and public services, saying decades of isolation have left their communities underserved. The demonstrations began in late June and have involved residents from remote villages across the High Atlas, including the rural communes of [&#8230;] The post Midelt residents protest isolation, demand roads and basic services appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140891-midelt-residents-protest-isolation-demand-roads-and-basic-services.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T12:30:32+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "75e9ec073446eaea",
-      "title": "Israel killing Palestinian children in the West Bank at highest rate since 1967, B'Tselem says",
-      "summary": "Israel killing Palestinian children in the West Bank at highest rate since 1967, B'Tselem says Submitted by MEE staff on Mon, 06/29/2026 - 11:33 Rights group says that despite the high death toll, no one has been held accountable for the killing of Palestinian children in the occupied West Bank since October 2023 Relatives mourn 14-year-old Ammar Motaz Hamayel after he was killed during an Israeli raid in Kafr Malik, in the occupied West Bank, on 23 June 2025 (AFP/Zain Jaafar) Off Israeli forces are killing Palestinian children in the occupied West Bank at the highest rate since 1967, with 54 ",
-      "link": "https://www.middleeasteye.net/news/israel-killing-palestinian-children-highest-rate-1967-btselem-says",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T12:30:09+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1ffa7330dcb15d2b",
-      "title": "Turkey must be 'included' in Europe security structures: Erdogan ahead of NATO summit",
-      "summary": "Turkey must be included in all of Europe&#8217;s defence and security structures, President Recep Tayyip Erdogan said Monday, a week ahead of a key NATO summit in Ankara. His remarks come as Europe seeks to revamp its defences in light of the threat from Russia and the risk of a US pullback from NATO, as [&#8230;] The post Turkey must be &#039;included&#039; in Europe security structures: Erdogan ahead of NATO summit appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140889-turkey-must-be-included-in-europe-security-structures-erdogan-ahead-of-nato-summit.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T12:26:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "26ff772363bef725",
-      "title": "Strategy Says It May Sell Up to $1.25 Billion of Bitcoin",
-      "summary": "Michael Saylor’s Strategy Inc. unveiled a sweeping overhaul of the financing model underpinning its Bitcoin strategy, giving itself broader powers to sell the cryptocurrency, buy back securities and preserve liquidity as it adapts to mounting pressure on the structure that fueled years of aggressive accumulation.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T12:19:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8905077e451aa7e3",
-      "title": "Markets to Consolidate in Summer of Volatility, BNY’s Levine Says",
-      "summary": "Alicia Levine, chief investment officer at BNY Wealth, expects an upswing in volatility over the next few months, but sees a broadening of earnings driving the S&amp;P 500 to 8,000 by the end of the year. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-29/markets-to-consolidate-in-summer-of-volatility-levine-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T12:19:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "940ff5a4f8b18d3c",
-      "title": "Venezuela earthquake rescues: Five heart-warming moments",
-      "summary": "Amid the death and destruction, a few fleeting moments have brought rare relief to Venezuelans.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/venezuela-earthquake-rescues-five-heart-warming-moments?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T12:09:32+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "35bf9f3273c1c794",
-      "title": "Suez Wins Its Largest Mideast Deal With €2 Billion Oman Contract",
-      "summary": "Suez SA and partners won a €2 billion ($2.3 billion) water-services contract in Oman, the French firm’s largest deal in the Middle East.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/suez-wins-its-largest-mideast-deal-with-2-billion-oman-contract",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T12:08:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "20f81c58f90131c6",
-      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-      "summary": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
-      "link": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T12:04:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "415b1af38ca2a2cc",
-      "title": "Israeli attack in Gaza kills three, including a child",
-      "summary": "The strike in Deir el-Balah is the latest Israeli attack amid ongoing &#039;ceasefire&#039; violations.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T12:02:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9abea1905424a8d9",
-      "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
-      "summary": "Taylor had an emotional reaction to being presented with the Icon of the Year award by Janet Jackson.",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T12:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "20ba2b58df53fecc",
-      "title": "Trump says Iran meeting to be held tomorrow in Doha",
-      "summary": "Trump says Iran meeting to be held tomorrow in Doha US President Donald Trump said meeting with Iran would be held Tuesday in Doha, without giving further details. \"Iran has requested a meeting. It will take place tomorrow in Doha,\" Trump wrote in a social media post on Monday. Earlier on Monday, an Iranian official has said there were no intentions of holding meetings with the US in Qatar this week.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-meeting-be-held-tomorrow-doha",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T11:57:01+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c1cbe6e01e1cc8a8",
-      "title": "Your chance to become this year’s British Solving Champion",
-      "summary": "Event offers the chance to compete for £1,600 prize fund — plus ChessFest returns to Trafalgar Square in July",
-      "link": "https://www.ft.com/content/ea05aad1-8d37-48dc-9bd6-91c41429e6f9",
-      "source": "FT World",
-      "published": "2026-06-29T11:50:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ebf412a1165f9230",
-      "title": "Morocco's economy posts 4.6% growth rate in Q1 2026",
-      "summary": "The national accounts for the first quarter of 2026 show that Morocco&#8217;s economy maintained a robust growth rate of 4.6%, following a 5% expansion in Q1 2025, according to the High Commission for Planning (HCP). This performance reflects a slight slowdown in economic activity, mainly attributable to the decline in secondary sector activities, which was [&#8230;] The post Morocco&#039;s economy posts 4.6% growth rate in Q1 2026 appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140887-moroccos-economy-posts-4-6-growth-rate-in-q1-2026.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T11:48:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a32e8a0096e210c8",
-      "title": "Hormuz Recovery Hits a Bumpy Patch After Fresh Attacks on Ships",
-      "summary": "The reopening of the crucial waterway faltered after Iran struck two ships.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/hormuz-shipping-recovery-hits-a-bumpy-patch-after-fresh-iran-attacks",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T11:45:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8c9de93681e743ee",
-      "title": "South Africa braces for unrest ahead of anti-migrant ultimatum",
-      "summary": "Authorities and companies scale up security as hardline groups call on undocumented foreign nationals to leave by June 30",
-      "link": "https://www.ft.com/content/54ec5b7d-3d6f-467f-a3f4-3ae30283f207",
-      "source": "FT World",
-      "published": "2026-06-29T11:41:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "71116f51d069140d",
-      "title": "Microsoft’s $530 Billion Rout Sets Up Its Worst Month Since 2008",
-      "summary": "Microsoft Corp. shares are heading for their worst month in years as investors continue to fret about how the software giant will fare in a world marked by artificial intelligence.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/microsoft-s-570-billion-rout-sets-up-its-worst-month-since-2000",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T11:31:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "af799412adc9210c",
-      "title": "How China wriggled free when Trump closed a tariff loophole",
-      "summary": "Chinese sales platforms and delivery services have adapted to survive the end of the ‘de minimis’ allowance",
-      "link": "https://www.ft.com/content/d0897dfb-c94d-4b62-be82-7ec05a645726",
-      "source": "FT World",
-      "published": "2026-06-29T11:31:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "282545a4babc5648",
-      "title": "Donald Trump and how strongman leaders fall",
-      "summary": "The downfalls of would-be autocrats in Hungary, Brazil and the Philippines hold lessons for America",
-      "link": "https://www.ft.com/content/a1f9bae6-35a6-4875-ad5a-e5fa3c1de87d",
-      "source": "FT World",
-      "published": "2026-06-29T11:25:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f7394178233b0575",
-      "title": "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
-      "summary": "Saudi Arabia, the three-time Asian champions, finish bottom of Group H with two points from three games.",
-      "link": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T11:22:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b3579171ccc5380e",
-      "title": "Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news",
-      "summary": "A rare meeting of the top 10 ranked teams sees Morocco take on the Netherlands in the round of 32 in Monterrey, Mexico.",
-      "link": "https://www.aljazeera.com/sports/2026/6/29/netherlands-vs-morocco-fifa-world-cup-round-of-32-prediction-team-news?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T11:20:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8aa478332707999f",
-      "title": "‘A concession to Zelenskyy’s ultimatum’: Ukraine’s triumph over Belarus",
-      "summary": "President Zelenskyy demands Lukashenko shut down stations installed by Russia &#039;or we will&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/drone-relayers-off-ukraines-diplomatic-triumph-over-belarus?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T11:18:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7961e01a94361c87",
-      "title": "Nigerians return home after fleeing xenophobic attacks in South Africa",
-      "summary": "Nigerians are returning home after facing a wave of xenophobic violence in South Africa.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/nigerians-return-home-after-fleeing-xenophobic-attacks-in-south-africa?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T11:15:32+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d7593a9236912438",
-      "title": "Mercuria Signs First Uranium Financing Deal With Malawi Miner",
-      "summary": "Trading house Mercuria Energy Group Ltd. signed its first prepayment agreement with a uranium miner, striking a deal with the owner of an operation in Malawi.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/mercuria-signs-first-uranium-financing-deal-with-malawi-miner",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T11:15:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "982abfa776300742",
-      "title": "Tech Stocks Rebound; US, Iran Halt Attacks; South Korea's Big AI Push | Bloomberg Brief 6/29/2026",
-      "summary": "US equity futures rise after a week of selloff in tech. The US says Washington and Tehran have agreed to pause attacking each other. South Korea plans to invest $880 billion into chips and data centers with firms including Samsung and SK Hynix. Ella Gude of BNY Investments Newton discusses the Fed's Warsh era as central bankers gather for an annual forum in Sintra, Portugal. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-29/bloomberg-brief-6-29-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T11:14:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "34ff9d5f868d7b9d",
-      "title": "Qatar condemns Israeli incursion in southern Syria",
-      "summary": "Qatar condemns Israeli incursion in southern Syria Qatar condemned the Israeli incursion in Syria’s Quneitra and Deraa, as well as the artillery shelling by the Israeli army, calling it “a flagrant violation of Syria’s sovereignty and a blatant breach of international law,” the Qatari Foreign Ministry said in a statement on Monday. Continuation of such attacks by Israel “would exacerbate tensions in the region and undermine efforts to promote security and stability,” it added. The ministry called on the international community to take responsibility to hold Israel accountable for its crimes. I",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-incursion-southern-syria",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T11:10:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "598f51d873c41821",
-      "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-      "summary": "The White House denied a split between the two officials who have historically held diverging foreign policy positions.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T11:05:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "145d66418c5d1811",
-      "title": "Morocco's startup ecosystem grows 30.7% despite losing North Africa lead to Tunisia",
-      "summary": "Morocco&#8217;s startup ecosystem recorded strong growth in 2026, with its overall ecosystem score rising by 30.7% year over year, nearly double the North African regional average, according to a new global report. The 2026 Global Startup Ecosystem Index, published by research center StartupBlink, found that Morocco&#8217;s startup ecosystem expanded by 30.7% compared with the previous [&#8230;] The post Morocco&#039;s startup ecosystem grows 30.7% despite losing North Africa lead to Tunisia appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140882-moroccos-startup-ecosystem-grows-30-7-despite-losing-north-africa-lead-to-tunisia.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T11:00:50+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a934cbd3de6432f1",
-      "title": "Iran Says No Technical Meeting Expected with US in Coming Days",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289906",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T11:00:34+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "132c43cff67335c6",
-      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
-      "summary": "The Les Mills International brand is now known globally for choreographed workouts set to music, like Body Pump and Body Combat.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T10:55:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "97f938446d23a19b",
-      "title": "Russian Strikes Kill Seven Across Ukraine",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289904",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T10:55:08+00:00",
-      "region": "mena",
-      "lang": "fi",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4cd7909ef7526cd4",
-      "title": "Israeli strike in central Gaza kills three Palestinians, including a child",
-      "summary": "Israeli strike in central Gaza kills three Palestinians, including a child At least three Palestinians, including a child, have been killed in an Israeli drone strike on a group of civilians in central Gaza on Monday. The strike on al-Baraka Street in Deir el-Balah also injured several Palestinians, who are being treated at Al-Aqsa Martyrs Hospital. An Israeli military source confirmed the attack. At least 1,041 Palestinians have been killed in Gaza since the ceasefire took effect on 10 October last year, according to the Gaza health ministry.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-central-gaza-kills-three-palestinians-including-child",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T10:47:04+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "88d8f90641da1f69",
-      "title": "Tennis Players End Wimbledon Prize-money Protest",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289901",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T10:45:52+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2ceef40f1ed4066b",
-      "title": "At least 130 mn people in Europe face temperatures above 35C Monday: AFP analysis",
-      "summary": "At least 130 million people in Europe, mainly located in the central and eastern parts of the continent, are set for temperatures exceeding 35C on Monday, according to AFP calculations. This is down from more than 190 million on Sunday, and maximum temperatures are expected to surpass 30C for over 269 million people across the [&#8230;] The post At least 130 mn people in Europe face temperatures above 35C Monday: AFP analysis appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140885-at-least-130-mn-people-in-europe-face-temperatures-above-35c-monday-afp-analysis.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T10:39:36+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d51ca15820225299",
-      "title": "Burnham plans ‘Number 10 North’ in bid to reboot Britain",
-      "summary": "Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of power away from Westminster",
-      "link": "https://www.ft.com/content/467b5332-2840-42eb-8d0b-0aae9c5c1107",
-      "source": "FT World",
-      "published": "2026-06-29T10:36:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5cc6e76a0b5e2c67",
-      "title": "Nigerian Government Seeks Advisers for Planned Eurobond Offering",
-      "summary": "Nigeria invited expressions of interest from advisers for a planned Eurobond sale, the first since a November issuance drew five times more demand than the amount on offer.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/nigerian-government-seeks-advisers-for-planned-eurobond-offering",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T10:36:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11469586bc111135",
-      "title": "And the FTAV charts quiz winner is . . .",
-      "summary": "Charteaubriand",
-      "link": "https://www.ft.com/content/46b7e298-0567-4886-818b-2485fd0c7514",
-      "source": "FT World",
-      "published": "2026-06-29T10:35:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c232c4cdda29dc6a",
-      "title": "Iran says technical meetings under MoU not scheduled this week",
-      "summary": "Iran says technical meetings under MoU not scheduled this week Iran's Deputy Foreign Minister Kazem Gharibabadi said on Monday that technical working group meetings under the Iran-US memorandum of understanding were not scheduled for this week, Iran's Tasnim news agency reported. Earlier on Monday, Reuters reported that Iranian and US technical teams working on implementing the MoU would be meeting in the coming days, citing a source with knowledge of the talks. Gharibabadi also said consultations between Iran and Qatar regarding the US commitments were continuing as planned, but that technica",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-technical-meetings-under-mou-not-scheduled-week",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T10:34:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "20a86b289a88814a",
-      "title": "FirstFT: AI fuels record number of power sector deals",
-      "summary": "Also in today’s newsletter: Venezuela’s government faces backlash over earthquake response; and how top executives stay fit",
-      "link": "https://www.ft.com/content/1efdddb9-e72c-43c4-bbe5-d5e2aba00c1e",
-      "source": "FT World",
-      "published": "2026-06-29T10:26:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bcdd55ee9bbfb1e0",
-      "title": "Israel uproots hundreds of West Bank olive trees amid fears of wider destruction",
-      "summary": "Israel uproots hundreds of West Bank olive trees amid fears of wider destruction Submitted by Muhammad Ateeq on Mon, 06/29/2026 - 08:05 Army expands large-scale razing near the separation wall, despite the olive harvest providing an economic lifeline for many communities Israeli forces bulldozed at least 500 olive trees in Zububa village near Jenin in the occupied West Bank, 28 June 2026 (Muhammad Ateeq/MEE) Off Israeli forces bulldozed hundreds of olive trees in the occupied West Bank on Sunday, with dozens more dunams of agricultural land at risk of further destruction in the coming days. Th",
-      "link": "https://www.middleeasteye.net/news/israel-uproots-hundreds-west-bank-olive-trees-palestinians-fear-wider-destruction",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T10:26:45+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "77744789676d9969",
-      "title": "Hormuz Traffic Declines as Ship Attacks Spark New Concerns",
-      "summary": "Commercial traffic through the Strait of Hormuz this weekend persisted at a reduced level as a handful of vessels made open transits. Traffic was still higher than for most of the US-Iran war, but attacks on two ships raised fresh concerns about the ability and willingness of shipowners to traverse the waterway. Alaric Nightingale reports on Bloomberg Television. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-29/hormuz-traffic-declines-as-attacks-spark-new-concerns-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T10:26:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "73c4c9a0610e4e59",
-      "title": "Comcast to spin off NBCUniversal and Sky",
-      "summary": "Shares rise 20% as media group outlines plan to split broadcast and studio businesses",
-      "link": "https://www.ft.com/content/a0a56613-b9ac-478d-9e38-f28dbd5097e6",
-      "source": "FT World",
-      "published": "2026-06-29T10:24:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b52391a0c0894036",
-      "title": "Risks in Focus After US Stocks’ Wild Start to 2026",
-      "summary": "Investors are grappling with a series of risks, from AI to rising interest rates and US elections.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/risks-in-focus-after-us-stocks-wild-start-to-2026",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T10:20:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c133a050e571ecbb",
-      "title": "Southeastern Europe Feels Effects of Heatwave, Wildfires Break Out",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289895",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T10:19:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5e64fb3b45893a2e",
-      "title": "Gaza Health Officials Say 3 Killed in Israeli Drone Strike",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289894",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T10:18:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d948b2cac348a07a",
-      "title": "Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition",
-      "summary": "Azerbaijan issues rare rebuke against key ally Israel over Armenian genocide recognition The Israeli&nbsp; government’s decision on Sunday to formally recognise the Armenian genocide has drawn a rare rebuke from Azerbaijan , a close Israeli ally. In an official statement, Azerbaijan’s Foreign Ministry called the recognition a \"distortion of the historical facts\" and \"the reduction of a complex historical issue to a political decision\". It called on the Israeli government to reconsider this “unacceptable” decision. Turkey , in a separate statement on Sunday, said the Israeli decision was a conv",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/azerbaijan-issues-rare-rebuke-against-key-ally-israel-over-armenian",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T10:04:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5360f905e56122b3",
-      "title": "Saudi Football Federation's Yasser al-Misehal Resigns after World Cup Exit",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289890",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T10:03:52+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ea977c41ad100cb0",
-      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
-      "summary": "Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T09:58:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "89ca1daf561f14ba",
-      "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-      "summary": "Russian president claims Ukraine, which has ramped up attacks on Russia&#039;s energy sector, proposed the limits.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T09:58:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3bedb8e51b7c80f8",
-      "title": "‘Erased from history’: A century on from Canada’s anti-Greek riots",
-      "summary": "Historians and Greek community members say 1918 riots in Toronto reminiscent of anti-immigrant rhetoric, xenophobia now.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/erased-from-history-a-century-on-from-canadas-anti-greek-riots?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T09:47:32+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "60d4f5fe3b9a1428",
-      "title": "China grounds light aircraft after Beijing tower crash",
-      "summary": "Flight operators say authorities issued indefinite nationwide airspace controls",
-      "link": "https://www.ft.com/content/343d5926-cfc3-43af-8cbe-3d3b3d194cf1",
-      "source": "FT World",
-      "published": "2026-06-29T09:47:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "afa2977a88ee7279",
-      "title": "Russia rejects Turkish ceasefire push in Ukraine ahead of Nato summit, sources say",
-      "summary": "Russia rejects Turkish ceasefire push in Ukraine ahead of Nato summit, sources say Submitted by Levent Kemal on Mon, 06/29/2026 - 09:01 Ankara had hoped a ceasefire could pave the way for Russia-Ukraine talks in Turkey during the July Nato summit, but Moscow remains firm on its Donbas demands Russia's Foreign Minister Sergei Lavrov and his Turkish counterpart Hakan Fidan shake hands during a joint press conference following their talks in Moscow on 27 May 2025 (Pavel Bednyakov/AFP) Off Russia once again rejected a Turkish proposal to declare a ceasefire and open talks between Moscow and Ukrain",
-      "link": "https://www.middleeasteye.net/news/russia-rejects-turkish-ceasefire-push-ukraine-ahead-nato-summit",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T09:46:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4e591d716a914144",
-      "title": "Van Dijk: I expect tough match against top-level Moroccan team",
-      "summary": "Netherlands’ center-back Virgil van Dijk stated on Sunday in Monterrey that he expects &#8220;a tough match against a Moroccan side possessing great qualities.&#8221; Responding to a question from MAP during the pre-match press conference ahead of the 2026 World Cup Round of 32 clash, Van Dijk highlighted that the Moroccan squad &#8220;currently boasts one of [&#8230;] The post Van Dijk: I expect tough match against top-level Moroccan team appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140879-van-dijk-i-expect-tough-match-against-top-level-moroccan-team.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T09:44:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ef412ed58c73fb06",
-      "title": "Australia and Vanuatu sign deal to block foreign military bases",
-      "summary": "Two countries sign economic and security pact, as China expresses concern that the agreement may be targeted at it.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T09:43:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5d30f9e7d92b634a",
-      "title": "Saudi Arabia Condemns Israeli Incursions into Syria",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289881",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T09:39:28+00:00",
-      "region": "mena",
-      "lang": "it",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ea9698ea04ccb055",
-      "title": "China slaps export controls on dozens of Japanese entities",
-      "summary": "China&#039;s Ministry of Commerce says measures are a response to Tokyo&#039;s &#039;new militarism&#039;.",
-      "link": "https://www.aljazeera.com/economy/2026/6/29/china-slaps-export-controls-on-dozens-of-japanese-entities?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T09:29:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "63c2e42eda1ef808",
-      "title": "Energy shipments in Hormuz continue despite recent tanker attacks",
-      "summary": "Energy shipments in Hormuz continue despite recent tanker attacks Middle East producers are pushing ahead with loading oil and liquefied natural gas, shipping data showed. Washington and Iran agreed on Sunday to halt hostilities and renew talks on the Strait of Hormuz, despite recent shipping attacks that threatened their interim deal. On Monday, a fourth large crude carrier, capable of carrying two million barrels of oil, was seen loading at Saudi Arabia's Ras Tanura terminal, LSEG data showed, even after a helicopter belonging to Saudi Aramco, the state oil company, crashed on Sunday, killin",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/energy-shipments-hormuz-continue-despite-recent-tanker-attacks",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T09:26:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "367dc101b00e9060",
-      "title": "PSG in Talks with Leipzig to Buy Ivory Coast Star Diomande",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289875",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T09:22:19+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d23566200c491530",
-      "title": "Al-Zaidi: We Will Continue Anti-Corruption Efforts in Iraq to Recover Public Funds",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289871",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T09:12:56+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1d1ed77bcad5ec4c",
-      "title": "Half of Iranian assets in Qatar to be released, Pezeshkian says",
-      "summary": "Half of Iranian assets in Qatar to be released, Pezeshkian says Iranian President Masoud Pezeshkian said on Monday that after the agreement with the United States lifted oil and petrochemical sanctions, $6bn out of $12bn of assets frozen in Qatar would be released and returned to Iran , Iranian state media reported. Iran’s efforts will continue to recover the remaining frozen funds, Pezeshkian added.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/half-iranian-assets-qatar-be-released-pezeshkian-says",
-      "source": "Middle East Eye",
-      "published": "2026-06-29T09:11:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3ab6156708b5dfba",
-      "title": "FIFA World Cup: Round of 32 schedule, predictions and latest news",
-      "summary": "World Cup round of 32 continues with Brazil, Germany and the Netherlands in action as Canada celebrates history.",
-      "link": "https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T09:03:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1a823b9417e4b297",
-      "title": "China Imposes New Export Controls, Deepening Japan Row",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289863",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T08:58:59+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ab147a9b18db7f1b",
-      "title": "Britain’s case for meaningful devolution is overwhelming",
-      "summary": "Andy Burnham is right to argue for a shift in power but he has to manage political risk",
-      "link": "https://www.ft.com/content/4a5a4764-8a17-4151-b819-72e3e3d807de",
-      "source": "FT World",
-      "published": "2026-06-29T08:50:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "654f3c566abfe05c",
-      "title": "Venezuela rescuers race against the clock to find more survivors",
-      "summary": "Venezuela rescuers race against the clock to find more survivors.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-rescuers-race-against-the-clock-to-find-more-survivors?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T08:46:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "884c054eefad8e66",
-      "title": "Congo: Number of Confirmed Ebola Cases at 1,274, Including 360 Deaths",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289856",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T08:44:54+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c15f569c9d1b15f",
-      "title": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
-      "summary": "The Labour Party has the chance to review its policy on Israel, but observers say it will opt for continuity.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T08:37:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9ec4c6b245b5f173",
-      "title": "Israel detonates tunnel, strikes south Lebanon as Hezbollah says has right to self-defence",
-      "summary": "The Israeli army destroyed an extensive tunnel in southern Lebanon on Sunday, with Lebanese state media reporting strikes in the area and Iran-backed Hezbollah saying it reserves the right to respond to these attacks. The incidents came despite a trilateral framework agreement signed by Lebanon and Israel under US sponsorship on Friday to pave the [&#8230;] The post Israel detonates tunnel, strikes south Lebanon as Hezbollah says has right to self-defence appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140869-israel-detonates-tunnel-strikes-south-lebanon-as-hezbollah-says-has-right-to-self-defence.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T08:37:26+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6a5b6e110874c741",
-      "title": "Godiva’s Japan Lenders Agree on Nine-Month Loan Extension",
-      "summary": "Lenders to Godiva Japan Inc. have agreed to extend by nine months the maturity of about ¥75 billion ($463 million) in loans to the struggling chocolate maker, people familiar with the matter said.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-29/godiva-japan-lenders-said-to-agree-on-nine-month-loan-extension",
-      "source": "Bloomberg Markets",
-      "published": "2026-06-29T08:36:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "81bf6c0a8b2e10a3",
-      "title": "UK’s likely next leader Andy Burnham to unveil economic, devolution plans",
-      "summary": "Frontrunner to be next PM expected to announce a 10-year mission to raise living standards.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/uks-likely-next-leader-andy-burnham-to-unveil-economic-devolution-agenda?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T08:35:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "93dbf912f809aa98",
-      "title": "Israel triggers huge explosion in southern Lebanon",
-      "summary": "A massive explosion triggered by the Israeli military shook the southern Lebanese village of Majdal Zoun.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T08:32:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "50232b60c78216a2",
-      "title": "Watch World Cup Day 18: Canada beats South Africa, through to last 16",
-      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "link": "https://www.aljazeera.com/video/2026/6/29/video-world-cup-2026-highlights?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T08:30:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "abed088420949c02",
-      "title": "South Korea announces more than $1 trillion AI, chip investment drive",
-      "summary": "South Korean president frames the push as a race against time to secure the country&#039;s domination in AI boom.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-06-29T08:29:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "91798cde87ec80c9",
-      "title": "13 Years Since 'June 30' in Egypt... The Muslim Brotherhood Has Suffered Severe Setbacks",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289851",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T08:29:32+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "253b9f89ce5b110d",
-      "title": "Morocco ready for new challenge against Netherlands, says Ouahbi",
-      "summary": "Morocco coach Mohamed Ouahbi said Sunday that the Atlas Lions are approaching their Round of 32 match against the Netherlands at the 2026 FIFA World Cup with high morale, driven above all by the responsibility of representing the country on the global stage. Speaking at the pre-match news conference, Ouahbi said Morocco had gained valuable [&#8230;] The post Morocco ready for new challenge against Netherlands, says Ouahbi appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/140871-morocco-ready-for-new-challenge-against-netherlands-says-ouahbi.html",
-      "source": "Hespress EN",
-      "published": "2026-06-29T08:18:29+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "76233144d7ebe5b3",
-      "title": "Iran Cyberattacks on Israel Surged in 2026, Israeli Cyber Chief Says",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5289846",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-06-29T08:15:53+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "73c2e9e5b28d05fc",
-      "title": "Pakistani strikes kill dozens in Afghanistan",
-      "summary": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T08:15:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "319b6bc579083e76",
-      "title": "Indian journalists condemn 'denial' of voting and passport rights of prominent editor",
-      "summary": "Rajagopal has alleged that he has been unable to renew his passport after his name was deleted from the electoral rolls.",
-      "link": "https://www.bbc.co.uk/news/articles/cpv37jwd3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-06-29T07:58:42+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
