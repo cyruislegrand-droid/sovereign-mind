@@ -1,8 +1,1031 @@
 {
-  "generated_at": "2026-07-06T19:20:59.664608+00:00",
+  "generated_at": "2026-07-06T21:12:22.527016+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "f85e21a3829628d5",
+      "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
+      "summary": "世界トップ5目指すとMUFG社長、SKハイニックス米上場へ、米株見通し、サウジ原油値下げ、ホルムズ脱出へ",
+      "link": "https://www.bloomberg.com/jp/news/newsletters/2026-07-06/THRUN7KGIFPZ00",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T21:06:43+00:00",
+      "region": "global",
+      "lang": "ja",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "61a726cfe74eed23",
+      "title": "UN welcomes Hamas dissolution of Gaza governing body",
+      "summary": "UN welcomes Hamas dissolution of Gaza governing body The UN says it has \"taken note\" of Hamas's dissolution of the body that has governed Gaza for nearly two decades. \"We welcome any step that contributes to the implementation of the ceasefire agreement and advances the objectives reflected in relevant Security Council resolutions,\" said Stephane Dujarric, spokesperson for the UN chief. Dujarric added that the UN continues to support efforts towards unified Palestinian governance under the Palestinian Authority.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-welcomes-hamas-dissolution-gaza-governing-body",
+      "source": "Middle East Eye",
+      "published": "2026-07-06T21:06:10+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "11d3c8ba9d3cd9f5",
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-06T21:02:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "38938ba47d479d0c",
+      "title": "US needs to move bases from Gulf to Israel, former Centcom commander says",
+      "summary": "US needs to move bases from Gulf to Israel, former Centcom commander says Submitted by Sean Mathews on Mon, 07/06/2026 - 21:06 Retired General Frank McKenzie says Iran war has shown that current basing system is now an 'artefact' This handout satellite image taken on 1 March 2026 shows a view of smoke rising from damage at the US Fifth Fleet naval base in Bahrain's capital Manama after it was hit by Iranian strikes (2026 Planet Labs PBC/AFP) Off The US needs to relocate its bases in the Gulf to Israel and neighbouring countries to better protect its assets from Iran’s missiles and drones, the ",
+      "link": "https://www.middleeasteye.net/news/us-needs-move-bases-from-gulf-to-israel-former-centcom-commander-says",
+      "source": "Middle East Eye",
+      "published": "2026-07-06T21:02:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0b82cf8e96855d4c",
+      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+      "summary": "The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:50:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ea733b47a36de8d4",
+      "title": "Mbappe, FFF hit back at Paraguayan senator Amarilla over racist tirade",
+      "summary": "Amarilla called Mbappe a &#039;colonised Cameroonian&#039; after his penalty helped France knock Paraguay out of the World Cup.",
+      "link": "https://www.aljazeera.com/sports/2026/7/6/mbappe-fff-hit-back-at-paraguayan-senator-amarilla-over-racist-tirade?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:49:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8412a6270bd0deb6",
+      "title": "Test Your ETF Knowledge In Our IQ Test",
+      "summary": "Bloomberg's Joel Weber puts Scarlet Fu, Katie Greifeld, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/test-your-etf-knowledge-in-our-iq-test-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T20:49:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a148ed7f411af9d3",
+      "title": "USA vs Belgium LIVE: FIFA World Cup 2026 last 16",
+      "summary": "Live coverage and text-stream updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/6/in-3-2-last-16-thriller?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:46:34+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "809d6101f43a10a2",
+      "title": "France condemns Paraguayan Senator's racist remarks about Mbappe",
+      "summary": "France&#8217;s sports minister on Monday condemned what she described as &#8220;abhorrent and racist&#8221; remarks made by a Paraguayan senator targeting French forward Kylian Mbappe following Paraguay&#8217;s elimination from the 2026 FIFA World Cup. Marina Ferrari said she was &#8220;deeply outraged&#8221; by comments posted on X by Paraguayan Senator Celeste Amarilla after France defeated Paraguay 1-0 in [&#8230;] The post France condemns Paraguayan Senator&#039;s racist remarks about Mbappe appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/141406-france-condemns-paraguayan-senators-racist-remarks-about-mbappe.html",
+      "source": "Hespress EN",
+      "published": "2026-07-06T20:42:34+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ac473676594a5c77",
+      "title": "US judge tosses out Musk’s bid to void Twitter fraud verdict",
+      "summary": "Jurors had found owner Elon Musk liable for tweets questioning whether Twitter was overrun by fake and spam accounts.",
+      "link": "https://www.aljazeera.com/economy/2026/7/6/us-judge-tosses-out-musks-bid-to-void-twitter-fraud-verdict?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:37:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c1b9cd2e7553e7d6",
+      "title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run",
+      "summary": "A giant banner reading ‘Destroy Israel’ was unfurled as thousands gathered for the San Fermin bull run festival.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:33:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f9b7db48b15a0792",
+      "title": "How to Get the Most Out of Your Kid’s Trump Account",
+      "summary": "Families with young kids can officially start putting money in a Trump Account as of July 4, 2026. But is this account right for you and your kid's savings goals and needs? Sarah Foster explains (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/how-to-get-the-most-out-of-your-kid-s-trump-account-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T20:29:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8ff37809494cb9a4",
+      "title": "Stocks Push Higher Led by Chipmakers | Closing Bell",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Emily Graffeo. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/stocks-push-higher-led-by-chipmakers-closing-bell-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T20:25:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cd9c9804a24b1636",
+      "title": "Honeywell spin-off targets AI supply chain with $14.5bn deal for Element",
+      "summary": "Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn",
+      "link": "https://www.ft.com/content/2d0945c1-570d-4684-b5bd-78392c547c79",
+      "source": "FT World",
+      "published": "2026-07-06T20:24:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "097a6b1bb9d5c419",
+      "title": "KKR’s Private Credit Clients Slow Down Their Redemption Requests",
+      "summary": "Investors in a KKR &amp; Co. retail private credit fund got back all of their requested cash in the second quarter, a sign that individual investors’ skittishness over the asset class may be easing.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/kkr-s-private-credit-clients-slow-down-their-redemption-requests",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T20:21:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "04cb808cb5928521",
+      "title": "Prosecutors in US lay out case against alleged killer of Charlie Kirk",
+      "summary": "Judge to decide whether there&#039;s enough evidence to bring Tyler Robinson to trial for conservative activist&#039;s killing.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/prosecutors-in-us-lay-out-case-against-alleged-killer-of-charlie-kirk?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:19:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "199fc33d59634fb5",
+      "title": "Nearly 50,000 receive medical treatment during Khamenei funeral procession in Tehran",
+      "summary": "Nearly 50,000 receive medical treatment during Khamenei funeral procession in Tehran Just under 50,000 people received emergency medical treatment during the Tehran funeral procession for Iran's former supreme leader, according to state-linked media. Iran's emergency services told the ISNA news agency that 48,804 people were treated, including three who underwent successful cardiac resuscitation. Around 18,000 people received outpatient treatment. No deaths or other major incidents have been reported.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-50000-treated-during-khamenei-funeral-procession-tehran",
+      "source": "Middle East Eye",
+      "published": "2026-07-06T20:18:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0feb705de2155121",
+      "title": "Traders Are Most Positive on Dollar Since 2015 as Fed Hike Looms",
+      "summary": "Global traders have turned the most positive on the outlook for the dollar since 2015 as bets that borrowing costs will remain elevated for longer have fueled a monthlong rally in the US currency.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/traders-are-most-positive-on-dollar-since-2015-as-fed-hike-looms",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T20:12:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "25d9f2b3dfc3c3ec",
+      "title": "What is the fallout of the increasing violence in Mali?",
+      "summary": "Coalition of rebels and armed groups carries out another series of attacks.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/6/what-is-the-fallout-of-the-increasing-violence-in-mali?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:11:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4861aaa185ddc265",
+      "title": "US Supreme Court clears path for Texas to enforce app age verification law",
+      "summary": "Parents must approve app downloads for minors as legal fight over Texas age verification law continues.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/us-supreme-court-clears-path-for-texas-to-enforce-app-age-verification-law?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T20:06:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9c062eac8f2cfe1e",
+      "title": "Tether’s Former CIO Plans Sale of Stake in Stablecoin Giant",
+      "summary": "Richard Heathcote, who until earlier this year oversaw stablecoin giant Tether Holdings SA’s investment portfolio, is planning to sell a small stake in the company, according to people familiar with the matter.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/tether-s-former-cio-plans-sale-of-stake-in-stablecoin-giant",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T20:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b1fa19ac25419a77",
+      "title": "Hedge Funds Turn Most Negative on the Japanese Yen Since 2007",
+      "summary": "Hedge funds turned the most negative on the yen since 2007 as the currency trades near its weakest level in four decades.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/hedge-funds-turn-most-negative-on-the-japanese-yen-since-2007",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T19:58:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1d036ca45c19615c",
+      "title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom",
+      "summary": "Ayatollah Ali Khamenei’s body arrives in Qom as millions of mourners honour his leadership over past three days.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T19:56:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "44a7e5177fe45f6a",
+      "title": "Broadcom, Apple Extend Chips Partnership to 2031",
+      "summary": "Bloomberg's Mark Gurman said that despite ups and downs for Apple and Broadcom's partnership to build out AI servers is expected to last for multiple generations of Apple products. Gurman said that relationship is mutually beneficial as Apple needed Broadcom to help build out the technology and Apple remains Broadcom's biggest growth driver and revenue source. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/broadcom-apple-extend-chips-partnership-to-2031-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T19:54:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1284b289a847087b",
+      "title": "ETF IQ 7/6/2026",
+      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: State Street Investment Management Chief Business Officer Anna Paglia, Heft ETF Co-Portfolio Manager Neil Howe, and E Fund Management Assistant head of Global Index Sylvia Zhang. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/etf-iq-7-6-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T19:53:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e9edd2f63f1a2a56",
+      "title": "Israeli finance minister says settlement 'revolution' has only just begun",
+      "summary": "Israeli finance minister says settlement 'revolution' has only just begun Israel's finance minister says the government has begun a \"settlement revolution\" that will eventually extend to the Negev and Galilee. \"I've got news for you: We've only just begun the revolution in settlement. We'll get to the Negev and the Galilee too,\" Bezalel Smotrich wrote on X. His comments came two days after Israel's Security Cabinet approved a plan to establish 13 new Israeli settlements in the central occupied West Bank. Palestinian officials said the move would further isolate occupied East Jerusalem from sur",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-finance-minister-says-settlement-revolution-has-only-just-begun",
+      "source": "Middle East Eye",
+      "published": "2026-07-06T19:48:06+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5f4e454341fd7019",
+      "title": "Saudis Slash Main Oil Price to Rare Discount",
+      "summary": "Ellen Wald, president of Transversal Consulting and Author of 'Saudi, Inc.,' said that Saudi state oil producer Saudi Aramco is lowering the price of oil to make it worthwhile for Asian buyers to charter a tanker to go into the Strait of Hormuz and to buy up stores of oil that have laid stagnant during the war. Wald said that while Saudi Aramco made money off of the conflict in Iran, they want the keep oil prices stable. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/saudis-slash-main-oil-price-to-rare-discount-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T19:38:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4648a97bb337dc87",
+      "title": "High AI Capex Demand a 'Multi-Year' Cycle, Says Rudina Seseri",
+      "summary": "Rudina Seseri, founder and managing partner at Glasswing Ventures, said that she is seeing strong overall demand for AI infrastructure and doesn't see AI capex falling as companies turn toward becoming vertically integrated players in the AI business. Seseri, who was joined by Bloomberg's Ed Ludlow, said that she sees future demand lying in more specialized data sets for industries rather than wide ranging data. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-06/high-ai-capex-demand-a-multi-year-cycle-says-seseri-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T19:38:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c8d5f7bf1c2ab0fb",
+      "title": "NATO urges members to deliver plans for reaching defence spending targets",
+      "summary": "US warns of consequences for NATO members without clear spending plans, signalling high expectations from allies.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/nato-urges-members-to-deliver-plans-for-reaching-defence-spending-targets?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T19:35:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6dd6e7c690fef3c9",
+      "title": "Hertz Bears Boost Short Bets to Record After Shares Sink 60%",
+      "summary": "Short sellers are anticipating more pain ahead for Hertz Global Holdings Inc. after the stock plummeted almost 60% in less than two weeks.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/hertz-bears-boost-short-bets-to-record-after-shares-plummet-60",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-06T19:35:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "46deaa1d449c5a7c",
+      "title": "Pro-Palestine protesters rally for ‘Filton 25’ activists at UK court",
+      "summary": "Pro-Palestine protesters rally for &#039;Filton 25’ activists at UK court.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/pro-palestine-protesters-rally-for-filton-25-activists-at-uk-court?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T19:29:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bcf6873bf7c9ee6d",
+      "title": "FIFA says Belgium's appeal against Balogun decision is 'inadmissible'",
+      "summary": "FIFA said on Monday that the appeal by Belgium&#8217;s football assocation against the World Cup reprieve for US striker Folarin Balogun was &#8220;inadmissible&#8221;. &#8220;The FIFA Appeal Committee has rendered a request submitted by the Royal Belgian Football Association (RBFA) as inadmissible in relation to the FIFA Disciplinary Committee&#8217;s decision to suspend for one year the [&#8230;] The post FIFA says Belgium&#039;s appeal against Balogun decision is &#039;inadmissible&#039; appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/141400-fifa-says-belgiums-appeal-against-balogun-decision-is-inadmissible.html",
+      "source": "Hespress EN",
+      "published": "2026-07-06T19:21:40+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "59fbdb8e66a62648",
+      "title": "NATO chief calls for ‘credible plans’ to reach defence spending goals",
+      "summary": "NATO Secretary General Mark Rutte said members are now spending around 4% of GDP on defence.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/nato-chief-calls-for-credible-plans-to-reach-defence-spending-goals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T19:21:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "cba4a8824ce61210",
       "title": "Macron visits Syria in first major western leader trip under new leadership",
@@ -66,12 +1089,43 @@
       }
     },
     {
-      "id": "5464d896e30f9c10",
-      "title": "Lone Pine Gains 43% in First Half on Both Long and Short Bets",
+      "id": "5f98f5620e6bef69",
+      "title": "Lone Pine Gains 43% in First Half on Long and Short Bets",
       "summary": "Lone Pine Capital posted a 43% gain for its hedge fund investors through June, notching one of its best-ever starts to a year and landing it among 2026’s top performers.",
       "link": "https://www.bloomberg.com/news/articles/2026-07-06/lone-pine-gains-43-in-first-half-on-both-long-and-short-bets",
       "source": "Bloomberg Markets",
       "published": "2026-07-06T19:10:39+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d66c483856fd7356",
+      "title": "Nigeria sees no sign that anti-immigrant violence is waning in South Africa",
+      "summary": "South Africa&#039;s government has been accused of not doing enough to tackle xenophobic attacks.",
+      "link": "https://www.aljazeera.com/news/2026/7/6/nigeria-sees-no-sign-that-anti-immigrant-violence-is-waning-in-south-africa?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-06T19:09:17+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -159,8 +1213,8 @@
       }
     },
     {
-      "id": "6c72f4c0c31c88ca",
-      "title": "Distressed Funds Explore a Swap of Strategy Holdings After Rout",
+      "id": "467f5b45800f27c8",
+      "title": "Distressed Funds Explore Swap of Strategy Holdings Amid Rout",
       "summary": "Distressed-debt funds that snapped up Strategy Inc.’s beaten-down preferred shares are in talks with one of the company’s bankers about swapping them for other securities, pitching it as a win-win as the relentless rout in crypto puts the Bitcoin accumulator in an increasingly tough spot.",
       "link": "https://www.bloomberg.com/news/articles/2026-07-06/distressed-funds-explore-a-swap-of-strategy-holdings-after-rout",
       "source": "Bloomberg Markets",
@@ -314,68 +1368,6 @@
       }
     },
     {
-      "id": "cd9c9804a24b1636",
-      "title": "Honeywell spin-off targets AI supply chain with $14.5bn deal for Element",
-      "summary": "Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn",
-      "link": "https://www.ft.com/content/2d0945c1-570d-4684-b5bd-78392c547c79",
-      "source": "FT World",
-      "published": "2026-07-06T18:53:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c1c76baad6f8a4c2",
-      "title": "Advertising Technology Firm Criteo Attracts Vista Equity-Backed Takeover Offer",
-      "summary": "Vista Equity Partners and the investment firm Quinti Capital have teamed up on a takeover offer for French advertising-technology company Criteo SA, according to people familiar with the matter.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/advertising-technology-firm-criteo-attracts-vista-equity-backed-takeover-offer",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:53:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3c0b62e27ee8e0af",
       "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
       "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
@@ -469,37 +1461,6 @@
       }
     },
     {
-      "id": "14612541c8374fe8",
-      "title": "SEC Mulls New ETF Rules as $16T Boom Disrupts Status Quo",
-      "summary": "Bloomberg's Isabelle Lee joins Scarlet Fu, Katie Greifeld, and Eric Balchunas on \"Bloomberg ETF IQ.\" The SEC is signaling a potential rethink of how it oversees ETFs after a recent wave of filings for prediction-market ETFs prompted fresh scrutiny of the existing regulatory framework. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-06/sec-mulls-new-etf-rules-as-16t-boom-disrupts-status-quo-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:45:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "dba03f327c099e00",
       "title": "Ebola death toll in DR Congo surpasses 500",
       "summary": "Nation’s 17th Ebola epidemic is fuelled by the Bundibugyo virus, with no existing vaccine or approved treatment options.",
@@ -562,99 +1523,6 @@
       }
     },
     {
-      "id": "f18f6586e1d9c559",
-      "title": "Public Spending in Mexico Ends Prolonged Fall in Fixed Investment",
-      "summary": "A key measure of investments in Mexico snapped back in April driven largely by government spending while private investment lagged, offering scant relief to President Claudia Sheinbaum’s push for stronger economic growth.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/public-spending-in-mexico-ends-prolonged-fall-in-fixed-investment",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:35:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "04334e1360418527",
-      "title": "Trump Bitcoin Reserve Faces Hurdles as Departments Seek Control",
-      "summary": "The Trump administration’s plan to create a Strategic Bitcoin Reserve has been complicated by two government departments vying to run it, alongside questions about which has the legal authority to do so.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/trump-bitcoin-reserve-faces-hurdles-as-departments-seek-control",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:30:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d98211996b31b17e",
-      "title": "Retail Investors Use ETFs as a Tool For Alpha: Zhang",
-      "summary": "Sylvia Zhang, executive director and assistant head of global index at E Fund Management, joins Scarlet Fu, Katie Greifeld, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discusses China's investor trends and its booming ETF industry. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-06/retail-investors-use-etfs-as-a-tool-for-alpha-zhang-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:30:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3777b78699f3b0be",
       "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
       "summary": "The judiciary chief has emphasised the need to avenge Supreme Leader Ali Khamenei and prosecute foreign &#039;aggressors&#039;.",
@@ -686,105 +1554,12 @@
       }
     },
     {
-      "id": "2e460dd2436212dd",
-      "title": "Difficult Era For Markets Comping Up: Howe",
-      "summary": "Neil Howe, portfolio manager at Hedgeye Asset Management and co-author of The Fourth Turning, joins Scarlet Fu, Katie Greifeld, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the Hedgeye Fourth Turning ETF (ticker: HEFT). Howe predicts the next ten years in markets are going to see a fundamental change compared to the last forty. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-06/difficult-era-for-markets-comping-up-howe-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:19:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "31343f303a65581e",
-      "title": "Nuclear-Arms Exposure in ESG Funds Rises 95%",
-      "summary": "Bloomberg Intelligence's Shaheen Contractor joins Scarlet Fu, Katie Greifeld, and Eric Balchunas on \"Bloomberg ETF IQ.\" ESG and sustainable funds' saw 95% increase in exposure to nuclear stocks since June 2025. The increase in exposure was likely aided by EU guidance last year that left nuclear arms out of its controversial-weapons definition. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-06/nuclear-arms-exposure-in-esg-funds-rises-95-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:17:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "a026b6abfb78ff45",
       "title": "Toronto nude spot emerges as unlikely flashpoint over Canada investment",
       "summary": "Airport expansion crucial to $1tn foreign investment plan threatens the birthplace of country’s gay pride movement",
       "link": "https://www.ft.com/content/3065dde2-452a-4455-a176-f7ded484b86b",
       "source": "FT World",
       "published": "2026-07-06T18:14:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "34de430323f24bbf",
-      "title": "Expanding US Economy to Kids \"Revolutionary\": Paglia",
-      "summary": "Anna Paglia, executive vice president and chief business officer, State Street Investment Management, joins Scarlet Fu, Katie Greifeld, and Eric Balchunas on \"Bloomberg ETF IQ.\" Money flowing into President Donald Trump’s newly created accounts for children will initially be invested in a State Street ETF, as the US Treasury Department prepares to roll out the program. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-06/expanding-us-economy-to-kids-revolutionary-paglia-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T18:13:36+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1244,37 +2019,6 @@
       }
     },
     {
-      "id": "4bfa465d0ad14fe0",
-      "title": "AI Trade Faces Big Test as Trump Rings Opening Bell | Open Interest 7/6/2026",
-      "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" It's a pivotal week for the AI trade: SpaceX joins the Nasdaq 100, Samsung reports earnings, and SK Hynix eyes a US debut. Plus, President Trump rings the opening bell for Trump Accounts, Xbox cuts 3,200 jobs, and we talk about Wall Street’s next big sports play. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-06/open-interest-7-6-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T17:24:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "a94eebb1922a5d39",
       "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
       "summary": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
@@ -1374,37 +2118,6 @@
       "link": "https://www.ft.com/content/e9587ecf-674a-43c9-8e2a-0917f0044a68",
       "source": "FT World",
       "published": "2026-07-06T17:15:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6c244285361951c7",
-      "title": "Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing",
-      "summary": "SK Hynix kicked off the formal marketing process for its US listing on Monday, as the South Korean chipmaker looks to capitalize on surging investor demand for the high-flying memory-chip sector. Bailey Lipschultz, Bloomberg News Senior Equities Reporter, joined Bloomberg's Paul Sweeney to highlight the formal marketing process for SK Hynix and its US listing. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-06/sk-hynix-kicks-off-28-billion-us-listing-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T17:12:06+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1585,9 +2298,9 @@
       }
     },
     {
-      "id": "fcec6bca40a5a216",
-      "title": "Ardian’s Santé Cie Seeks to Enter French Restructuring Procedure",
-      "summary": "Santé Cie SAS is seeking to enter French restructuring proceedings after some of its cash assets were seized as part of an investigation from the authorities into alleged corruption and money laundering.",
+      "id": "fe8cd138221f5215",
+      "title": "Ardian’s Santé Cie Seeks to Enter Mandat Ad Hoc Process",
+      "summary": "Santé Cie SAS is seeking to enter French debt renegotiation proceedings after some of its cash assets were seized as part of an investigation from the authorities into alleged corruption and money laundering.",
       "link": "https://www.bloomberg.com/news/articles/2026-07-06/ardian-s-sante-cie-seeks-to-enter-french-restructuring-procedure",
       "source": "Bloomberg Markets",
       "published": "2026-07-06T17:01:54+00:00",
@@ -1622,37 +2335,6 @@
       "link": "https://www.ft.com/content/04203081-63df-4d8f-bcd8-43db5f7f83d4",
       "source": "FT World",
       "published": "2026-07-06T17:01:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8148d68a32e6d06e",
-      "title": "Sports-Related Deals on the Rise, Says William Blair’s IB Head",
-      "summary": "Acquisitions in the sports industry are set to increase as investors leverage a slew of different approaches to the fast-growing sector, according to William Blair &amp; Co.’s head of investment banking.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/sports-related-deals-on-the-rise-says-william-blair-s-ib-head",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T17:01:18+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1895,37 +2577,6 @@
       }
     },
     {
-      "id": "398f7f9e72a22d1a",
-      "title": "Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news",
-      "summary": "Lionel Messi&#039;s Argentina go up against Mohamed Salah&#039;s Egypt in a spicy World Cup round of 16 encounter.",
-      "link": "https://www.aljazeera.com/news/2026/7/6/argentina-vs-egypt-fifa-world-cup-last-16-messi-salah-prediction-kickoff-news?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T16:40:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "17e408fca102d48d",
       "title": "England’s Adaptability Shines in Mexico, Now Haaland Threat Looms",
       "summary": "",
@@ -1988,37 +2639,6 @@
       }
     },
     {
-      "id": "a1b5b610fb949a18",
-      "title": "Dental Chain Owner Aspen Drops WellNow Sale as Lenders Lawyer Up",
-      "summary": "The Aspen Group has indicated it’s no longer moving ahead with a planned sale of its urgent care clinic chain WellNow, after seeking buyers amid an effort to address a looming debt deadline that’s also prompted its lenders to retain lawyers.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/dental-chain-owner-aspen-drops-wellnow-sale-as-lenders-lawyer-up",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T16:37:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "05a2a660a65d9854",
       "title": "Kremlin Says Putin and Trump Agreed During Weekend Call to Talk Again in ‘Near Future’",
       "summary": "",
@@ -2050,9 +2670,9 @@
       }
     },
     {
-      "id": "a310e266dca93ba6",
-      "title": "Top Fed official backs new chair’s rethink of investor communications",
-      "summary": "Chris Waller sides with Kevin Warsh in call for revamping ‘forward guidance’",
+      "id": "12e0f198eb56c032",
+      "title": "Top Fed official backs Kevin Warsh’s rethink of forward guidance",
+      "summary": "Chris Waller sides with central bank’s new chair in call for revamping communication to market",
       "link": "https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d",
       "source": "FT World",
       "published": "2026-07-06T16:32:25+00:00",
@@ -2236,37 +2856,6 @@
       }
     },
     {
-      "id": "d5ff230acb72cbdb",
-      "title": "Lebanon latest: Teacher killed by Israeli airstrike",
-      "summary": "Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T16:10:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "cc81d1a6cef7abfc",
       "title": "Lukashenko says Belarus will not join Putin’s war in Ukraine",
       "summary": "Kyiv feared that Moscow was pressuring its closest ally to support the war effort",
@@ -2422,68 +3011,6 @@
       }
     },
     {
-      "id": "85832ea59856e8f1",
-      "title": "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16",
-      "summary": "Live coverage and text updates of the World Cup last-16 clash between Portugal and Spain in Dallas in the US.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T15:59:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "828ee65376ad90ae",
-      "title": "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
-      "summary": "In Fox News interview, Israeli prime minister lauds US alliance and argues that Ankara should not receive F-35 jets.",
-      "link": "https://www.aljazeera.com/news/2026/7/6/netanyahu-says-his-ties-with-trump-are-fine-takes-aim-at-turkiye?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T15:54:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "05ca16ee86f83fef",
       "title": "French Government Survives No-Confidence Vote Over Heatwave Handling",
       "summary": "",
@@ -2553,533 +3080,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-07-06T15:47:49+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6b06355db95694cc",
-      "title": "Judge rules insurers do not need to pay out over Nord Stream pipeline blasts",
-      "summary": "Lloyd’s of London and others spared potential €580mn payout as court finds ‘war exclusion’ applies for Russia’s busted pipes",
-      "link": "https://www.ft.com/content/c8ca63f6-fd8d-49f2-8b4f-5bef2da6aa77",
-      "source": "FT World",
-      "published": "2026-07-06T15:45:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2334407c6a2b8bef",
-      "title": "Infantino Told Trump FIFA Disciplinary Body Is ‘Independent’",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5292876",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-06T15:42:03+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f19cd05b73bf5b1c",
-      "title": "Hamas says it will dissolve Gaza civilian governing arm",
-      "summary": "Announcement sparks scepticism that group will relinquish power after it makes no mention of giving up weapons",
-      "link": "https://www.ft.com/content/c741a035-d8ce-4fc1-a616-ed6224775468",
-      "source": "FT World",
-      "published": "2026-07-06T15:42:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "550a5b8d99055144",
-      "title": "UN discusses prevention of genocide: Six times it failed to do just that",
-      "summary": "The UN General Assembly meets amid Israel&#039;s genocide on Gaza, Myanmar&#039;s genocide against the Rohingya, and other crises.",
-      "link": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T15:38:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7cecb562fbc2eb5e",
-      "title": "US president Trump defends FIFA’s Balogun red card reversal",
-      "summary": "US President Donald Trump defended FIFA&#039;s decision to overturn Folarin Balogun&#039;s red card suspension.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/us-president-trump-defends-fifas-balogun-red-card-reversal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T15:31:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d8af6624951b4eb4",
-      "title": "Peace Deal Doesn’t Restore Pre-War Situation, ECB’s Schnabel Says",
-      "summary": "Peace efforts in the Middle East have helped bring energy prices down rapidly but haven’t restored the position the world was in before hostilities erupted, according to European Central Bank Executive Board member Isabel Schnabel.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/ecb-s-schnabel-says-peace-deal-doesn-t-restore-pre-war-situation",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T15:24:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7d6ffff1e6fc5a6f",
-      "title": "When 'That Disease' Became Mine",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5292865",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-06T15:24:13+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "192f5fc0ef8b649d",
-      "title": "Israeli army says it targeted vehicle near southern Lebanon 'security zone'",
-      "summary": "Israeli army says it targeted vehicle near southern Lebanon 'security zone' The Israeli army says it targeted southern Lebanon's Al-Aqida area, claiming that \"four suspects\" approaching the so-called security zone in a vehicle posed a threat to its forces. As we reported earlier, four people were killed in an Israeli strike on a vehicle in the neighbouring Nabatieh al-Fawqa area. The victims included the principal of Youssef Shamoun Public School, her mother, a foreign domestic worker and a Syrian citizen. They were checking on the family home when their vehicle was hit by a missile near Dar a",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-targeted-vehicle-near-southern-lebanon-security",
-      "source": "Middle East Eye",
-      "published": "2026-07-06T15:23:36+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1ea3b5a55a2c35b6",
-      "title": "Is NATO at breaking point as it meets in Turkiye?",
-      "summary": "NATO leaders gather in Ankara to tackle US-Europe tensions, defence gaps and support for Ukraine’s military resilience.",
-      "link": "https://www.aljazeera.com/news/2026/7/6/is-nato-at-breaking-point-as-it-meets-in-turkiye?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T15:18:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0f5fd189096da150",
-      "title": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
-      "summary": "Alberta and Ontario proposed a crude oil pipeline and energy corridor across Canada as a way of reducing the country’s dependence on the US.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/ontario-alberta-pitch-cross-canada-oil-pipeline-to-ease-us-reliance",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-06T15:17:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9219b8b02060edeb",
-      "title": "Nephew of PA vice president arrested over Gaza smuggling with Israeli soldiers",
-      "summary": "Nephew of PA vice president arrested over Gaza smuggling with Israeli soldiers Submitted by Nadav Rapaport on Mon, 07/06/2026 - 15:33 Hussein al-Sheikh's nephew was arrested by the Shin Bet on suspicion of smuggling contraband into Gaza, according to i24 News Palestinian vice president Hussein al-Sheikh attends a meeting with ambassadors in Ramallah, in the occupied West Bank, on 10 February 2026 (AFP) Off The nephew of Hussein al-Sheikh, vice president of the Palestinian Authority (PA), was arrested by Israeli security forces on suspicion of smuggling contraband goods into Gaza as part of an ",
-      "link": "https://www.middleeasteye.net/news/nephew-pa-vice-president-arrested-over-gaza-smuggling-israeli-soldiers",
-      "source": "Middle East Eye",
-      "published": "2026-07-06T15:12:11+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11d3c8ba9d3cd9f5",
-      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
-      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-06T15:09:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e4aa6c9076950bae",
-      "title": "Morocco Says Arrested 10 People over Thwarted Terror Plots",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5292859",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-06T15:03:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "464c4937286603ff",
-      "title": "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
-      "summary": "Smotrich declares a settlement &#039;revolution&#039; as Israel approves 13 new outposts during big increase in settler violence.",
-      "link": "https://www.aljazeera.com/news/2026/7/6/israels-smotrich-declares-revolution-in-west-bank-settlement-expansion?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-06T15:02:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "14cf520187c85e92",
-      "title": "Algeria's legislative elections rollout with record low turnout",
-      "summary": "Algeria&#8217;s legislative elections saw a record-low turnout, with just 21 percent of the 25-million electorate casting ballots, as the incumbent National Liberation Front won the most seats, the election board said on Monday. The FLN secured 90 of the parliament&#8217;s 407 seats in the July 2 poll, which was marred by public apathy and controversy [&#8230;] The post Algeria&#039;s legislative elections rollout with record low turnout appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/141385-algerias-legislative-elections-rollout-with-record-low-turnout.html",
-      "source": "Hespress EN",
-      "published": "2026-07-06T15:00:29+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "aa9b9cbd9e4f3001",
-      "title": "Trump says there will be a deal with Iran or US will 'finish the job'",
-      "summary": "Trump says there will be a deal with Iran or US will 'finish the job' President Donald Trump said on Monday that the US will either make a deal with&nbsp;Iran&nbsp;or \"finish the job\". He added that Iran&nbsp;would rather make a deal.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-will-be-deal-iran-or-us-will-finish-job",
-      "source": "Middle East Eye",
-      "published": "2026-07-06T14:55:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1655d5111623845f",
-      "title": "Defence groups strike $8bn of maritime tech deals",
-      "summary": "Lockheed Martin agrees $3.45bn deal for Ultra Maritime while Thales unveils planned purchase of French naval drone maker",
-      "link": "https://www.ft.com/content/7f74fbea-89fa-4444-b092-fccfae4c0cea",
-      "source": "FT World",
-      "published": "2026-07-06T14:53:49+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
