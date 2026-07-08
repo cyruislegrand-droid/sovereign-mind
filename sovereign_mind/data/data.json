@@ -1,12 +1,508 @@
 {
-  "generated_at": "2026-07-08T21:44:08.655412+00:00",
+  "generated_at": "2026-07-08T22:47:27.837421+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "361feb25d41c1123",
-      "title": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
-      "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
+      "id": "aba7907dc6af6f45",
+      "title": "Iranian media reports attacks on Chabahar and explosions in Iranshahr",
+      "summary": "Iranian media reports attacks on Chabahar and explosions in Iranshahr Iran's Fars news agency, quoting a local official, says attacks on the southeastern port of Chabahar targeted maritime traffic control and a depot. Mehr news agency also reported that explosions were heard in the southeastern city of Iranshahr. Mohsen Rezaei, a military adviser to Iran's supreme leader, posted a Quranic verse on X, adding that \"the aggressor enemy and its accomplices will be severely punished\".",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-attacks-chabahar-and-explosions-iranshahr",
+      "source": "Middle East Eye",
+      "published": "2026-07-08T22:35:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a07384ae4a435b2f",
+      "title": "Samsung, SK Hynix and Leveraged ETFs Drive 70% of Korea Trading",
+      "summary": "Retail fervor over leveraged ETFs in South Korea has grown so intense that the products, together with the two chipmaker stocks they track, now make up more than 70% of trading value in the $4.3 trillion market.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/samsung-sk-hynix-and-leveraged-etfs-drive-70-of-korea-trading",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T22:30:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eb4f51227ccf0985",
+      "title": "France, Morocco kick off blockbuster World Cup quarter-finals",
+      "summary": "France begin their final push for a third World Cup crown on Thursday when they take on Morocco in a blockbuster showdown to kick off a star-studded quarter-final line-up. After a month of scintillating action that has dispelled anxieties over sky-high ticket prices and geopolitics, the biggest, boldest and most logistically complex World Cup ever [&#8230;] The post France, Morocco kick off blockbuster World Cup quarter-finals appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/141550-france-morocco-kick-off-blockbuster-world-cup-quarter-finals.html",
+      "source": "Hespress EN",
+      "published": "2026-07-08T22:29:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a2ea7294b2bada96",
+      "title": "US launches second day of strikes against Iran",
+      "summary": "Attacks come hours after Donald Trump told a Nato summit the ceasefire with Tehran is ‘over’",
+      "link": "https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439",
+      "source": "FT World",
+      "published": "2026-07-08T22:29:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "089688438792a82a",
+      "title": "Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show",
+      "summary": "FIFA expects &#039;a couple of billion&#039; to tune in to the 11-minute performance, the first at a World Cup.",
+      "link": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-08T22:25:58+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f26b3623c2e729dd",
+      "title": "Noteholders to Aston Martin Sign Cooperation Pact Amid Debt Rout",
+      "summary": "A group of creditors to luxury car maker Aston Martin has signed a cooperation pact as earnings pressure weighs on the company’s debt.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/noteholders-to-aston-martin-sign-cooperation-pact-amid-debt-rout",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T22:22:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c9d08aa409db32a9",
+      "title": "Italian prime minister says Rome will not join attacks on Iran",
+      "summary": "Italian prime minister says Rome will not join attacks on Iran Italian Prime Minister Giorgia Meloni says Italy will not take part in military operations against Iran, reiterating Rome's position amid escalating tensions in the region. \"We have had a very clear line from the beginning of the conflict in Iran... we will not participate in attacks against Iran,\" Meloni told reporters at the Nato summit in Ankara. In March, Italy denied permission for US military aircraft bound for the Middle East to land at the Sigonella air base in Sicily.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-prime-minister-says-rome-will-not-join-attacks-iran",
+      "source": "Middle East Eye",
+      "published": "2026-07-08T22:18:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e96376bacdbb92af",
+      "title": "Harley-Davidson’s Credit Ratings Get Cut to Junk By S&amp;P",
+      "summary": "S&amp;P Global Ratings cut Harley-Davidson Inc.’s credit grades to junk status on Wednesday, citing the company’s strategy to start selling lower-cost motorcycles to boost revenue.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/harley-davidson-s-credit-ratings-get-cut-to-junk-by-s-p",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T22:17:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a3b2412f0a01a9a3",
+      "title": "SK Hynix US Offering Is More Than Seven Times Oversubscribed",
+      "summary": "SK Hynix Inc.’s US listing is more than seven times oversubscribed, according to people familiar with the matter, as the South Korean memory chipmaker prepares to price its offering Thursday.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/sk-hynix-us-offering-is-more-than-seven-times-oversubscribed",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T22:16:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9df37874f94967a4",
+      "title": "Oil Gains, US Stock Futures Drop on New Strikes: Markets Wrap",
+      "summary": "Oil gained and US equity futures ticked lower after the US said it is striking Iran for the second straight day, an escalation of violence that threatens to choke shipping through the Strait of Hormuz.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T22:09:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2761756fcbba4989",
+      "title": "Oil Extends Surge as Fresh US Strikes Against Iran Rattle Market",
+      "summary": "Oil extended a powerful surge as the US struck targets in Iran for a second day, raising risks for energy supplies from the region.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-08/latest-oil-market-news-and-analysis-for-july-9",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T22:01:34+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9ae5b7c1937dedc7",
+      "title": "Trump Says Ukraine Can Make Patriot Missiles",
+      "summary": "American Enterprise Institute Senior Fellow Angela Stent discusses President Trump's announcement he would allow Ukraine to make its own Patriot Missiles. She says Trump \"sees that Ukraine looks like a winner, that it has cards that the Ukrainians are really fighting back.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-08/trump-says-ukraine-can-make-patriot-missiles",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T21:59:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b3d3e7d4e599263a",
+      "title": "Trump says Iran strikes were retaliation for ship attacks",
+      "summary": "Trump says Iran strikes were retaliation for ship attacks Trump says the latest US strikes on Iran were carried out in retaliation for what he described as Iran's bombing of ships a day earlier. \"This is in retribution for yesterday's bombing of ships by Iran. If it happens again, it will get much worse!\" Trump wrote on social media. He also published photos and videos claiming to show the aftermath of the attacks on Iran.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-strikes-were-retaliation-ship-attacks",
+      "source": "Middle East Eye",
+      "published": "2026-07-08T21:57:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eff6212438829da5",
+      "title": "Oil prices rise after Washington renews conflict with Tehran",
+      "summary": "Donald Trump says US attacks will ‘get much worse’ if Iran hits more ships",
+      "link": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680",
+      "source": "FT World",
+      "published": "2026-07-08T21:53:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "acd19570c8a52948",
+      "title": "Fmr. HUD Secretary on Toyota’s Texas Shift, Mexico Trade",
+      "summary": "Henry Cisneros, former US Department of Housing and Urban Development Secretary and former Mayor of San Antonio, discussed the origins and significance of Toyota's investment in San Antonio. He recounted how Toyota executives chose San Antonio for a new plant after observing the high number of pickup trucks at a Dallas Cowboys game, indicating strong local demand. He speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-08/former-hud-secretary-on-toyota-s-plant-expansion-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-08T21:50:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ed6da6be22ad3756",
+      "title": "Family demands investigation after US man killed by ICE agent in Texas",
+      "summary": "Calls for answers after Lorenzo Salgado Araujo fatally shot during traffic stop in Houston in latest ICE killing.",
+      "link": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-08T21:42:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ad613ab0384af9a3",
+      "title": "US launches more strikes on Iran with blasts reported in south of country",
+      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
       "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-08T21:40:40+00:00",
@@ -66,6 +562,37 @@
       }
     },
     {
+      "id": "8b409c6a554ac5fa",
+      "title": "FirstFT: Trump declares US-Iran ceasefire ‘over’",
+      "summary": "Also in today’s newsletter: US rare earths flow to Asia, and Santander axes top China banker",
+      "link": "https://www.ft.com/content/89382e17-17d4-476d-9551-3d1a45b72555",
+      "source": "FT World",
+      "published": "2026-07-08T21:39:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "356420b5897f1e7f",
       "title": "Trump administration moves to rescind Syria terrorism designation",
       "summary": "Trump administration moves to rescind Syria terrorism designation The Trump administration has notified the US Congress of its decision to rescind Syria's designation as a \"state sponsor of terrorism\", an unnamed administration official told Reuters. American lawmakers will now conduct a 45-day review and make a final decision on the administration's advice, according to Reuters.",
@@ -73,6 +600,68 @@
       "source": "Middle East Eye",
       "published": "2026-07-08T21:37:41+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7657341992a0afab",
+      "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+      "summary": "President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.",
+      "link": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-08T21:36:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5348a9aeaca5ced8",
+      "title": "Former Wisconsin judge avoids prison in ICE obstruction case",
+      "summary": "Hannah Dugan&#039;s sentence comes after she helped an immigrant in the US avoid ICE agents waiting to arrest him in 2025.",
+      "link": "https://www.aljazeera.com/news/2026/7/8/former-wisconsin-judge-avoids-prison-in-ice-obstruction-case?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-08T21:35:53+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -779,37 +1368,6 @@
       }
     },
     {
-      "id": "0501dc4bcdeee350",
-      "title": "US says it has launched new strikes on Iran",
-      "summary": "Attacks come after Donald Trump told a Nato summit the ceasefire with Tehran is “over”",
-      "link": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680",
-      "source": "FT World",
-      "published": "2026-07-08T20:25:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "a15ffa61713f1b6b",
       "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
       "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
@@ -1306,37 +1864,6 @@
       }
     },
     {
-      "id": "2619db9b9dfd80e4",
-      "title": "Los Angeles Hospital Blames Covid, Lender Dispute for Bankruptcy",
-      "summary": "Pacifica Hospital of the Valley, which serves poor and homeless residents in Los Angeles, filed for bankruptcy, blaming old financial problems linked to the Covid-19 pandemic and a more recent dispute with lenders.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-08/los-angeles-hospital-blames-covid-lender-dispute-for-bankruptcy",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-08T19:28:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e87f8cab3344ad4f",
       "title": "Morocco's gold market slumps as prices fall nearly 30% from peak",
       "summary": "Morocco&#8217;s jewelry industry is facing mounting financial pressure after a sharp decline in gold prices erased nearly one-third of the sector&#8217;s capital value, according to industry representatives, who say the market has entered a period of prolonged stagnation. Industry sources and the Moroccan Federation of Jewelers said the price of 18-karat gold currently stands at [&#8230;] The post Morocco&#039;s gold market slumps as prices fall nearly 30% from peak appeared first on HESPRESS English - Morocco News .",
@@ -1647,37 +2174,6 @@
       }
     },
     {
-      "id": "1cb046c02d369a5d",
-      "title": "Strait of Hormuz Is Iran's 'New Nuclear Weapon' Says Miller",
-      "summary": "Aaron David Miller, senior fellow at Carnegie Endowment for International Peace, joined Balance of Power to discuss the recent escalation in the Middle East. He said Iran will go to \"extreme lengths\" to ensure it exercises some control over the Strait of Hormuz. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-08/strait-of-hormuz-is-iran-s-new-nuclear-weapon-miller-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-08T18:35:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "53619d2d5168fe9e",
       "title": "Israeli air strikes in Gaza kill eight, including two children",
       "summary": "Medics report 12 injuries alongside eight deaths in Gaza as Israeli air strikes target civilians and displaced families.",
@@ -1864,37 +2360,6 @@
       }
     },
     {
-      "id": "fea59e23e0a42707",
-      "title": "Brazil Energy Firm Origem Is Said to Seek $2.5 Billion Valuation",
-      "summary": "Origem Energia SA, the Brazilian natural gas and oil company, is aiming for an enterprise value of $2 billion to $2.5 billion as it seeks strategic alternatives to raise capital, according to people familiar with the matter.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-08/brazil-energy-firm-origem-is-said-to-seek-2-5-billion-valuation",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-08T18:12:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "dfc856e2b83675f7",
       "title": "Iranian deputy foreign minister says Trump remarks show failure of US policy",
       "summary": "Iranian deputy foreign minister says Trump remarks show failure of US policy Iranian Deputy Foreign Minister Kazem Gharibabadi says Trump's latest remarks on Iran reflected the failure of Washington's policy towards Tehran. In a post on X, Gharibabadi said Trump's comments, including threats of further attacks, were \"not a sign of strength, but rather an admission of the failure of a policy built on brute force, sanctions, and threats for years\". He added that Iran must respond to Trump in \"his own language\", saying that \"apparently, he understands the language of force better\".",
@@ -2019,37 +2484,6 @@
       }
     },
     {
-      "id": "206fd0794d697e94",
-      "title": "Blackstone’s QTS Taps US Loan Market in Data Center-Backed Deal",
-      "summary": "QTS Realty Trust LLC is seeking to raise $2 billion to repay debt tied to US data centers and pay dividends to Blackstone Inc.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-08/blackstone-s-qts-taps-us-loan-market-in-data-center-backed-deal",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-08T17:44:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "65d2fd839c9ba334",
       "title": "'Not even a single American soldier will return alive', Iranian lawmaker says",
       "summary": "'Not even a single American soldier will return alive', Iranian lawmaker says Ebrahim Rezaei, spokesperson for the Iranian parliament's Foreign Policy and National Security Committee, has warned US military personnel after Trump threatened to invade Iran's Kharg Island. \"Not even a single American soldier will return alive,\" Rezaei wrote on X, responding to Trump's threat during the Nato summit in Ankara. \"Come on, we're waiting for you,\" he added.",
@@ -2087,37 +2521,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/8/how-morocco-can-win-the-fifa-world-cup-2026-title?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-07-08T17:42:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7303d307b6cd6412",
-      "title": "Record-High US Fuel Exports Are Straining Domestic Stockpiles",
-      "summary": "Unprecedented overseas demand for US diesel, propane and other fuels is straining commercial reserves from the Gulf Coast to the Eastern Seaboard as the US-Iran conflict reintensifies, pushing energy prices higher.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-08/record-high-us-fuel-exports-are-straining-domestic-stockpiles",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-08T17:36:20+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2243,37 +2646,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-07-08T17:29:04+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5dcc939c1a386c5a",
-      "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-      "summary": "Trump says US will &#039;show&#039; Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.",
-      "link": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-08T17:24:45+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2453,68 +2825,6 @@
       }
     },
     {
-      "id": "10f6474f768d77e3",
-      "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-      "summary": "The fate of the strait is directly linked to what happens next to the world economy.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-08T16:48:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "66fd8596fbf2894f",
-      "title": "US charges Indian crime leader in Sikh activist’s assassination",
-      "summary": "US indicts Indian crime boss, links him to Sikh leader&#039;s killing that strained India-Canada relations.",
-      "link": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-08T16:44:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e68ff157252ed08a",
       "title": "Arab League Chief Says Blocked by Israel from Visiting West Bank",
       "summary": "",
@@ -2522,37 +2832,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-07-08T16:43:17+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9df36437a123b4c8",
-      "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-      "summary": "Egyptian football officials have reportedly lodged a complaint with FIFA against the referees in their last-16 match.",
-      "link": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-08T16:41:58+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2794,37 +3073,6 @@
       }
     },
     {
-      "id": "02adf68dffc5cca9",
-      "title": "Zillow, Rocket to Face August FTC Trial Over Rental Listings",
-      "summary": "Zillow Group Inc. and Rocket Companies Inc.’s Redfin are headed to trial next month in the US Federal Trade Commission’s challenge to an apartment-listing partnership, after a judge in Virginia declined a government request to decide the case early.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-08/zillow-rocket-to-face-august-ftc-trial-over-rental-listing-deal",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-08T16:10:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "61b9abae4472b9eb",
       "title": "Trump Says the US Will Give License to Ukraine to Produce Patriot Defense Systems",
       "summary": "",
@@ -2832,254 +3080,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-07-08T16:06:12+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7d289ac0264b866c",
-      "title": "Farage ridiculed in parliament as ‘farce’ by-election gets go-ahead",
-      "summary": "Reform UK leader’s rivals are running scared, say senior party figures",
-      "link": "https://www.ft.com/content/13ea13b7-b4f7-4ac9-82a0-47778c31a05e",
-      "source": "FT World",
-      "published": "2026-07-08T16:05:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "67152852412b2dc6",
-      "title": "Watch: Why is there a 'black cloud' over unity at the Nato summit?",
-      "summary": "US President Donald Trump has used the Nato summit to criticise the lack of support for his war on Iran, and revive his interest in taking over Greenland.",
-      "link": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-08T16:05:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "18cf2e79337004b2",
-      "title": "Thousands attend Khamenei funeral processions in Najaf and Karbala",
-      "summary": "Thousands attend Khamenei funeral processions in Najaf and Karbala Tens of thousands of mourners attended funeral processions for Iran's late Supreme Leader Ali Khamenei in the Iraqi cities of Najaf and Karbala. Khamenei's remains have now returned to Iran, where he will be laid to rest in Mashhad on 9 July. The 86-year-old leader was killed in a US-Israeli attack on his compound in Tehran in late February.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-attend-khamenei-funeral-processions-najaf-and-karbala",
-      "source": "Middle East Eye",
-      "published": "2026-07-08T16:03:56+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cc4a420a9a1d9f42",
-      "title": "Trump Says He Thinks Israel Will Withdraw Troops from Southern Lebanon",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5293771",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-08T15:49:04+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "842dd4735da4f923",
-      "title": "Movie Review: The Live-Action ‘Moana’ Is a Lifeless Carbon Copy of an Animated Classic",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5293770",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-08T15:45:32+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "41faa32f13c099be",
-      "title": "FCA says lenders want to let ‘foxes guard the henhouse’ on car finance",
-      "summary": "UK regulator alleges in court filing that lenders want to determine own liability for compensation",
-      "link": "https://www.ft.com/content/48e129fd-35f3-4543-bd22-be0b116cbb86",
-      "source": "FT World",
-      "published": "2026-07-08T15:43:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2031de71ab218467",
-      "title": "Lebanon demands Israeli withdrawal from 'pilot' zones",
-      "summary": "Lebanon demands Israeli withdrawal from 'pilot' zones Lebanon has said it would participate in the next round of direct talks in Italy after Israeli forces withdraw from two “pilot zones” in the south, AFP reported, citing a diplomatic source. The talks are scheduled in Rome on 15 and 16 July, following a framework agreement signed last month. After US-led talks in Washington, Lebanon and Israel had agreed to create “pilot zones” in which the Lebanese armed forces “will take exclusive control of the territory to the exclusion of all non-state actors”.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-demands-israeli-withdrawal-pilot-zones",
-      "source": "Middle East Eye",
-      "published": "2026-07-08T15:43:07+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c2ce15f6da8913e1",
-      "title": "Javier Milei wants US-style government shutdowns in Argentina",
-      "summary": "Government should suspend functions when lawmakers reach an impasse on spending, says rightwing leader",
-      "link": "https://www.ft.com/content/56721c11-cce3-459f-8c1e-003cca104566",
-      "source": "FT World",
-      "published": "2026-07-08T15:42:56+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
