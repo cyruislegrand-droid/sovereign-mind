@@ -1,16 +1,977 @@
 {
-  "generated_at": "2026-07-12T11:46:29.579004+00:00",
+  "generated_at": "2026-07-12T13:40:38.400882+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "db34e2b7875921cb",
+      "title": "Sheikh Hamad bin Khalifa: The Emir Who Transformed Qatar",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5295114",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-12T13:35:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "8dcde4aeef78843e",
       "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
       "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
       "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-12T11:23:09+00:00",
+      "published": "2026-07-12T13:35:01+00:00",
       "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7e8b502dab3d3ecd",
+      "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
+      "summary": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T13:28:53+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d2b70490691e7682",
+      "title": "Iraq PM to Meet Trump in Washington Next Week",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5295113",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-12T13:27:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "25d027188a7220bc",
+      "title": "Pape Thiaw fired as Senegal coach after disappointing FIFA World Cup",
+      "summary": "Senegal part ways with their head coach after the national side&#039;s elimination from the tournament at the last-32 stage.",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/pape-thiaw-fired-as-senegal-coach-after-disappointing-fifa-world-cup?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T13:23:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "15d92b8d595d99af",
+      "title": "US 'positioned' to ensure navigation in Strait of Hormuz, says Centcom",
+      "summary": "US 'positioned' to ensure navigation in Strait of Hormuz, says Centcom The Strait of Hormuz is open to all vessels and US military forces are \"positioned and prepared\" to ensure freedom of navigation, US Central Command said on Sunday. The comment comes after days of US and Iranian forces exchanging fire, and Tehran stating that it had closed the vital waterway.&nbsp; \"Iran&nbsp;does not control the strait. Traffic is flowing,\" Centcom said on X.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-positioned-ensure-navigation-strait-hormuz-says-centcom",
+      "source": "Middle East Eye",
+      "published": "2026-07-12T13:21:27+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "80b8496326cf5567",
+      "title": "Former Emir Sheikh Hamad Bin Khalifa Al Thani’s legacy in Palestine",
+      "summary": "Former Emir Sheikh Hamad Bin Khalifa Al Thani&#039;s legacy in Palestine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/former-emir-sheikh-hamad-bin-khalifa-al-thanis-legacy-in-palestine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T13:21:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "82c4459afbef1c0b",
+      "title": "Saudi Leadership Offers Condolences to Emir of Qatar on Passing of Former Emir Sheikh Hamad bin Khalifa Al Thani",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5295110",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-12T13:14:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "87fe0fece9138cfc",
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-12T13:10:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c01ea8e880948554",
+      "title": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
+      "summary": "The longtime US senator, an ally of President Trump, was an advocate for using US military force overseas.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T13:08:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5f739b37b9841503",
+      "title": "How Sheikh Hamad bin Khalifa Al Thani built Qatar’s soft power",
+      "summary": "Leader known as Qatar&#039;s father emir was able to redefine his nation&#039;s position on the political map of the Middle East.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/how-sheikh-hamad-bin-khalifa-al-thani-built-qatars-soft-power?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T13:08:39+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "38df833f26afc120",
+      "title": "Video: US Congressman says Israeli settlers detained him in West Bank",
+      "summary": "Video: US Congressman says Israeli settlers detained him in West Bank US Congressman Ro Khanna says he and his delegation were detained by armed Israeli settlers during a visit to the occupied West Bank, despite the settlers and Israeli forces being informed that an American congressman and other US citizens were inside the vehicle. Khanna said Israeli forces sided with the settlers instead of protecting the American delegation. Khanna said the group was surrounded by settlers carrying US-made M4 machine guns while visiting the Palestinian hamlet of Khirbet Zanuta to witness the aftermath of s",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-us-congressman-says-israeli-settlers-detained-him-west-bank",
+      "source": "Middle East Eye",
+      "published": "2026-07-12T13:06:29+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "45b933748f7a0543",
+      "title": "Oman summons Iranian envoy over drone strikes",
+      "summary": "Oman summons Iranian envoy over drone strikes Oman has summoned Iran’s ambassador in Muscat to protest what it said were Iranian drone strikes on sites in the governorates of Musandam and al-Batinah, according to a statement from the foreign ministry. The ministry said Ambassador Mousa Fereidoun was handed a formal protest note during a meeting in which Omani officials expressed “dismay at these irresponsible acts”. The statement called for respect for state sovereignty, good neighbourly relations, non-interference in internal affairs and adherence to the principles that govern ties between th",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-summons-iranian-envoy-over-drone-strikes",
+      "source": "Middle East Eye",
+      "published": "2026-07-12T13:04:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "850098adfb8f4b77",
+      "title": "Sheikh Hamad bin Khalifa Al Thani: key mediations",
+      "summary": "Sheikh Hamad bin Khalifa Al Thani: key mediations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-key-mediations?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T13:04:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d41785112f554a04",
+      "title": "HCP’s new food table gives Moroccans a local way to read their plates",
+      "summary": "For decades, Moroccan health-conscious and medical professionals faced a hurdle tackling diabetes, weight management, and children’s diets, because they had to read Moroccan plates through a foreign lens. Counting calories and tracking nutrients meant they had to rely on French or American databases that miscalculated traditional foods most of the time. A new initiative has [&#8230;] The post HCP’s new food table gives Moroccans a local way to read their plates appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/141740-hcps-new-food-table-gives-moroccans-a-local-way-to-read-their-plates.html",
+      "source": "Hespress EN",
+      "published": "2026-07-12T13:00:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0a67c5313f9697d8",
+      "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
+      "summary": "American forces claim waterway is open after Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar",
+      "link": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
+      "source": "FT World",
+      "published": "2026-07-12T12:42:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e12b1b8cc74aa298",
+      "title": "Funds Fret Over $4.4 Trillion AI Trio’s Grip on Emerging Markets",
+      "summary": "Investors are rotating beyond AI winners in emerging markets, where just three technology stocks worth $4.4 trillion drive an outsized share of returns.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-12/funds-fret-over-4-4-trillion-ai-trio-s-grip-on-emerging-markets",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-12T12:30:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3f5029019568dbc1",
+      "title": "Deadly Spain wildfire stabilised: regional government",
+      "summary": "A wildfire that killed at least 12 people in the southern Spain has been stabilised, the head of the regional government of Andalusia, Juan Manuel Moreno, said Sunday. &#8220;Good news. After several very difficult days&#8221; firefighters have declared the blaze in the municipality of Los Gallardos stabilised, he wrote on X, adding the roughly 1,000 [&#8230;] The post Deadly Spain wildfire stabilised: regional government appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/141736-deadly-spain-wildfire-stabilised-regional-government.html",
+      "source": "Hespress EN",
+      "published": "2026-07-12T12:28:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8e1af51b271af518",
+      "title": "US Senator Lindsey Graham dies after 'brief illness'",
+      "summary": "US Senator Lindsey Graham dies after 'brief illness' Republican Senator Lindsey Graham of South Carolina, one of the most significant voices on US foreign policy and a longtime ally of President Donald Trump, has died at the age of 71 following a brief illness, his office announced on Sunday. A statement from Graham's office said he died on Saturday evening and that his family had requested privacy. First elected to the Senate in 2002, Graham regularly courted intense international criticism for his pro-war rhetoric and interventionist foreign policy.&nbsp; He served as chairman of the Senate ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-lindsey-graham-dies-after-brief-illness",
+      "source": "Middle East Eye",
+      "published": "2026-07-12T12:22:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "81650d072a7a7ae2",
+      "title": "FIFA World Cup 2026: Biggest takeaways from the quarterfinals",
+      "summary": "The quarterfinals are now behind us, with plenty of key moments and incidents as the tournament enters the final four.",
+      "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-2026-biggest-takeaways-from-the-quarterfinals?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T12:20:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "670c275c800783d7",
+      "title": "Israeli drone strike kills two Palestinians in Gaza City",
+      "summary": "Israeli drone strike kills two Palestinians in Gaza City At least two Palestinians were killed and several others wounded in an Israeli drone strike on the Sabra neighbourhood of Gaza City, according to the Palestine Red Crescent Society. The attack came as the Israeli military issued an immediate evacuation order for the same area. Israel has continued near-daily air strikes across Gaza, with more than 1,090 people reported killed and over 3,500 wounded since a ceasefire took effect in October 2025.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city",
+      "source": "Middle East Eye",
+      "published": "2026-07-12T12:17:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "532bed533ef688f7",
+      "title": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
+      "summary": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatar-mourns-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T12:10:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5e7c70d3e29d8de2",
+      "title": "British police make new arrest in Ann Widdecombe murder investigation",
+      "summary": "Police arrest 28-year-old suspect in South Yorkshire in connection with the murder of former MP Ann Widdecombe.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/british-police-make-new-arrest-in-ann-widdecombe-murder-investigation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T12:08:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3f77ced0ddc6bfaa",
+      "title": "Typhoon Bavi weakens to tropical storm as it slams into eastern China",
+      "summary": "Storm the size of France expected to bring days of heavy rains and strong winds to eastern and northern provinces.",
+      "link": "https://www.aljazeera.com/news/2026/7/12/typhoon-bavi-weakens-to-tropical-storm-as-it-slams-into-eastern-china?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-12T12:07:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e6ab56ace38ed134",
+      "title": "Police ‘open minded’ on motive for Widdecombe killing after second arrest",
+      "summary": "Former Conservative minister was found dead at her home in Devon on Thursday",
+      "link": "https://www.ft.com/content/77e0f0ec-e537-4452-b978-2f9c5146c82d",
+      "source": "FT World",
+      "published": "2026-07-12T12:06:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1b221828b37c4900",
+      "title": "How Founder Control Is Reshaping Public Markets",
+      "summary": "SpaceX’s record-setting IPO gave public investors access to one of the world’s most valuable companies, but not equal voting rights. CEO Elon Musk holds just over 40% of the company’s equity while controlling more than 80% of the vote. IPO adviser Lise Buyer says dual-class shares can protect founders from short-term market pressure, but Harvard Law School’s Lucian Bebchuk warns that SpaceX’s structure goes much further, raising risks around accountability, succession, conflicts of interest, and shareholder value. Some investors, including Danish pension fund AkademikerPension, have already re",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-12/how-founder-control-is-reshaping-public-markets-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-12T12:03:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7d590c826732531e",
+      "title": "The great reinvention of Hunter Biden",
+      "summary": "You have to hand it to him — the man knows how to troll with the best of them",
+      "link": "https://www.ft.com/content/8e22b012-9f0f-45a5-b87f-a838e325ddc2",
+      "source": "FT World",
+      "published": "2026-07-12T12:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fd7e23ee0127c0a6",
+      "title": "A three-way nuclear arms race",
+      "summary": "Today’s world has alarming echoes of the era before weapons controls",
+      "link": "https://www.ft.com/content/e7ff97e3-a4a2-4237-af16-de7115296ca6",
+      "source": "FT World",
+      "published": "2026-07-12T12:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d17b9cb91b6fcefd",
+      "title": "World Cup Bets on Prediction Markets May Get Tax Edge Over Gambling",
+      "summary": "Americans using prediction markets to bet on the World Cup may face a lighter tax burden than peers wagering through sportsbooks thanks to tax breaks aimed at investments.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-12/world-cup-betting-tax-rules-differ-for-prediction-markets-sportsbooks",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-12T12:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f2e807280b83ae56",
+      "title": "Lindsey Graham, staunch backer of Israel and US wars, dies aged 71",
+      "summary": "Lindsey Graham, staunch backer of Israel and US wars, dies aged 71 Submitted by MEE staff on Sun, 07/12/2026 - 10:39 The longtime senator was one of Washington's most vocal supporters of military action against Iran US Senator Lindsey Graham arrives at a rally with President Donald Trump in Charlotte, North Carolina, 2 March 2020 (Brendan Smialowski/AFP) Off Republican Senator Lindsey Graham of South Carolina, one of the most significant voices on US foreign policy and a longtime ally of President Donald Trump, has died at the age of 71 following a brief illness, his office announced on Sunday",
+      "link": "https://www.middleeasteye.net/news/Senator-Lindsey-Graham-Israel-supporter-dies-after-brief-illness",
+      "source": "Middle East Eye",
+      "published": "2026-07-12T11:58:23+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8b1a6882874c784d",
+      "title": "Hormuz Reopening Faces Costly Hurdles",
+      "summary": "Senior Fellow at the Council on Foreign Relations Clara Gillispie says Gulf energy flows face an uncertain recovery as producers work to clear ships, bring in tankers, restart halted output and repair damage to refineries, LNG facilities and ports. She says the Strait of Hormuz remains unstable, with shipping still below prewar levels and US pressure on Iran complicating efforts to restore safe passage. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-12/hormuz-reopening-faces-costly-hurdles-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-12T11:55:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0cbe23f3a6a97c99",
+      "title": "Oman says 23 crew members of GFS Galaxy rescued while one still missing",
+      "summary": "Oman says 23 crew members of GFS Galaxy rescued while one still missing Omani authorities have said in a statement that 23 members of the GFS Galaxy vessel have been rescued on Sunday, while a search for one missing crew member was ongoing.&nbsp; Iran's Islamic Revolutionary Guard Corps earlier said it struck and stopped a vessel ignoring repeated instructions to use an approved shipping corridor, according to state news agency IRNA. The Cyprus-registered GFS Galaxy vessel had been disabled by fire and damage to its engine room, US Central Command said.&nbsp; The crew abandoned the vessel and ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-says-23-crew-members-gfs-galaxy-rescued-while-one-still-missing",
+      "source": "Middle East Eye",
+      "published": "2026-07-12T11:53:56+00:00",
+      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -686,37 +1647,6 @@
       }
     },
     {
-      "id": "8b1b622f9a574ef4",
-      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T09:47:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "14b097ac3a43518f",
       "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
       "summary": "After Sheikh Hamad&#039;s death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
@@ -755,37 +1685,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-07-12T09:38:37+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0a67c5313f9697d8",
-      "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
-      "summary": "Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar",
-      "link": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
-      "source": "FT World",
-      "published": "2026-07-12T09:38:05+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1275,8 +2174,8 @@
       }
     },
     {
-      "id": "f33e9aa061838d7f",
-      "title": "Watch World Cup: England beats Norway to set up semifinal against Argentina",
+      "id": "535d19c92ef91e1f",
+      "title": "Watch World Cup: England beat Norway to set up semifinal against Argentina",
       "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
       "link": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights?traffic_source=rss",
       "source": "Al Jazeera English",
@@ -1833,40 +2732,9 @@
       }
     },
     {
-      "id": "6f7603582b93f1d2",
-      "title": "UKMTO says crew of container ship struck off Omani coast rescued",
-      "summary": "UKMTO says crew of container ship struck off Omani coast rescued The United Kingdom Maritime Trade Operations (UKMTO) said the crew of a container ship attacked off the coast of Oman earlier had been \"rescued by local authorities\". An Iranian missile strike on the vessel, identified by US Central Command (Centcom) as the Cyprus-flagged M/V GFS Galaxy, was cited by Washington as the trigger for a third round of US military strikes on Iran. The UKMTO had earlier reported that a fire had broken out on board the vessel and that the crew had abandoned ship in a lifeboat.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-crew-container-ship-struck-omani-coast-rescued",
-      "source": "Middle East Eye",
-      "published": "2026-07-12T06:05:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ef02629d5cb09be4",
       "title": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
-      "summary": "The Father Emir oversaw the meteoric rise of the small gas-rich nation.",
+      "summary": "The father emir oversaw the meteoric rise of the small, gas-rich nation.",
       "link": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-07-12T06:01:07+00:00",
@@ -1932,37 +2800,6 @@
       "link": "https://english.aawsat.com/node/5294982",
       "source": "Asharq Al-Awsat",
       "published": "2026-07-12T05:42:54+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5499d6a25ef311b7",
-      "title": "Israel uses land takeover orders to expand settler control, commission says",
-      "summary": "Israel uses land takeover orders to expand settler control, commission says Since the start of 2026, Israeli authorities have issued 49 military orders to seize 2,093 dunams (517 acres) of Palestinian land, measures Palestinian officials say are being used to expand Israeli control around settlements under the guise of security needs. The number of orders issued in the first half of 2026 has already exceeded the total recorded for all of 2025, according to a position paper released on Saturday by the Wall and Settlement Resistance Commission and cited by the Palestinian news agency Wafa. Accor",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-uses-land-takeover-orders-expand-settler-control-commission-says",
-      "source": "Middle East Eye",
-      "published": "2026-07-12T05:36:02+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -2112,68 +2949,6 @@
       }
     },
     {
-      "id": "3acddd68f01bbc3d",
-      "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
-      "summary": "US forces have launched a third round of strikes on Iran in a week.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T05:07:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "52699446c30ba113",
-      "title": "Why doesn’t Indian PM Modi hold unscripted press conferences?",
-      "summary": "Why doesn&#039;t Indian PM Modi hold unscripted press conferences?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/why-doesnt-indian-pm-modi-hold-unscripted-press-conferences?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T05:03:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "59846fa9b2c824b7",
       "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
@@ -2181,68 +2956,6 @@
       "source": "BBC World",
       "published": "2026-07-12T05:00:15+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4154e6890ddfaa47",
-      "title": "Iran launches attacks across the Gulf after more US strikes",
-      "summary": "Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T04:59:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5e5953b2119c01a5",
-      "title": "Iran's Ghalibaf tells US to 'keep your word or pay the price'",
-      "summary": "Iran's Ghalibaf tells US to 'keep your word or pay the price' Iranian parliament speaker Mohammad Bagher Ghalibaf said in a post on X that the \"era of one-sided deals is over\". \"We told you: keep your word or pay the price. Reality is knocking,\" he added. Ghalibaf's post was accompanied by an image of Article 5 of the memorandum of understanding (MoU), which concerns the reopening of the Strait of Hormuz. The image highlights in blue the words: \"The Islamic Republic of Iran will make arrangements.\" Disagreements between the US and Iran over the control and management of shipping in the Strait ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-tells-us-keep-your-word-or-pay-price",
-      "source": "Middle East Eye",
-      "published": "2026-07-12T04:59:23+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2329,192 +3042,6 @@
       }
     },
     {
-      "id": "fe03ea7ea4f27f51",
-      "title": "What was the mistaken identity red card shown in Argentina vs Switzerland?",
-      "summary": "Switzerland&#039;s Breel Embolo became the first player to be sent off after a VAR review in the last World Cup quarterfinal.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/what-was-the-mistaken-identity-red-card-shown-in-argentina-vs-switzerland?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T04:44:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6bc15ccd612dfc98",
-      "title": "Which teams are in the World Cup semifinals, and what’s the match schedule?",
-      "summary": "Qualified teams, venues, kickoff times, key players, and how to watch the FIFA World Cup 2026 semifinals.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/which-teams-are-in-the-world-cup-semifinals-and-whats-the-match-schedule?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T04:43:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "16efe890e8dc3bbd",
-      "title": "England, Argentina Set Up World Cup Showdown after Quarter-final Wins",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5294961",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-12T04:36:23+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "52baec0de45aa011",
-      "title": "IRGC claims attacks on US Gulf military assets, stops second ship in Hormuz",
-      "summary": "IRGC claims attacks on US Gulf military assets, stops second ship in Hormuz Iran's Islamic Revolutionary Guard Corps (IRGC) claimed attacks on US military assets in the neighbouring Gulf countries, saying it had destroyed a fighter aircraft maintenance and repair centre, as well as a command-and-control centre, at Qatar's Al Udeid Air Base using ballistic missiles. Qatar's Ministry of Defence, however, said earlier that its armed forces had intercepted a missile attack targeting the country. The IRGC also claimed a “heavy and surprise” attack on logistics support centres and refuelling platfor",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-attacks-us-military-assets-gulf-countries-stops-another-ship",
-      "source": "Middle East Eye",
-      "published": "2026-07-12T04:26:03+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7f936cffe542373b",
-      "title": "US Attacks Iran, IRGC Says Strait of Hormuz to Remain Closed ‘Until Further Notice’",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5294958",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-12T04:14:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d44d2a3303c4da91",
-      "title": "McGregor injures knee, loses to Holloway in 69 seconds on UFC return",
-      "summary": "The referee stopped the welterweight contest at UFC 329 after McGregor fell to the mat three times in the first minute.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/conor-mcgregor-knee-injury-max-holloway-2-ufc-329-rematch-result-las-vegas?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T04:03:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "67397b19db708c49",
       "title": "UK launches national dementia registry to speed up search for treatments",
       "summary": "Platform aims to improve access to clinical trials and boost life sciences investment in the country",
@@ -2552,533 +3079,6 @@
       "link": "https://www.ft.com/content/aba8d356-489a-469b-bb49-b54e74acc3a0",
       "source": "FT World",
       "published": "2026-07-12T04:00:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "446ca0f34bb6153d",
-      "title": "The ‘innovators and disrupters’ hired to bring AI to the UK public sector",
-      "summary": "Government fellowship scheme places tech experts on ‘high-impact tours of duty’ to improve services",
-      "link": "https://www.ft.com/content/4df50959-1cd6-4d10-a586-9aaf589339e6",
-      "source": "FT World",
-      "published": "2026-07-12T04:00:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "13cb6a4c3e79f7e7",
-      "title": "Big Tech to face fines for consumer protection failures, says EU official",
-      "summary": "Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards",
-      "link": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
-      "source": "FT World",
-      "published": "2026-07-12T04:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "92e987b6b943aa64",
-      "title": "The EU has ways out of its budget trap",
-      "summary": "Side agreements and special purpose funds could bypass the usual trench warfare",
-      "link": "https://www.ft.com/content/127fd859-5e3d-4786-a4e2-318295976764",
-      "source": "FT World",
-      "published": "2026-07-12T04:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "40988bb07c80bb5e",
-      "title": "Airbnb lures fans from US hotels after World Cup marketing push",
-      "summary": "Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes",
-      "link": "https://www.ft.com/content/21d4a393-701d-4da7-847c-bd53e95ac295",
-      "source": "FT World",
-      "published": "2026-07-12T04:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ecb401ecd605a3e3",
-      "title": "US states push to repurpose abandoned oil wells",
-      "summary": "Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity",
-      "link": "https://www.ft.com/content/2ca5ae83-cd8e-4d12-ac29-d1a5282846c8",
-      "source": "FT World",
-      "published": "2026-07-12T04:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "56a7299303229f14",
-      "title": "China cracks down on top ratings for corporate bonds",
-      "summary": "Regulators pressure agencies to limit triple-A designations for higher-interest borrowers",
-      "link": "https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8",
-      "source": "FT World",
-      "published": "2026-07-12T04:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a28a6e4544b69f68",
-      "title": "Russia closes in on city that made the Kremlin glitter",
-      "summary": "Kostyantynivka in eastern Ukraine produced the red glass in Moscow landmarks. Now Putin is reducing it to rubble",
-      "link": "https://www.ft.com/content/e3ca7207-fb02-44cd-9532-2c8a01667dbf",
-      "source": "FT World",
-      "published": "2026-07-12T04:00:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1fb5605017791d34",
-      "title": "Centcom claims 140 Iranian military targets struck in latest strikes",
-      "summary": "Centcom claims 140 Iranian military targets struck in latest strikes US Central Command (Centcom) said its forces struck about 140 Iranian military targets using precision munitions launched by land- and sea-based aircraft, drones and naval vessels. In a statement, Centcom said it had completed a third round of strikes against Iran this week, \"holding Iranian forces accountable for attacking another commercial ship in the Strait of Hormuz\". Centcom said the latest strikes targeted Iranian missile and drone sites, naval capabilities, ammunition storage facilities, communications networks and co",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-claims-140-iranian-military-targets-struck-latest-strikes",
-      "source": "Middle East Eye",
-      "published": "2026-07-12T03:56:16+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "87b3324298382f27",
-      "title": "At least two killed in Toronto street festival shooting",
-      "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
-      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T03:56:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "15bc75f0aa44acc7",
-      "title": "Argentina beats Switzerland to set up World Cup 2026 semifinal with England",
-      "summary": "Argentina need extra time to beat Switzerland 3-1 in the quarterfinals to set up a showdown with England on Wednesday.",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/argentina-defeat-switzerland-to-set-up-england-semifinal-at-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T03:50:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6e86f950bbe4cbbf",
-      "title": "IRGC says 'US imposing its will on Oman', warns of 'severe responses'",
-      "summary": "IRGC says 'US imposing its will on Oman', warns of 'severe responses' Iran's Islamic Revolutionary Guard Corps (IRGC) accused the US of \"imposing its will\" on Oman's government by attempting to route several vessels through the Strait of Hormuz via what it described as \"an illegal route\" south of the waterway. The IRGC claimed the attempt was \"stopped by a decisive response from the navy\", apparently referring to its attack on a Cyprus-flagged container ship. The statement said the US then struck \"a number of coastal bases and telecommunications towers on the southern coast\", adding that the I",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-us-imposing-its-will-oman-warns-severe-responses",
-      "source": "Middle East Eye",
-      "published": "2026-07-12T03:44:33+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dc944088f656cb7c",
-      "title": "England fans revel in World Cup win over Norway",
-      "summary": "Fans celebrated at a London watch party after England&#039;s 2-1 extra-time win over Norway in the World Cup quarter-finals.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/england-fans-revel-in-world-cup-win-over-norway?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T03:34:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "044888f3dffc5fb6",
-      "title": "IRGC hits Jordan's Prince Hassan Air Base, Qatar 'intercepts missile'",
-      "summary": "IRGC hits Jordan's Prince Hassan Air Base, Qatar 'intercepts missile' The Islamic Revolutionary Guard Corps (IRGC) said its aerospace force had targeted US military facilities at Jordan's Prince Hassan Air Base, according to Iran's state broadcaster, IRIB. The IRGC said it fired several missiles at the base, claiming to have destroyed a command-and-control centre and hangars housing MQ-9 drones. In an update, Qatar's Ministry of Defence said its armed forces had \"intercepted a missile attack which targeted\" the country. The ministry had earlier said the country's security threat level was high",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-hits-jordans-prince-hassan-air-base-qatar-intercepts-missile",
-      "source": "Middle East Eye",
-      "published": "2026-07-12T03:27:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "41589f856488772b",
-      "title": "Bellingham brace carries England past Norway into World Cup semi-final",
-      "summary": "Real Madrid star outshines Harry Kane and Erling Haaland as Thomas Tuchel’s side claim 2-1 extra-time win",
-      "link": "https://www.ft.com/content/34f8f9c2-07f8-4c71-b6b4-9bbf26878c9e",
-      "source": "FT World",
-      "published": "2026-07-12T02:21:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "084ce1f56c73750d",
-      "title": "Typhoon Bavi Weakens as Heavy Rain Spreads Across China",
-      "summary": "China’s National Meteorological Center said Typhoon Bavi weakened to a severe tropical storm on Sunday morning after making landfall in Zhejiang.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-12T01:59:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c03e42a2ce53a973",
-      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
-      "summary": "Nigerian security forces have rescued 39 schoolchildren and five teachers abducted nearly two months ago in Oyo state.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-12T01:56:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c62911a9cced600f",
-      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
-      "summary": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
-      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T00:49:24+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
