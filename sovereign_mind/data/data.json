@@ -1,12 +1,384 @@
 {
-  "generated_at": "2026-07-13T22:12:05.469085+00:00",
+  "generated_at": "2026-07-13T23:15:35.531063+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "8aaf419c53bbd08d",
-      "title": "Oil Holds Jump After Trump Reinstates Blockade on Iranian Ships",
-      "summary": "Oil held its biggest gain since April, after US President Donald Trump said he would reimpose a blockade on Iranian ships transiting the Strait of Hormuz and demand payment for all other cargo moving through the waterway.",
+      "id": "f41b86748aba6ed8",
+      "title": "Shein’s Slowing Growth Risks Weighing on Hong Kong IPO Valuation",
+      "summary": "Shein has finally won long-awaited Chinese regulatory approval for its planned Hong Kong listing, but slowing business growth threatens to weigh on the valuation it can command in the initial public offering.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/shein-s-slowing-growth-risks-weighing-on-hong-kong-ipo-valuation",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-13T23:00:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ff976976f51f268a",
+      "title": "Morocco earns more than $56 million from back-to-back World Cup campaigns",
+      "summary": "Morocco’s national football team has earned more than $56 million in FIFA World Cup prize money from its campaigns at the 2022 and 2026 tournaments, turning the Atlas Lions’ recent success into a significant source of revenue for Moroccan football. The Royal Moroccan Football Federation received $31.5 million following Morocco’s quarter-final exit at the 2026 [&#8230;] The post Morocco earns more than $56 million from back-to-back World Cup campaigns appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/141843-morocco-earns-more-than-56-million-from-back-to-back-world-cup-campaigns.html",
+      "source": "Hespress EN",
+      "published": "2026-07-13T23:00:01+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "12eb82d53e0763a1",
+      "title": "India’s Beaten-Down Large Caps Set to Rebound on Foreign Flows",
+      "summary": "India’s large-cap stocks are set to narrow their underperformance to smaller peers, supported by the return of foreign investors, an improving earnings outlook and attractive valuations, according to strategists.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/india-s-beaten-down-large-caps-set-to-rebound-on-foreign-flows",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-13T23:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b779bd31869d6665",
+      "title": "US launches air strikes as Iran targets tankers with cruise missiles",
+      "summary": "Donald Trump said Washington would hit the Islamic republic ‘hard’ on Monday and Tuesday nights",
+      "link": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+      "source": "FT World",
+      "published": "2026-07-13T22:59:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d50dfcd8a1709799",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "summary": "The US military later said it had started the third consecutive night of strikes on Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-13T22:47:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ae9d6fe58c7d776c",
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+      "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-13T22:38:34+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "113eca921d28b342",
+      "title": "US military launches third night of strikes on Iran",
+      "summary": "The US military said Monday it had launched a fresh salvo of attacks on Iran, marking the third night in a row that it had struck the country, as a deal to end the war falters. &#8220;These strikes will continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians [&#8230;] The post US military launches third night of strikes on Iran appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/141852-us-military-launches-third-night-of-strikes-on-iran.html",
+      "source": "Hespress EN",
+      "published": "2026-07-13T22:34:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e07228a375904bc0",
+      "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
+      "summary": "South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator&#039;s term until early 2027.",
+      "link": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-13T22:33:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9426b2b19671989c",
+      "title": "Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’",
+      "summary": "Ruling casts doubt on whether president and his family can benefit from immunity deal",
+      "link": "https://www.ft.com/content/c98f4108-7bb6-4a05-9742-8d7b56c78c4f",
+      "source": "FT World",
+      "published": "2026-07-13T22:31:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "da0c410c9ac5b0c2",
+      "title": "Nine deaths tied to Trump’s immigration enforcement operations in US",
+      "summary": "Fatal shooting in Biddeford, Maine, is latest in at least nine deaths linked to US president&#039;s immigration crackdown.",
+      "link": "https://www.aljazeera.com/news/2026/7/13/nine-deaths-tied-to-trumps-immigration-enforcement-operations-in-us?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-13T22:31:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b354d129190d5e47",
+      "title": "Gold Miners Cadillac, Amapa Minerals Add to Canada IPO Rebound",
+      "summary": "Cadillac Mines Corp. and Amapa Minerals Holdings Inc. filed for initial public offerings, in the latest sign that the pace of Canadian listings is starting to pick up.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/gold-miners-cadillac-amapa-minerals-add-to-canada-ipo-rebound",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-13T22:10:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c867c6001b3176f6",
+      "title": "Oil Holds Gains as Iran Stokes Inflation Worries: Markets Wrap",
+      "summary": "Oil held gains and Asian stocks were set to track Wall Street lower after the standoff between the US and Iran intensified, raising concerns that disruptions to energy supplies could accelerate inflation.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-13T22:05:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "280b1e9d92e19623",
+      "title": "Oil Holds Gains After Trump Reinstates Blockade on Iranian Ships",
+      "summary": "Oil steadied after its biggest advance since April, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo moving through the waterway.",
       "link": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
       "source": "Bloomberg Markets",
       "published": "2026-07-13T22:01:33+00:00",
@@ -103,37 +475,6 @@
       "link": "https://www.bloomberg.com/news/videos/2026-07-13/wells-fargo-s-mike-mayo-citi-my-top-pick-of-big-banks-video",
       "source": "Bloomberg Markets",
       "published": "2026-07-13T21:47:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d50dfcd8a1709799",
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "summary": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-13T21:46:06+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -314,37 +655,6 @@
       }
     },
     {
-      "id": "b05aa9b8e42808f1",
-      "title": "US launches strikes after Trump warns Washington will hit Iran ‘hard’",
-      "summary": "Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare",
-      "link": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
-      "source": "FT World",
-      "published": "2026-07-13T21:33:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "d083dabe3a3cc656",
       "title": "Police in South Africa open probe into post-World Cup death of Jayden Adams",
       "summary": "The country&#039;s football players&#039; union confirmed Adams&#039;s death on Saturday, but the cause has not been revealed.",
@@ -378,7 +688,7 @@
     {
       "id": "adab736688eea710",
       "title": "US, Iran exchange attacks around Strait of Hormuz",
-      "summary": "This is a breaking news story.",
+      "summary": "Washington and Tehran both claim to be in control of the Strait of Hormuz as fighting escalates.",
       "link": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-07-13T21:19:28+00:00",
@@ -1492,37 +1802,6 @@
       }
     },
     {
-      "id": "9426b2b19671989c",
-      "title": "Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’",
-      "summary": "Ruling casts doubt on whether president and his family can benefit from immunity deal",
-      "link": "https://www.ft.com/content/c98f4108-7bb6-4a05-9742-8d7b56c78c4f",
-      "source": "FT World",
-      "published": "2026-07-13T19:55:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "c30be14aa7fd41df",
       "title": "UK arrests 12 over extreme right-wing ‘terror’ threat to Muslim event",
       "summary": "Arrests come against a backdrop of rising racial tensions and hate crimes across Britain.",
@@ -1740,68 +2019,6 @@
       }
     },
     {
-      "id": "71439f6985bc57c9",
-      "title": "Seeing Pick Up In Active Funds This Year: Spence",
-      "summary": "Travis Spence, global head of ETFs at JPMorgan Asset Management, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss growing momentum in actively managed ETFs. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-13/seeing-pick-up-in-active-funds-this-year-spence-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-13T19:12:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ad0c4226fbe4c94d",
-      "title": "Paramount-Warner Bros. Deal Challenged by California, States",
-      "summary": "A group of 12 states sued Paramount Skydance Corp. Monday seeking to block its $110 billion bid to buy Warner Bros. Discovery Inc., alleging the blockbuster Hollywood deal would leave viewers with higher prices and fewer choices for movies and television. Jennifer Rie, Bloomberg Intelligence Senior Litigation Analyst for Antitrust joins Bloomberg Businessweek Daily to discuss. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-13/paramount-warner-bros-deal-challenged-by-12-states-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-13T19:10:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "d4cb7bede6282dfa",
       "title": "US judge voids Trump’s IRS settlement, alleges self-dealing",
       "summary": "Judge rules that US president, Department of Justice misused courts in settlement that led to &#039;anti-weaponization&#039; fund.",
@@ -1902,37 +2119,6 @@
       "source": "Middle East Eye",
       "published": "2026-07-13T18:55:58+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "330dddcc26653573",
-      "title": "Test Your ETF Knowledge In Our IQ Test",
-      "summary": "Bloomberg's Joel Weber puts Scarlet Fu, Katie Greifeld, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-13/test-your-etf-knowledge-in-our-iq-test-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-13T18:49:57+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2236,37 +2422,6 @@
       }
     },
     {
-      "id": "d910cffb9b272595",
-      "title": "UK to list Iran’s IRGC as ‘terror’ threat",
-      "summary": "London debuts new powers targeting state proxies after accusing Iranian outfit of engineering anti-Semitic attacks.",
-      "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-13T18:08:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b6f8a7dfedd62093",
       "title": "Upon high royal Instructions, Gov't Head represents the King at offering condolences following the passing of Sheikh Hamad bin Khalifa Al-Thani",
       "summary": "Upon High Royal Instructions, Head of Government Aziz Akhannouch represented His Majesty King Mohammed VI on Monday in Doha in offering condolences following the passing of His Highness Sheikh Hamad Bin Khalifa Al-Thani. During an audience at the Lusail Palace, Akhannouch conveyed His Majesty the King’s condolences to the Emir of the State of Qatar, [&#8230;] The post Upon high royal Instructions, Gov&#039;t Head represents the King at offering condolences following the passing of Sheikh Hamad bin Khalifa Al-Thani appeared first on HESPRESS English - Morocco News .",
@@ -2336,37 +2491,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-07-13T17:45:36+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "64421587ca59b710",
-      "title": "How Lyhanna’s murder case is shedding light on child abuse in France",
-      "summary": "The rape and murder of 11-year-old Lyhanna exposed years of alleged police and judicial failures in France.",
-      "link": "https://www.aljazeera.com/features/2026/7/13/how-lyhannas-murder-case-is-shedding-light-on-child-abuse-in-france?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-13T17:44:13+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2701,37 +2825,6 @@
       }
     },
     {
-      "id": "2657cd78e42c3789",
-      "title": "HCP: Eight Moroccan regions beat 4.4% growth, disparities deepen",
-      "summary": "Morocco&#8217;s economy grew by 4.4% in 2024, with eight of its 12 regions outperforming the national average, according to regional accounts released Monday by the High Commission for Planning (HCP). The Laâyoune-Sakia El Hamra region achieved the highest growth rate of 7.6% due to non-market services and maritime fisheries. In second place was the Dakhla-Oued [&#8230;] The post HCP: Eight Moroccan regions beat 4.4% growth, disparities deepen appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/141821-hcp-eight-moroccan-regions-beat-4-4-growth-disparities-deepen.html",
-      "source": "Hespress EN",
-      "published": "2026-07-13T17:02:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b2887aa534b0b0fa",
       "title": "The deceptive promises of America’s democratic socialists",
       "summary": "The way forward for the party is not to swing to the left",
@@ -2986,99 +3079,6 @@
       "link": "https://english.aawsat.com/node/5295563",
       "source": "Asharq Al-Awsat",
       "published": "2026-07-13T16:29:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d848ca77705b5fa6",
-      "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-      "summary": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.",
-      "link": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-13T16:28:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d45bc4b94dc81dae",
-      "title": "Israeli attack critically wounds several Palestinians near Gaza City",
-      "summary": "Israeli attack critically wounds several Palestinians near Gaza City Israeli forces bombed a group of Palestinians near Gaza City, critically wounding several people, according to Wafa news agency. Medical sources told Wafa the attack took place in the al-Twam area, northwest of Gaza City. One man was also seriously wounded after being shot by Israeli forces in the central Gaza Strip, the agency reported.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-critically-wounds-several-palestinians-near-gaza-city",
-      "source": "Middle East Eye",
-      "published": "2026-07-13T16:24:12+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0e8102392208fe09",
-      "title": "US Vows Campaign to End ICC ‘Threat’ to Americans",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5295561",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-13T16:22:18+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
