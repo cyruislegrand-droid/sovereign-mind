@@ -1,8 +1,907 @@
 {
-  "generated_at": "2026-07-19T06:38:58.398959+00:00",
+  "generated_at": "2026-07-19T08:58:18.448975+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "439da8224bfa1ae0",
+      "title": "Cat Rescued from Ruins of Venezuela Quake Offers ‘Ray of Hope’",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297649",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T08:52:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fde66a2522538b43",
+      "title": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+      "summary": "US strikes target Iran&#039;s IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T08:49:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6d0a6c53ffcfbc4f",
+      "title": "Congo Says Number of Confirmed Ebola Cases Rises to 2,267, Including 893 Deaths",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297648",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T08:47:46+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "70dfa88048cfafa2",
+      "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "summary": "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T08:46:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a33ad205b94f0922",
+      "title": "Spain fans bring the party to New York before World Cup final",
+      "summary": "‘King [Messi] abdicates, but the prince [Lamine Yamal] takes the throne!’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T08:41:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "283e8fce29d57a49",
+      "title": "Spain vs Argentina: World Cup final predictions, schedule, Messi news",
+      "summary": "Spain face Argentina in the World Cup final as Lionel Messi, Lamine Yamal and history dominate the build-up.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T08:24:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c7ada8a210d439d7",
+      "title": "The Biggest Takeaways from the 2026 World Cup",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297642",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T08:21:15+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "db70301c33f65e50",
+      "title": "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final",
+      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "link": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T08:20:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a652983b5c3a0e0c",
+      "title": "Kuwait Intercepts Iranian Missiles and Drones",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297641",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T08:17:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d30f00d967997e26",
+      "title": "Spain vs Argentina: How each team can win World Cup final 2026",
+      "summary": "Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T08:12:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "99dbebbc2297ee63",
+      "title": "Southern China Braces for More Rain, Chongqing Landslide Search Continues",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297637",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T08:06:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fe40a68e4727cd07",
+      "title": "Caspian Pipeline Consortium Halts Loadings After Drone Strike",
+      "summary": "Oil loading at the Caspian Pipeline Consortium’s terminal on Russia’s Black Sea coast was halted after a drone strike.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/caspian-pipeline-consortium-halts-loadings-after-drone-strike",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-19T08:03:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9d6d21bec24d8472",
+      "title": "Democratic Taiwan Must Not Become ‘China’s Taiwan’, President Says",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297636",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T08:03:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1358ac04c7d11d4f",
+      "title": "ACWA Power to Lead Saudi Arabia’s Green Hydrogen Export Drive",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297631",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T07:54:06+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "735a434dfc82e774",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-19T07:47:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "67193314e64b8e1b",
+      "title": "Egypt, Türkiye Conclude Joint Military Exercise",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297625",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T07:38:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "846dc9570f225ecd",
+      "title": "Israel demolishes Palestinian home in Masafer Yatta",
+      "summary": "Israel demolishes Palestinian home in Masafer Yatta",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T07:30:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "422b4589e45bd9f8",
+      "title": "Iran, Iraqi Factions Criticize Al-Zaidi’s Washington Visit",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297623",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T07:29:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "90c74ff0f7df4134",
+      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "summary": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+      "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T07:28:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0f66c1dfe15c1b3c",
+      "title": "Spain vs Argentina FIFA World Cup final: Team news, prediction and lineups",
+      "summary": "Stars Lionel Messi and Lamine Yamal clash at the biggest match of the biggest World Cup in history.",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-fifa-world-cup-final-messi-yamal-prediction-time-lineups-team-news?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T07:15:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1e9b13805f1e9970",
+      "title": "The number one health issue in Palestine is the Israeli occupation",
+      "summary": "In both Gaza and the West Bank, Israeli policies are devastating Palestinian health with deadly consequences.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-19T07:15:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b9d44706dd3e0131",
+      "title": "Deschamps’ Golden France Era Ends in Defeat, but Legacy Intact",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297616",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T07:09:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "07ca0397c5206ef9",
+      "title": "Influencer Andrew Tate and Brother Arrested in Miami",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297614",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T07:04:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fa75a3c452413ac4",
+      "title": "Mexico’s Sheinbaum to Attend World Cup Final at Trump’s Invitation",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297613",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T07:03:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ed313fa76d004fa1",
+      "title": "US, Iran Trade More Attacks After Two Troops Killed in Jordan",
+      "summary": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-19T06:58:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "21df356085b462aa",
+      "title": "Aragchi says ‘personal remarks’ should not affect Iran-Iraq relations",
+      "summary": "Aragchi says ‘personal remarks’ should not affect Iran-Iraq relations Iran’s foreign minister, Abbas Araghchi, told his Iraqi counterpart that the \"valuable\" relationship between Tehran and Baghdad should not be affected by \"certain personal and unofficial remarks\", according to Iran's state news agency IRNA. During a phone call, Araghchi and Iraqi foreign minister Fuad Hussein discussed regional developments in the wake of US military attacks on Iran and Washington's “repeated violations” of the Islamabad Memorandum of Understanding, the report said. Araghchi described relations between Iran ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/aragchi-says-personal-remarks-should-not-affect-iran-iraq-relations",
+      "source": "Middle East Eye",
+      "published": "2026-07-19T06:55:21+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f8f2df3b63c66c6c",
+      "title": "Sudan’s Gum Arabic Industry Crippled as War and Displacement Take Their Toll",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297610",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T06:49:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ce13f00a2fd937e4",
+      "title": "Morning recap",
+      "summary": "Morning recap Good morning Middle East Eye readers, US struck Iran for the eighth consecutive time overnight, with the US Centcom claiming that IRGC forces who had launched a deadly attack on its service members in Jordan were targeted during the strikes. Iran’s supreme leader Mojtaba Khamenei said the repeated breaches of agreements with Iran show that the US president’s signature is “worthless and invalid”. US president Donald Trump described the deaths of two US service members in Iranian attacks in Jordan “a very sad thing”, while US defence secretary Pete Hegseth said their \"sacrifice onl",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-145",
+      "source": "Middle East Eye",
+      "published": "2026-07-19T06:44:01+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "14a15ddf3f86b257",
+      "title": "Pocket-size AI: Powerful Phones Star at China Show",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297608",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-19T06:39:56+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "c55eda63bc7624dd",
       "title": "What to Know about the Challenges Andy Burnham Will Face as UK Prime Minister",
@@ -438,101 +1337,8 @@
       }
     },
     {
-      "id": "be0c9d6362cc5228",
-      "title": "Spain and Argentina Brace for World Cup Final",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297592",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-19T05:26:36+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b55434d9ae958d2e",
-      "title": "Struggle Over Khamenei's Legacy Amid Mojtaba's Absence",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297591",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-19T05:22:32+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "298d8cb9ff62cae3",
-      "title": "Saudi Arabia Wins Four Awards at International Biology Olympiad in Lithuania",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297590",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-19T05:19:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1d32a578926d93ad",
-      "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "id": "a7a376c35339842f",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
       "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -686,37 +1492,6 @@
       }
     },
     {
-      "id": "62616cca0e340e6f",
-      "title": "MWL Condemns Iran's Continued Aggression against Kuwait, Bahrain, and Jordan",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297588",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-19T04:40:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3fcedd8f46ea6f9c",
       "title": "US strikes Iran after two American troops are killed in Jordan",
       "summary": "Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states",
@@ -786,37 +1561,6 @@
       "source": "Al Jazeera English",
       "published": "2026-07-19T04:32:28+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7940a3a5fbe6c035",
-      "title": "US Military Launches New Airstrikes to 'Swiftly Punish' Iran for Deaths of US Troops",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297587",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-19T04:30:05+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1525,7 +2269,7 @@
     {
       "id": "b62868bd1e6859d9",
       "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
       "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-19T02:17:07+00:00",
@@ -1988,37 +2732,6 @@
       }
     },
     {
-      "id": "9fe41ff95f6dea2b",
-      "title": "Netanyahu declares support for Argentina ahead of World Cup final",
-      "summary": "Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T00:33:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "c19ad5725c423dbe",
       "title": "Emergency water delivery begins for 10,000 Iranians, official says",
       "summary": "Emergency water delivery begins for 10,000 Iranians, official says Emergency delivery of drinking water was underway in about 20 Iranian villages, with a population of around 10,000 people, after a US strike on a desalination plant in the port city of Jask in Hormozgan province cut off the supply on Friday night. Citing the governor of Jask, Mohmmad Jamaleddini, IRNA reported that water was being supplied from alternative sources and mobile tankers were being deployed. The governor said that a stable water supply will be restored within a week. Emergency water supply to affected villages in Ja",
@@ -2026,37 +2739,6 @@
       "source": "Middle East Eye",
       "published": "2026-07-19T00:19:21+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "81b0f424dd08e710",
-      "title": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
-      "summary": "US forces attack Iran for the eighth consecutive night as Iran says MoU &#039;suspended&#039;.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T00:00:00+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2267,37 +2949,6 @@
       }
     },
     {
-      "id": "1223a1db7f932f40",
-      "title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
-      "summary": "Kylian Mbappe scores twice for France to hit World Cup record, but England win 6-4 in third-place playoff final.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T23:22:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "1a8bc14b857c499f",
       "title": "Iran closes two border crossings with Kurdish region of Iraq",
       "summary": "Iran closes two border crossings with Kurdish region of Iraq Iran has closed the Marivan and Hawraman border crossings with Iraq and urged residents to stay away from the surrounding frontier areas in Kurdistan province, Kurdish-language broadcaster Aryen TV reported.&nbsp; Border guards warned citizens not to approach the border strip in Dehreh-ki, Dezli and other frontier areas, advising against any movement or activity there, according to the report. The Marivan and Hawraman crossings connect Iran's Kurdistan province with Iraq's semi-autonomous Kurdistan region. The reported closures came ",
@@ -2305,68 +2956,6 @@
       "source": "Middle East Eye",
       "published": "2026-07-18T23:21:34+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bcee29c6c504165a",
-      "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
-      "summary": "Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T23:20:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "52ee255be29a8797",
-      "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
-      "summary": "While no tickets are available on FIFA&#039;s sales platform, they are being resold for sky-high prices on resale sites.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T22:41:47+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2453,130 +3042,6 @@
       }
     },
     {
-      "id": "ce1ea668757c7601",
-      "title": "Trump says deaths of US service members ‘very sad’",
-      "summary": "Trump says deaths of US service members ‘very sad’ US President Donald Trump said deaths of two US service members in Iranian attacks is “a very sad thing,” as he reacted to the announcement. “We hate to see it happen. It’s in service to our country,” Trump told NewsNation. He &nbsp;also said that the US would “never” allow Iran to obtain a nuclear weapon. US President Donald Trump speaks to reporters aboard the new Air Force One during a flight from the United Kingdom to Joint Base Andrews, 8 July 2026 (Win McNamee Getty Images via AFP)",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-deaths-us-service-members-very-sad",
-      "source": "Middle East Eye",
-      "published": "2026-07-18T22:05:44+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0cd50af333587b37",
-      "title": "US defence secretary says deaths of US service members ‘stiffens our resolve‘",
-      "summary": "US defence secretary says deaths of US service members ‘stiffens our resolve‘ US Defence Secretary Pete Hegseth has reacted to deaths of two US service members in Jordan. “Their sacrifice only stiffens our resolve,” said Hegseth in a post on X.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-defence-secretary-says-deaths-us-service-members-stiffens-our-resolve",
-      "source": "Middle East Eye",
-      "published": "2026-07-18T21:44:19+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5b3fbdbb7a267c1f",
-      "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
-      "summary": "Protest by India&#039;s Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T21:03:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9ab5739f26469fc3",
-      "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
-      "summary": "Fans from Mexico to Brazil unite to cheer Yamal&#039;s Spain against Argentina and Messi, whom they call &#039;FIFA’s golden boy&#039;.",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T21:02:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "d56f5899d75b1c8c",
       "title": "Morocco adopts new rules for appointing university presidents under higher education reform",
       "summary": "Morocco’s government last week approved a draft decree establishing the procedures and eligibility criteria for appointing university presidents as part of the implementation of the country’s new higher education and scientific research law. The decree, No. 2.26.329, sets out the model specifications for candidacies to head public higher education institutions, as well as the composition [&#8230;] The post Morocco adopts new rules for appointing university presidents under higher education reform appeared first on HESPRESS English - Morocco News .",
@@ -2608,68 +3073,6 @@
       }
     },
     {
-      "id": "ee6d8ee193a270e3",
-      "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
-      "summary": "A week after he was shot in his West Bank village, Fadi al-Nassan&#039;s death comes amid a surge in settler violence.",
-      "link": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T20:24:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cfef7600577233be",
-      "title": "Drone video shows scale of major wildfire in northern Spain",
-      "summary": "Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T20:18:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "445ac3938af14208",
       "title": "Burnham scraps new digital ID scheme",
       "summary": "Incoming prime minister says money saved will go towards tackling cost-of-living crisis",
@@ -2677,409 +3080,6 @@
       "source": "FT World",
       "published": "2026-07-18T20:00:31+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "07de24f7d9fe4afa",
-      "title": "Lebanon's president departs for Washington to meet Trump",
-      "summary": "Lebanese President Joseph Aoun left Beirut on Saturday for Washington, where he is expected to meet Donald Trump, his office said, after the latest round of Lebanon-Israel talks wrapped up in Italy. It will be the first trip to Washington by a Lebanese head of state since Michel Sleiman was received by Barack Obama in [&#8230;] The post Lebanon&#039;s president departs for Washington to meet Trump appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142165-lebanons-president-departs-for-washington-to-meet-trump.html",
-      "source": "Hespress EN",
-      "published": "2026-07-18T19:55:55+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f30c761b71203472",
-      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "summary": "Palestinians who have endured Israel&#039;s genocidal war are still being targeted.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-18T19:55:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "38da8c3cc254f7ff",
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T19:34:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "77c0a16a78e8ef6c",
-      "title": "Spain braces for third heatwave with highs above 40C",
-      "summary": "Spain is set to enter its third heatwave of the summer on Tuesday, with temperatures forecast to climb above 40C across large parts of the country, the national weather office said. The heatwave will be fuelled by a persistent area of high pressure that will trap hot, dry air from North Africa over Spain for [&#8230;] The post Spain braces for third heatwave with highs above 40C appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142156-spain-braces-for-third-heatwave-with-highs-above-40c.html",
-      "source": "Hespress EN",
-      "published": "2026-07-18T18:47:55+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e3adc83442d3fc3a",
-      "title": "Firefighting efforts continue for fourth day as wildfire burns forest near Taroudant",
-      "summary": "Firefighters continued battling a wildfire for a fourth consecutive day on Saturday after flames broke out in the Slimimt forest in the commune of Ounain, in Taroudant province near the border with Al Haouz. As in previous days, the operation mobilized civil protection teams, forestry officials and local authorities, while residents of nearby villages joined [&#8230;] The post Firefighting efforts continue for fourth day as wildfire burns forest near Taroudant appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142161-firefighting-efforts-continue-for-fourth-day-as-wildfire-burns-forest-near-taroudant.html",
-      "source": "Hespress EN",
-      "published": "2026-07-18T18:30:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6b2ae24ae4bfb73a",
-      "title": "Laser beam aimed at cockpit during Laayoune-Casablanca flight raises safety concerns",
-      "summary": "A flight traveling from Hassan I Airport in Laayoune to Mohammed V International Airport in Casablanca was reportedly involved in a serious incident after an unidentified individual directed a laser beam toward the aircraft’s cockpit as it approached for landing, according to informed sources. Sources told Hespress AR that the incident occurred during the aircraft’s [&#8230;] The post Laser beam aimed at cockpit during Laayoune-Casablanca flight raises safety concerns appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142151-laser-beam-aimed-at-cockpit-during-laayoune-casablanca-flight-raises-safety-concerns.html",
-      "source": "Hespress EN",
-      "published": "2026-07-18T17:33:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e3ae0aee9f97e115",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T17:29:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "894ab607d3ed2f33",
-      "title": "Israeli Military Says it Struck Hezbollah Fighters after Drone Spotted",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297497",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-18T17:29:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "39c18d4b18daf98f",
-      "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
-      "summary": "Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’",
-      "link": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-07-18T17:22:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cfa4f932ea942cad",
-      "title": "Ukrainian Drones Hit Warehouses and Other Sites Across Russia, Killing 9",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297493",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-18T17:17:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ff25501340669c6b",
-      "title": "Iran’s Supreme Leader Warns of ‘Unforgettable Lessons’ if US Continues Attacks",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297488",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-18T17:07:02+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "703f083d888dca61",
-      "title": "Mamdani Says He May Order Netanyahu's Arrest",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297485",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-18T16:55:46+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4a7bdb5dde17f557",
-      "title": "Wildfire haze hangs over eastern US -- and World Cup final",
-      "summary": "Heavy, acrid smoke blanketed the eastern United States on Saturday, marring preparations for the weekend&#8217;s highly awaited World Cup final to be held in an open stadium in New Jersey. Wildfires burning in Canada have sent the noxious smog billowing across the border, with residents in New York, Washington and the US Midwest urged to [&#8230;] The post Wildfire haze hangs over eastern US -- and World Cup final appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142149-wildfire-haze-hangs-over-eastern-us-and-world-cup-final.html",
-      "source": "Hespress EN",
-      "published": "2026-07-18T16:40:16+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
