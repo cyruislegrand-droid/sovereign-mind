@@ -1,8 +1,1434 @@
 {
-  "generated_at": "2026-07-20T04:10:38.654384+00:00",
+  "generated_at": "2026-07-20T07:32:19.536620+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "6188b92b7a7a1381",
+      "title": "Head of International Data Center Authority to Asharq Al-Awsat: Saudi Arabia Leads AI Race",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297963",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T07:17:03+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3a9e7e484a7f432f",
+      "title": "Oil back above $90 as Iran hits tankers",
+      "summary": "US carries out fresh wave of attacks as the number of American casualties rises",
+      "link": "https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-20T07:11:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8af5312265b251b3",
+      "title": "Infantino tries to usher Trump away as Spain lift World Cup",
+      "summary": "Infantino tries to usher Trump away as Spain lift World Cup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/infantino-tries-to-usher-trump-away-as-spain-lift-world-cup?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T07:03:12+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cd3eab1622d778e3",
+      "title": "China’s ‘national team’ buys shares worth $9bn to prop up market",
+      "summary": "State-owned funds announce stock purchases after sharp AI tech sell-off last week",
+      "link": "https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-20T06:54:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "089698fa2fcb38bf",
+      "title": "Samsung Biologics buys Swiss peptide maker for $1.8bn",
+      "summary": "PolyPeptide takeover is latest example of South Korean companies expanding abroad through acquisitions",
+      "link": "https://www.ft.com/content/715da6d5-bd8a-4419-b45c-8cfb02d847be?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-20T06:53:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "50c8f168e192af53",
+      "title": "US attacks Iran's southern city of Bushehr",
+      "summary": "US attacks Iran's southern city of Bushehr US strikes several locations in Iran's southern port city of Bushehr, home to the country's civilian nuclear plant,&nbsp;state news media reported. \"A few minutes ago, several locations in Bushehr city were hit by American enemy's projectiles,\" said Bushehr governor Mohammad Mozaffari, adding that the scope and extent of the strikes are under investigation.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-attacks-irans-southern-city-bushehr",
+      "source": "Middle East Eye",
+      "published": "2026-07-20T06:50:26+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "609b49f2a658c50b",
+      "title": "Syria Restructures Security Authority in Response to Pressure",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297959",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T06:37:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aaa60041086a329d",
+      "title": "Segro rejects £13.5bn bid by US rival Prologis in latest takeover twist",
+      "summary": "London-listed group declines third offer in escalating battle",
+      "link": "https://www.ft.com/content/fc5b45df-9d69-400b-8ca2-949f827fad49",
+      "source": "FT World",
+      "published": "2026-07-20T06:36:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6e49021eb0122f94",
+      "title": "Al-Zaidi Hails Washington Visit as Iran Distances Itself from Criticism",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297950",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T06:25:58+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "66fb383ac42a21cc",
+      "title": "Last night, I was Spanish, and so were millions around the world",
+      "summary": "For many of us, Gaza was on our mind when we watched and celebrated Spain’s triumph at the World Cup.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T06:21:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9dacbf095b75222d",
+      "title": "Rising Demand for Hedges Hints at Volatility Ahead: Taking Stock",
+      "summary": "The momentum trade carried along by the equity rally is faltering, while optimistic earnings expectations are under intense scrutiny, two of the signs pointing to a volatile summer.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/rising-demand-for-hedges-hints-at-volatility-ahead-taking-stock",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T06:19:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "296ad70991f956ce",
+      "title": "Segro Rejects £13.5 Billion Cash and Share Prologis Offer",
+      "summary": "Prologis Inc. has increased its outline bid to buy Segro Plc to £13.5 billion ($18.2 billion) and offered a series of sweeteners as it seeks to tempt shareholders after the UK landlord’s board rejected the latest terms.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/segro-rejects-fresh-13-5-billion-cash-and-share-prologis-offer",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T06:18:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bdc7577a520a842f",
+      "title": "Iran FM Says ‘Security Breach’ Led to Khamenei’s Assassination",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297943",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T06:08:26+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "76cabff811f01362",
+      "title": "Bahrain intercepting attacks from Iran",
+      "summary": "Bahrain intercepting attacks from Iran Bahrain's state television is reporting that the country's air defence systems are responding to attacks from Iran.&nbsp; This follows sirens activating in the country amid reports of explosions heard in the capital of Manama.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-intercepting-attacks-iran",
+      "source": "Middle East Eye",
+      "published": "2026-07-20T06:07:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4e7b8a54c31982c0",
+      "title": "China Is Exporting 20% Fewer Magnets to US Despite Trade Truce",
+      "summary": "China’s shipments of rare-earth magnets to the US remain well below pre-trade war levels despite last year’s truce, underscoring concerns in the Trump administration about Beijing’s adherence to that agreement.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/china-is-exporting-20-fewer-magnets-to-us-despite-trade-truce",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T06:02:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8e09ef228b639fe1",
+      "title": "Morning update",
+      "summary": "Morning update Good morning Middle East Eye readers, &nbsp;The US Central Command said it completed its ninth consecutive night of strikes against Iran, claiming attacks on Iranian military coastal surveillance and air defence facilities. On the other hand, Iran's Islamic Revolutionary Guard Corps (IRGC) claimed attacks on Jordan, Kuwait and Syria alongside targeting \"two offending oil tankers\" attempting to travel through the Strait of Hormuz. Here are the latest developments:&nbsp; Iran's Islamic Revolutionary Guard Corps announced they launched a \"surprise attack\" on a command centre in Syr",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-585",
+      "source": "Middle East Eye",
+      "published": "2026-07-20T06:00:23+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e9e8e3ae65673f7f",
+      "title": "Octopus-Backed MOPO Partners Nigeria in $75 Million Battery Plan",
+      "summary": "MOPO, an Africa-focused battery rental company backed by Octopus Energy Group Ltd., said it’s signed an agreement with Nigeria to facilitate a $75 million expansion of its activities in Africa’s most populous nation.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/octopus-backed-mopo-partners-nigeria-in-75-million-battery-plan",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T06:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e326c4733aac4191",
+      "title": "Critical Minerals Drive Billion-Dollar Saudi-Canadian Partnership",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297941",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:57:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4d3f5fc36f57c817",
+      "title": "Conflicts, Aircraft Orders in Focus as Farnborough Airshow Kicks Off",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297939",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:50:34+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "71d17dcebb1a49ee",
+      "title": "Blasts heard in Bahrain's Manama",
+      "summary": "Blasts heard in Bahrain's Manama Explosions were reportedly heard in the Bahraini capital of Manama, shortly after ir raid sirens were activated, according to AFP.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-bahrains-manama",
+      "source": "Middle East Eye",
+      "published": "2026-07-20T05:47:41+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4445cd5eb0390303",
+      "title": "Russian President Putin Meets with North Korean FM in Latest High-Level Diplomacy",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297938",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:47:14+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "485c5478fc312b32",
+      "title": "FTSE 100 Live: Bonds and Stocks Fall as Oil Prices Rise Back to $90",
+      "summary": "",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-07-20/ftse-100-live-updates-burnham-uk-house-prices-pound-bonds-brent-oil-prices-iran-trump-news-what-s-moving-uk-markets-right-now-markets-today",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T05:45:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2d7d02ac7d95c2d0",
+      "title": "Kuwait Army Says Intercepting Iranian Drone Attacks as Alert Sounds in Bahrain",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297936",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:39:55+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0ed82cb784930cff",
+      "title": "World Cup Joy in Lamine’s Boyhood Home of Rocafonda",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297934",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:35:28+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "61a2b17f9ca4e129",
+      "title": "Emotional Scaloni Says Argentina Gave Utmost, Needs to Think About What Comes Next",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297933",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:32:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "58f217af289c7247",
+      "title": "Portfolio construction in the shadow of the AI bubble",
+      "summary": "Hard choices on all sides",
+      "link": "https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-20T05:30:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "df07f6ccdca071f5",
+      "title": "West African Leaders Approve Nigeria-Morocco Gas Pipeline",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297932",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:29:38+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "52f0b6a5550fd14b",
+      "title": "We Are the Most United Team, Says Emotional Spain Coach De la Fuente",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297927",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:03:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "36e8573adb8bdeca",
+      "title": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
+      "summary": "Hundreds of demonstrators in Texas city demand justice in fatal shooting of 52-year-old Mexican man.",
+      "link": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T05:01:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7a552f88ce5f9580",
+      "title": "‘The Last of Messi’: Argentines Mourn Loss and End of an Era",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297925",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T05:00:41+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a37d63ffadfa59bc",
+      "title": "Paris and Berlin set year-end deadline for options to reform EU’s diplomatic arm",
+      "summary": "Also in this newsletter: EU’s biggest economies call for lighter bank rules",
+      "link": "https://www.ft.com/content/7a1a9e9b-7919-4f3a-b84b-0cab584a04bb?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-20T05:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "529b40f1946566db",
+      "title": "Spain Win World Cup After Messi’s Argentina Fall Flat",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297922",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T04:56:54+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "35ba3cf5338c348d",
+      "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+      "summary": "US President Donald Trump said the latest strikes on Iran were carried out &#039;in honour&#039; of killed US military personnel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T04:52:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c5a212350bf9a9c7",
+      "title": "Kuwaiti air defences responding to Iranian attacks for a second time",
+      "summary": "Kuwaiti air defences responding to Iranian attacks for a second time Kuwaiti air defences have been activated and are responding to Iranian&nbsp;attacks for a second time in the past few hours.&nbsp; \"The General Staff of the Army confirms that any that any explosions that may be heard are the result of air defense systems intercepting hostile targets,\" the Kuwaiti Army said in a post on X, urging the public to adhere to&nbsp;security and safety instructions.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-air-defences-responding-iranian-attacks-second-time",
+      "source": "Middle East Eye",
+      "published": "2026-07-20T04:50:40+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "15dd815da673ce50",
+      "title": "Brent Oil Tops $90 as US, Iran Intensify Attacks in Middle East",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297921",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T04:49:40+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bb4958c73ae7ca5f",
+      "title": "China Solar Stocks Rise After Beijing Issues Consumption Tax",
+      "summary": "Shares of most Chinese solar and major battery makers rose on Monday after Beijing unveiled a consumption tax on solar cells and lithium batteries, raising hopes it will hasten industry consolidation, particularly in the oversupplied solar sector.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/china-solar-stocks-rise-after-beijing-issues-consumption-tax",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T04:47:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "07d586361276484d",
+      "title": "Emerging-Market Stocks Mixed as Investors Weigh Iran Tensions",
+      "summary": "Emerging-market stocks and currencies were mixed as investors weighed rising tensions between the US and Iran, as well as a technology-led selloff that rattled global markets last week.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/emerging-market-stocks-mixed-as-investors-weigh-iran-tensions",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T04:45:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fc340140e904e572",
+      "title": "Rubio Says Iran Using Hormuz as Leverage",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297919",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T04:45:03+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "405aa53f033e0baa",
+      "title": "US Launches More Airstrikes Against Iran After Announcing Another Death of a Service Member",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297918",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T04:42:34+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "38c09ecf7952fdb8",
+      "title": "US releases footage of ninth consecutive night of strikes on Iran",
+      "summary": "The US military carried out its ninth consecutive night of strikes on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T04:38:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f11be0fdfde00dc9",
+      "title": "Saudi Crown Prince, Lebanese President Discuss Latest Developments in Lebanon, Region",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5297917",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-20T04:34:51+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cc08bf0b75fd6ed0",
+      "title": "Palm Climbs to Near One-Month High as Iran Conflict Boosts Crude",
+      "summary": "Palm oil rose to the highest in nearly a month, tracking renewed strength in crude and other vegetable oil prices as the US and Iran exchanged escalating military strikes.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/palm-climbs-to-near-one-month-high-as-iran-conflict-boosts-crude",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T04:33:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4176e06180ffb057",
+      "title": "FirstFT: Burnham weighs Number 10 overhaul",
+      "summary": "Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI deal crown",
+      "link": "https://www.ft.com/content/b8fd6341-4191-4fdd-a9c0-7fb7837d1dc7?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-20T04:32:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e266942e8e8e0e7d",
+      "title": "Tearful Scaloni uncertain of Argentina future after World Cup loss",
+      "summary": "Manager says it would be difficult to assemble another squad capable of reaching two consecutive World Cup finals.",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/tearful-scaloni-uncertain-of-argentina-future-after-world-cup-loss?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T04:31:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "894fc1a0f54e4a02",
+      "title": "RBI Intervenes to Support Rupee as Currency Nears Record Low",
+      "summary": "India’s central bank stepped into the foreign exchange markets to support the rupee after the currency weakened toward a record low as a renewed surge in crude prices weighed on sentiment.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/rbi-intervenes-to-support-rupee-as-currency-nears-record-low",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T04:27:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ab3df6af26458f04",
+      "title": "Women’s tennis players must take one-time gene test for eligibility",
+      "summary": "Players will need to take a test ​for the SRY gene, which helps to determine biological sex, the WTA says.",
+      "link": "https://www.aljazeera.com/sports/2026/7/20/womens-tennis-players-must-take-one-time-gene-test-for-eligibility?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T04:21:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "e93f2568d1b06628",
       "title": "Sinaloa cartel founder set for $15bn forfeiture order and life sentence",
@@ -37,7 +1463,7 @@
     {
       "id": "f3c296ae8aea5b2a",
       "title": "UK pension insurers raise exposure to opaque private credit",
-      "summary": "S&amp;P warns on hard-to-price private assets that make up more than 10% of portfolios at L&amp;G, Standard Life and Just Group",
+      "summary": "S&amp;P warns on hard-to-price private assets that make up over 10% of portfolios at L&amp;G, Standard Life and Just Group",
       "link": "https://www.ft.com/content/82e9b2fc-0dd8-4560-837c-2e7695457783?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-07-20T04:00:28+00:00",
@@ -128,10 +1554,10 @@
       }
     },
     {
-      "id": "f0a99282ff718589",
+      "id": "b63a81b840ad4750",
       "title": "The man running against Benjamin Netanyahu",
-      "summary": "Former military chief Gadi Eisenkot is the main opponent to Israel’s divisive premier ahead of October election",
-      "link": "https://www.ft.com/content/19668ee2-0ba5-4960-a25b-62d3fb88d91a",
+      "summary": "Former military chief Gadi Eisenkot is the main opponent to Israel’s divisive prime minister ahead of October election",
+      "link": "https://www.ft.com/content/19668ee2-0ba5-4960-a25b-62d3fb88d91a?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-07-20T04:00:28+00:00",
       "region": "global",
@@ -252,9 +1678,9 @@
       }
     },
     {
-      "id": "5d8d0393787cc407",
-      "title": "What has the overhaul of the UK’s tax authority delivered so far?",
-      "summary": "Reduction in telephone waiting times boosts HMRC but harder test is the digital shift underpinning the wider overhaul",
+      "id": "689a2ab12dedecf6",
+      "title": "What has the overhaul of HMRC delivered so far?",
+      "summary": "Reduction in phone waiting times boosts tax authority but harder test is the digital shift underpinning the overhaul",
       "link": "https://www.ft.com/content/b70b3f8c-9c2e-434b-b33b-0d8e7a410a49?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-07-20T04:00:19+00:00",
@@ -283,9 +1709,9 @@
       }
     },
     {
-      "id": "d1ec57bae8bb0423",
-      "title": "The new Fed boss is tight-lipped. That might upset the markets",
-      "summary": "Warsh is reluctant to signal future interest rate moves — how will the hedge funds that own US Treasuries react?",
+      "id": "4a7c6469c68764a6",
+      "title": "Warsh’s quiet revolution at the Fed",
+      "summary": "The new US central bank chief is reluctant to signal future interest rate moves — how will hedge funds react?",
       "link": "https://www.ft.com/content/a02aa9b1-85e0-4db7-afad-7da4b99b7a31?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-07-20T04:00:19+00:00",
@@ -469,12 +1895,74 @@
       }
     },
     {
-      "id": "654d2ae9a948a61c",
-      "title": "Oil returns above $90 as Iran hits tankers",
-      "summary": "US carries out fresh wave of attacks as the number of American casualties rises",
-      "link": "https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-07-20T03:53:10+00:00",
+      "id": "c95e3286f71f4878",
+      "title": "Fans in Madrid party all night long after Spain’s World Cup victory",
+      "summary": "Spanish fans spent the night partying in Madrid after their team defeated Argentina 1-0 in the final of the World Cup.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_fans-in-madrid-party-after-spains-world-cup-victory-190726?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-20T03:59:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d4206b49fb0426ea",
+      "title": "Key China Copper Gauge Rallies to $100 After Tax Crackdown",
+      "summary": "A closely-watched gauge of China’s copper market has risen to the highest in more than a year, as a tax shake-up in the metal’s biggest market spurs a shortage of scrap and boosts demand for imports.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/key-china-copper-gauge-rallies-to-100-after-tax-crackdown",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-20T03:58:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6e05219f9839ab58",
+      "title": "Food delivery rider wins China's top literary prize",
+      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-20T03:53:07+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -655,8 +2143,8 @@
       }
     },
     {
-      "id": "b553026bb95378df",
-      "title": "Andy Burnham to become UK’s PM on Monday: What happens next?",
+      "id": "f0f4a504e77d422a",
+      "title": "What’s next as Andy Burnham takes over as UK’s next prime minister?",
       "summary": "Andy Burnham will become UK prime minister. Here&#039;s how the transition of power will unfold.",
       "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
       "source": "Al Jazeera English",
@@ -692,68 +2180,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-07-20/hedge-funds-dial-up-bearish-kiwi-bets-to-record-on-oil-rebound",
       "source": "Bloomberg Markets",
       "published": "2026-07-20T03:12:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11e723c6f7947f41",
-      "title": "India Private Banks See Corporate Loans Rise as Bond Yields Climb",
-      "summary": "Managements sounded fairly confident that credit demand will hold up.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/india-private-banks-see-corporate-loans-rise-as-bond-yields-climb",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-20T02:44:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dfd8c9636c3fea8c",
-      "title": "Soybeans and Corn Extend Gains as US-Iran Hostilities Escalate",
-      "summary": "Soybeans and corn futures extended gains as crude oil jumped after hostilities in the Middle East escalated, boosting the appeal of biofuels.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/soybeans-and-corn-extend-gains-as-us-iran-hostilities-escalate",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-20T02:41:49+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -940,37 +2366,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-07-20T02:23:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ea2e47a5b698abaf",
-      "title": "Chinese Traders Unwind Leveraged Bets at Fastest Pace Since 2016",
-      "summary": "Chinese stock traders unwound leveraged positions at the fastest pace since the 2015–2016 market crash on Friday, as fears that the AI-driven rally had become overstretched triggered a global equities rout.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-traders-unwind-leveraged-bets-at-fastest-pace-since-2016",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-20T02:17:18+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1244,68 +2639,6 @@
       }
     },
     {
-      "id": "bb5b5aa3527155c7",
-      "title": "US, Congo Ebola Travel Restrictions May Hamper Humanitarian Aid Response",
-      "summary": "New US and Congolese travel restrictions aimed at keeping Ebola from spreading across borders are drawing warnings from aid organizations and medical experts who say the measures could undermine efforts to control the world’s fastest-growing outbreak of the virus.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-congo-ebola-travel-restrictions-may-hamper-humanitarian-aid-response",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-20T01:30:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "90714d7ded0e78ae",
-      "title": "INR/USD: HSBC Offers Indian Diaspora 19x Leverage on FCNR(B) Deposits",
-      "summary": "When Moumita Shome landed in Dubai from Australia last month, the calls from bankers started almost immediately.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/inr-usd-hsbc-offers-indian-diaspora-19x-leverage-on-fcnr-b-deposits",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-20T01:30:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "4f701838ab9f0628",
       "title": "Norway opens new memorial for victims of 2011 massacre",
       "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
@@ -1343,37 +2676,6 @@
       "link": "https://www.ft.com/content/97eeb736-f8af-4839-8511-3d0354c8b34c?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-07-20T01:00:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "06102323468b4efc",
-      "title": "Venezuela’s Official Death Toll From Twin Quakes Rises to 5,208",
-      "summary": "Venezuela’s official death toll from the twin earthquakes that struck the country on June 24 rose to 5,208, according to the latest figures released on Sunday by National Assembly President Jorge Rodríguez.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/venezuela-s-official-death-toll-from-twin-quakes-rises-to-5-208",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-20T00:59:10+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1559,37 +2861,6 @@
       "summary": "US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
       "source": "Al Jazeera English",
-      "published": "2026-07-20T00:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7dbdab0d8d7f81b9",
-      "title": "IDR/USD: Rupiah May Recover on Rate Hike, Stronger Fiscals, Analysts Say",
-      "summary": "The Indonesian rupiah is poised for a period of stability, with analysts expecting the central bank to continue supporting Asia’s worst-performing currency and foreign funds to step up purchases of the nation’s high-yielding bonds.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-20/idr-usd-rupiah-may-recover-on-rate-hike-stronger-fiscals-analysts-say",
-      "source": "Bloomberg Markets",
       "published": "2026-07-20T00:00:00+00:00",
       "region": "global",
       "lang": "en",
@@ -1808,1277 +3079,6 @@
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-surprise-attack-command-centre-syria",
       "source": "Middle East Eye",
       "published": "2026-07-19T23:24:36+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2ad074c8f137cc81",
-      "title": "Kuwaiti army says it is responding to Iranian attacks",
-      "summary": "Kuwaiti army says it is responding to Iranian attacks The Kuwait army said that its air defences were responding to \"hostile drone threats\" from Iran, urging the public to&nbsp;\"adhere to safety and security instructions issued by the relevant authorities\".",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-army-says-it-responding-iranian-attacks",
-      "source": "Middle East Eye",
-      "published": "2026-07-19T23:20:23+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "983b568c9aabd020",
-      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
-      "summary": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
-      "link": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-19T23:18:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2029d31a77beb8da",
-      "title": "A bird’s-eye view as Donald Trump arrives for the World Cup final",
-      "summary": "Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T23:11:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4606d983cb0f4706",
-      "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
-      "summary": "Fans in Madrid erupted in celebration after Spain beat Argentina 1-0 in the World Cup final.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T23:05:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d59e49a479933152",
-      "title": "Morocco loses nearly 600 hectares of forest as wildfires sweep three provinces",
-      "summary": "Morocco has lost nearly 600 hectares of forest after wildfires swept through parts of Taroudant, Beni Mellal and Azilal over the past three days, according to official figures. The blazes destroyed a combined 598 hectares, triggering a large-scale response involving more than 1,180 firefighters, forest officials, security personnel, soldiers and local volunteers. Eight Canadair firefighting [&#8230;] The post Morocco loses nearly 600 hectares of forest as wildfires sweep three provinces appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142218-morocco-loses-nearly-600-hectares-of-forest-as-wildfires-sweep-three-provinces.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T23:00:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "128228fc27813839",
-      "title": "When is the next FIFA World Cup? 2030 hosts, dates and format",
-      "summary": "The 2030 tournament will span six countries and three continents as FIFA celebrates the World Cup&#039;s centenary.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/when-is-the-next-fifa-world-cup-2030-hosts-dates-and-format?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T22:51:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4f1d2445c9a6f83a",
-      "title": "Jordan appoints Morocco’s Badou Zaki as national team coach after Jamal Sellami’s departure",
-      "summary": "Jordan’s Football Association announced Sunday the appointment of Moroccan coach Badou Zaki as head coach of the national team, succeeding fellow Moroccan Jamal Sellami on a one-year contract ahead of upcoming competitions, including the 2027 AFC Asian Cup in Saudi Arabia. The decision came after the association’s board, chaired by Prince Ali bin Al Hussein, [&#8230;] The post Jordan appoints Morocco’s Badou Zaki as national team coach after Jamal Sellami’s departure appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142220-jordan-appoints-moroccos-badou-zaki-as-national-team-coach-after-jamal-sellamis-departure.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T22:44:59+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "48e30a3fb19a4086",
-      "title": "Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup",
-      "summary": "Ferran Torres scores the only goal of the game as Spain win their second World Cup.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T22:32:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ddc1c4b396d7486a",
-      "title": "FirstFT: Singapore weighs tax cuts for fund managers to rival Hong Kong",
-      "summary": "Also in today’s newsletter: US-Iran war expands and EU faces crumbling support for new Russia sanctions",
-      "link": "https://www.ft.com/content/b8fd6341-4191-4fdd-a9c0-7fb7837d1dc7?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-07-19T22:31:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "15eb180a4297935e",
-      "title": "When, where, and how Spain won the World Cup final against Argentina",
-      "summary": "Spain are world champions for the second time after Ferran Torres scored the winner against Argentina in extra time.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T22:24:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7efe8ae05f82a220",
-      "title": "Israeli forces, settlers kill two in Ramallah",
-      "summary": "Israeli forces, settlers kill two in Ramallah Gunfire from Israeli forces and settlers killed two Palestinians in the town of Deir Jarir east of Ramallah, &nbsp;in the occupied West Bank, Al Jazeera reported, citing Palestinian health ministry.&nbsp; صور| جانب من وداع الشهيد \"أحمد عادل رشيد أبو مخو\" الذي ارتقى برصاص الاحتلال خلال اقتحام بلدة دير جرير شمال شرق رام الله. pic.twitter.com/QWXBP6KiLv — المركز الفلسطيني للإعلام (@PalinfoAr) July 19, 2026",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-kill-two-ramallah",
-      "source": "Middle East Eye",
-      "published": "2026-07-19T22:22:18+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b2faea0b479d75bc",
-      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
-      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
-      "link": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-19T22:16:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "83b44d90e1204f74",
-      "title": "Oil Rises as US-Iran Attacks Escalate, Bonds Fall: Markets Wrap",
-      "summary": "Oil climbed to the highest level in more than a month and bonds fell as US and Iranian attacks escalated, renewing inflation concerns. Stocks steadied after a technology-led selloff rattled markets last week.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-19T22:10:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "51acbc58720ee766",
-      "title": "Spain win second World Cup title beating Argentina 1-0",
-      "summary": "Spain captured its second FIFA World Cup title on Sunday, defeating defending champion Argentina 1-0 after extra time in the final at MetLife Stadium in East Rutherford, New Jersey. Ferran Torres scored the decisive goal in the 106th minute, ending a tense contest in which Spain dominated possession and created the overwhelming majority of chances [&#8230;] The post Spain win second World Cup title beating Argentina 1-0 appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142226-spain-win-second-world-cup-title-beating-argentina-1-0.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T22:05:48+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9fd39d99394337d5",
-      "title": "Latest Oil Market News and Analysis for July 20",
-      "summary": "Brent crude jumped after the US and Iran escalated hostilities, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait over the weekend.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-19T22:02:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1ae426959fb1f4d2",
-      "title": "US Centcom says seven commercial vessels stopped under Iran naval blockade",
-      "summary": "US Centcom says seven commercial vessels stopped under Iran naval blockade US Central Command says American military have redirected six commercial ships and disabled another amid its naval blockade on Iran.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-seven-commercial-vessels-stopped-under-iran-naval",
-      "source": "Middle East Eye",
-      "published": "2026-07-19T21:52:25+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "769dd111c1c2417b",
-      "title": "Sirens sounded in Bahrain, interior ministry says",
-      "summary": "Sirens sounded in Bahrain, interior ministry says Bahrain’s interior ministry says it has sounded warning sirens and urged residents to remain calm and head to the nearest shelter, according to a statement posted on X. The siren has been sounded .. Citizens and residents are urged to remain calm and head to the nearest safe place. — Ministry of Interior (@moi_bahrain) July 19, 2026",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sirens-sounded-bahrain-interior-ministry-says",
-      "source": "Middle East Eye",
-      "published": "2026-07-19T21:31:04+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "173bbed08ca04717",
-      "title": "West African leaders sign agreement advancing Nigeria-Morocco Atlantic gas pipeline project",
-      "summary": "Leaders of the Economic Community of West African States (ECOWAS) signed an intergovernmental agreement on Sunday establishing the framework for the Nigeria-Morocco Atlantic gas pipeline, a major energy infrastructure project expected to transport natural gas from Nigeria to Morocco before connecting to Europe’s gas network. The agreement was signed during the ECOWAS summit in Freetown, [&#8230;] The post West African leaders sign agreement advancing Nigeria-Morocco Atlantic gas pipeline project appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142223-west-african-leaders-sign-agreement-advancing-nigeria-morocco-atlantic-gas-pipeline-project.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T21:13:00+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "895e98e635de9dab",
-      "title": "Israel committed 3,795 ceasefire violations in Gaza: Report",
-      "summary": "Israel committed 3,795 ceasefire violations in Gaza: Report Israel has committed 3,795 violations of the “ceasefire” agreement since it came into force in October, Al Jazeera reported, citing the government&nbsp;media office in Gaza. Ismail al-Thawabta, director general of the office said 1,168 Palestinians have been killed, 3,734 wounded and 149 detained as a result of what he described as Israeli “violations and ongoing abuses.\" He also warned that Israel had been severely restricting the delivery of humanitarian aid. Only 59,613 of the 168,000 aid trucks expected under the agreement had ent",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-committed-3795-ceasefire-violations-gaza-report",
-      "source": "Middle East Eye",
-      "published": "2026-07-19T21:07:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5b24790a89c99cf9",
-      "title": "Moroccan unions threaten more protests as they criticize government’s final record",
-      "summary": "As Morocco’s government enters the final stretch of its mandate, labor unions are intensifying criticism of its record, arguing that major promises remain unfulfilled despite progress on some workers’ demands. Union leaders say that while the government approved salary increases and introduced reforms to the education sector’s basic statute, it failed to address the concerns [&#8230;] The post Moroccan unions threaten more protests as they criticize government’s final record appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142203-moroccan-unions-threaten-more-protests-as-they-criticize-governments-final-record.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T21:02:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d84d57b3e667cf67",
-      "title": "Korea President’s Stock Dream Bumps Into Leveraged ETF Backlash",
-      "summary": "South Korea’s most closely watched stock-market innovation is morphing into a headache for President Lee Jae Myung.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-19/korea-president-s-stock-dream-bumps-into-leveraged-etf-backlash",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-19T21:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "19cb14fd6d6c7fee",
-      "title": "Israeli ministers join march to Gaza to demand return of settlements",
-      "summary": "Hundreds gather near the border as far-right figures push to rebuild settlements removed in 2005",
-      "link": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T20:55:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3a9d45567cdf1456",
-      "title": "Israelis march to Gaza border demanding re-establishment of settlements",
-      "summary": "Thousands of Israelis, including settlers and right-wing activists, marched towards the border with Gaza on Sunday, calling on the government to re-establish Israeli settlements in the war-shattered Palestinian territory, an AFP journalist reported. The demonstrators gathered near the border before walking in large numbers towards the fence overlooking northern Gaza, where Israeli security forces deployed [&#8230;] The post Israelis march to Gaza border demanding re-establishment of settlements appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142216-israelis-march-to-gaza-border-demanding-re-establishment-of-settlements.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T20:49:26+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d8b022801709dcfd",
-      "title": "Qatar condemns Iranian attacks",
-      "summary": "Qatar condemns Iranian attacks Qatar’s Foreign Minister Mohammed bin Abdulrahman Al Thani has held separate phone calls with his counterparts in Saudi Arabia, Jordan and Oman on Sunday. Al Jazeera reported that the minister condemned Iran’s latest attacks and urging all parties to pursue dialogue and diplomacy.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-iranian-attacks",
-      "source": "Middle East Eye",
-      "published": "2026-07-19T20:22:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "142ba5618ce7d848",
-      "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
-      "summary": "Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T20:22:38+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ab4b1fc6c82bcdfd",
-      "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
-      "summary": "All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T20:19:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a7950c197b1eabe7",
-      "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
-      "summary": "Andy Burnham will become Britain&#039;s next prime minister on Monday, with huge challenges and opportunities.",
-      "link": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T20:12:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3f76c0cfa5829d01",
-      "title": "Twin earthquakes strike Peru killing at least five",
-      "summary": "Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.",
-      "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T20:11:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2330845995b5fb0f",
-      "title": "The UK gets its seventh prime minister in 10 years",
-      "summary": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T20:05:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fdfe00f4b288a75c",
-      "title": "Andy Burnham plans beefed-up control centre in Downing Street",
-      "summary": "Incoming prime minister wants to be less reliant on ‘imperial’ Treasury as he bids to restore confidence in government",
-      "link": "https://www.ft.com/content/1370d477-fc16-408a-b9ed-d9c19c076ca3?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-07-19T20:00:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c33f8226b4fe2333",
-      "title": "Five passengers found drifting days after boat sinks in Indonesia",
-      "summary": "Five passengers, including a seven-year-old girl, were rescued from a passenger boat that sank in Indonesia.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/five-passengers-found-drifting-days-after-boat-sinks-in-indonesia?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T19:49:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "73f2f84119d165a1",
-      "title": "US soldier killed and one injured after Iranian attack in Iraq",
-      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-19T19:45:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6c6c2debc8685763",
-      "title": "Rider Abdelkebir Ouaddar wins King Mohammed VI Grand Prix at Senior Show Jumping Championship",
-      "summary": "Rider Abdelkebir Ouaddar on the horse &#8220;Chacsara&#8221; won His Majesty King Mohammed VI Grand Prix on Sunday, as part of the Moroccan Senior Show Jumping Championship. The championship took place in the context of the 41st Horse Week, organized on July 12-19 at the Royal Equestrian Sports Complex and Tbourida Dar Es-Salam in Rabat, under [&#8230;] The post Rider Abdelkebir Ouaddar wins King Mohammed VI Grand Prix at Senior Show Jumping Championship appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142210-rider-abdelkebir-ouaddar-wins-king-mohammed-vi-grand-prix-at-senior-show-jumping-championship.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T19:39:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "87bd8b2b05f695af",
-      "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
-      "summary": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-19T19:18:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ffa4f6f9a8d7c76c",
-      "title": "When summer turns deadly: Morocco’s dams and rivers on alert for illicit swimming",
-      "summary": "As temperatures continue to rise across Morocco, thousands of people seek relief in beaches, rivers and irrigation canals. In many rural areas, where access to swimming pools remains limited, natural water bodies often become the only option to escape the summer heat. Yet every year, these sites turn into scenes of preventable tragedies. World Drowning [&#8230;] The post When summer turns deadly: Morocco’s dams and rivers on alert for illicit swimming appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142201-when-summer-turns-deadly-moroccos-dams-and-rivers-on-alert-for-illicit-swimming.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T19:00:04+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d0c84030a9ce28c2",
-      "title": "Aussie’s Slide Versus Kiwi to Slow on Rate Gap, Strategists Say",
-      "summary": "The Australian dollar’s steep selloff against its New Zealand counterpart is set to slow, with analysts saying Australia’s higher interest rates and a key technical support will cushion the currency.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-19/aussie-s-slide-versus-kiwi-to-slow-on-rate-gap-strategists-say",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-19T19:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2ad2d3c2b1a8adc7",
-      "title": "Hundreds evacuated as wildfire scorches 13,000 hectares in Spain",
-      "summary": "Firefighters were battling a wildfire north of Madrid on Sunday that has burned around 13,000 hectares (32,000 acres) of land and forced some 700 residents to evacuate, authorities said. Prime Minister Pedro Sanchez said in a post on X that his government was closely monitoring the wildfire and thanked firefighters &#8220;working tirelessly&#8221; to protect lives [&#8230;] The post Hundreds evacuated as wildfire scorches 13,000 hectares in Spain appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142207-hundreds-evacuated-as-wildfire-scorches-13000-hectares-in-spain.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T18:37:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c391cf21c5aadc9d",
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-19T18:25:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "36b4f4ef159c9710",
-      "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-      "summary": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-19T18:18:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9b5957a4b8573b6d",
-      "title": "Iraqi PM to Visit Tehran This Week",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5297819",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-19T17:42:17+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1e5bfaa4d634d59c",
-      "title": "US-Iran strikes: latest developments",
-      "summary": "US and Iranian strikes extended into Sunday, with Washington saying it was punishing Tehran for the deaths of two US servicemen in Jordan and Gulf states announcing responses to Iranian attacks. Here are the latest developments: Rubio meets Lebanon president US Secretary of State Marco Rubio met Lebanese President Joseph Aoun in Washington, commending him [&#8230;] The post US-Iran strikes: latest developments appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142205-us-iran-strikes-latest-developments-2.html",
-      "source": "Hespress EN",
-      "published": "2026-07-19T17:36:56+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
