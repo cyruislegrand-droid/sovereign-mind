@@ -1,16 +1,512 @@
 {
-  "generated_at": "2026-07-25T10:46:58.088221+00:00",
+  "generated_at": "2026-07-25T12:05:39.359666+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
+      "id": "fbc16c94ae88d266",
+      "title": "Austin’s Mayor Tackles Housing Affordability, and Canada Faces New Tariffs",
+      "summary": "Former trade negotiator says don’t underestimate Canada’s ire",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-25/austin-s-mayor-tackles-housing-affordability-and-canada-faces-new-tariffs",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-25T12:00:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a60f51f1116b24e4",
+      "title": "Palestinian killed in Israeli strike on Gaza City",
+      "summary": "Palestinian killed in Israeli strike on Gaza City A Palestinian has been killed and another wounded in an Israeli attack on Gaza City's Sheikh Radwan neighbourhood, Wafa news agency is reporting, citing medical sources. According to the sources, an Israeli drone targeted a cyclist and pedestrians.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-israeli-strike-gaza-city",
+      "source": "Middle East Eye",
+      "published": "2026-07-25T11:49:43+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8a3eac2801a3c7a8",
+      "title": "Some 9.4 mln tourists visited Morocco by end of June",
+      "summary": "The number of visitors received at Morocco&#8217;s border crossings approached 9.4 million people by the end of June 2026, an increase of 6% year-on-year, according to the Directorate of Financial Studies and Forecasts (DEPF). This performance reflects an increase in arrivals from the French (+9%), German (+14%), Belgian (+9%), Dutch (+10%), Italian (+6%), Polish (+32%), [&#8230;] The post Some 9.4 mln tourists visited Morocco by end of June appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/142564-some-9-4-mln-tourists-visited-morocco-by-end-of-june.html",
+      "source": "Hespress EN",
+      "published": "2026-07-25T11:44:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "371b14806d36c256",
+      "title": "Japan Records Fifth ‘Cruelly Hot Day’",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5299908",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-25T11:39:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2f233788b6c47d1e",
+      "title": "At Least 35 Killed in Bus Collision on Syria’s Deir Ezzor-Damascus Road",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5299907",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-25T11:35:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4071e0f81460baef",
+      "title": "Tuberculosis: How drones are transforming care in the Philippines",
+      "summary": "101 East meets the doctors using drones to fight tuberculosis and save lives in remote communities in the Philippines.",
+      "link": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-25T11:30:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "100f47e88fe954bf",
+      "title": "Man City’s Khusanov Signs New Five-Year Contract",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5299903",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-07-25T11:27:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5f245294d494d1af",
+      "title": "Two buses collide in Syria, killing at least 35 people",
+      "summary": "One of the buses was carrying members of the Internal Security Forces, while the other was transporting civilians.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-25T11:14:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eb1417f40f7b6ce7",
+      "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
+      "summary": "Modi built his political brand through social media. Now protesters are using same platforms to mock his administration.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-07-25T11:09:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f0cdf4639cbaa826",
+      "title": "In the cradle of Tunisia's revolution, anger gave way to apathy. Then Gaza happened",
+      "summary": "In the cradle of Tunisia's revolution, anger gave way to apathy. Then Gaza happened Fifteen years ago, this was a city that changed the Arab world. It was here that street vendor Mohamed Bouazizi set himself on fire after local officials&nbsp;harassed&nbsp;him, humiliated him, and confiscated his fruit cart - igniting an uprising that toppled Tunisia's longtime ruler, Zine El Abidine Ben Ali, and inspired revolts across the Middle East and North Africa. Today, the market hums with familiar rhythms. Traders haggle over prices. Customers inspect fruit they increasingly struggle to afford. Life a",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cradle-tunisias-revolution-anger-gave-way-apathy-then-gaza-happened",
+      "source": "Middle East Eye",
+      "published": "2026-07-25T11:06:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b02b620cbb2da0e8",
+      "title": "Israeli attacks in Gaza kill at least six Palestinians, wound 37",
+      "summary": "Israeli attacks in Gaza kill at least six Palestinians, wound 37 Israeli attacks across Gaza have killed at least six Palestinians and wounded another 27 in the last 48 hours, the enclave's health ministry is reporting. It added that two people have died after succumbing to prior wounds, and that emergency teams are unable to reach additional victims trapped under rubble. Some 1,191 Palestinians have been killed by Israel since the so-called \"ceasefire\" was implemented in October 2024. Another&nbsp;3,853 have been wounded, and 803 bodies recovered.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-gaza-kill-least-six-palestinians-wound-37",
+      "source": "Middle East Eye",
+      "published": "2026-07-25T11:03:32+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1a5c510b555d5ede",
+      "title": "PAM appoints Fouzi Lekjaa to political bureau ahead of parliamentary vote",
+      "summary": "Morocco&#8217;s Party of Authenticity and Modernity (PAM) has officially announced the appointment of Budget Minister and Royal Moroccan Football Federation (FRMF) President Fouzi Lekjaa to its political bureau, marking one of the country&#8217;s most significant political moves ahead of the September parliamentary elections. Fatima Ezzahra El Mansouri, coordinator of PAM&#8217;s collective leadership, confirmed Lekjaa&#8217;s membership [&#8230;] The post PAM appoints Fouzi Lekjaa to political bureau ahead of parliamentary vote appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/142561-pam-appoints-fouzi-lekjaa-to-political-bureau-ahead-of-parliamentary-vote.html",
+      "source": "Hespress EN",
+      "published": "2026-07-25T11:00:59+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee1970a8514b54fc",
+      "title": "Maha Inc: how companies tied to Kennedy’s movement are poised to benefit",
+      "summary": "Kaleidoscope of industries emerge as early winners from administration’s health regulation overhaul",
+      "link": "https://www.ft.com/content/1a7cdff0-5e52-4fa1-8b21-978e501eb791?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-25T11:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a47b3a7523449854",
+      "title": "Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly",
+      "summary": "Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales — and having a bigger impact on the US corporate bond market than might be obvious.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-25T11:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "891837cf9906d94c",
+      "title": "MAP warns Palestinians in Nablus facing 'existential threat', calls on UK to act",
+      "summary": "MAP warns Palestinians in Nablus facing 'existential threat', calls on UK to act Medical Aid for Palestinians has warned that Palestinians in Nablus are facing an \"existential threat\" following an overnight escalation in settler attacks and military raids, which also saw healthcare facilities targeted. Aseel Baidoun, MAP’s Deputy Director of Advocacy and Campaigns said that an Israeli military raid on&nbsp;Nablus Specialised Hospital marks an escalation in the violence, noting that patients were arrested while ambulances were barred from reaching wounded Palestinians. “These are not isolated i",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/map-warns-palestinians-nablus-facing-existential-threat-calls-uk-act",
+      "source": "Middle East Eye",
+      "published": "2026-07-25T10:59:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "e4ada9d8ec20c074",
       "title": "Tehran says Yemen conflict 'cannot be attributed to Iran'",
-      "summary": "Tehran says Yemen conflict 'cannot be attributed to Iran' Iran's Foreign Minister Abbas Araghchi has said that the conflict between Saudi Arabia and Yemen \"cannot be attributed to Iran\" and that the escalating tensions in the Bab al-Mandeb strait are “rooted in old disputes and issues\" between the two countries. “We believe that there is no military solution to the issue of Yemen, Bab al-Mandeb, and other regional issues,”&nbsp; he said in an interview with the state-run Iran Daily newspaper. His comments come as the Houthis announced a blockade on the passage that Riyhadh had been using to sh",
+      "summary": "Tehran says Yemen conflict 'cannot be attributed to Iran' Iran's Foreign Minister Abbas Araghchi has said that the conflict between Saudi Arabia and Yemen \"cannot be attributed to Iran\" and that the escalating tensions in the Bab al-Mandeb strait are “rooted in old disputes and issues\" between the two countries. “We believe that there is no military solution to the issue of Yemen, Bab al-Mandeb, and other regional issues,” he said in an interview with the state-run Iran Daily newspaper. His comments come as the Houthis announced a blockade on the passage that Riyadh had been using to ship crud",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-yemen-conflict-cannot-be-attributed-iran",
       "source": "Middle East Eye",
       "published": "2026-07-25T10:42:32+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7916b514c72b5c2d",
+      "title": "India’s education minister resigns after weeks of student protests",
+      "summary": "Dharmendra Pradhan’s departure was a key demand of the growing student movement",
+      "link": "https://www.ft.com/content/5f267b7d-9e57-40f6-9bb5-6fe5d6cf9d1d?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-07-25T10:38:12+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -128,8 +624,8 @@
       }
     },
     {
-      "id": "0678153a248bbeb5",
-      "title": "Investors bet on Federal Reserve rate rise after oil price surge",
+      "id": "9c1d30d0d8a82f1a",
+      "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
       "summary": "Sharp increase in energy prices means next week’s US central bank meeting is ‘live’, investors say",
       "link": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1",
       "source": "FT World",
@@ -223,7 +719,7 @@
     {
       "id": "99183ce9dd9d0ec9",
       "title": "Saudi Arabia strikes Houthis after Iran-backed rebels target tankers",
-      "summary": "Kingdom’s civil defence forces warn key energy sites at risk of retaliatory attacks",
+      "summary": "Kingdom’s civil defence forces warn key energy sites are at risk of retaliatory attacks",
       "link": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-07-25T09:59:05+00:00",
@@ -252,8 +748,8 @@
       }
     },
     {
-      "id": "d787447aad0d38e3",
-      "title": "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+      "id": "09ba9883a8d5ddc4",
+      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
       "summary": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
       "link": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
       "source": "Al Jazeera English",
@@ -1554,99 +2050,6 @@
       }
     },
     {
-      "id": "70a16bd3546c8c4d",
-      "title": "Pompeii Archaeologists Reconstruct Frescoed Ceiling of a Banquet Hall",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5299849",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-25T07:11:10+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "348a84fb8f283bcc",
-      "title": "New York's Noisy Food Carts Go Electric in Clean Air Trial",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5299847",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-25T07:06:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "db938467c9cd545c",
-      "title": "China Evacuates 20,000 People as Typhoon Noul Nears",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5299846",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-07-25T07:05:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "80b19064f3a70a8c",
       "title": "Europe’s Stock Market Rally Is the Most Concentrated in Years",
       "summary": "The European equity market has long been seen as immune to shocks driven by only a handful of stocks. A narrow rally in 2026 has completely flipped that script.",
@@ -2174,37 +2577,6 @@
       }
     },
     {
-      "id": "3a3d300ac12f8835",
-      "title": "HRW says ‘decisive’ action needed to stop settler reprisals",
-      "summary": "HRW says ‘decisive’ action needed to stop settler reprisals Human Rights Watch has said that decisive international action is urgently needed to prevent escalating Israeli settler reprisals in the occupied West Bank. “The Israeli government didn’t prevent the settler attacks on Tal village, so now it needs to stop settler reprisals and escalating military action that will make a bad situation worse,” Sarah Sanbar, HRW Israel and Palestine researcher, said in a statement. “Years of lawlessness and impunity for attacks has turned the West Bank into a powder keg waiting to explode, and decisive a",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hrw-says-decisive-action-needed-stop-settler-reprisals",
-      "source": "Middle East Eye",
-      "published": "2026-07-25T04:16:54+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3a98bf33f4143bc5",
       "title": "Guy Scott, former president of Zambia, 1944-2026",
       "summary": "The academic and farmer was the first and only white man to lead an African democracy",
@@ -2608,37 +2980,6 @@
       }
     },
     {
-      "id": "40b5a0eea1d64004",
-      "title": "Houthis claim missile attack on southern Saudi Arabia",
-      "summary": "Houthis claim missile attack on southern Saudi Arabia Yemen's Houthis have claimed a missile attack on the southern Saudi city of Jizan, the group's Ansarollah media posted on Telegram, according to AFP. Saudi Arabia issued brief warnings to residents in Jizan and Yanbu this morning, urging them to remain alert and avoid gatherings. Earlier, the Houthi Foreign Ministry blamed Saudi Arabia for an attack on facilities belonging to the Telecommunications Corporation in the city of Hodeidah, saying it will lead to “escalation for escalation”.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-missile-attack-southern-saudi-arabia",
-      "source": "Middle East Eye",
-      "published": "2026-07-25T03:58:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e3bc3552cbd9ff26",
       "title": "Trump attacks journalists at awkward White House press dinner",
       "summary": "Many of the president’s jokes met stony silence at rescheduled event",
@@ -2670,37 +3011,6 @@
       }
     },
     {
-      "id": "ece53f2967421243",
-      "title": "Iranian commander says one US soldier will be killed for every civilian death",
-      "summary": "Iranian commander says one US soldier will be killed for every civilian death &nbsp;A top Iranian military commander has said that one US soldier would be killed for every Iranian civilian killed in US attacks. According to IRNA, Major General Ali Abdollahi, commander of the Khatam al-Anbiya Headquarters, Iran's highest military command, said: “The rule that we had already proved operational to the enemy is, from this moment, a definitive and officially declared equation of the battlefield: In return for the martyrdom of every proud citizen of Iran, one American soldier will be killed.”&nbsp; ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-commander-says-one-us-soldier-will-be-killed-every-civilian",
-      "source": "Middle East Eye",
-      "published": "2026-07-25T03:44:56+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "c266a942ee5dd474",
       "title": "India Flags Attack on LPG Tanker in Iran Waters, Says Crew Safe",
       "summary": "India’s embassy in Tehran said it is in close contact with authorities after a liquefied petroleum gas tanker, with 28 Indian crew members onboard, came under attack in Iranian territorial waters on Friday.",
@@ -2708,68 +3018,6 @@
       "source": "Bloomberg Markets",
       "published": "2026-07-25T03:31:07+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a6b785c87c3a6b9e",
-      "title": "Trump says Iran ‘talking to us right now’ but can’t have nuclear weapon",
-      "summary": "Trump says Iran ‘talking to us right now’ but can’t have nuclear weapon US President Donald Trump said that the Iranians are in talks with the United States, and that he is willing to listen, but emphasised that Tehran cannot have a nuclear weapon. “They are talking to us right now; they’d love to make a deal. I don’t think they’re ready to. I don’t think it’s time yet, but I’m willing to listen, but they cannot have a nuclear weapon,” Trump said during the annual correspondents’ dinner in Washington, DC, according to Al Jazeera. Trump said that repeated American strikes have severely weakened",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-talking-us-right-now-cant-have-nuclear-weapon",
-      "source": "Middle East Eye",
-      "published": "2026-07-25T03:30:47+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0278fb0958d82024",
-      "title": "Unesco adds West Bank site to endangered list despite Israeli objections",
-      "summary": "Unesco adds West Bank site to endangered list despite Israeli objections The UN Educational, Scientific and Cultural Organization (Unesco) has added the archaeological site of Sebastia in the Israeli-occupied West Bank to both the World Heritage List and the List of World Heritage in Danger.&nbsp; The nomination was made despite objections from Israel, which had urged the committee to reject the bids, during a meeting in South Korea's Busan, after reviewing the nomination on an emergency basis, citing ongoing conflicts in the Middle East. The committee also decided to place five castles in Leb",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unesco-adds-west-bank-and-lebanon-sites-heritage-list-despite-israeli",
-      "source": "Middle East Eye",
-      "published": "2026-07-25T03:18:29+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2831,254 +3079,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-07-25T02:29:13+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "967f1a7dff540e8f",
-      "title": "From palava huts to TikTok: How Liberians are preserving their past",
-      "summary": "From podcasts to TikTok, young Liberians are using digital platforms to keep history alive and challenge old narratives.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/from-palava-huts-to-tiktok-how-liberians-are-preserving-their-past?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-25T02:24:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a1ffc3eb27b80c9f",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-25T02:23:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9aacb88a2ae5749e",
-      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-25T02:14:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2a1118dc4e7484eb",
-      "title": "Delivery driver poet heralds arrival of Chinese migrant literature",
-      "summary": "Wang Jibing wins top prize for collection inspired by his life",
-      "link": "https://www.ft.com/content/4cfed0a0-041b-4052-9fb1-6f5ecfa0b60f?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-07-25T01:57:06+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "808a3ca85577c833",
-      "title": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
-      "summary": "Lorenzo Salgado Araujo&#039;s sons tell lawmakers their father worked hard &#039;to protect and provide&#039; for his family.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-25T01:30:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0f388bd4e7026397",
-      "title": "Japan’s Seven & i Abandons Investment Talks With Poland’s Zabka",
-      "summary": "Japan’s Seven &amp; i Holdings Co. has ended talks over a potential investment in Zabka Group SA, Poland’s largest convenience store operator, even as it continues to look for expansion opportunities beyond its home market.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-25/seven-i-abandons-investment-talks-with-poland-s-zabka-group",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-25T01:24:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "64b44cdcf8c5e027",
-      "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-      "summary": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-25T01:09:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a2a22c0a549d7420",
-      "title": "El Niño Worsens Plight of Asia’s Rice Belt After War Price Shock",
-      "summary": "A dry spell is sweeping across Asia’s rice fields, dealing another blow to farmers grappling with steep fuel and fertilizer prices triggered by the war in Iran.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-25/el-nino-worsens-plight-of-asia-s-rice-belt-after-war-price-shock",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-25T01:00:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
