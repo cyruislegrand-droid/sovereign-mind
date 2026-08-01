@@ -1,8 +1,566 @@
 {
-  "generated_at": "2026-08-01T07:31:53.857628+00:00",
+  "generated_at": "2026-08-01T09:45:01.248442+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "8b6acd89acef11d7",
+      "title": "UKMTO Reports Two Tanker Incidents Off Oman",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302260",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T09:43:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "95263993eb839146",
+      "title": "Kuwait Says it Destroyed Hostile Drones, Iranian Attack Targeted Vital Facilities",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302259",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T09:32:32+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6ccce2691a7db948",
+      "title": "Russia Hits Kyiv with Ballistic Missiles and Drones, At Least 9 Dead",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302258",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T09:19:52+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f2e27d0ab52e0171",
+      "title": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
+      "summary": "Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-01T09:19:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d9d59030f3b2b524",
+      "title": "Houthis deny planning to charge ships passing through Red Sea",
+      "summary": "Houthis deny planning to charge ships passing through Red Sea The Houthis have denied reports that they plan to impose fees on commercial ships passing through the Bab al-Mandeb strait. A Reuters report earlier this week had said the Houthis were considering imposing fees on commercial ships sailing through the strait. But Yemen's Houthi-run maritime coordination body said on Saturday that no such decision has been taken, and that passage through the strait remains free.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-deny-planning-charge-ships-passing-through-red-sea",
+      "source": "Middle East Eye",
+      "published": "2026-08-01T09:16:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "729dea735421bec9",
+      "title": "Dogs Allowed! Animal Hospital Opens Doors to Japan Quake Survivors and their Pets",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302253",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T09:07:27+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b1dd6588471abfe5",
+      "title": "UN says rights must be respected as thousands cross from Morocco into Ceuta",
+      "summary": "United Nations Secretary-General António Guterres has called for protecting the rights and dignity of all people arriving in Ceuta, following the recent rise in arrivals to the Spanish territory. Speaking through his deputy spokesperson, Farhan Haq, Guterres stressed the need to make sure that the rights and human dignity of every individual entering the area [&#8230;] The post UN says rights must be respected as thousands cross from Morocco into Ceuta appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/143000-un-says-rights-must-be-respected-as-thousands-cross-from-morocco-into-ceuta.html",
+      "source": "Hespress EN",
+      "published": "2026-08-01T09:03:04+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "446aeca06848b439",
+      "title": "Europe’s Endless Heat Waves Imperil Once Reliable Power Sources",
+      "summary": "A series of blistering heat waves has weakened some of Europe’s most historically reliable sources of electricity, forcing the continent to lean more heavily on imported fossil fuels and variable renewable energy.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-01/europe-s-endless-heat-waves-imperil-once-reliable-power-sources",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-01T09:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "279b1699d781bc02",
+      "title": "Google Rolls Back New Satellite Image AI Tool after Backlash",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302250",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T08:58:35+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7042a4ed4d3651a2",
+      "title": "FIFA scraps private investment plan after backlash",
+      "summary": "FIFA president Gianni Infantino said on Saturday he has scrapped a plan to allow private investment in the World Cup following fierce backlash from football officials worldwide. &#8220;Our purpose has always been &#8212; and will always be &#8212; to unite and improve,&#8221; Infantino said in a statement. &#8220;As a result, this proposal will not proceed.&#8221; [&#8230;] The post FIFA scraps private investment plan after backlash appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/142995-fifa-scraps-private-investment-plan-after-backlash.html",
+      "source": "Hespress EN",
+      "published": "2026-08-01T08:49:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7f91a8586dda9b7d",
+      "title": "Nearly 70,000 migrants leave Ceuta as death toll reaches 60",
+      "summary": "The death toll from the mass crossing into Ceuta rose to 60 on Saturday as Spanish authorities began installing a new maritime barrier near the Tarajal border and said almost 69,500 migrants had left the enclave for Morocco over the previous 30 hours. Spanish security sources cited by EFE said Civil Guard officers and rescue [&#8230;] The post Nearly 70,000 migrants leave Ceuta as death toll reaches 60 appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/142996-nearly-70000-migrants-leave-ceuta-as-death-toll-reaches-60.html",
+      "source": "Hespress EN",
+      "published": "2026-08-01T08:48:29+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c1590b712faf7471",
+      "title": "Mystery Over Who Targeted Egypt’s Damietta Port Raises Questions",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302246",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T08:40:56+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1dcee058cc409e05",
+      "title": "Israeli forces arrest seven, including two teens, in West Bank",
+      "summary": "Israeli forces arrest seven, including two teens, in West Bank Israeli forces have arrested at least seven Palestinians, including two teenagers, in raids in the occupied West Bank. Soldiers arrested a 16-year-old in the town of Tammun, southeast of Tubas city, according to the Wafa news agency. They also arrested a 16-year-old in the village of Wadi Fukin, west of Bethlehem, in a predawn raid.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-seven-including-two-children-west-bank",
+      "source": "Middle East Eye",
+      "published": "2026-08-01T08:27:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "97c294158f5120d3",
+      "title": "The Last Trio: S.Africa's Zoo Elephants Await their Fate",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302243",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T08:26:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fe18f8d6a8ca6c2a",
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T08:24:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "09e12249f0dd9ed6",
+      "title": "Iraq’s Government Admits Difficulty Paying Salaries on Time",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302239",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T08:02:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "98a9360985ac16e3",
+      "title": "Saudi-Backed Projects Boost Reconstruction, Services in Yemen's Aden",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302238",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-01T07:44:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5c16f508b9851ddd",
+      "title": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+      "summary": "Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.",
+      "link": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-01T07:33:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "8046b5098d356135",
       "title": "Sources to Asharq Al-Awsat: Gaza Understandings Likely to Overcome Israeli, Islamic Jihad Objections",
@@ -66,37 +624,6 @@
       }
     },
     {
-      "id": "fe18f8d6a8ca6c2a",
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T07:21:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "23af64a9bbda2135",
       "title": "Hummingbird Hawk-Moths Descend on UK Gardens",
       "summary": "",
@@ -128,8 +655,8 @@
       }
     },
     {
-      "id": "995d6dfbddaf976f",
-      "title": "How an Iron Ore Empire ‘Built on Trust’ Began to Raise Doubts",
+      "id": "8a55e5479b93c73d",
+      "title": "How an Iron Ore Empire ‘Built on Trust’ Began to Sow Doubts",
       "summary": "In a corporate presentation in December 2024, Radiant World boasted of its “diverse network” of suppliers and counterparties.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-01/how-an-iron-ore-empire-built-on-trust-began-to-raise-doubts",
       "source": "Bloomberg Markets",
@@ -507,37 +1034,6 @@
       "source": "Bloomberg Markets",
       "published": "2026-08-01T05:32:29+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1d308cfa0c93663b",
-      "title": "FIFA Scraps Private Investment Plan after Backlash",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302214",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-01T05:23:22+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2143,37 +2639,6 @@
       }
     },
     {
-      "id": "f35c5aca66105b59",
-      "title": "Houthis say transit through Bab el-Mandeb free of charge",
-      "summary": "Houthis say transit through Bab el-Mandeb free of charge Yemen's Houthi group said on Saturday that transit through the Bab el-Mandeb&nbsp;strait remains free of charge, denying reports that the authorities plan to impose tolls on vessels transiting the waterway. The Houthi-run Humanitarian Operations Coordination Center (HOCC) said in a statement that its&nbsp;Safe Transit Service for eligible vessels is voluntary and provided at no cost. \"All vessels outside the scope of the declared ban may transit safely. Additionally, for added assurance, such vessels may submit a Safe Transit Request by ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-transit-through-bab-el-mandeb-free-charge",
-      "source": "Middle East Eye",
-      "published": "2026-08-01T00:20:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e246cc4e0129b6e6",
       "title": "Infantino on the brink? Who might replace him if he goes?",
       "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
@@ -2236,9 +2701,9 @@
       }
     },
     {
-      "id": "942ca4c3376e83b1",
-      "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
-      "summary": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
+      "id": "0b0d99b1d87086fb",
+      "title": "Iran war live: Tehran attacks Kuwait, threatens region with ‘flames of war’",
+      "summary": "Kuwait says several vital facilities were targets of Iranian drones that its army detected and destroyed since dawn.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-07-31T23:59:40+00:00",
@@ -2367,37 +2832,6 @@
       "source": "BBC World",
       "published": "2026-07-31T23:41:10+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "13e6f6fabe072ecb",
-      "title": "Palestinian authorities secure court order freezing demolitions in Jordan Valley",
-      "summary": "Palestinian authorities secure court order freezing demolitions in Jordan Valley The Colonization and Wall Resistance Commission (CWRC) and the Tubas Governorate have obtained an injunction from an Israeli court freezing the demolition of Palestinian-owned structures in the northern Jordan Valley, Wafa reported. Citing activist Moataz Basharat, Wafa reported that Israeli authorities had issued demolition notices to the Palestinian owners of residential structures and livestock barns in the Nab' al-Ghazal area of Al-Farisiya, in the northern Jordan Valley.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authorities-secure-israeli-court-order-freezing-demolitions",
-      "source": "Middle East Eye",
-      "published": "2026-07-31T23:40:52+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2646,440 +3080,6 @@
       "source": "FT World",
       "published": "2026-07-31T22:53:09+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c70511dc2343827d",
-      "title": "Chip War, Stanford University: Scarlet & Tom's Must-Read Books",
-      "summary": "Scarlet Fu and Tom Keene discuss their must-read book on this weeks edition of \"Bloomberg Money.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/chip-war-stanford-university-scarlet-tom-s-must-read-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T22:23:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "53ef7cfd4a00dd34",
-      "title": "'Rush', 'BTS', SpaceX: Your Look Ahead for Weekend, Week",
-      "summary": "Scarlet Fu and Tom Keene on \"Bloomberg Money\" to discuss the week ahead - 'BTS', 'Rush' & Jobs (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/-rush-bts-spacex-your-look-ahead-for-weekend-week-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T22:21:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e7b393c34bded8fb",
-      "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
-      "summary": "Israeli settlers vandalise Palestinian cemetery in West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-31T22:12:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f1c73c452845d690",
-      "title": "US Senate’s Fauci hearing renews COVID origin debate but reveals little",
-      "summary": "Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.",
-      "link": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-31T22:10:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "466d6992b1b936a2",
-      "title": "RBC's Calvasina Sees Nervousness, But 'No Panic' in Stocks",
-      "summary": "Lori Calvasina, head of US equity strategy at RBC Capital Markets, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss stock trading by institutional and retail investors. Plus the firm's \"Four Tiers of Fear\". (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/rbc-s-calvasina-sees-nervousness-but-no-panic-in-stocks-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T22:03:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "92de9191b120d8e3",
-      "title": "'Boomerang' Kids Eat Into Expenses, Retirement Savings",
-      "summary": "Bloomberg's Suzanne Woolley joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" The share of young American adults living with their parents is back near Covid-lockdown highs. A fuller nest can come at the expense of your nest egg. Half of those supporting an adult child say it’s affecting their finances, according to a Thrivent survey, and one in five say they’ll reduce retirement savings if necessary. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/-boomerang-kids-eat-into-expenses-retirement-savings-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T21:54:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9cdbf62dddbbf6a0",
-      "title": "Moroccan youths renew attempts to cross into Melilla",
-      "summary": "Dozens of young people, most of them minors, renewed attempts on Friday evening to reach the Beni Ansar border crossing and nearby fencing leading into the Spanish-controlled enclave of Melilla, according to local reports. Tensions remained high for a second consecutive day as groups seeking to cross irregularly gathered near the checkpoint and the Barrio [&#8230;] The post Moroccan youths renew attempts to cross into Melilla appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142991-moroccan-youths-renew-attempts-to-cross-into-melilla.html",
-      "source": "Hespress EN",
-      "published": "2026-07-31T21:52:46+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "68d0cd9ac4fbac38",
-      "title": "Rich Clarida's Money Splurge: Music, New Album",
-      "summary": "Former Federal Reserve Vice Chairman Richard Clarida talks to Tom Keene and Scarlet Fu on \"Bloomberg Money\" about his music and upcoming album. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/rich-clarida-s-money-splurge-music-new-album-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T21:52:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3531eb0bafe36203",
-      "title": "Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin",
-      "summary": "Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-07-31T21:49:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "85e9ea84f528cb33",
-      "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
-      "summary": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
-      "link": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-07-31T21:46:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5ca074a562bfa870",
-      "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-      "summary": "Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary Research CEO Ed Zitron gives his more skeptical take on the industry. In speaking about OpenAI and Anthropic Zitron argues \"everyone is buying into these stocks because they believe all of that CapEx is going towards diverse and spread out AI demand, when in fact, what it's actually doing is helping create infrastructure for two unprofitable, unsustainable companies.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/zitron-everyone-has-been-sold-a-lie-on-ai-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T21:42:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "207015b665a9b8ef",
-      "title": "Branches of K-Shaped Economy Diverging Even Wider: Clarida",
-      "summary": "Former Federal Reserve Vice Chairman Richard Clarida, and now a global economic adviser for Pimco, talks to Tom Keene and Scarlet Fu on\"Bloomberg Money\". Clarida endorsed the view that the US has a so-called K-shaped economy, with the divergence between its two branches widening over the past six to seven years. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/branches-of-k-shaped-economy-diverging-wider-clarida-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T21:42:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3dcb9aca1518d813",
-      "title": "Luxury Real Estate Firm Serhant Expands into Texas Amid Booming Market",
-      "summary": "Ryan Serhant, CEO and Founder of luxury real estate firm Serhant, discusses the company's strategic expansion into Texas, highlighting the state's robust job growth and entrepreneurial environment. Texas leads the nation with over 3.5 million startups and small businesses, and more Fortune 500 headquarters than any other state, driving a strong luxury housing market with $25 billion in residential sales over $1 million in the past year. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-31/luxury-real-estate-firm-serhant-expands-into-texas-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-31T21:40:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bc0f23fe841560ca",
-      "title": "Hunger and hostility drive migrants back from Ceuta",
-      "summary": "Thousands of migrants who entered Ceuta from Morocco began returning voluntarily on Friday after hopes of reaching Spain collided with hunger, closed businesses, overcrowding and hostility inside the enclave. Spanish authorities said they had recovered 57 bodies from waters off Ceuta, while the Tetouan forensic service separately received 14 bodies linked to the crossings. Search [&#8230;] The post Hunger and hostility drive migrants back from Ceuta appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/142988-hunger-and-hostility-drive-migrants-back-from-ceuta.html",
-      "source": "Hespress EN",
-      "published": "2026-07-31T21:35:48+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
