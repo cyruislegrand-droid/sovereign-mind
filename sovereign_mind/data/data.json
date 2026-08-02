@@ -1,8 +1,752 @@
 {
-  "generated_at": "2026-08-02T06:46:44.049474+00:00",
+  "generated_at": "2026-08-02T09:13:24.019130+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "4e3824ded2c80888",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T09:10:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4791cc5466a6d038",
+      "title": "China’s Central Bank Pledges Timely Policy Tool Adjustment",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302572",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T08:53:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0642abc8f4413087",
+      "title": "Iran Sees Every Threat from Adversaries as 'Real and Credible', Acting Defense Minister Says",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302571",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T08:51:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b6f02f3b7f209018",
+      "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
+      "summary": "US president claims ‘perimeters of a deal’ to end conflict have been agreed days after he threatened to attack",
+      "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-02T08:45:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1e74f294eb3cf704",
+      "title": "ANZ, NAB Among Banks Funding Blackstone HSBC Book Buy, AFR Says",
+      "summary": "ANZ Group Holdings Ltd. and National Australia Bank Ltd. are among lenders bankrolling Blackstone Inc.’s A$36 billion ($25.3 billion) purchase of HSBC Holdings Plc’s Australian retail loan portfolio, the Australian Financial Review reported Sunday, citing unnamed sources.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-02/anz-nab-among-banks-funding-blackstone-hsbc-book-buy-afr-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-02T08:45:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c5b13d34aefbb1c4",
+      "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+      "summary": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-02T08:43:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "050fc5b97cd0cd74",
+      "title": "Hungary PM Announces Closure of Nuclear Plant Due to Heatwave",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302567",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T08:38:09+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b7c26792317ff391",
+      "title": "Saudi Crown Prince Holds Phone Talks with US President, Stresses Need for Dialogue",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302562",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T08:25:55+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e4708f58eee31393",
+      "title": "Petro urges global support to stop possible US invasion of Cuba",
+      "summary": "Petro urges global support to stop possible US invasion of Cuba",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-02T08:23:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2dfbe48d6c75bd9f",
+      "title": "Three children among nine killed since dawn in Gaza",
+      "summary": "Three children among nine killed since dawn in Gaza Three children are among nine Palestinians killed in Israeli strikes on Gaza since dawn, according to Al Jazeera Arabic. The attacks were in Gaza City, Deir el-Balah and Khan Younis.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-children-among-nine-killed-dawn-gaza",
+      "source": "Middle East Eye",
+      "published": "2026-08-02T08:23:29+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bd727517b6ab1bb2",
+      "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+      "summary": "Argentinian star made his return for the MLS champions as Inter Miami play out a 2-2 result with Columbus Crew.",
+      "link": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-02T08:20:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c935d819c1629eef",
+      "title": "Two Dead in Chile as Violent Storm Causes Flooding",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302559",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T08:13:47+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2418bd4d2aaf565d",
+      "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+      "summary": "World Series champions for the past two years add Skubal to star-studded roster that already includes Shohei Ohtani.",
+      "link": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-02T08:12:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2ac3d8e91d77af57",
+      "title": "Saudi Telecom Companies Post Record Revenue",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302558",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T08:09:08+00:00",
+      "region": "mena",
+      "lang": "fr",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7ef5d0f3d930ebd8",
+      "title": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
+      "summary": "Newly acquired Christos Tzolis scores for the English champions who have been linked to Bruno Guimaraes and Vinicius Jr.",
+      "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-02T08:08:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c7bf41c95a148b21",
+      "title": "Yemen Urges International Action to Protect Children in Houthi-Controlled Areas",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302557",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T08:08:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fe0d3ec967a5e355",
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T07:58:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eefd928ee468bf4e",
+      "title": "All 10 Climbers Swept Away in Avalanche in Pakistan Are Confirmed Dead",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302556",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T07:42:01+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b8530750bfeb8078",
+      "title": "Burden of History and Current Challenges in the Migration Crisis Between Morocco and Spain",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302553",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T07:37:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "837fa1c8628230e6",
+      "title": "Bomb Kills Three, Injures 21 at Restaurant on Moscow’s Kudrinskaya Square",
+      "summary": "Three people were killed and 21 injured after a bomb was detonated in an upscale restaurant in central Moscow on Saturday night, according to Russia’s National Anti-Terrorism Committee.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-02/bomb-kills-three-injures-21-at-restaurant-on-moscow-s-kudrinskaya-square",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-02T07:22:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "de73125bc59311fc",
+      "title": "Ukrainian Drones Kill Two in Russia, Strike Wildberries Warehouse",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302550",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T07:11:38+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f4355f401e5d0733",
+      "title": "Fire Toll Mounts in Greece as Blazes Spread",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302548",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T07:08:59+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "466fcdc1fc3dd63c",
+      "title": "Morocco Names Highway in Western Sahara After Trump",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5302547",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-02T06:59:15+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "544e49b6c0cc2297",
+      "title": "Israeli forces claim Hamas commanders killed in Gaza",
+      "summary": "Israeli forces claim Hamas commanders killed in Gaza The Israeli military said it has killed two Hamas commanders during air strikes on Friday and Saturday in Gaza. The military said Salem Jamal Abd al-Rahman Abu Labad, a cell commander in Hamas’s Nukhba special forces, who was killed in southern Gaza on Saturday, had taken part in the&nbsp;October 2023 attack. In a separate air strike in central Gaza on Friday, the military said its forces also killed Muhammad Abd al-Nasser Muhammad Khatib, a commander in Hamas’s Maghazi Battalion.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-claim-hamas-commanders-killed-gaza",
+      "source": "Middle East Eye",
+      "published": "2026-08-02T06:55:43+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "b17773e1f3e95c46",
       "title": "Sri Lanka Deploys Troops after Prison Riot",
@@ -135,37 +879,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-02T06:24:37+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "67600619a82663e1",
-      "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-02T06:24:01+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -438,37 +1151,6 @@
       }
     },
     {
-      "id": "4279247faffe3cb0",
-      "title": "South Korea Issues Heat Wave Alert as Temperature Hits Record",
-      "summary": "South Korea issued emergency heat wave instructions as the country sweltered, with its highest temperature on record reported in the southeastern city of Yangsan.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-02/south-korea-issues-heat-wave-alert-as-temperature-hits-record",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-02T05:47:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "62c075655c7354a6",
       "title": "‘Sopranos’ Actor Vincent Pastore, Known for Playing Mobsters and Tough Guys, Dead at 80",
       "summary": "",
@@ -593,45 +1275,14 @@
       }
     },
     {
-      "id": "c4b051d39f8166c4",
-      "title": "Fires on More Than 250,000 Acres of Washington State Prompt Evacuations",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302517",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T05:34:45+00:00",
-      "region": "mena",
+      "id": "1411f1fce24b9214",
+      "title": "Iran sets the pace in war with Trump",
+      "summary": "Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East",
+      "link": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-02T05:37:40+00:00",
+      "region": "global",
       "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "56104c517a6b5d58",
-      "title": "Eala Stuns Osaka to Book Washington Final Against Pegula",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302516",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T05:30:28+00:00",
-      "region": "mena",
-      "lang": "tl",
       "body": "",
       "entities": [],
       "geo_tags": [],
@@ -692,37 +1343,6 @@
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-three-palestinians-during-raid-dheisheh-camp",
       "source": "Middle East Eye",
       "published": "2026-08-02T05:29:25+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "acc09f3164e2dca6",
-      "title": "13 Dead after Small Tourist Plane Crashes in Peru",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302514",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T05:27:52+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -810,105 +1430,12 @@
       }
     },
     {
-      "id": "e240d930fd83e49e",
-      "title": "Landslide Death Toll Rises in China’s Gansu Province as Heavy Rains Continue",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302513",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T05:25:42+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fd54e18100a0ad4f",
-      "title": "Israeli Strikes Kill Eight in Gaza Overnight",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302509",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T05:01:15+00:00",
-      "region": "mena",
-      "lang": "de",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b9b25982cb62fca3",
       "title": "Report: Saudi crown prince urged Trump to refrain from strikes",
       "summary": "Report: Saudi crown prince urged Trump to refrain from strikes Saudi Arabia expressed concern over US President Donald Trump's plans for massive strikes against Iran and sought clarity on the proposed course of action, US outlet Axios reported. Citing US officials, Axios said Saudi Crown Prince Mohammed bin Salman called Trump on Saturday and urged him to de-escalate tensions and refrain from launching the strikes. On Sunday, Trump said he had cancelled the strikes, contingent on a deal involving the full reopening of the Strait of Hormuz and Iran's commitment to denuclearisation.",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-saudi-crown-prince-urged-trump-refrain-strikes",
       "source": "Middle East Eye",
       "published": "2026-08-02T05:00:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e46c79495c166739",
-      "title": "Idaho Fast Food Restaurant Shooting Leaves 3 Dead and 7 Injured",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302508",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T04:54:54+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -965,68 +1492,6 @@
       }
     },
     {
-      "id": "f764545934ccc642",
-      "title": "Lebanon Ex-central Banker Transferred to Jail after Hospital",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302506",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T04:40:26+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d762e54d29a7b14d",
-      "title": "Iran’s Leaders Show a United Front Over the War but Are Divided Over What the Goal Is",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302505",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T04:39:23+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "04267d4758c64948",
       "title": "Why isn’t anyone challenging Infantino for FIFA’s top job?",
       "summary": "FIFA’s Gianni Infantino has scrapped his controversial plan to sell a stake in the World Cup after global outrage.",
@@ -1034,37 +1499,6 @@
       "source": "Al Jazeera English",
       "published": "2026-08-02T04:34:19+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cbf5dccfadeec357",
-      "title": "Trump Says US, Israel to Hold Off on Iran Strikes",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5302504",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-02T04:28:43+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1554,37 +1988,6 @@
       }
     },
     {
-      "id": "bb175c6559fcb534",
-      "title": "Trump cancels new strikes on Iran after Middle East allies’ request",
-      "summary": "‘Perimeters of a deal’ have been agreed, US president claims",
-      "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
-      "source": "FT World",
-      "published": "2026-08-02T03:01:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ddd1a0b5b82395d4",
       "title": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
       "summary": "Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
@@ -1622,37 +2025,6 @@
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-02T02:55:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4e736473775641d3",
-      "title": "Katayama to Say Japan, US Are Coordinating to Curb Yen Weakness",
-      "summary": "Japanese Finance Minister Satsuki Katayama is set to announce as early as Monday that Tokyo and Washington are coordinating on steps in the foreign exchange market to curb the yen’s weakness, a person familiar with the situation said.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-02/katayama-to-say-japan-us-acted-together-on-yen-reuters-reports",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-02T02:33:46+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1802,9 +2174,9 @@
       }
     },
     {
-      "id": "f0bfdb0da03ac76e",
-      "title": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
-      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they are working toward a deal.",
+      "id": "c91c13c542758d1d",
+      "title": "Trump Says US to Hold Off Iran Attack If Rapid Deal Gets Agreed",
+      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they’re working toward a deal.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
       "source": "Bloomberg Markets",
       "published": "2026-08-02T02:19:38+00:00",
@@ -2515,37 +2887,6 @@
       }
     },
     {
-      "id": "08c66e924973d6be",
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T23:03:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "d896ca1c61db0005",
       "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
       "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
@@ -2553,37 +2894,6 @@
       "source": "BBC World",
       "published": "2026-08-01T23:03:15+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d0847f4f9d5855e2",
-      "title": "Iraqi premier al-Zaydi announces 'deterrent measures' against playing role in regional hostilities",
-      "summary": "Iraqi premier al-Zaydi announces 'deterrent measures' against playing role in regional hostilities Iraqi Prime Minister Ali al-Zaydi has announced \"deterrent measures\" to prevent attacks on \"neighbouring countries\" coming from within Iraqi territory, following an emergency meeting with domestic security forces late Saturday.&nbsp;&nbsp; The announcement, which did not provide further detail on the planned measures, comes after the Iraq-based Popular Mobilisation Forces paramilitary launched drone attacks at Saudi energy infrastructure earlier this week, prompting US and Saudi retaliatory strik",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-premier-al-zaydi-announces-deterrent-measures-against-playing-role",
-      "source": "Middle East Eye",
-      "published": "2026-08-01T23:00:33+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2732,44 +3042,13 @@
       }
     },
     {
-      "id": "fe0d3ec967a5e355",
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "id": "15f07ac3e1603748",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-01T22:06:18+00:00",
+      "published": "2026-08-01T22:23:20+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "affc66b1159a4d91",
-      "title": "Iran's Araghchi touts phone calls warning of 'decisive' response to any US aggression",
-      "summary": "Iran's Araghchi touts phone calls warning of 'decisive' response to any US aggression Iran's foreign minister Abbas Araghchi has said that he has informed his Turkish , Pakistani and Saudi counterparts that the Islamic Republic will act \"decisively\" in the event of any further US \"aggression\". Announcing the calls via the foreign minister's official Telegram channel, a spokesperson for Araghchi added that he had \"stressed the full readiness of the Islamic Republic of Iran to protect national sovereignty, territorial integrity\".&nbsp;",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-touts-phone-calls-warning-decisive-response-any-us",
-      "source": "Middle East Eye",
-      "published": "2026-08-01T22:00:48+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2801,285 +3080,6 @@
       "source": "Al Jazeera English",
       "published": "2026-08-01T21:42:26+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "151b50310f1e5aa3",
-      "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
-      "summary": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-01T21:15:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f3d774539bf63a4e",
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
-      "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
-      "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T21:03:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e47500bba440ca13",
-      "title": "Peruvian plane crash kills 13, including European tourists",
-      "summary": "Those killed include 11 passengers and two pilots flying over the famous archaeological site, recognised by UNESCO.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-01T20:57:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "782a0cd39e77ad44",
-      "title": "Tetouan morgue receives 20 bodies after Ceuta crossings",
-      "summary": "The number of bodies received by Tetouan’s forensic medicine service after the mass crossings into Ceuta rose to 20 on Saturday, after three more victims arrived, a source told Hespress. The latest bodies were those of two unidentified young men and a Moroccan from Khénifra. Six of the 20 bodies have been released to relatives [&#8230;] The post Tetouan morgue receives 20 bodies after Ceuta crossings appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143041-tetouan-morgue-receives-20-bodies-after-ceuta-crossings.html",
-      "source": "Hespress EN",
-      "published": "2026-08-01T20:54:14+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "490220a3798793f0",
-      "title": "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
-      "summary": "Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-01T20:38:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f0be0feed5da6d70",
-      "title": "Greece battles raging wildfires as flames appear to ease in France",
-      "summary": "French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.",
-      "link": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-01T20:24:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b485099731050ac7",
-      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-      "summary": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-01T20:10:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a53a05bd1f5737ad",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T20:09:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "efeb774bfd2dabc8",
-      "title": "King Mohammed VI tells Trump highway naming honors Sahara recognition",
-      "summary": "The Tiznit-Dakhla Expressway, named the &#8220;Donald J. Trump Highway,&#8221; is a powerful embodiment of deep friendly relations between the Kingdom of Morocco and the United States of America, as well as the great mutual esteem between His Majesty King Mohammed VI, may God assist Him, and U.S. President Donald J. Trump. In a Letter dated [&#8230;] The post King Mohammed VI tells Trump highway naming honors Sahara recognition appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143037-king-mohammed-vi-tells-trump-highway-naming-honors-sahara-recognition.html",
-      "source": "Hespress EN",
-      "published": "2026-08-01T19:56:24+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
