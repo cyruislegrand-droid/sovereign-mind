@@ -1,12 +1,353 @@
 {
-  "generated_at": "2026-08-07T19:17:25.199878+00:00",
+  "generated_at": "2026-08-07T20:07:35.422922+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "d7bb9f39a5aa55d1",
-      "title": "NYC Economic Head on City-Run Grocery Stores, Biz Outlook",
-      "summary": "NYC's Head of Economic Justice, Julie Su, sits down with Romain Bostick to cover Mayor Mamdani's plan for city-run grocery stores, developing economic growth, and pied-a-tierre taxes. (Source: Bloomberg)",
+      "id": "77dc79b8b2591a52",
+      "title": "US economy unexpectedly sheds 23,000 jobs in July",
+      "summary": "Lacklustre figure prompts traders to scale back bets on Fed rate rises",
+      "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-07T20:02:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "375c3ba4ebb9e9c4",
+      "title": "Credit Card Balances at Pace with Inflation: Whitney",
+      "summary": "Meredith Whitney, CEO of Meredith Whitney Advisory Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how many Americans are living payday to payday as well as how consumers are utilizing their credit cards. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/credit-card-balances-at-pace-with-inflation-whitney-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-07T20:01:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1cb2ed8856ca906e",
+      "title": "US lawmakers introduce bipartisan bill targeting Polisario over alleged Iran ties",
+      "summary": "Two U.S. lawmakers have introduced bipartisan legislation that would require the U.S. government to investigate alleged ties between the Polisario Front and Iran, potentially leading to sanctions and the group&#8217;s designation as a Foreign Terrorist Organization if the allegations are substantiated. The Polisario Front Terrorist Designation Act was introduced by Democratic Rep. Josh Gottheimer of [&#8230;] The post US lawmakers introduce bipartisan bill targeting Polisario over alleged Iran ties appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/143386-us-lawmakers-introduce-bipartisan-bill-targeting-polisario-over-alleged-iran-ties.html",
+      "source": "Hespress EN",
+      "published": "2026-08-07T20:00:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1329655a4bccc44e",
+      "title": "Trump revives threat to sack Fed governor Lisa Cook",
+      "summary": "Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved",
+      "link": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-07T19:56:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2897a25917ddabeb",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-07T19:51:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d25c37801fae4907",
+      "title": "Spain imposes border controls for Italy: ministry",
+      "summary": "Spain will introduce temporary border checks on travellers from Italy in response to Rome imposing similar measures after a mass migrant rush into Ceuta, the interior ministry said on Friday. The checks, which come &#8220;amid the persistent irregular migration pressure&#8221; facing Italy, will start at midnight on Saturday and last until September 7, the ministry [&#8230;] The post Spain imposes border controls for Italy: ministry appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/143399-spain-imposes-border-controls-for-italy-ministry.html",
+      "source": "Hespress EN",
+      "published": "2026-08-07T19:49:29+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "087abd0da12bc242",
+      "title": "Iran's Araghchi praises military, urges Muslim unity",
+      "summary": "Iran's Araghchi praises military, urges Muslim unity Iranian Foreign Minister Abbas Araghchi&nbsp;said on Friday that&nbsp;Iran's armed forces had demonstrated their readiness and strength in confronting what he called the world's most expensive military, and urged Muslim countries to unite and rely on themselves in the face of \"hostile outsiders\". His post on X came hours after Saudi Arabia, Pakistan and Turkey signed a joint defence agreement in Mecca, bringing together three Muslim US partners. It was not immediately clear whether Araghchi was referring to the defence agreement in his remar",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araqchi-praises-military-urges-muslim-unity",
+      "source": "Middle East Eye",
+      "published": "2026-08-07T19:41:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bbe0e90ea5c5a849",
+      "title": "US official: 'We expect a deal soon' between Iran and Oman on Strait of Hormuz",
+      "summary": "US official: 'We expect a deal soon' between Iran and Oman on Strait of Hormuz Progress is being made between&nbsp;Iran&nbsp;and Oman on the Strait of Hormuz and \"we expect a deal soon,\" a US official told Reuters on Friday. Once a deal is announced to restore commercial shipping without impediments, the United States will lift its blockade of&nbsp;Iranian ports, the official said.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-official-we-expect-deal-soon-between-iran-and-oman-strait-hormuz",
+      "source": "Middle East Eye",
+      "published": "2026-08-07T19:40:21+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "afdf1a2cae741c31",
+      "title": "PGA Is Not Talking to LIV Golf About a Merger, Commissioner Says",
+      "summary": "Brian Rolapp, CEO of PGA Tour, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the changing landscape of sports media coverage, the rising costs of streaming bills for consumers, and the evolution of the PGA Tour. He also says there are no plans at all to merge with the struggling LIV Golf tour. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/innovation-doesn-t-happen-without-crisis-rolapp-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-07T19:34:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f1ef04312e78ab4e",
+      "title": "Investing View is Glass 'More Than Half-Full': Kelly",
+      "summary": "David Kelly, Chief Global Strategist at JPMorgan Asset Management, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how biased information influences investor behavior. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-07/investing-view-is-glass-more-than-half-full-kelly-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-07T19:29:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "74757f197be0c992",
+      "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
+      "summary": "ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.",
+      "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-07T19:21:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "735d5ff9b60a282f",
+      "title": "NYC Deputy Mayor on Jobs, Taxes, Grocery Stores",
+      "summary": "Julie Su, New York City deputy mayor for economic justice, talks about creating jobs, a new business advisory council, city-run grocery stores and Mayor Zohran Mamdani’s new pied-à-terre tax on second homes. More than 31,000 property owners may get a new bill in the mail. She speaks to Bloomberg's Romaine Bostick. (Source: Bloomberg)",
       "link": "https://www.bloomberg.com/news/videos/2026-08-07/nyc-economic-head-on-nyc-run-grocery-stores-biz-outlook-video",
       "source": "Bloomberg Markets",
       "published": "2026-08-07T19:06:12+00:00",
@@ -73,37 +414,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-07T18:58:21+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "911b5edf9161fc6e",
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T18:56:33+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -258,37 +568,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-08-07/phelan-confirmed-to-lead-trump-s-council-of-economic-advisers",
       "source": "Bloomberg Markets",
       "published": "2026-08-07T18:28:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1329655a4bccc44e",
-      "title": "Trump revives threat to sack Fed governor Lisa Cook",
-      "summary": "Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved",
-      "link": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-07T18:27:01+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -717,37 +996,6 @@
       }
     },
     {
-      "id": "77dc79b8b2591a52",
-      "title": "US economy unexpectedly sheds 23,000 jobs in July",
-      "summary": "Lacklustre figure prompts traders to scale back bets on Fed rate rises",
-      "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-07T16:53:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "aa2bfcc9612ded8f",
       "title": "Israeli forces beat and detain Palestinian during settler attack near Nablus",
       "summary": "Israeli forces beat and detain Palestinian during settler attack near Nablus Israeli forces beat and detained a Palestinian man during an attack by troops and settlers on Beit Furik, east of Nablus in the occupied West Bank, Wafa news agency reported, citing local sources. The Palestine Red Crescent Society said Israeli forces prevented an ambulance from reaching the man, who is in his 40s, before detaining him. His condition was not immediately known, and the group said it was coordinating with the International Committee of the Red Cross to follow up on his case. Settlers attacked homes and ",
@@ -816,37 +1064,6 @@
       "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
       "source": "Bloomberg Markets",
       "published": "2026-08-07T16:44:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1e93bc33c1c071a1",
-      "title": "Trump Tariffs ‘Tortuous’ to Soybean Trade, China Diplomat Says",
-      "summary": "US President Donald Trump’s trade war with China created a “tortuous experience” that disrupted the flow of soybeans between the world’s two largest economies, a Chinese diplomat said Friday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-tariffs-tortuous-to-soybean-trade-china-diplomat-says",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-07T16:43:10+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -965,68 +1182,6 @@
       }
     },
     {
-      "id": "0ba264ce425b1cac",
-      "title": "Under Armour Cuts Sales View on Softer Demand Around the World",
-      "summary": "Under Armour Inc. forecast a sharper revenue decline than previously expected as demand softens in several key regions. The athletic retailer now expects sales to fall by a mid-single digit percentage rate for the year. The revised forecast calls for declines in North America, Asia-Pacific, and Europe and the Middle East as the company grapples with a “challenging consumer demand environment,” Chief Executive Officer Kevin Plank said in a statement Friday. Bloomberg's Poonam Goyal joined Bloomberg Intelligence to discuss. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-07/under-armour-cuts-sales-view-on-softer-demand-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-07T16:40:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "049229df94ec7dc5",
-      "title": "Congo to Investigate Reports of Excess Uranium in Cobalt Exports",
-      "summary": "The Democratic Republic of Congo will look into reports of excess uranium leaving the country in its exports of battery mineral cobalt, the government said Thursday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/congo-to-investigate-reports-of-excess-uranium-in-cobalt-exports",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-07T16:36:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "c6093004f393c7af",
       "title": "Exclusive: ICC judges order Taliban case split from Afghanistan probe that covers US troops",
       "summary": "Exclusive: ICC judges order Taliban case split from Afghanistan probe that covers US troops Judges at the International Criminal Court (ICC) have ordered prosecutors to open a standalone investigation into allegations of gender persecution by the Taliban, separating it from the court's long-running Afghanistan war crimes probe that covered&nbsp; US &nbsp;nationals, Middle East Eye can reveal. According to court documents obtained by MEE through independent sources, a three-judge panel in pre-trial chamber II issued the request to the Office of the Prosecutor in mid-July.&nbsp; If prosecutors p",
@@ -1034,37 +1189,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-07T16:25:57+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1845572267a6ba5a",
-      "title": "BlackRock’s Rieder Sees AI Helping Buoy GDP Even as Hiring Slows",
-      "summary": "BlackRock Inc.’s Rick Rieder said last month’s surprise contraction in payrolls reflects a “productivity revolution” rather than economic weakness, arguing that the US economy remains on track for 6% nominal growth in gross domestic product even as hiring stalls.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/blackrock-s-rieder-sees-ai-helping-buoy-gdp-even-as-hiring-slows",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-07T16:25:38+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1126,37 +1250,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-07T16:23:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3b02ceb08f93032b",
-      "title": "Fitch Sees Chile Budget as Key to Halting Rising Debt Burden",
-      "summary": "Fitch Ratings is skeptical that tax cuts approved by Chile’s Congress last month will boost growth by enough to offset the immediate drop in revenue, leaving the emphasis on fiscal spending reductions if the government wants to balance the books anytime soon.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-07/fitch-sees-chile-budget-as-key-to-halting-rising-debt-burden",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-07T16:20:07+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2174,37 +2267,6 @@
       }
     },
     {
-      "id": "6d1a70076a148298",
-      "title": "Saudi Arabia, Turkey and Pakistan to sign defence pact amid regional violence",
-      "summary": "Saudi Arabia, Turkey and Pakistan were set to sign a joint defence agreement on Friday, sources told AFP, amid violence in the region from Houthi attacks and the US-Iran war. Riyadh is looking to strengthen its security ties against the backdrop of war between the United States and Iran, which has drawn in surrounding nations [&#8230;] The post Saudi Arabia, Turkey and Pakistan to sign defence pact amid regional violence appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143364-saudi-arabia-turkey-and-pakistan-to-sign-defence-pact-amid-regional-violence.html",
-      "source": "Hespress EN",
-      "published": "2026-08-07T13:21:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "d49264224f8dd1ad",
       "title": "Iranian lawmaker criticises new 'Mecca Joint Defence Agreement'",
       "summary": "Iranian lawmaker criticises new 'Mecca Joint Defence Agreement' Iranian lawmaker Ebrahim Rezaei says the new defence pact with Pakistan and Turkey will not bring security to Saudi Arabia, and that Riyadh should instead focus on changing its policies. &nbsp; سعودی‌ها باید بدانند که توافق کاغذی با ترکیه و پاکستان برای آنها امنیت‌آور نیست، همان‌طور که سال‌ها شیردهی یکطرفه به آمریکایی‌ها برایشان امنیت نیاورد. سیاست‌هایتان را اصلاح کنید تا نیاز نباشد از دیگران #گدایی_امنیت کنید. — ابراهیم رضایی (@EbrahimRezaei14) August 7, 2026",
@@ -2336,6 +2398,37 @@
       "source": "Middle East Eye",
       "published": "2026-08-07T12:48:04+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "30d4dfe402c6b5f9",
+      "title": "Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data",
+      "summary": "US Treasuries rallied after an unexpectedly weak July employment report prompted traders to further dial back expectations for Federal Reserve interest-rate hikes, cementing the biggest weekly gain in short-term maturities since May.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-treasuries-rally-as-soft-jobs-data-trims-fed-rate-hike-bets",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-07T12:46:13+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2522,37 +2615,6 @@
       "source": "Al Jazeera English",
       "published": "2026-08-07T12:28:52+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "657b2273d2e27b58",
-      "title": "CAF Executive Committee unanimously backs FIFA Forward Enterprise Review",
-      "summary": "The Confederation of African Football (CAF) announced Thursday that its Executive Committee (EXCO) has unanimously endorsed a joint update issued by FIFA President Gianni Infantino and Secretary General Mattias Grafström regarding the proposed FIFA Forward Enterprise (FFE). In a statement, CAF said FIFA had acknowledged shortcomings in the process surrounding the proposed establishment of the [&#8230;] The post CAF Executive Committee unanimously backs FIFA Forward Enterprise Review appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143360-caf-executive-committee-unanimously-backs-fifa-forward-enterprise-review.html",
-      "source": "Hespress EN",
-      "published": "2026-08-07T12:26:59+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2887,37 +2949,6 @@
       }
     },
     {
-      "id": "b6fcb85379b335b4",
-      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-      "summary": "Houthis&#039; expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
-      "link": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-07T11:11:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "dfd2a454ba5a3c86",
       "title": "Exxon nears peak impunity on climate obligations",
       "summary": "Oil major’s move against the EU’s carbon storage rules is odd",
@@ -3042,44 +3073,13 @@
       }
     },
     {
-      "id": "1eb20248636e5b86",
-      "title": "Turkey, Pakistan, Saudi Arabia sign 'Mecca Joint Defence Agreement'",
-      "summary": "Turkey, Pakistan, Saudi Arabia sign 'Mecca Joint Defence Agreement' Saudi Arabia, Pakistan and Turkey signed a defence agreement on Friday, Pakistan's foreign ministry and Saudi broadcasters said. The pact, which was called the \"Mecca Joint Defence Agreement\", ties together the three countries amid the backdrop of war on Iran and a revived conflict with Houthis in Saudi Arabia's southern neighbour Yemen. A Turkish spokesperson said the deal was purely defensive in nature, and&nbsp;not against any actor in particular.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-pakistan-saudi-arabia-sign-mecca-joint-defence-agreement",
-      "source": "Middle East Eye",
-      "published": "2026-08-07T10:59:42+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "727195dffb5679d1",
-      "title": "Saudi army won't 'stand idly by' amid Houthi attacks in Yemen, source says",
-      "summary": "Saudi army won't 'stand idly by' amid Houthi attacks in Yemen, source says A source close to the Saudi military said on Friday that the Saudi-led coalition supporting Yemen's government since 2015 would not \"stand idly by\" as the Houthi rebels escalated their attacks on Yemeni troops.&nbsp; \"The coalition does not seek escalation, but we will not allow the current balance of power on the ground to be changed,\" the source added.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-army-wont-stand-idly-houthi-attacks-yemen-source-says",
-      "source": "Middle East Eye",
-      "published": "2026-08-07T10:48:52+00:00",
-      "region": "mena",
+      "id": "22b5dc513ac36c9b",
+      "title": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+      "summary": "After spending much of the year in the stock market doghouse over fears about their profligate spending on artificial intelligence, the world’s biggest technology companies are suddenly leading the way once again.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-07/big-tech-stocks-storm-back-as-ai-fears-fade-and-euphoria-resumes",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-07T10:30:01+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
