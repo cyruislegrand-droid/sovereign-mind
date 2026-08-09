@@ -1,15 +1,759 @@
 {
-  "generated_at": "2026-08-09T12:05:11.634367+00:00",
+  "generated_at": "2026-08-09T13:17:15.749640+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "06e91957847a4428",
+      "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+      "summary": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-09T13:15:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e46963851733ee1c",
+      "title": "Holy Quran Museum in Makkah Showcases 18th-Century Quranic Manuscript",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5305013",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-09T13:14:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4baaf684b1e9c5bc",
+      "title": "Indonesia closes national park in East Java as wildfire expands",
+      "summary": "Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-09T13:13:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "71e921f85a7af6a7",
+      "title": "KAUST Scientists Discover Corals Can be Trained to Resist Disease",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5305012",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-09T13:12:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a8b5b38fb80d5e54",
+      "title": "Jordan Welcomes UN Security Council Statement Condemning Houthi Attacks on Saudi Arabia",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5305011",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-09T13:09:14+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "38261c7e747e89c6",
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T13:08:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3694434cec2e1fc1",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, says Netanyahu",
+      "summary": "Israel rejects Trump's 15-point plan for Gaza, says Netanyahu Israel &nbsp;has rejected&nbsp; US &nbsp;President Donald Trump's 15-point plan for Gaza and will not withdraw until Hamas fully disarms, Prime Minister Benjamin Netanyahu said on Sunday. The Board of Peace, spearheaded by Trump, announced last month that it had made a breakthrough in a plan to end the war. Israel and Hamas agreed to the plan last year, beginning with a ceasefire. Israel has continued to carry out near-daily strikes on Gaza since agreeing to the ceasefire last October. Trump said that Hamas had agreed to lay down it",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-rejects-trumps-15-point-plan-gaza-says-netanyahu",
+      "source": "Middle East Eye",
+      "published": "2026-08-09T13:08:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6ca0085340df0bcb",
+      "title": "Houthi attacks in Yemen kill four government troops, say sources",
+      "summary": "Houthi attacks in Yemen kill four government troops, say sources Attacks by the Houthis in Yemen on Sunday killed at least four troops from the internationally-recognised government forces and wounded 20 more personnel, two military sources told AFP. The initial toll came from strikes on the Yemeni city of Mokha and surrounding areas, as well as Khokha, south of the port city of Hodeida, the sources said on condition of anonymity, after the Houthis announced they had targeted military forces and equipment on the Red Sea coast.&nbsp;",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-yemen-kill-four-government-troops-say-sources",
+      "source": "Middle East Eye",
+      "published": "2026-08-09T13:02:54+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e30fd009c00a49c4",
+      "title": "Bahrain, Kuwait Welcome UN Security Council Statement Condemning Houthi Attacks Against Saudi Arabia",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5305010",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-09T12:56:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "273c6f357ad9948a",
+      "title": "US Weapons Crunch Raises Risks Beyond Iran",
+      "summary": "The Pentagon presses defense companies to accelerate weapons production as the Iran war depletes key US stockpiles and raises questions about readiness in other regions. Brigadier General Mark Kimmitt (Ret) and Bloomberg Economics Defense Lead Becca Wasser are on Bloomberg This Weekend and say the US has used at least half of its Patriot stockpile in the Iran conflict, forcing tougher choices over supplies for allies including Ukraine. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-09/us-weapons-crunch-raises-risks-beyond-iran-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-09T12:52:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fe1388cd1ffc9f86",
+      "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+      "summary": "Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-09T12:51:34+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b9a741cbbf64a976",
+      "title": "Pezeshkian recently met Supreme Leader Khamenei, state media reports",
+      "summary": "Pezeshkian recently met Supreme Leader Khamenei, state media reports Iranian President Masoud Pezeshkian met Supreme Leader Mojtaba Khamenei around the start of the president's third year in office in late July, state media said on Sunday. On 21 July, the president said interactions with the supreme leader were&nbsp;\"increasing day by day\", though in early August he said communicating with Khamenei was \"very difficult\". The late July meeting covered military affairs and the economy, including securing resources, managing foreign exchange and energy use, as well as economic ties with foreign pa",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-recently-met-supreme-leader-khamenei-state-media-reports",
+      "source": "Middle East Eye",
+      "published": "2026-08-09T12:46:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2a426e79b0c99f09",
+      "title": "La Liga: Five key talking points heading into the 2026-2027 season",
+      "summary": "Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.",
+      "link": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-09T12:42:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4f4618612996672a",
+      "title": "Europe Looks Up for First Total Eclipse Since 1999",
+      "summary": "A total solar eclipse will cross Greenland, Iceland, Portugal and northern Spain on Wednesday August 12th, marking the first total eclipse visible from central or western Europe since 1999. Royal Observatory Greenwich Astronomer Imo Bell is on Bloomberg This Weekend with hosts David Gura and Christina Ruffini and says the event offers spectators a rare view of totality while giving scientists an opportunity to study the sun’s corona. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-09/europe-looks-up-for-first-total-eclipse-since-1999-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-09T12:39:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3a67a86914595d54",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T12:39:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e42060f0bdadc793",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T12:27:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "47eb45ac7d3e9bba",
+      "title": "Puerto Rico Rations Water as Drought Deepens",
+      "summary": "More than 180,000 customers in Puerto Rico are facing rotating 48-hour water outages as severe drought compounds longstanding problems with the island’s water infrastructure. Resident Commissioner Representative Pablo José Hernández joins David Gura and Christina Ruffini on Bloomberg This Weekend and calls for a federal emergency declaration to unlock additional assistance and said poor management has worsened the crisis, while arguing Puerto Rico must also hold local officials accountable. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-09/puerto-rico-rations-water-as-drought-deepens-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-09T12:23:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "747ed8c7e9f59f3e",
+      "title": "Morocco women’s coach hails players after World Cup qualification",
+      "summary": "Morocco women’s national team coach Jorge Vilda praised his players after their 2-1 victory over South Africa on Saturday, saying the result secured a place in the Africa Cup of Nations semifinals and qualified the Atlas Lionesses for the next Women’s World Cup. Speaking at a news conference after the quarterfinal victory, Vilda said Morocco [&#8230;] The post Morocco women’s coach hails players after World Cup qualification appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/143484-morocco-womens-coach-hails-players-after-world-cup-qualification.html",
+      "source": "Hespress EN",
+      "published": "2026-08-09T12:14:52+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "46db013529dcf80d",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-09T11:58:22+00:00",
+      "published": "2026-08-09T12:12:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f22a1b0961010615",
+      "title": "Iran Talks Offer Little Relief for Hormuz Shipping",
+      "summary": "Iran and Oman are still discussing a temporary arrangement for shipping through the Strait of Hormuz, but attacks on regional energy infrastructure and major disagreements over transit rules are complicating negotiations. Bloomberg News White House Correspondent Skylar Woodhouse and Bloomberg News Middle East Correspondent Abeer Abu Omar join Bloomberg This Weekend and explain to hosts David Gura and Christina Ruffini that even with an agreement, shipowners and traders expect it could take weeks or months for oil flows to approach normal levels. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-09/iran-talks-offer-little-relief-for-hormuz-shipping-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-09T12:08:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "37098422ef7bd6ea",
+      "title": "Nigeria mass weddings ease financial burden for couples",
+      "summary": "For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-09T12:07:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d3ee52163bf4ab24",
+      "title": "Organised crime suspect Daniel Kinahan extradited from Dubai",
+      "summary": "Irish government jet flies alleged drug trafficker back to Dublin to face charges",
+      "link": "https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0",
+      "source": "FT World",
+      "published": "2026-08-09T12:01:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "84f22f2ac1082ed8",
+      "title": "Barrick Chairman's Planned Overhaul Meets Investor Backlash",
+      "summary": "John Thornton appeared ready last year to step down as chairman of Barrick Mining Corp. after a turbulent 12-year tenure. Instead, he seized control from his long-time CEO and is now driving a reinvention of one of the world’s largest gold producers.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-09/goldman-veteran-s-plan-to-split-barrick-runs-into-opposition",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-09T12:01:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b065184270f8c982",
+      "title": "Which other countries could join the Turkiye-Saudi-Pakistan defence pact?",
+      "summary": "While Egypt has been floated as a candidate, analysts say Cairo may be wary of defence commitments.",
+      "link": "https://www.aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-09T11:59:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aff669b8817cddc2",
+      "title": "‘US and Iran are talking past each other’ in indirect negotiations",
+      "summary": "‘US and Iran are talking past each other’ in indirect negotiations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-09T11:53:03+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -130,7 +874,7 @@
     {
       "id": "7765c6d7a8e77640",
       "title": "Israel rejects Trump’s 15-point plan for Gaza",
-      "summary": "Prime Minister Benjamin Netanyahu says Israel will not ⁠withdraw ​forces from Gaza until Hamas ⁠fully disarms.",
+      "summary": "Prime Minister Benjamin Netanyahu says Israel will not ⁠⁠withdraw ​forces from Gaza until Hamas ⁠⁠fully disarms.",
       "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-09T11:31:18+00:00",
@@ -190,6 +934,37 @@
       }
     },
     {
+      "id": "c64e19428d62c0ac",
+      "title": "Could AI create a ‘permanent underclass’?",
+      "summary": "San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market",
+      "link": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-09T11:30:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "3aebb695b8f2b1f5",
       "title": "Tehran says won't reopen Hormuz until US accepts Iran's conditions",
       "summary": "Iran&#8217;s Revolutionary Guards on Sunday said they would not reopen the Strait of Hormuz until the United States accepts all of Tehran&#8217;s demands. &#8220;Our current strategy is to maintain this strait until the enemy accepts all our conditions,&#8221; said Guards spokesman Hossein Mohebi, as quoted by state TV, adding that &#8220;the strait is now actually [&#8230;] The post Tehran says won&#039;t reopen Hormuz until US accepts Iran&#039;s conditions appeared first on HESPRESS English - Morocco News .",
@@ -197,6 +972,99 @@
       "source": "Hespress EN",
       "published": "2026-08-09T11:23:32+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aeb1718990f105ed",
+      "title": "Will US inflation be cool enough to trim bets on a September rate rise?",
+      "summary": "Market Questions is the FT’s guide to the week ahead",
+      "link": "https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-09T11:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7653b65992b87228",
+      "title": "US social security could soon be insolvent",
+      "summary": "But will Congress have the courage to save it?",
+      "link": "https://www.ft.com/content/b25139e3-e748-407f-bc49-7389b3434455?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-09T11:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "17839c6e0e1c3bb4",
+      "title": "Holding public servants to account is harder than it seems",
+      "summary": "A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?",
+      "link": "https://www.ft.com/content/29d6cef0-72db-4348-aa85-b7c3dcf94e60",
+      "source": "FT World",
+      "published": "2026-08-09T11:00:09+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -631,37 +1499,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-09T10:02:53+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3a67a86914595d54",
-      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T10:02:52+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1215,7 +2052,7 @@
     {
       "id": "86dda3ead0efc497",
       "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-      "summary": "No casualties were reported in the fire that broke out early on Sunday, the Saudi Energy Ministry says.",
+      "summary": "Saudi Energy Ministry gives no cause, but Houthis claim attack at refinery. No casualties reported.",
       "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-09T07:58:00+00:00",
@@ -1468,37 +2305,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-09T06:49:10+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "83c849c1bc7a58c9",
-      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T06:46:40+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1988,68 +2794,6 @@
       }
     },
     {
-      "id": "d52080fdfc2df5e1",
-      "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-      "summary": "Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-09T05:01:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9a79109ef6ff5357",
-      "title": "Iran Makes New Strait of Hormuz Demands",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5304905",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-09T04:57:13+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "9f90bda0fcef400a",
       "title": "HRF files complaint against Israeli reservist in Vietnam",
       "summary": "HRF files complaint against Israeli reservist in Vietnam The Hind Rajab Foundation (HRF) has filed a criminal complaint with Vietnamese authorities against Israeli reservist Matan Jerafi, who is currently vacationing in Vietnam. In a statement, HRF said Jerafi is the CEO of the Israeli NGO Im Tirtzu and a member of the 920th Infantry Battalion of the 769th Brigade. HRF said evidence indicates Jerafi took part in destroying civilian infrastructure in Gaza between December 2023 and January 2024 and in Lebanon&nbsp;between October and November 2024. In a February 2024 statement, Jerafi said Gaza'",
@@ -2057,99 +2801,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-09T04:56:56+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9a25961501a4ed1a",
-      "title": "Saudi Energy Ministry: Fire Extinguished at Aramco Facility",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5304904",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-09T04:46:01+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bdd0d2f1c8ff5b32",
-      "title": "Saudi Arabia Welcomes UN Statement Condemning Houthi Attacks on the Kingdom, Commercial Vessels",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5304902",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-09T04:36:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a8cc6a8c1f5cd99f",
-      "title": "Car bomb hits Colombia highway day after new president sworn in",
-      "summary": "A car bomb destroyed a toll booth on a highway in Colombia a day after President Abelardo de la Espriella was sworn in.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-09T04:32:32+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2212,68 +2863,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-09T04:30:40+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "708e10add7be1195",
-      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
-      "summary": "Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-09T04:12:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e1b9fd205e053c96",
-      "title": "Ghana’s cashew apples get a second life",
-      "summary": "A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.",
-      "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-09T04:07:39+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2490,595 +3079,6 @@
       "link": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-09T04:00:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3c5647661e5fc68c",
-      "title": "How a made-up agency found its way into Nigeria’s budget",
-      "summary": "Alleged head of fictional investment council was allocated government funding and met top officials",
-      "link": "https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-09T04:00:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b1f53bff3cd9365c",
-      "title": "The Bayeux Tapestry loan is a model for the Parthenon Marbles",
-      "summary": "Burnham has a chance to create a legislative carve-out that speeds the process of returning the artefacts to Greece",
-      "link": "https://www.ft.com/content/d45a8e1b-1d45-4a3d-a3d2-5a3ce15b0e9d",
-      "source": "FT World",
-      "published": "2026-08-09T04:00:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "81003385b8440290",
-      "title": "Saudi Arabia, Yemen condemn attack on UAE oil tanker",
-      "summary": "Saudi Arabia, Yemen condemn attack on UAE oil tanker Saudi Arabia has condemned the attack on an oil tanker operated by the UAE’s ADNOC while transiting the Strait of Hormuz as “an assault on global energy security”. The UAE had blamed Iran for the attack, condemned also by Bahrain, Jordan, Qatar and Syria. In a statement, the Saudi ministry of foreign affairs said: “These reprehensible attacks constitute an assault on the security and safety of maritime navigation, as well as on the security of global energy supplies.” The statement added that the kingdom “holds Iran responsible for the conse",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-yemen-condemn-attack-uae-oil-tanker",
-      "source": "Middle East Eye",
-      "published": "2026-08-09T03:16:02+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "898ff693c8da341c",
-      "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-      "summary": "Utah wildfire suppression efforts continued, with containment standing at 24 percent.",
-      "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-09T03:09:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b96f62695feea944",
-      "title": "China’s monthly inflation cools as impact from Iran war eases",
-      "summary": "July CPI rises at slowest pace since January while factory-gate price growth decelerates",
-      "link": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-09T03:05:38+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "66e839212fd88e16",
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "summary": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T03:00:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "061263a52d85fd13",
-      "title": "Fire doused at Saudi Aramco facility in Jizan, Saudi ministry says",
-      "summary": "Fire doused at Saudi Aramco facility in Jizan, Saudi ministry says Firefighters have “extinguished a fire that broke out at dawn” in a facility belonging to the Saudi Aramco Refinery in Jizan, the kingdom's ministry of energy said, without specifying what caused fire. No casualties were reported by the ministry. Oil facilities in Jizan have been the target of Yemen's Houthis during the ongoing Iran-US war.&nbsp;",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-doused-saudi-aramco-facility-jizan-saudi-ministry-says",
-      "source": "Middle East Eye",
-      "published": "2026-08-09T02:51:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "81975e426d6e4d67",
-      "title": "Israeli troops enter Lebanese village, erect earthen barrier overnight",
-      "summary": "Israeli troops enter Lebanese village, erect earthen barrier overnight Israeli troops infiltrated a Lebanese village placed under the control of Lebanon's army as part of a June agreement, building an earthen barrier there overnight. An AFP correspondent saw the barrier, situated at the village's eastern entrance and blocking the road. The local authorities said it was unclear if any Israeli forces remained in the area. \"An Israeli occupation army force advanced into the village of Zawtar al-Gharbiya shortly after midnight... and erected a new earthen barrier near the town square,\" Lebanon's s",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-enter-lebanese-village-erect-earthen-barrier-overnight",
-      "source": "Middle East Eye",
-      "published": "2026-08-09T02:30:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b2f7e3212c007139",
-      "title": "Vance says talks 'make progress' but Iran must make long-term changes",
-      "summary": "Vance says talks 'make progress' but Iran must make long-term changes US vice president JD Vance has said the US has made progress in negotiations with Iran, but Washington remains focused on determining whether Tehran “is willing to make longer-term changes that could lead to an improved relationship with Washington”.&nbsp; “The question is whether they're able, their system is able to give the things that are necessary for us to be happy, for us to feel like we've gotten what we need out of this particular engagement. That is still to be determined, but I do think that we've made some progre",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-talks-make-progress-iran-must-make-long-term-changes",
-      "source": "Middle East Eye",
-      "published": "2026-08-09T02:14:47+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bd4d6221e85fd2bf",
-      "title": "One of the world’s biggest coal producers battles to keep lights on",
-      "summary": "Indonesia’s attempt to contain prices at home has discouraged companies from supplying the local market",
-      "link": "https://www.ft.com/content/ff321dc1-41d6-473d-b7e7-2a58224a18e7?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-09T02:05:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1509047e3dc71f36",
-      "title": "Deadly protests in Kashmir test Pakistan’s military rulers",
-      "summary": "Dozens killed in worst violence in region in decades",
-      "link": "https://www.ft.com/content/2be78a9f-1431-4519-b5c4-c4dd5026dd3c?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-09T01:50:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7066144b285b06e1",
-      "title": "Fleet of 56 tankers shipping oil through Hormuz 'covertly', tracking firm says",
-      "summary": "Fleet of 56 tankers shipping oil through Hormuz 'covertly', tracking firm says A fleet of at least 56 is currently conducting&nbsp;\"covert ship-to-ship transfer\" of oil from Gulf countries, according to TankerTrackers.com, which tracks oil shipments. The firm said the fleet of \"visually identified tankers is currently operating in digital darkness to support oil exports from Arab nations neighbouring Iran\"&nbsp; “These vessels transit the Strait of Hormuz to conduct covert ship-to-ship (STS) transfers in the Gulf of Oman,” it said, adding that this helps “ensure that you can still afford to en",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fleet-56-tankers-shipping-oil-through-hormuz-covertly-tracking-firm-says",
-      "source": "Middle East Eye",
-      "published": "2026-08-09T01:46:38+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "76bdb09eed7c4613",
-      "title": "China’s Inflation Cools as Iran War Oil Shock Starts to Ease",
-      "summary": "China’s factory-gate inflation eased for the first time since the Iran war broke out in late February while consumer prices also decelerated, in another sign that cost pressures from the oil shock are starting to fade.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-09/china-s-inflation-cools-as-oil-shock-of-iran-war-starts-to-ease",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-09T01:46:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fab0a378e91c2850",
-      "title": "Israeli settler attacks rise as West Bank residents lose land",
-      "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-09T01:43:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dd377717eb64360e",
-      "title": "The bank behind China’s AI listings bonanza",
-      "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
-      "link": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-09T01:22:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1a9ebcb98e742ad3",
-      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-      "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T01:10:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cfcf7cd364c53275",
-      "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-      "summary": "Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.",
-      "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-09T00:41:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "58f268567b9a4a2c",
-      "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
-      "summary": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T00:15:28+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "386aaa2ed287dc55",
-      "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
-      "summary": "The most extreme phase of South Korea’s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the riskiest products plunging.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-09T00:00:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
