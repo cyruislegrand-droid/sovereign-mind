@@ -1,8 +1,876 @@
 {
-  "generated_at": "2026-08-11T02:54:31.660326+00:00",
+  "generated_at": "2026-08-11T04:24:38.605455+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "3fddd14c80bd50ad",
+      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T04:06:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "05efd1fb96973fa4",
+      "title": "EU border checks double queues at major airports",
+      "summary": "Peak waiting times hit two hours in Frankfurt and Amsterdam",
+      "link": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:01:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3478e9c513a3cae7",
+      "title": "Nvidia becomes the bank of AI",
+      "summary": "Wall Street groups are working with the chipmaker to assemble a $500bn funding package for AI infrastructure",
+      "link": "https://www.ft.com/content/4c93c894-04b8-49dc-be41-98ae79f540f8?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d22299f20c2a909f",
+      "title": "How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled",
+      "summary": "A merger between the giant drugmakers would have marked a return to pharma megadeals",
+      "link": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f374adcc0ea79348",
+      "title": "German states suspend Sunday lorry ban as low Rhine levels disrupt supply chains",
+      "summary": "Emergency move comes as economists warn drought will dent country’s GDP growth this year",
+      "link": "https://www.ft.com/content/884d643c-15e6-474d-99ca-6bab23811c7f?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ae9290713c6333d3",
+      "title": "Carbon tax will hit EU’s budget airlines where it hurts",
+      "summary": "Plans for a wider levy could benefit the bloc’s long-haul carriers but do little for low-cost operators",
+      "link": "https://www.ft.com/content/763128ff-8287-49f7-8369-039822f3bbfb?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a4264223acb9b79c",
+      "title": "Banks’ refusal to take on crypto firms risks stunting UK industry’s growth, lawmakers say",
+      "summary": "Parliamentary group asks lenders to clarify rules for serving crypto companies",
+      "link": "https://www.ft.com/content/291635b9-b401-47ed-a1aa-c9879147b883?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "18029bce9801ad52",
+      "title": "Morocco’s two-speed economy leaves young workers behind",
+      "summary": "Failure to translate growth into better living standards has driven migration attempts into Ceuta",
+      "link": "https://www.ft.com/content/b6680b19-183d-4758-8e2c-8f7ec0be79a4?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "96cd57dbd5ba9890",
+      "title": "Spain’s migrant amnesty a ‘very bad idea’, says Swedish PM",
+      "summary": "Ulf Kristersson says mass regularisation threatens integrity of Schengen free-travel zone",
+      "link": "https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "774c06bc9725542d",
+      "title": "Hotel prices in Europe surge ahead of historic eclipse",
+      "summary": "Tourists rush to Iceland and Spain to glimpse the first solar alignment of its kind visible from the continent this century",
+      "link": "https://www.ft.com/content/e6ec35d3-ba98-4a58-adc4-2c0e355c9102?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "71bde344fc201d70",
+      "title": "The American factory, a romance",
+      "summary": "At New York’s Cooper Hewitt museum, Christopher Payne’s photographs turn the grind of industrial process to visual splendour",
+      "link": "https://www.ft.com/content/ae51df74-5be1-48d3-8efc-e61f12dc9edd",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "659dd6a4f86b2ea9",
+      "title": "Setting sail from Copenhagen . . . on a 1906 schooner",
+      "summary": "A seven-day voyage to Gothenburg on a historic tall ship brings Denmark’s seafaring past into view, with Hamlet’s castle among its ports of call",
+      "link": "https://www.ft.com/content/6f50d572-5c14-4085-b7cc-cb81544fb4ae?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a0dceb9bfa13b2fe",
+      "title": "Canary Wharf boom fuels row over council’s unspent developer funds",
+      "summary": "Stalled bridge project highlights how Tower Hamlets has struggled to drive infrastructure improvements in England’s fastest-growing borough",
+      "link": "https://www.ft.com/content/9254c73f-ac4f-47c0-ba0e-bece705036df?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "072293a2959f29c7",
+      "title": "Can a 30-person start-up build Britain’s answer to OpenAI?",
+      "summary": "London-based Cosine has UK government backing to build a ‘sovereign AI’ model but faces far better resourced rivals",
+      "link": "https://www.ft.com/content/02e29d7f-9e3e-4977-a5d3-ea3f2d9efd10?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1aec8aeb5fe74a16",
+      "title": "The AI threat to India’s IT jobs machine",
+      "summary": "The country has bet big on tech services but disruption is coming",
+      "link": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "dd1449d252c3753b",
+      "title": "Why the BoE needs more parliamentary attention",
+      "summary": "Further scrutiny and accountability would strengthen independence",
+      "link": "https://www.ft.com/content/76be8ae0-ecad-4e47-a168-2f2ceaf64eb2",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f34a9f31cc5b31b8",
+      "title": "Does Africa have too few people?",
+      "summary": "What some see as an alarming population explosion could be just what the continent needs",
+      "link": "https://www.ft.com/content/6069de36-4e15-4b5f-b9e1-dd85c2b29673?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "159a6710446e290c",
+      "title": "Maga ignores the many meanings of Mount Rushmore",
+      "summary": "South Dakota’s Black Hills are central to Lakota Nation cosmology and identity",
+      "link": "https://www.ft.com/content/d5abcd42-b3b4-4241-8fd1-1c53217ea81e",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2dbcf6622dc00836",
+      "title": "Spain’s migrant crisis exposes serious challenges for young Moroccans",
+      "summary": "North African country’s failure to translate growth into better living standards has driven migration attempts into Ceuta",
+      "link": "https://www.ft.com/content/4026d3bb-b3ba-4ac1-b4dc-7368bf2e5d8f?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T04:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f18013c5d99c1648",
+      "title": "South Korean defence group offers $1.2bn to expand in US",
+      "summary": "Hanwha Aerospace bids for Austal’s American business, which sells ships to navy and coastguard",
+      "link": "https://www.ft.com/content/f78754df-06ee-41d0-871c-74d93ebab3f9?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T03:52:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "18c1bc7612f12ac2",
+      "title": "Yuan’s Recent Calm May End on Seasonal Factors, Analysts Say",
+      "summary": "The yuan’s recent calm run may be nearing an end as September approaches, with typically strong fall exports and other seasonal factors expected to lift the Chinese currency, analysts say.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/yuan-s-recent-calm-may-end-on-seasonal-factors-analysts-say",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T03:51:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3722bb870e2d3777",
+      "title": "Iran says it is not concerned by new 'Mecca Joint Defence Agreement'",
+      "summary": "Iran says it is not concerned by new 'Mecca Joint Defence Agreement' Iran has played down the mutual security agreement signed between the leaders of Saudi Arabia, Pakistan and Turkey in the Muslim holy city of Mecca on Friday. Esmaeil Baghaei, Iran's foreign ministry spokesperson, said on Monday that Tehran saw no reason to be concerned that a new security pact is directed against Iran. Baghaei said the pact showed a \"change in perception\" towards the US, as well as a shift in the regional approach to security. He added that the agreement represented a shift towards greater reliance on the st",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-not-concerned-new-mecca-joint-defence-agreement-0",
+      "source": "Middle East Eye",
+      "published": "2026-08-11T03:43:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "62cfafeb33bedb0a",
+      "title": "Hong Kong Tech Index Set for Overhaul With More Firms, AI Focus",
+      "summary": "Hong Kong’s main technology stock benchmark is set for a revamp to include more companies representing the fast-growing artificial intelligence and robotics sectors, a long‑awaited move for investors eager to better capture China’s technological advances.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/hong-kong-tech-index-set-for-overhaul-with-more-firms-ai-focus",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T03:35:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3cc6d2cdb7ae9689",
+      "title": "Where did all the money go if the US is running out of weapons?",
+      "summary": "The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-11T03:32:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3fd5f2f1a2150b44",
+      "title": "Hong Kong May Expand Tax Breaks to Trading Firms, FT Says",
+      "summary": "Hong Kong regulators may include trading firms such as Jane Street and Citadel Securities in a sweeping new tax regime that has already boosted the city’s appeal to hedge funds, according to a report from the Financial Times.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/hong-kong-may-expand-tax-breaks-to-trading-firms-ft-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T03:18:34+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d3b7bf4cfe6d178e",
+      "title": "How to fix the housing crisis | John Burn-Murdoch",
+      "summary": "How housing shortages reached a crisis point, and what we can do about it",
+      "link": "https://www.ft.com/video/a908e208-a15d-4f57-8b17-85a6f3c1bbcc?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T03:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5e19b5ceb682565d",
+      "title": "Hong Kong set to include trading firms in ‘big bang’ tax reforms",
+      "summary": "Proposal is part of push by the Chinese territory to compete with Singapore for top-tier financial talent",
+      "link": "https://www.ft.com/content/c9c7c2dc-979e-49b2-a57f-77bb461bb7db?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T02:50:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d0da1bd6be8ce0f5",
+      "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
+      "summary": "The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-11T02:44:39+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "1445162ce7102c18",
       "title": "Nifty 50 Inclusion Could Boost BSE as NSE Gears Up For Listing",
@@ -68,7 +936,7 @@
     {
       "id": "7a36dc2cee450250",
       "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-      "summary": "US president seeks payment for &#039;50 years&#039; of damages after Iran conditions Hormuz reopening on war reparations.",
+      "summary": "US president seeks payment for &#039;50 years&#039; of alleged damages after Iran conditions opening of Hormuz on war reparations.",
       "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-11T02:32:47+00:00",
@@ -196,37 +1064,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-11T02:08:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3fddd14c80bd50ad",
-      "title": "At least 132 killed in Colombia's largest earthquake in years",
-      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T01:59:40+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -779,37 +1616,6 @@
       }
     },
     {
-      "id": "40ce8b78aa7f239e",
-      "title": "The renminbi’s hardest mile is only now beginning",
-      "summary": "Turning currency into an asset the world wants to hold will be hard",
-      "link": "https://www.ft.com/content/5fbd8dad-7e3d-418b-91dc-b61af9436ca6",
-      "source": "FT World",
-      "published": "2026-08-10T23:01:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "62d1eb22d02036f5",
       "title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
       "summary": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
@@ -965,12 +1771,12 @@
       }
     },
     {
-      "id": "8cfbe37f4bbb8c52",
-      "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
-      "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-10T22:35:48+00:00",
+      "id": "8ea376eca9f5ec8b",
+      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "summary": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
+      "link": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-10T22:40:23+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -996,12 +1802,12 @@
       }
     },
     {
-      "id": "c79ff9e9fee567aa",
-      "title": "OpenAI’s head of ethics leaves start-up less than one year after joining",
-      "summary": "Chloé Bakalar’s departure is one of several high-profile exits at the group in recent weeks as safety concerns mount",
-      "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T22:35:18+00:00",
+      "id": "8cfbe37f4bbb8c52",
+      "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+      "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-10T22:35:48+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1120,71 +1926,9 @@
       }
     },
     {
-      "id": "3ba93db59a64dd88",
-      "title": "Chile grants unprecedented reprieve to state copper miner",
-      "summary": "Codelco has seen production slump and debt surge as demand explodes for the metal that is critical for data centres",
-      "link": "https://www.ft.com/content/f62afd17-389a-47b9-97f8-7140c77966d3?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T22:21:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "383c68a350704c28",
-      "title": "Turkey’s parliament passes landmark law to end conflict with Kurdish militants",
-      "summary": "Legislation includes a conditional pardon for thousands of fighters in the Kurdistan Workers’ Party",
-      "link": "https://www.ft.com/content/fecd1cc3-7f51-4124-9c6d-e731634e252a?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T22:15:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "106fc46206993d06",
-      "title": "Bonds Fall on Inflation Concern, Oil Holds Advance: Markets Wrap",
-      "summary": "Government bonds in Asia Pacific followed Treasuries lower as oil’s four-day rally revived inflation concerns before key US consumer price data later this week.",
+      "id": "376048eaaf3423a1",
+      "title": "Bonds Fall on Inflation Concern, Gold Tops $4,400: Markets Wrap",
+      "summary": "Government bonds in Asia Pacific followed Treasuries lower as oil’s four-day rally revived inflation concerns ahead of key US consumer price data later this week. Gold advanced.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
       "source": "Bloomberg Markets",
       "published": "2026-08-10T22:08:16+00:00",
@@ -1215,7 +1959,7 @@
     {
       "id": "343d9708d9bb0706",
       "title": "Latest Oil Market News and Analysis for Aug. 11",
-      "summary": "Oil held a four-day gain after US President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
+      "summary": "Oil held a four-day gain after President Donald Trump made sweeping new demands on Iran, complicating the outlook for a deal to reopen the crucial Strait of Hormuz and restore global energy flows.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
       "source": "Bloomberg Markets",
       "published": "2026-08-10T22:02:35+00:00",
@@ -1461,37 +2205,6 @@
       }
     },
     {
-      "id": "0092b6f44c495616",
-      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
-      "summary": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
-      "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T21:42:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b915ec3d6c7daa97",
       "title": "Morocco drawn into Group A of Futsal AFCON Morocco 2026 alongside Libya, Zambia, Algeria",
       "summary": "The Moroccan national futsal team, three-time defending champions, has been drawn into Group A of the 2026 Africa Cup of Nations Futsal (Futsal AFCON Morocco 2026), alongside Libya, Zambia, and Algeria, following the draw held on Monday in Rabat. As the host nation and Group A’s top seed, Morocco will begin its quest for a [&#8230;] The post Morocco drawn into Group A of Futsal AFCON Morocco 2026 alongside Libya, Zambia, Algeria appeared first on HESPRESS English - Morocco News .",
@@ -1499,68 +2212,6 @@
       "source": "Hespress EN",
       "published": "2026-08-10T21:42:49+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b441cfb0db5bde57",
-      "title": "Iran’s supreme leader tightens grip with top appointments",
-      "summary": "A raft of senior military and regime moves come as Tehran hardens its rhetoric over deal with US",
-      "link": "https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T21:30:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dd4d955cc462de2b",
-      "title": "Burnham to crack down on vape and betting shops in bid to boost high streets",
-      "summary": "Councils will be given extra powers to curb unwanted retailers and ‘bring town centres back to life’",
-      "link": "https://www.ft.com/content/7db64d6d-9615-42d3-b53b-03b115080bba?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T21:30:08+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1895,37 +2546,6 @@
       }
     },
     {
-      "id": "181530d7842fee69",
-      "title": "AI Stock Heavy ETF Risks Spread to Broader Equity Market",
-      "summary": "A growing share of equity leverage is riding on the same AI names, many of which have seen historic swings.",
-      "link": "https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-10T21:00:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "aba7d51fef87464b",
       "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
       "summary": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local officials.",
@@ -2026,6 +2646,37 @@
       "source": "Middle East Eye",
       "published": "2026-08-10T20:48:30+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6849ec5eb368da36",
+      "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+      "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-10T20:45:29+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2174,37 +2825,6 @@
       }
     },
     {
-      "id": "3144ce352ccb79d7",
-      "title": "Colombian earthquake kills at least 111",
-      "summary": "7.4-magnitude tremor flattens buildings in cities of Cali, Pereira and Manizales",
-      "link": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T19:50:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "5b3a7e76e07b56a3",
       "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
       "summary": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
@@ -2267,8 +2887,8 @@
       }
     },
     {
-      "id": "e08b1662e568db41",
-      "title": "Gautam Adani Wins Dismissal of US Securities Fraud Charges",
+      "id": "e7b6768101dc1c04",
+      "title": "Gautam Adani Wins Dismissal in Fraud Probe, Ending US Legal Woes",
       "summary": "Gautam Adani won dismissal of US securities fraud charges, ending a blockbuster case that threatened the expansion of the Indian billionaire’s giant conglomerate.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-10/gautam-adani-wins-dismissal-of-us-securities-fraud-charges",
       "source": "Bloomberg Markets",
@@ -2459,626 +3079,6 @@
       "link": "https://www.middleeasteye.net/news/uaes-adnoc-announces-8bn-gas-expansion-it-mulls-hormuz-bypass",
       "source": "Middle East Eye",
       "published": "2026-08-10T18:48:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dac0316b1d8004d1",
-      "title": "Thunderstorms with risk of hail, gusty winds expected Monday in several Moroccan provinces",
-      "summary": "Thunderstorms accompanied by a risk of hail and gusty winds are expected on Monday in several provinces of the Kingdom, the General Directorate of Meteorology (DGM) said. These thunderstorms, with a risk of hail and gusty winds (20 to 35 mm), are forecast from 1 p.m. to 11 p.m. Monday in the provinces of Boulemane, [&#8230;] The post Thunderstorms with risk of hail, gusty winds expected Monday in several Moroccan provinces appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143578-thunderstorms-with-risk-of-hail-gusty-winds-expected-monday-in-several-moroccan-provinces.html",
-      "source": "Hespress EN",
-      "published": "2026-08-10T18:47:47+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "068f15dbbed77c4c",
-      "title": "JBS Returns Leadership to Batista Clan as Scion Named CEO",
-      "summary": "The world’s largest meat supplier, JBS NV, will be led once again by a member of Brazil’s Batista family, a pivotal move for a global food powerhouse that’s increasingly focused on the US.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-10/jbs-returns-leadership-to-batista-clan-as-scion-named-next-ceo",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-10T18:45:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8cfedfdf1b6e36f3",
-      "title": "Trump says Iran must pay compensation for those it has killed and wounded",
-      "summary": "Trump says Iran must pay compensation for those it has killed and wounded US President Donald Trump said on Monday he will demand that&nbsp;Iran&nbsp;pay compensation for \"all of the people that they have killed and gravely wounded\", in response to&nbsp;Iran&nbsp;seeking compensation for the damages it has incurred from US and Israeli attacks. Trump's social media post came after&nbsp;Iran&nbsp;said over the weekend it was nearing a deal with Oman defining new shipping lanes between them through the Strait of Hormuz, but repeated that the US must meet conditions including compensation and an e",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-must-pay-compensation-those-it-has-killed-and-wounded",
-      "source": "Middle East Eye",
-      "published": "2026-08-10T18:42:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "959b536d8eed0385",
-      "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-      "summary": "Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.",
-      "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-10T18:37:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5e2a9ae2e31c0345",
-      "title": "Netanyahu’s veto and the limits of American power",
-      "summary": "Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-10T18:35:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "26ef4922f27d1a5f",
-      "title": "New train service connects Finland and Sweden for first time in decades",
-      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-10T18:28:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d07fb95611ca2d68",
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-      "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-10T18:24:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "45158f7d9fd8db98",
-      "title": "Iran supreme leader names IRGC General Abdollahi military chief",
-      "summary": "Iran supreme leader names IRGC General Abdollahi military chief Iranian Supreme Leader Mojtaba Khamenei named Islamic Revolutionary Guard Corps General Ali Abdollahi head of the country's armed forces on Monday, while also confirming a new commander of the Guard, putting his imprimatur on the country's military. Abdollahi had previously led the Khatam al-Anbiya,&nbsp;Iran's inter-branch central military command tasked with coordinating operations. A statement on Khamenei's website announced that \"Major General Ali Abdollahi has been appointed chief of staff of the armed forces. Brigadier Gener",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-supreme-leader-names-guards-general-abdollahi-military-chief",
-      "source": "Middle East Eye",
-      "published": "2026-08-10T18:23:48+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6d866819223228fe",
-      "title": "The Caspian gamble: Iran-Ukraine tensions widen the 'geography of instability'",
-      "summary": "The Caspian gamble: Iran-Ukraine tensions widen the 'geography of instability' Nima Moradi was a 23-year-old sailor on his maiden voyage aboard Anna, a commercial ship in the Caspian Sea, carrying iron from&nbsp; Russia &nbsp;to&nbsp; Iran . He was from the port city of Bandar Anzali in northern Iran and had dreamed of becoming a mariner since he was a child.&nbsp;&nbsp; The boat he was travelling on was hit by a Ukrainian long-range drone on 25 July - Moradi was killed in the attack, and another crew member was wounded.&nbsp; In a post on social media, Moradi's father Masoud wrote: “My son, I",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/caspian-gamble-iran-ukraine-tensions-widen-geography-instability",
-      "source": "Middle East Eye",
-      "published": "2026-08-10T18:20:46+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0c8603c434a2d29e",
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-10T18:19:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b02ccf410aef5c7f",
-      "title": "Why Morocco’s football federation is banning foreign club names from academies",
-      "summary": "Morocco’s Royal Moroccan Football Federation (FRMF) has banned the establishment of football academies and schools using the names of foreign clubs, as part of a broader effort to regulate the country’s growing private youth football sector. The decision follows studies aimed at developing a national framework governing the organization and management of private football academies [&#8230;] The post Why Morocco’s football federation is banning foreign club names from academies appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143571-why-moroccos-football-federation-is-banning-foreign-club-names-from-academies.html",
-      "source": "Hespress EN",
-      "published": "2026-08-10T18:00:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "80c1cb114695817f",
-      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-10T17:50:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "db29c7c90a347ebb",
-      "title": "Glencore-backed group looks to rescue cobalt refiner Sherritt",
-      "summary": "New consortium is the second major investor aiming for control of North America’s only cobalt refinery",
-      "link": "https://www.ft.com/content/ba95957a-e4fa-4caf-8ddb-ad0e203eef29?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T17:50:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "29e8aa00542a1c55",
-      "title": "Europe braces for another summer heatwave",
-      "summary": "Much of Europe is bracing for yet another scorching heatwave following periods of record drought that have driven rivers to historic lows, ignited historic forest fires and contributed to thousands of deaths. Swathes of Britain and France on Monday were already under extreme heat warnings with forecasts of temperatures around the mid-30s C, while parched [&#8230;] The post Europe braces for another summer heatwave appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143576-europe-braces-for-another-summer-heatwave.html",
-      "source": "Hespress EN",
-      "published": "2026-08-10T17:47:42+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3622e9e48129a895",
-      "title": "Ukraine needs more help in the battle of the sky",
-      "summary": "Kyiv is short of interceptors to withstand Russia’s ballistic missile attacks",
-      "link": "https://www.ft.com/content/63718844-91f6-46c9-beae-fc3906f4dbb4?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T17:32:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6af72a49676912e8",
-      "title": "Pleasing No One: Netanyahu Puts Election First with Gaza Decision",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305466",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-10T17:31:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cb1d9fb7ae33b512",
-      "title": "Trump Demands Iran Pay Compensation for Deaths as Hormuz Deal Hopes Fade",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305463",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-10T17:24:33+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ac8f9f8ae636cfea",
-      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-10T16:52:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9bde3161b8718421",
-      "title": "FanDuel and DraftKings hedge their bets with a predictions pivot",
-      "summary": "Branching into predictions has charms for sportsbook operators that aren’t just defensive",
-      "link": "https://www.ft.com/content/689c0487-af77-4e18-8b63-fa26ed373ce8?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-10T16:48:28+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a87cd01b1e92a11a",
-      "title": "Iran Supreme Leader Names Guards General Abdollahi Military Chief",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305441",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-10T16:34:50+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
