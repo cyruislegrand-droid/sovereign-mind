@@ -1,8 +1,814 @@
 {
-  "generated_at": "2026-08-11T14:38:03.979067+00:00",
+  "generated_at": "2026-08-11T15:41:56.723335+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "181a0d1d24c02004",
+      "title": "Houthis kill four in first deadly attack since start of Iran war, Yemen says",
+      "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T15:41:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "84bbb4a296dfd9d7",
+      "title": "Inside the growing rift between Iran’s dealmakers and ultraconservatives",
+      "summary": "Inside the growing rift between Iran’s dealmakers and ultraconservatives Iran ’s political landscape appears to have entered a new phase as two competing camps emerge: those advocating a deal with&nbsp; the United States &nbsp;and those determined to block any agreement. Principlists have intensified their pressure on reformist President Masoud Pezeshkian and conservative Parliament Speaker Mohammad Baqer Ghalibaf, both of whom are seeking to reach an agreement with Washington and bring an end to almost six months of hostilities. Principlists fear that any deal could marginalise them political",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/inside-growing-rift-between-irans-dealmakers-and-ultraconservatives",
+      "source": "Middle East Eye",
+      "published": "2026-08-11T15:38:43+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "230df60a050818f2",
+      "title": "Riyadh to Host Global Logistics, Supply Chain Forums in November",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5305840",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-11T15:38:28+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3056656a4c35c840",
+      "title": "Russia releases former US Marine reported in poor health",
+      "summary": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T15:35:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "79aac3158f824cff",
+      "title": "Saudi Govt: Makkah Defense Agreement Strengthens Islamic Solidarity, Advances Common Interests",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5305837",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-11T15:34:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8a57f55f6ee13547",
+      "title": "Trend-Chasing Funds’ Big Short on Bonds Raises Stakes for CPI",
+      "summary": "Record short bets against global bonds by trend-chasing investors are lifting the stakes for US inflation reports this week.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/trend-chasing-funds-big-short-on-bonds-raises-stakes-for-cpi",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T15:30:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4d6af8519632aa95",
+      "title": "Blue Owl Sets $500 Million Bond Sale to Pay Down Credit Lines",
+      "summary": "Blue Owl Capital Inc. is seeking to raise about $500 million from a bond sale, according to people familiar with the matter, after three of the firm’s private credit funds issued notes this year.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/blue-owl-sets-500-million-bond-sale-to-pay-down-credit-lines",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T15:25:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "86beefaf7156a96c",
+      "title": "S&P 500 Hovers Near Record Highs on US-Iran Hopes",
+      "summary": "Stocks traded near all-time highs and bonds rose as hopes for a deal to revive the Strait of Hormuz trimmed a rally in oil prices. Eric Freedman, CIO at Northern Trust, discusses the current market landscape. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/s-p-500-hovers-near-record-highs-on-us-iran-hopes-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T15:24:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f48eb3d4cf12f871",
+      "title": "Lebanon parliament votes to abolish death penalty",
+      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
+      "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T15:24:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "843d8005eee3dcba",
+      "title": "Saudi Arabia Condemns Colombia’s Recognition of Israel’s Sovereignty over Syrian Golan Heights",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5305830",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-11T15:23:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3f4c75a4b86fec03",
+      "title": "When trouble strikes, who shadow-banks the shadow bankers?",
+      "summary": "Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins",
+      "link": "https://www.ft.com/content/eae42796-43f5-408b-a735-1873e1fcbbe5?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-11T15:21:39+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0e0cdec32305c779",
+      "title": "Palestinian medics in Israel face incitement over unproven patient abuse claims",
+      "summary": "Palestinian medics in Israel face incitement over unproven patient abuse claims Submitted by MEE staff on Tue, 08/11/2026 - 15:34 Arab rights group condemns ministers for amplifying allegations against medical staff at Haifa hospital Hospital staff move a baby in an incubator to an underground facility for safety in Tel Aviv on 8 June after sirens sounded following Iranian attacks (AFP/Ilia Yefimovich) Off A body representing Palestinian citizens of Israel has condemned what it called an “obsessive campaign of incitement” by Israeli ministers against Arab medical staff in recent days. The High",
+      "link": "https://www.middleeasteye.net/news/palestinian-medics-israel-face-incitement-over-unproven-claims-patient-mistreatment",
+      "source": "Middle East Eye",
+      "published": "2026-08-11T15:13:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0352afd4c42b159a",
+      "title": "Thailand suspends new gun permits after mass shooting",
+      "summary": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T15:11:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "77f81fa85fa2ad34",
+      "title": "DC residents debate safety gains a year into Trump’s Guard deployment",
+      "summary": "Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/dc-residents-debate-safety-gains-a-year-into-trumps-guard-deployment?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-11T15:07:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6208578a9fee95c2",
+      "title": "US Household Delinquencies Improve: NY Fed Quarterly Report",
+      "summary": "The share of overdue consumer loans fell slightly in the second quarter, and so did some measures of newly delinquent debt, pointing to improvements for the US consumer.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/us-household-delinquencies-improve-in-ny-fed-quarterly-report",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T15:02:43+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "145f8091393ded4c",
+      "title": "Apollo Inks $2.6 Billion Financing Deal With the Yankees",
+      "summary": "Apollo Global Management is providing $2.6 billion of financing to the owners of the New York Yankees, the private capital giant’s largest investment to date in US sports. Randall Williams has more on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-11/apollo-inks-2-6-billion-financing-deal-with-the-yankees-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T15:01:39+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7280e7ee7e2105e9",
+      "title": "Saudi defence pact with Turkey and Pakistan sparks UAE backlash",
+      "summary": "Saudi defence pact with Turkey and Pakistan sparks UAE backlash Submitted by Reem Aouir on Tue, 08/11/2026 - 13:26 Abdulkhaleq Abdulla's scepticism over Mecca joint defence agreement has drawn days of sharp Saudi pushback on X Turkey's President Tayyip Erdogan shakes hands with Pakistan's Prime Minister Shehbaz Sharif as Saudi Crown Prince Mohammed bin Salman looks on after they signed a joint defence agreement in Mecca last week (Turkish Presidential Press Office/Reuters) Off A new defence agreement between Saudi Arabia , Turkey and Pakistan has reopened tensions between Riyadh and Abu Dhabi,",
+      "link": "https://www.middleeasteye.net/trending/saudi-arabia-defence-pact-turkey-pakistan-sparks-uae-backlash",
+      "source": "Middle East Eye",
+      "published": "2026-08-11T15:01:30+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3ff8fd956a3e93ab",
+      "title": "Constitutional court declines to review lawyers’ law over missing final text",
+      "summary": "Morocco’s Constitutional Court has declined to rule on the constitutionality of a new law regulating the legal profession after finding that the referral submitted to it did not include the final version of the legislation approved by Parliament. The court said the president of the House of Representatives referred Law 66.23 for constitutional review but [&#8230;] The post Constitutional court declines to review lawyers’ law over missing final text appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/143627-constitutional-court-declines-to-review-lawyers-law-over-missing-final-text.html",
+      "source": "Hespress EN",
+      "published": "2026-08-11T15:00:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "de95db4b491be4ff",
+      "title": "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
+      "summary": "Millions will see the sun disappear as the eclipse sweeps from the Arctic to Europe, bringing two minutes of totality.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-11T14:56:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3f7b23afdf7aeef9",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T14:50:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3b42867c668aa69f",
+      "title": "Activist Anson Funds Pushes Lionsgate for Sale, Semafor Says",
+      "summary": "Activist investor Anson Funds Management is urging Lionsgate Studio Corp. to put itself up for sale, Semafor reported, adding to pressure on the independent film and TV production company to do a deal.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/activist-anson-funds-pushes-lionsgate-for-sale-semafor-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T14:49:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "33932723a9a1b0c1",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T14:47:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b0d35d148e0efc9c",
+      "title": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+      "summary": "Police say 17 suspected gang members and two civilians were also killed in Kebbi State.",
+      "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-11T14:44:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7add80aef98de932",
+      "title": "Atlanta Airport Taps Munis for $1.1 Billion Mega Sale",
+      "summary": "The world’s busiest airport is coming to market with a more than $1 billion municipal bond sale, boosting issuance in the lagging airport sector.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/atlanta-airport-taps-munis-for-1-1-billion-as-sector-sales-lag",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T14:36:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "365a238a8a2312f3",
+      "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+      "summary": "President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-11T14:30:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0caca9b6d59ed062",
+      "title": "Barrick Taps Bock to Lead Ex-North America Unit Ahead of IPO",
+      "summary": "Barrick Mining Corp. named Sebastiaan Bock as chief executive officer of its operations outside North America, the latest shake-up as Chairman John Thornton advances plans to separate the company’s most valuable assets in an initial public offering later this year.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-11/barrick-taps-bock-to-lead-ex-north-america-unit-ahead-of-ipo",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-11T14:24:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "314c056f98b96b86",
       "title": "Turkey suspects Israel fabricated Trump Air Force One assassination plot to derail US-Iran deal",
@@ -35,12 +841,12 @@
       }
     },
     {
-      "id": "33932723a9a1b0c1",
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "id": "aefb2013a4fe33a2",
+      "title": "France bans unsolicited telemarketing calls",
+      "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T14:17:35+00:00",
+      "published": "2026-08-11T14:19:45+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -165,6 +971,37 @@
       "link": "https://www.bloomberg.com/news/articles/2026-08-11/chobani-cuts-annual-earnings-forecast-on-rising-material-costs",
       "source": "Bloomberg Markets",
       "published": "2026-08-11T14:04:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a69a26761a805dea",
+      "title": "Drone captures devastating aftermath of Spokane wildfires",
+      "summary": "The aerial footage shows homes destroyed down to their foundations, with burned cars still parked in some driveways.",
+      "link": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T14:02:07+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -345,37 +1182,6 @@
       }
     },
     {
-      "id": "26a2abde257c4ae6",
-      "title": "Russia’s Crude Oil Exports Tumble to Their Lowest Since May",
-      "summary": "A brief lull in drone strikes allowed refiners to boost runs, likely diverting crude from exports",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/russia-s-crude-oil-exports-tumble-to-their-lowest-since-may",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T13:43:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "22c8585ae12b39bb",
       "title": "Former Syrian dictator Assad sentenced to death in absentia",
       "summary": "Damascus court issues first ruling against ousted president since he fled to Russia in 2024",
@@ -500,8 +1306,8 @@
       }
     },
     {
-      "id": "c7d5902c01652531",
-      "title": "NYSE Parent ICE Kicks Off Bond Sale for MarketAxess Takeover",
+      "id": "a613c373730be5c3",
+      "title": "NYSE Parent ICE Looks to Raise About $3.5 Billion From Bond Sale",
       "summary": "Intercontinental Exchange Inc. has begun the sale of US investment-grade bonds two weeks after announcing a $6 billion deal to acquire MarketAxess Holdings Inc.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-11/nyse-parent-ice-kicks-off-bond-sale-for-marketaxess-takeover",
       "source": "Bloomberg Markets",
@@ -599,37 +1405,6 @@
       "link": "https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-11T13:09:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c92e5f3cc3f9560",
-      "title": "Severe Thunderstorms Across US Midwest Trigger Flood Warnings",
-      "summary": "The US Midwest and Ohio Valley, including Chicago and Cincinnati, face an enhanced, or level 3, risk of severe thunderstorms.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/severe-thunderstorms-across-us-midwest-trigger-flood-warnings",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T13:07:47+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -779,37 +1554,6 @@
       }
     },
     {
-      "id": "19ee486f7103b404",
-      "title": "South Africa Vows Eskom Won’t Weaken After Transmission Restructuring",
-      "summary": "South Africa’s presidency rebuked the chairman of Eskom Holdings SOC Ltd. for publicly questioning the plan to restructure the state power utility.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/south-africa-vows-eskom-won-t-weaken-after-transmission-restructuring",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T13:00:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "28e00e26a77a7e29",
       "title": "Why Washington views Abu Dhabi as one of its most capable Middle East allies",
       "summary": "Also in today’s newsletter, progressives gain ground as a Democratic socialist leads Wisconsin governor’s race",
@@ -910,37 +1654,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-11T12:45:57+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e2b1bd5564e726ac",
-      "title": "Buying Opportunity Forms Around S&P Skeptics’ Refusal to Give Up",
-      "summary": "US stocks may be sitting at a record, but anxiety about everything from geopolitics to inflation and a divided Federal Reserve is keeping animal spirits at bay. And that may be just what the rally needs to continue.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T12:44:36+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1120,37 +1833,6 @@
       }
     },
     {
-      "id": "143831d7ec31a618",
-      "title": "Veritas-Backed Gainwell Kicks Off Bond Part of $5.8 Billion Deal",
-      "summary": "Gainwell Technologies has started the next leg of a broader $5.8 billion debt overhaul that marks the US software sector’s biggest financing of 2026 in the junk-debt market.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T12:31:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "a324f228e0512196",
       "title": "Morocco customs investigate $370 million in suspected fake import transactions",
       "summary": "Morocco’s National Customs Investigation Brigade has expanded an investigation into a suspected network of fraudulent import operations after preliminary inquiries uncovered indications that more than $370 million may have been transferred abroad using potentially falsified commercial invoices from China and Malaysia. The investigation has so far focused on five Moroccan companies suspected of carrying out [&#8230;] The post Morocco customs investigate $370 million in suspected fake import transactions appeared first on HESPRESS English - Morocco News .",
@@ -1244,37 +1926,6 @@
       }
     },
     {
-      "id": "d3f82abf478e190c",
-      "title": "A Dozen Ships Switch Oil Outside Hormuz as Barrels Keep Flowing",
-      "summary": "A key oil supply valve from the Middle East that involves shuttle transits through the Strait of Hormuz is continuing to function in the face of a recent spate of attacks.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/a-dozen-ships-switch-oil-outside-hormuz-as-barrels-keep-flowing",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T12:17:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "116f1a5baaefb619",
       "title": "Is the Mecca Agreement Israel's worst nightmare come true?",
       "summary": "Is the Mecca Agreement Israel's worst nightmare come true? Submitted by Kamal Alam on Mon, 08/10/2026 - 16:22 The move marks the culmination of a self-fulfilling prophecy for Tel Aviv. However, it remains to be seen if this alliance is purely symbolic or a salutary warning Saudi Crown Prince Mohammed bin Salman signs a joint defence deal with the leaders of Turkey and Pakistan, in Mecca, on 7 August 2026 (Turkish Presidency Press Office/AFP) On The Mecca Joint Defence Agreement , a trilateral pact announced last week between Saudi Arabia , Pakistan and Turkey , marks a significant and hugely s",
@@ -1282,37 +1933,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-11T12:13:56+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e5065db11a7428e5",
-      "title": "Bonds Slide Amid Inflation Concerns as Oil Rises on Hormuz Deal Outlook | Bloomberg Brief 08/11/2026",
-      "summary": "Treasuries fall and US equity futures waver as rising oil prices stoke inflation fears. President Trump hardens his stance toward Iran with new demands, clouding the prospect of an immediate agreement on the Strait of Hormuz. AI financing picks up as Nvidia taps investment giants including Apollo and Blackstone to source $500 billion for AI infrastructure. Intel raises $20 billion in an upsized share sale. Laura Cooper of Nuveen discusses the rise in real yields. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T12:10:26+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1498,6 +2118,37 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-11T11:46:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aa6069693b2c28b9",
+      "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
+      "summary": "Mangione's lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T11:35:20+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2081,68 +2732,6 @@
       }
     },
     {
-      "id": "3f7b23afdf7aeef9",
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T10:43:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4c7ea497d76094bb",
-      "title": "India’s Small Traders Lose $9.6 Billion in Options Despite Curbs",
-      "summary": "Individuals in India lost 916.85 billion rupees ($9.6 billion) buying and selling equity futures and options in the year ended March, down from 1.1 trillion rupees a year earlier, the government told lawmakers on Tuesday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T10:37:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "fba9f1a86a73947c",
       "title": "Syria sentences Bashar al-Assad to death in absentia over atrocities",
       "summary": "A Syrian court on Tuesday sentenced former ruler Bashar al-Assad to death after a trial in absentia, convicting him of atrocities committed during the country&#8217;s nearly 14-year civil war. It is the first such ruling under Syria&#8217;s transitional leaders who ousted Assad in December 2024, vowing to provide justice and accountability for crimes committed under [&#8230;] The post Syria sentences Bashar al-Assad to death in absentia over atrocities appeared first on HESPRESS English - Morocco News .",
@@ -2212,37 +2801,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-11T10:29:18+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1976905327be3428",
-      "title": "East Libya military intelligence chief killed in car bomb blast",
-      "summary": "Prime minister of the eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.",
-      "link": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-11T10:25:50+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2422,74 +2980,12 @@
       }
     },
     {
-      "id": "e4874919014f8963",
-      "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
-      "summary": "Experts say this trial has been a test of Syria’s transitional justice.",
-      "link": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-11T10:03:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "0f152ca14371b078",
       "title": "Yen Edges Toward 160 per Dollar, Raising Intervention Risks",
       "summary": "The yen weakened, approaching a key level against the dollar that could raise speculation that Japanese authorities may intervene again to prop up the currency.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-11/yen-slides-toward-160-per-dollar-raising-intervention-concerns",
       "source": "Bloomberg Markets",
       "published": "2026-08-11T10:03:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "543962e1ec75f965",
-      "title": "Bangladesh and India battle to save cricket series after political turmoil",
-      "summary": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
-      "link": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-11T10:02:35+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2546,37 +3042,6 @@
       }
     },
     {
-      "id": "993cb247fed4cb9e",
-      "title": "The Global South’s digital future must not belong to Bezos and Musk",
-      "summary": "Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.",
-      "link": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-11T09:52:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "7aaf47783f1bbe3b",
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
@@ -2608,477 +3073,12 @@
       }
     },
     {
-      "id": "9671f2af36a767e4",
-      "title": "UKMTO reports incident involving military in Gulf of Oman",
-      "summary": "UKMTO reports incident involving military in Gulf of Oman The United Kingdom Maritime Trade Operations (UKMTO) said on Tuesday it received a report of an incident involving a container ship and military forces in the Gulf of Oman, off the coast of Pakistan. UKMTO ADVISORY 109-26 &nbsp; UKMTO WARNING 109-26 Click here to view the full product ⤵️ https://t.co/352rLshzGu #MaritimeSecurity #MarSec pic.twitter.com/5g4OTPteMc — UKMTO Operations Centre (@UK_MTO) August 11, 2026",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-incident-involving-military-gulf-oman",
-      "source": "Middle East Eye",
-      "published": "2026-08-11T09:37:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "0f3b107e5df70e59",
       "title": "Trump says would be 'terrible mistake' to oust embattled Infantino",
       "summary": "US President Donald Trump said on Monday it would be &#8220;a terrible mistake&#8221; to replace Gianni Infantino, the embattled FIFA president who tried, and failed, to sell off part of the World Cup to private investors. Infantino came under renewed fire in an open letter signed by three confederations &#8212; Europe&#8217;s UEFA, North and Central [&#8230;] The post Trump says would be &#039;terrible mistake&#039; to oust embattled Infantino appeared first on HESPRESS English - Morocco News .",
       "link": "https://en.hespress.com/143595-trump-says-would-be-terrible-mistake-to-oust-embattled-infantino.html",
       "source": "Hespress EN",
       "published": "2026-08-11T09:36:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7396f4ff8f0f8ea7",
-      "title": "Lebanon Says Israeli Strike on South Wounds Two, Damages Ambulance",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305701",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-11T09:36:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b3b5ee98f8e03b41",
-      "title": "Burnham vows to stop early release of PC Harper’s killers",
-      "summary": "PM says he is ‘increasingly confident’ prison space can be freed up to keep more serious criminals in jail",
-      "link": "https://www.ft.com/content/21acee15-501b-45b6-9fc2-4202d9a66c76?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-11T09:33:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7c9b50b5bb3f2b27",
-      "title": "Authorities in Ethiopia's Tigray State Denounce Army's Drone Strikes",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305699",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-11T09:31:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d288a84bb4d8edf8",
-      "title": "Brent oil price passes $90 as Iran-US deal hopes fade",
-      "summary": "Brent oil price passes $90 as Iran-US deal hopes fade The price of Brent North Sea crude, the main international oil contract, climbed above $90 on Tuesday as hopes that the US and Iran reach a deal to end the war fade. Brent reached $90.02 a barrel, a gain of more than 2.5 percent from Monday, while the main US contract, West Texas Intermediate, jumped 2.7 percent to $84.32 a barrel. Crude has surged more than 10 percent over the past week, with the US and Iran appearing no closer to a deal on the Strait of Hormuz despite optimistic comments from Washington earlier this month. In the latest b",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-oil-price-passes-90-iran-us-deal-hopes-fade",
-      "source": "Middle East Eye",
-      "published": "2026-08-11T09:20:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b74d626c56ee1619",
-      "title": "Ukraine Says Russia Fired N. Korean Missiles in Deadly Attack",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305688",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-11T09:05:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7a7b0030dd02dd8d",
-      "title": "Deutsche becomes first European clearing bank for renminbi",
-      "summary": "China seeks to increase international use of its currency",
-      "link": "https://www.ft.com/content/d891285a-e581-45b7-8cb0-80411669c1eb?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-11T09:00:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8cdf842ac2497fb0",
-      "title": "Switzerland plans deportation flights to Morocco as return cooperation improves",
-      "summary": "Switzerland is preparing a series of deportation flights to Morocco in the coming weeks after months of diplomatic pressure led to a sharp increase in the identification of Moroccan nationals ordered to leave the country. The Swiss State Secretariat for Migration, known as SEM, said cooperation with Morocco has improved significantly, with the increase in [&#8230;] The post Switzerland plans deportation flights to Morocco as return cooperation improves appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143593-switzerland-plans-deportation-flights-to-morocco-as-return-cooperation-improves.html",
-      "source": "Hespress EN",
-      "published": "2026-08-11T09:00:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "47c49e3ad6c42d13",
-      "title": "Economic losses from natural disasters fall to $100 bn in first half of 2026: Swiss Re",
-      "summary": "Economic losses from natural catastrophes worldwide are estimated to have reached $100 billion in the first half of this year, reinsurance group Swiss Re said Tuesday, a sharp decline from the period last year. Despite severe storms in the United States and the deadly earthquakes that struck Venezuela in June, the losses were well below [&#8230;] The post Economic losses from natural disasters fall to $100 bn in first half of 2026: Swiss Re appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/143591-economic-losses-from-natural-disasters-fall-to-100-bn-in-first-half-of-2026-swiss-re.html",
-      "source": "Hespress EN",
-      "published": "2026-08-11T08:57:53+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bf1f6744bb1037de",
-      "title": "Syrian court sentences Bashar al-Assad to death in absentia in landmark trial",
-      "summary": "Syrian court sentences Bashar al-Assad to death in absentia in landmark trial Submitted by MEE staff on Tue, 08/11/2026 - 09:46 Damascus court sentences Syria's former ruler, his brother Maher and ex-security official Najib to death on charges of murder, torture and crimes against humanity A portrait of former Syrian President Bashar al-Assad with its frame broken at a Political Security Branch facility on the outskirts of Hama, 7 December 2024 (Omar Haj Kadour/AFP) Off A Damascus court sentenced Syria 's&nbsp;former president&nbsp; Bashar al-Assad , his brother Maher and former security offic",
-      "link": "https://www.middleeasteye.net/news/syria-court-sentences-bashar-al-assad-death-absentia-landmark-trial",
-      "source": "Middle East Eye",
-      "published": "2026-08-11T08:50:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "94f87aad7843b4f0",
-      "title": "EM Assets Recover as Iran Deal Hopes Pull Oil Back From Highs",
-      "summary": "Emerging-market currencies erased earlier losses on Tuesday as crude oil dipped after Pakistan’s defense minister said a deal between the US and Iran may be close, despite President Donald Trump’s recent rhetoric.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/emerging-assets-pressured-as-higher-oil-stokes-inflation-worries",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T08:49:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "beb22d9b56a47e5a",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T08:44:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8ddc1f058d1ccfc2",
-      "title": "China Bets on AI Weather Forecasting as Extreme Weather Intensifies",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305684",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-11T08:44:26+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "72401ba4fa0a0b6b",
-      "title": "CoreWeave’s Forecast Is Key to Stopping Another Earnings Selloff",
-      "summary": "CoreWeave Inc. shares have been on a roll lately after a monthslong slump. Now, the neocloud provider’s earnings after the close Tuesday can give investors a sense of whether the rally is sustainable.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-s-forecast-is-key-to-stopping-another-earnings-selloff",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-11T08:44:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c25bdca4e2787840",
-      "title": "Invasive Species Thrive as Global Warming Transforms the Mediterranean",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5305682",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-11T08:39:12+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
