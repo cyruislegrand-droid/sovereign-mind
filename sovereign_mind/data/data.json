@@ -1,8 +1,814 @@
 {
-  "generated_at": "2026-08-14T07:44:56.706916+00:00",
+  "generated_at": "2026-08-14T08:50:41.984439+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "7d49155c2abf182f",
+      "title": "Report: Engine Fragments Caused Ryanair Flight to Lose Pressure",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306823",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T08:49:30+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "412768b6c7ae2094",
+      "title": "Jared Kushner to Visit Israel and Egypt Next Week with Board of Peace Officials to Talk Gaza",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306822",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T08:48:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "db5ad46325c6b851",
+      "title": "In South Korea, Some Savor Last Season of Legal Dog Meat",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306821",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T08:41:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "750c39c0bc90c23d",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T08:39:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ab0afee58288a5e6",
+      "title": "US accuses dozens of countries of helping China avoid Trump’s tariffs",
+      "summary": "White House report claims tens of billions of dollars in annual revenue lost to transshipments.",
+      "link": "https://www.aljazeera.com/economy/2026/8/14/us-accuses-dozens-of-countries-of-helping-china-avoid-trumps-tariffs?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-14T08:37:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "df28e1e3b9f51195",
+      "title": "South Korea players want K League season change due to ‘worsening climate’",
+      "summary": "South Korea football players push for a K League season shift as &#039;punishing heat&#039; hitting summer matches.",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/south-korea-players-want-k-league-season-change-due-to-worsening-climate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-14T08:35:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "01904fb451412a1a",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T08:34:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c90dd6184ac5e094",
+      "title": "Israeli Settlers Divert Palestinian Water to Fill West Bank Pool",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306819",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T08:30:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fb8bd62016eee0e1",
+      "title": "Fitch Keeps US at 'AA+', Cites Economic Resilience amid Fiscal Risks",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306818",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T08:30:06+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cccc6855631e3aef",
+      "title": "The paediatric war wounds Dr Abu Sittah tries to heal in Lebanon",
+      "summary": "The paediatric war wounds Dr Abu Sittah tries to heal in Lebanon In his Beirut office, Dr Ghassan Abu Sittah is going over his operating list for the weekend: 11 children in total, with life-altering injuries from Israel’s wars on Lebanon and Gaza. “There are two siblings who have shrapnel from the 2024 war that is now causing medical problems,” the prominent British-Palestinian plastic and reconstructive surgeon told Middle East Eye. “A boy with a partial amputation of his foot that needs reconstruction, from this war, and another boy with an amputation.” Dr Abu Sittah hopes to finish the stu",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/paediatric-war-wounds-dr-abu-sittah-tries-heal-lebanon",
+      "source": "Middle East Eye",
+      "published": "2026-08-14T08:27:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b2e47bb2429e3955",
+      "title": "Investigation into Farage resumes after he wins Clacton by-election",
+      "summary": "Reform UK leader increases number of votes after mainstream parties shunned poll as stunt",
+      "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-14T08:25:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0fd751d5d16fb094",
+      "title": "Wildfires force thousands to flee as blazes spread across Europe",
+      "summary": "At least a dozen people have reportedly been hospitalised in Croatia after blazes tore into the tourist town of Omis.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/wildfires-force-thousands-to-flee-as-blazes-spread-across-europe?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-14T08:23:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7417e3b9cacc6ee9",
+      "title": "Gold Heads for Weekly Loss as Investors Unwind Inflation-fueled Rally",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306815",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T08:16:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1d31d5d7343ef3cb",
+      "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+      "summary": "Flight crews had recorded four suspected bird strikes involving the same engine during the previous year.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-14T08:15:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "928d3700408ff507",
+      "title": "A Historic El Niño Is Coming That Could Cost the World Trillions",
+      "summary": "Every few years, weather nerds and agriculture analysts will talk about an upcoming El Niño, and then they mostly pass by with relatively few headlines. But sometimes El Niños end up being massively destabilizing -- leading to devastating droughts, flooding, and other catastrophes. And this year's emerging El Niño could end up being one of the big ones, with forecasters predicting record-breaking intensity. But what exactly is an El Niño, and what does it mean that this year's could be so big? On this episode we speak with Justin Mankin, professor of geography at Dartmouth and director of the ",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-14/a-historic-el-nino-could-cost-the-world-trillions-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-14T08:12:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "098d4cc61ce1998d",
+      "title": "The Gambian women turning grief into song",
+      "summary": "Known as the Kanyeleng, they have transformed their experience of child loss through a tradition of music.",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-14T08:09:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cb3913dc3693e616",
+      "title": "Providence Agrees to Buy UK Property Valuation Provider Hometrack",
+      "summary": "Providence Equity Partners has agreed to acquire property valuation service Hometrack, people familiar with matter said.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/providence-agrees-to-buy-uk-property-valuation-provider-hometrack",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-14T08:07:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e38f1daf69f92eda",
+      "title": "Tanker hit in Hormuz, UKMTO says",
+      "summary": "Tanker hit in Hormuz, UKMTO says The&nbsp;United Kingdom Maritime Trade Operations (UKMTO) organisation said a tanker had been hit by an unmanned aerial vehicle while transiting through the Strait of Hormuz on Thursday. It added that while the vessel sustained minor damage, the whole crew was safe and accounted for, and no environmental impact has been reported.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-hormuz-ukmto-says",
+      "source": "Middle East Eye",
+      "published": "2026-08-14T08:06:25+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aad000ee29d416a9",
+      "title": "Indonesia’s Prabowo retreats on commodities reform amid market pressure",
+      "summary": "State-owned agency had threatened to shake up trade of nickel, thermal coal and palm oil",
+      "link": "https://www.ft.com/content/c061415a-791d-42e5-9907-736563c7f938?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-14T08:05:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d96fc1ff9721aded",
+      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
+      "link": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T08:02:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "734116aa33aee58b",
+      "title": "Odd Lots: A Historic El Niño That Could Cost Trillions (Podcast)",
+      "summary": "",
+      "link": "https://www.bloomberg.com/news/audio/2026-08-14/odd-lots-a-historic-el-nino-that-could-cost-trillions-podcast",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-14T08:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7c6110f8bdf62bcf",
+      "title": "Saudi Petrochemical Companies Cut Losses by More than 50% in First-Half",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306811",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T07:59:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ff00ffd4b9dcc4ba",
+      "title": "Ninety One’s Borbora-Sheen Is Betting Bond Markets Warm to Warsh",
+      "summary": "A portfolio manager at Ninety One Plc is using a two-pronged position in the Treasuries market to bet ebbing price pressures will help restore faith in Federal Reserve Chairman Kevin Warsh’s inflation-fighting credentials.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/ninety-one-s-borbora-sheen-is-betting-bond-markets-warm-to-warsh",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-14T07:49:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eacb0fd783024f9d",
+      "title": "Stolen Matisse art found in Brazil",
+      "summary": "Stolen Matisse art found in Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-14T07:47:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4c4b9af8fef054e2",
+      "title": "Saudi Inflation Holds Steady at 1.8% Despite Global Commodity Market Turmoil",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5306809",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-14T07:45:43+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7c0e48c860c1275b",
+      "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
+      "summary": "South Africa and Ghana claim Africa&#039;s two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-14T07:44:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "c925d4eb1dcb88eb",
       "title": "Saudi Archaeology: Discoveries Rewriting the History of the Arabian Peninsula",
@@ -376,37 +1182,6 @@
       }
     },
     {
-      "id": "a878fd9c4b5d660d",
-      "title": "Investigation into Farage to resume after he wins Clacton by-election",
-      "summary": "Reform UK leader increases number of votes after mainstream parties shunned poll as stunt",
-      "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-14T06:51:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e4c213e28cc21f68",
       "title": "FIFA Chief Infantino Receives Support from 6 Arab Federations",
       "summary": "",
@@ -564,7 +1339,7 @@
     {
       "id": "9ed159a331625a8a",
       "title": "JD Vance says low energy prices for Americans top priority amid US war on Iran",
-      "summary": "JD Vance says low energy&nbsp;prices for Americans top priority amid US war on Iran US&nbsp;Vice President JD Vance said that keeping oil and gas prices low for Americans is now Washington's top priority in its war on Iran.&nbsp; \"I know that oil is down today and it's way down from the highs in the early days of the conflict,\" has said on Fox News.&nbsp;\"That's goal number one -- keep oil and gas cheap for Americans all over our country.\" He added that the next primacy focus for the US is to \"ensure that Iran never gets a nuclear weapon\".",
+      "summary": "JD Vance says low energy&nbsp;prices for Americans top priority amid US war on Iran US&nbsp;Vice President JD Vance said that keeping oil and gas prices low for Americans is now Washington's top priority in its war on Iran.&nbsp; \"I know that oil is down today and it's way down from the highs in the early days of the conflict,\" he said on Fox News.&nbsp;\"That's goal number one - keep oil and gas cheap for Americans all over our country.\" He added that the next primary focus for the US is to \"ensure that Iran never gets a nuclear weapon\".",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-says-low-energy-prices-americans-top-priority-amid-us-war-iran",
       "source": "Middle East Eye",
       "published": "2026-08-14T06:41:55+00:00",
@@ -874,7 +1649,7 @@
     {
       "id": "ea77108f91f9c7a5",
       "title": "Ferrovial to End Amsterdam Listing as Trading Shifts to US",
-      "summary": "Ferrovial NV will stop trading in Amsterdam after the infrastructure group gained more volume in the US.",
+      "summary": "Ferrovial NV will stop trading in Amsterdam, where negligible activity was far outweighed by listings in the US and Spain.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-14/ferrovial-to-end-amsterdam-listing-as-trading-shifts-to-us",
       "source": "Bloomberg Markets",
       "published": "2026-08-14T06:13:14+00:00",
@@ -1182,68 +1957,6 @@
       }
     },
     {
-      "id": "7b9c907727e8a465",
-      "title": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East",
-      "summary": "Supertankers are going dark for longer to get oil through the Strait of Hormuz and the Bab el-Mandeb strait, doubling down on tactics honed in the earlier days of the Iran war.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-14T05:35:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c1cf3d3d66c8f1dc",
-      "title": "Insight with Haslinda Amin 8/14/2026",
-      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-14/insight-with-haslinda-amin-8-14-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-14T05:32:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "1a8186cc858ea1e5",
       "title": "Karthik Sankaran on the case for yen intervention",
       "summary": "‘I’ve been calling for an intervention at least since dollar-yen was at 150’",
@@ -1399,37 +2112,6 @@
       }
     },
     {
-      "id": "ee94e659a66e2b70",
-      "title": "South Africa Taps London to Boost Offshore Adoption of New Benchmark Rate",
-      "summary": "South Africa is working with the London Stock Exchange to convert outstanding derivative contracts linked to a soon-to-be-abandoned rand reference rate to the country’s new benchmark.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-14/south-africa-taps-london-to-boost-offshore-adoption-of-new-benchmark-rate",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-14T05:15:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "7256c13be7976a7c",
       "title": "Shelton Successfully Defends National Bank Open Title, Beating Nakashima in All-American Final",
       "summary": "",
@@ -1523,105 +2205,12 @@
       }
     },
     {
-      "id": "ff2d0f44f555d560",
-      "title": "Arab Parliament Affirms Support for Stronger Arab-China Development Partnership",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5306771",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-14T05:03:48+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "6c3c99dacb36183e",
       "title": "Record rainfall leaves four dead, thousands stranded in Japan",
       "summary": "Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.",
       "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-14T05:02:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fc13de233396b570",
-      "title": "Goldman Sachs on AI's Impact on Jobs in India",
-      "summary": "The Goldman Sachs chief India economist says broad AI adoption could boost productivity and support wage growth for India's workers who use the technology. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-14/goldman-sachs-on-ai-s-impact-on-jobs-in-india-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-14T05:01:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a96ea5ff481468e9",
-      "title": "Africa’s Domestic Debt Outshines EM Peers as High-Yield Chase Intensifies",
-      "summary": "African local-currency debt is outperforming emerging-market peers, as high yields and economic reforms drive investor appetite for government securities.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-14/africa-s-domestic-debt-outshines-em-peers-as-high-yield-chase-intensifies",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-14T05:00:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1709,74 +2298,12 @@
       }
     },
     {
-      "id": "1de43cd596a2f2a3",
-      "title": "Saudi Arabia Offers Condolences to Egypt over Victims of Traffic Accident",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5306767",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-14T04:50:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "9693a3053b167203",
       "title": "Turkey's foreign minister accuses Israel of expelling Palestinians from Gaza",
       "summary": "Turkey's foreign minister accuses Israel of expelling Palestinians from Gaza Turkish Foreign Minister Hakan Fidan accused Israel of aiming to&nbsp;expel all Palestinians from Gaza, adding that there must be immediate action to pressure&nbsp;Netanyahu to comply with international demands. During a joint press briefing in the Egyptian city of El Alamein, Fidan said that Netanyahu \"develops policies that trample human dignity\". The foreign minister also indicated that that Ankara and Cairo joined the Trump-backed Board of Peace to \"stop the genocide in Gaza\", adding that \"thankfully, together we ",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-foreign-minister-accuses-israel-expelling-palestinians-gaza",
       "source": "Middle East Eye",
       "published": "2026-08-14T04:50:48+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "13693ec3d15271e1",
-      "title": "Multinational Maritime Coalition Holds Third Meeting in Jeddah with 39 Countries",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5306766",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-14T04:44:32+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -1833,37 +2360,6 @@
       }
     },
     {
-      "id": "25e542b41a70e6bc",
-      "title": "Saudi Crown Prince, Commander of US Central Command Discuss Defense Cooperation",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5306764",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-14T04:36:11+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b4146376a696fb05",
       "title": "FirstFT: Cheaper Chinese models push OpenAI and Anthropic into price war",
       "summary": "Also in today’s newsletter: UK aid cuts and effective altruism revival",
@@ -1895,74 +2391,43 @@
       }
     },
     {
-      "id": "57ad8e15fee5963d",
-      "title": "Sources: US Could Not Verify Israeli Warnings of Iran Plots Against Trump",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5306763",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-14T04:29:45+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "20443ba23724891c",
-      "title": "US Says It Can Keep Naval Blockade on Iran 'Indefinitely,' Vows More Economic Pressure",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5306761",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-14T04:27:20+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "4fb5e978cb05bb06",
       "title": "Water supply for three US states drips down, Lake Mead at record low",
       "summary": "The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-14T04:26:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "edf76cf5728de9ec",
+      "title": "Emerging Stocks Set for Best Week Since June on Fed Outlook, AI",
+      "summary": "Emerging-market stocks and currencies extended the week’s gains as a shift in the US interest-rate outlook added to bullish sentiment on artificial intelligence.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-14T04:04:27+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2608,37 +3073,6 @@
       }
     },
     {
-      "id": "750c39c0bc90c23d",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-14T03:09:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "4ed810a6cff7618f",
       "title": "Hyperscaler AI borrowing binge shakes up foreign credit markets",
       "summary": "Flood of bond issuance by likes of Amazon and Alphabet has pushed up costs in Canadian dollars, Swiss francs and sterling",
@@ -2646,440 +3080,6 @@
       "source": "FT World",
       "published": "2026-08-14T03:00:01+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d75463fa8c395bf8",
-      "title": "Report: Iraqi air defences intercept drones over Erbil",
-      "summary": "Report: Iraqi air defences intercept drones over Erbil Air defence systems intercepted drones over the northern Kurdish province of Erbil early on Thursday,&nbsp;Iraqi security sources told Al Jazeera.&nbsp; Footage circulating online showed the remnants of drones falling over a residential area near Erbil international airport. There have been no reported&nbsp;injuries or casualties so far.&nbsp;",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iraqi-air-defences-intercept-drones-over-erbil",
-      "source": "Middle East Eye",
-      "published": "2026-08-14T02:55:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4ad2dcb83b59c1c7",
-      "title": "Why Osun’s election matters for Nigeria’s 2027 vote",
-      "summary": "The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.",
-      "link": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-14T02:54:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d2614406a19796be",
-      "title": "Why the ‘dirt cheap’ yen is proving hard to fix",
-      "summary": "The Japanese currency is undervalued on many metrics",
-      "link": "https://www.ft.com/content/279e0a0f-d58a-4690-99d7-d9fe6aec1066?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-14T02:46:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9e8893a239e1e7aa",
-      "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
-      "summary": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-14T02:21:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "929b3e057a60bdde",
-      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
-      "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-14T02:13:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "64493ace6a17c18b",
-      "title": "Could Trump actually run for a third term as president?",
-      "summary": "Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-14T02:12:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3749a84da5222de7",
-      "title": "Bodycam captures lightning striking metres from US police officers",
-      "summary": "Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-14T02:09:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8886f5a21554f81a",
-      "title": "Talks between government and opposition mark a new chapter for Venezuela",
-      "summary": "The government of Delcy Rodriguez held its first talks with part of Venezuela&#039;s opposition. But what will they achieve?",
-      "link": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-14T02:07:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "52bad6efed4048a8",
-      "title": "AI escapes confinement",
-      "summary": "Over the course of two weeks, AI companies said that some of their AI models managed to hack systems.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-14T01:56:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b59748093e1a708a",
-      "title": "AI frenzy drives Chinese tech valuations to multiples of US peers",
-      "summary": "Support from Beijing has helped power 29% gain for Star 50 index this year",
-      "link": "https://www.ft.com/content/094f578b-517a-4d05-a9f1-1cc1f2e56c44?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-14T01:43:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d23529c08258fdcd",
-      "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
-      "summary": "Taipei is seeking to dissolve the China Unification Promotion Party over its alleged ties to Beijing.",
-      "link": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-14T01:43:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "634485388f851ac6",
-      "title": "Is AI coming for Indian jobs? It’s already here",
-      "summary": "Also in this newsletter: equity investments skew towards risk",
-      "link": "https://www.ft.com/content/4f0142b8-96c4-455a-acb1-cfc2fd6d4e14?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-14T01:30:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "aeb2a495060d931c",
-      "title": "Israeli forces will not withdraw from south Lebanon or Gaza, Katz says",
-      "summary": "Israeli forces will not withdraw from south Lebanon or Gaza, Katz says Israeli Defence Minister Israel Katz said on Wednesday that Israeli forces would not withdraw from what Israel calls its \"security zones\" in southern Lebanon or Gaza, in a video statement filmed from the Israeli-occupied Beaufort Ridge in Lebanon. Katz's remarks came days after Israeli and Lebanese officials held talks in Rome on implementing a 26 June agreement linking Israel's phased withdrawal from southern Lebanon to the verified disarmament of Hezbollah. Hezbollah, which is not a party to the agreement, has rejected ca",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-will-not-withdraw-south-lebanon-or-gaza-katz-says",
-      "source": "Middle East Eye",
-      "published": "2026-08-14T01:29:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "66df408276540e5f",
-      "title": "Bessent says US set to apply measures never seen on Iran",
-      "summary": "Bessent says US set to apply measures never seen on Iran US Treasury Secretary Scott Bessent said that Washington&nbsp;is going to apply measures that have \"never been seen\" on Iran. \"Watch this ⁠space for more announcements ​coming next week because we ​are going to apply measures like have never been seen in ​the history of economic ​isolation on a country,\" Bessent said during an ⁠interview on Newsmax's Rob Schmitt Tonight programme. \"It will be a combination of economic ​isolation like ​the ⁠world has never seen before, and the ​continued blockade in the ​Strait ⁠of Hormuz that will keep a",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bessent-says-us-set-apply-measures-never-seen-iran",
-      "source": "Middle East Eye",
-      "published": "2026-08-14T01:25:51+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
