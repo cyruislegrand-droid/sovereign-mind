@@ -1,8 +1,101 @@
 {
-  "generated_at": "2026-08-15T14:33:51.625027+00:00",
+  "generated_at": "2026-08-15T15:00:57.260733+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "6a277fdd23c48faa",
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T14:58:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6cf5bf39c7ef63ea",
+      "title": "South Korea proposes talks to officially end war with North",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T14:40:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "94939ac932505c74",
+      "title": "The next Yemen war might be different",
+      "summary": "Drones are no longer the advantage for only one side.",
+      "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-15T14:32:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "f50f239bf9dadb78",
       "title": "Oil Spill Affects 12 km of Oman Coast, Masirah Unaffected",
@@ -719,7 +812,7 @@
     {
       "id": "cb26a464d4266553",
       "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-      "summary": "Police found the gunshot victims near the university&#039;s residence halls.",
+      "summary": "Police found the gunshot victims near the US university&#039;s halls of residence.",
       "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-15T12:57:08+00:00",
@@ -1833,37 +1926,6 @@
       }
     },
     {
-      "id": "6cf5bf39c7ef63ea",
-      "title": "South Korea proposes talks to officially end war with North",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T09:35:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b69dad27e57fcd0a",
       "title": "South Korea’s inverse correlation",
       "summary": "Kospi down, won up",
@@ -2577,9 +2639,9 @@
       }
     },
     {
-      "id": "ac79b1efffeb6c6c",
-      "title": "Israeli strikes kill nine in southern Lebanon as attacks intensify",
-      "summary": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+      "id": "d20e078e7d001b68",
+      "title": "Israeli strikes kill 11 in southern Lebanon as attacks intensify",
+      "summary": "Hezbollah has warned that Israel’s attacks would be met with an &#039;appropriate response&#039;.",
       "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-15T07:18:13+00:00",
@@ -2856,37 +2918,6 @@
       }
     },
     {
-      "id": "6c02eec75cc3a4d8",
-      "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-      "summary": "Greenhouses and rented plots are lifelines for Gaza&#039;s farmers, helping them grow crops despite the extensive destruction",
-      "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-15T06:10:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ee9ab141c4ad1776",
       "title": "UKMTO says bulk carrier struck in Hormuz",
       "summary": "UKMTO says bulk carrier struck in Hormuz A bulk carrier has been struck by an&nbsp;unknown projectile in the Strait of Hormuz,&nbsp;&nbsp;the UK Maritime Trade Operations (UKMTO) said. UKMTO said it received a verified report that the projectile hit the vessel’s hull. \"The crew is reported safe, no damage assessment has been reported, and environmental impact is unknown at present,\" the UKMTO wrote on X, advising&nbsp;vessels to transit the area with caution and report any suspicious activity. UKMTO WARNING 113-26 Click here to view the full product⤵️ https://t.co/f4Pt3qj8lL #MaritimeSecurity ",
@@ -3048,37 +3079,6 @@
       "link": "https://english.aawsat.com/node/5307114",
       "source": "Asharq Al-Awsat",
       "published": "2026-08-15T05:32:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5275fc95018be1a3",
-      "title": "Seven people killed in Israeli air attacks on southern Lebanon",
-      "summary": "Seven people killed in Israeli air attacks on southern Lebanon Seven people were killed following an Israeli air strike on the town of Ansar in southern Lebanon early Saturday morning, according to the country’s civil defence. Israeli jets struck the outskirts of Ansar in the Nabatieh district, as well as the vicinity of Nabatieh al-Fawqa, Quds News Network reported earlier. At dawn, Israeli troops blew up a number of homes in Bint Jbeil and targeted residential areas along the Kounine–Saff al-Hawa road with heavy machine gun fire, according to Al Jazeera. Israeli warplanes launched an air str",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/six-killed-israeli-air-attacks-southern-lebanon",
-      "source": "Middle East Eye",
-      "published": "2026-08-15T05:26:57+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
