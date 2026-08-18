@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:39:53.378459+00:00",
+  "generated_at": "2026-08-18T00:00:33.819607+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
@@ -42,6 +42,37 @@
       "source": "Middle East Eye",
       "published": "2026-08-17T23:28:24+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e09e6b83b7fc01d5",
+      "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+      "summary": "Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.",
+      "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-17T23:25:17+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -161,7 +192,7 @@
     {
       "id": "35e8d142641249a2",
       "title": "Nvidia pledges $100bn backing for OpenAI data centre in Ohio",
-      "summary": "Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group",
+      "summary": "Chipmaker also invests $1.5bn into energy company founded as part of SoftBank Group",
       "link": "https://www.ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-17T22:36:04+00:00",
@@ -2987,37 +3018,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-17T16:14:53+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "50867099494ddaf6",
-      "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-      "summary": "Republican Senator Thom Tillis says the decision allows North Korea to provide more support to Russia in Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-17T16:14:07+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
