@@ -1,8 +1,597 @@
 {
-  "generated_at": "2026-08-20T07:46:39.273538+00:00",
+  "generated_at": "2026-08-20T08:47:04.028948+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "5d10a77d29f8c789",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T08:39:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "07d67dab097f784f",
+      "title": "Japan Train Hits Station Workers, 4 Killed",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309091",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T08:37:59+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b701b1585c34545d",
+      "title": "Iran Slams Trump's Economic Pressure Plan as a 'Diversion from America's Own Crisis'",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309090",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T08:32:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d6ea72d9bd69e60d",
+      "title": "Verstappen Commits to Red Bull Until End of 2030",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309086",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T08:25:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "beb0a2f8cb21b753",
+      "title": "Taiwan proposes record defence budget to resist China pressure",
+      "summary": "President Lai Ching-te outlines military spending plans above 3% of GDP despite opposition resistance",
+      "link": "https://www.ft.com/content/07573ffc-5c7b-448e-867e-c3b8840b11ce?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-20T08:21:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eeb459fe9d166e12",
+      "title": "Video shows Russian missile strike on Ukrainian capital",
+      "summary": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-20T08:18:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "113938aa0356f8b9",
+      "title": "Lebanon: Israeli Airstrikes, Artillery Fire Hit Ali al-Taher, Explosions Reported in South",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309082",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T08:17:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c6573173d304e543",
+      "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
+      "summary": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-20T08:16:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "45e852f7878c1963",
+      "title": "Four workers dead after being hit by train in Japan",
+      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T08:14:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "45fc342d50d4c294",
+      "title": "Explainer: Have European countries been involved in the US-Israeli war on Iran?",
+      "summary": "Explainer: Have European countries been involved in the US-Israeli war on Iran? Submitted by Daniel Tester on Wed, 08/19/2026 - 09:51 From the UK's Diego Garcia to Bulgaria's airfields, dozens of European bases have supported US operations against Iran, even as some leaders publicly kept their distance from the war French President Emmanuel Macron and US President Donald Trump leave after a family photograph during the G7 summit in Evian on 16 June (AFP) Off “This is not Europe’s war,” declared EU chief diplomat Kaja Kallas on 16 March, just over two weeks after the US and Israel began their a",
+      "link": "https://www.middleeasteye.net/explainers/explainer-have-european-countries-been-involved-us-israeli-war-iran",
+      "source": "Middle East Eye",
+      "published": "2026-08-20T08:07:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a4de2edc6c38192b",
+      "title": "France: Mosque closure fuels fear of state overreach on Muslim worship",
+      "summary": "France: Mosque closure fuels fear of state overreach on Muslim worship Submitted by Tassa Adidi on Thu, 08/20/2026 - 09:06 Latest shutdown decision, which was accused of incriminating Islamic texts, reignites debate about French government's attempts to control the practice of Islam A man reads the Quran as Muslims wait to break their fast at a mosque during the month of Ramadan in Calais, northern France, on 10 March 2026 (Sameer al-Doumy/AFP) Off In Aulnay-sous-Bois, in the northeastern suburbs of Paris, a recent court decision to uphold the six-month closure of a mosque for inciting violenc",
+      "link": "https://www.middleeasteye.net/news/new-mosque-closure-fuels-fear-rising-state-control-over-muslim-worship-france",
+      "source": "Middle East Eye",
+      "published": "2026-08-20T08:07:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5669f17c793fb784",
+      "title": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
+      "summary": "Are humans doomed no matter what?",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-20T08:00:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7efbd943f83ab2c4",
+      "title": "Odd Lots: What Happens if AI Solves Every Problem (Podcast)",
+      "summary": "The philosopher Nick Bostrom was one of the first thinkers who mapped out the existential risk of AI. In his 2014 book, Superintelligence: Paths, Dangers, Strategies, he delved into various scenarios — like the now-famous “paperclip maximizer” — to show the dangers that unfettered and highly intelligent AI posed to humans. A decade later, in Deep Utopia: Life and Meaning in a Solved World, he looked at the other side of the AI coin, and theorizes what human experience might look like if AI is ca",
+      "link": "https://www.bloomberg.com/news/audio/2026-08-20/odd-lots-what-happens-if-ai-solves-every-problem-podcast",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-20T08:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "44d3ae03f0939af2",
+      "title": "UK Summons Israeli Envoy over West Bank Settlement Project",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309080",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T07:55:21+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "645d125452d2caaa",
+      "title": "Russian missile attack kills at least 13 in Kyiv",
+      "summary": "Strikes come as Ukraine struggles with a shortage of Patriot interceptor missiles",
+      "link": "https://www.ft.com/content/736418a3-6d0d-4425-91df-9671db4c9b7d?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-20T07:52:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "caa560f865c2e187",
+      "title": "Ukraine's Grain Shipments Are at a Virtual Halt",
+      "summary": "Russian strikes on the key Black Sea ports of Greater Odesa have been a body blow for Ukraine's farming sector. The ports usually account for about 90% of the country's grain shipments, but flows have virtually halted just as harvests got into full swing. Bloomberg's Pyotr Kozlov explains. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-20/ukraine-s-grain-shipments-are-at-a-virtual-halt-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-20T07:50:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "41acb3adc2fc7eb4",
+      "title": "Australia Races to Shield Little Penguins from H5N1 Bird Flu",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309076",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T07:50:17+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "df0eb657de65137a",
+      "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-20T07:50:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "61619933393ec89e",
+      "title": "Bessent Gets Short-Term Bond Market Win: 3-Minutes MLIV",
+      "summary": "Guy Johnson, Tom Mackenzie, Skylar Montgomery Koning and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-20/bessent-gets-short-term-bond-market-win-3-minutes-mliv-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-20T07:48:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "da5a6e40ee1c8805",
       "title": "'Ray of Hope': Gaza Seed Bank Rebuilds after Wartime Destruction",
@@ -35,12 +624,12 @@
       }
     },
     {
-      "id": "5d10a77d29f8c789",
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T07:37:55+00:00",
+      "id": "3592df2b8938ddc7",
+      "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+      "summary": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
+      "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-20T07:38:22+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -593,37 +1182,6 @@
       }
     },
     {
-      "id": "645d125452d2caaa",
-      "title": "Russian missile attack kills at least 13 in Kyiv",
-      "summary": "Strikes come as Ukraine struggles with a shortage of Patriot interceptor missiles",
-      "link": "https://www.ft.com/content/736418a3-6d0d-4425-91df-9671db4c9b7d?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-20T06:57:27+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "9475c34e9940a386",
       "title": "Morning update",
       "summary": "Morning update Good morning Middle East Eye readers, Here are the latest developments:&nbsp; US President Donald Trump announced that the US is launching the \"MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY\".&nbsp;Trump also warned that any country supporting Tehran in any way will face \"TREMENDOUS Economic Consequences\", but did not make mentions of a specific country or what actions Washington is expected to take. Israel's defence minister said that president Recep Tayyip Erdogan is \"dragging Turkey into dangerous adventures in Syria,\" indicating that Ankara risks consequence",
@@ -781,7 +1339,7 @@
     {
       "id": "a5aad566ea2fe596",
       "title": "Bangladesh holds presidential election in first contested vote in 35 years",
-      "summary": "BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.",
+      "summary": "BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmad, nominee of Jamaat-led 11-party alliance.",
       "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-20T06:38:39+00:00",
@@ -1182,37 +1740,6 @@
       }
     },
     {
-      "id": "45e852f7878c1963",
-      "title": "Four workers dead after being hit by train in Japan",
-      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T06:02:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3479871bc8a17686",
       "title": "CVC-Led Group to Back Standard Life’s UK Pension Risk Transfers",
       "summary": "Standard Life Plc agreed to set up a partnership with a consortium led by CVC Capital Partners Plc and Prudential Financial Inc. in the latest tie-up between an insurer and private capital firms looking to enter the country’s booming pension risk-transfer market.",
@@ -1337,8 +1864,8 @@
       }
     },
     {
-      "id": "1fb16ba6ec60b928",
-      "title": "Dollar May Become Biggest Loser From US Bond Buyback",
+      "id": "395a9d3923e929e6",
+      "title": "Dollar Risks Becoming Biggest Loser From US Bond Buying",
       "summary": "Treasury Secretary Scott Bessent’s bold intervention to stem a potentially damaging rise in US borrowing costs has some investors saying the dollar will ultimately pay the price.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-20/dollar-risks-becoming-biggest-loser-from-bessent-s-bond-buying",
       "source": "Bloomberg Markets",
@@ -1430,68 +1957,6 @@
       }
     },
     {
-      "id": "2d935ffeaec66fb3",
-      "title": "FTSE 100 Live: UK Stocks Drop as Miners and Oil Stocks Weigh",
-      "summary": "",
-      "link": "https://www.bloomberg.com/news/live-blog/2026-08-20/ftse-100-live-pound-bonds-gilts-retail-trump-iran-hormuz-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T05:44:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5eb64cf90acb342d",
-      "title": "Kuaishou Slides After Weak 3Q Guidance | The China Show | 8/20/2026",
-      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-20/the-china-show-8-20-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T05:43:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "88846810ab88e4f0",
       "title": "Australian anger as Israel drops World Central Kitchen deaths case",
       "summary": "Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.",
@@ -1530,37 +1995,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-20T05:42:31+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "676cc5059e672c96",
-      "title": "Japan Real Estate Investment Set to Hit Record for Second Year",
-      "summary": "Japan’s real estate investment is likely to reach a record for a second straight year, after demand for offices fueled transactions in the first half, according to Jones Lang LaSalle Inc.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/japan-real-estate-investment-set-to-hit-record-for-second-year",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T05:38:33+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1653,37 +2087,6 @@
       "link": "https://english.aawsat.com/node/5309030",
       "source": "Asharq Al-Awsat",
       "published": "2026-08-20T05:18:50+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "be362b90d8cad3c1",
-      "title": "Saudi Foreign Minister Discusses Regional Developments with Qatari Counterpart",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309027",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-20T05:07:50+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -1833,68 +2236,6 @@
       }
     },
     {
-      "id": "8c29eef7e7aaeb64",
-      "title": "Berri Puts War’s End in Washington’s Hands, Links Army Deployment to Israeli Withdrawal",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309024",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-20T04:49:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "40079da8e54a84f3",
-      "title": "Ghalibaf Discusses Iranian Plan in Baghdad to ‘Hide’ Faction Weapons",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309022",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-20T04:42:45+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "741e5a7ca31bcfc5",
       "title": "Singapore police look into iron ore trader Radiant World",
       "summary": "Company has fast become one of the biggest players in global commodities market",
@@ -1995,37 +2336,6 @@
       "source": "FT World",
       "published": "2026-08-20T04:30:08+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f444dc84efbae87e",
-      "title": "Iran Goes on Offensive as Diplomacy with US Stalls",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309021",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-20T04:29:47+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2298,8 +2608,8 @@
       }
     },
     {
-      "id": "13b4e0582eeed5f7",
-      "title": "Will Barclays’ latest Wall Street reset finally work?",
+      "id": "eec1ceed83e67d74",
+      "title": "Barclays struggles to ‘retrain the dog’ on Wall Street",
       "summary": "Investment bank’s seventh co-CEO in four years expected to face same restrictions as predecessors",
       "link": "https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1",
       "source": "FT World",
@@ -2331,7 +2641,7 @@
     {
       "id": "e1b9a07a88bb0eab",
       "title": "Top US law firms hit by backlash over ‘crazy’ hiring of first-year students",
-      "summary": "Wall Street firms are recruiting ever-earlier drawing concern from students and executives",
+      "summary": "Wall Street firms are recruiting ever earlier, drawing concern from students and executives",
       "link": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-20T04:00:19+00:00",
@@ -2395,37 +2705,6 @@
       "title": "Trump turns on Washington’s museums in new culture war offensive",
       "summary": "Administration wants Smithsonian to focus less on slavery and more on American greatness",
       "link": "https://www.ft.com/content/659a00b4-be9b-467b-a676-cb73e2d3d64d?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-20T04:00:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "568715d95a0f0aa4",
-      "title": "The UK power system is stuck between a rock and a hard place",
-      "summary": "Rejecting zonal pricing in favour of a single national figure looks misguided but it’s too late to turn back",
-      "link": "https://www.ft.com/content/57a4cf95-e510-4349-804e-81e7679ccac7?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-20T04:00:19+00:00",
       "region": "global",
@@ -2608,37 +2887,6 @@
       }
     },
     {
-      "id": "b99650448593171a",
-      "title": "Japan’s 20-Year Bond Sale Sees Decent Demand After Buyback Plan",
-      "summary": "Japan’s 20-year sovereign bond sale went smoothly, as yields near the highest in three decades attracted investors and US Treasury Secretary Scott Bessent’s fresh attempt to rein in borrowing costs supported sentiment.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/japan-20-year-bond-sale-sees-firmer-demand-than-12-month-average-mt0z44ke",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T03:41:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3725c539cfc08fee",
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
@@ -2763,8 +3011,8 @@
       }
     },
     {
-      "id": "09d9a28baa71302d",
-      "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
+      "id": "5572a19c8c16e229",
+      "title": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
       "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
       "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
       "source": "Al Jazeera English",
@@ -2832,254 +3080,6 @@
       "source": "Al Jazeera English",
       "published": "2026-08-20T02:16:17+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6ec394b302b411f7",
-      "title": "Japan Student-Loan, Housing Finance Bonds Sold at Record Coupons",
-      "summary": "Japan Student Services Organization and Japan Housing Finance Agency both priced their bonds at record high coupons as rising rates increasingly show up in borrowing costs for students and homeowners.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/japan-student-loan-bond-priced-at-record-high-coupon",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T02:05:51+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d747d3d90259e6d3",
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T02:05:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "47550737f2e5055e",
-      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-      "summary": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
-      "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-20T01:56:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b9a4f7dc96aee475",
-      "title": "RBI Chief Estimates $80 Billion Inflow From Rupee Measures",
-      "summary": "India expects to garner at least $80 billion in foreign-currency inflows from its recent measures to attract dollars into the country, its central bank chief said in an interview published Thursday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/rbi-s-net-short-dollar-position-very-manageable-malhotra-says",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T01:55:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c557378bdaf0259",
-      "title": "UK condemns Israel's E1 settlement expansion in occupied West Bank",
-      "summary": "UK condemns Israel's E1 settlement expansion in occupied West Bank Britain's foreign secretary, Ed Miliband, has criticised&nbsp;Israel's move this week to launch a construction tender&nbsp;for the E1 settlement project in the occupied West Bank as an&nbsp;\"unacceptable and destructive act\".&nbsp; Miliband indicated that he made it clear to the Israeli foreign minister Gideon Sa'ar that the \"Israeli Government must halt E1 plans immediately, retract the tender and stop all settlement expansion\". \"The impact of settler violence and terrorism has been catastrophic for Palestinian communities. Se",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-condemns-israels-e1-settlement-expansion-occupied-west-bank",
-      "source": "Middle East Eye",
-      "published": "2026-08-20T01:42:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9ddb9d107829d02d",
-      "title": "Bodycam captures police team falling when deck collapses in Missouri",
-      "summary": "Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-20T01:37:08+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a54934309f2d8b0e",
-      "title": "India Bars JPMorgan Unit for Alleged Market Manipulation",
-      "summary": "India’s securities regulator banned a Mauritius-based unit of JPMorgan Chase &amp; Co. from its capital markets, the first enforcement action over alleged manipulation of the country’s new closing auction for stock prices.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T01:29:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0ae6d3a628baac0a",
-      "title": "Israel's Bennett calls for Qatar, Turkey's exclusion from future role in Gaza",
-      "summary": "Israel's Bennett calls for Qatar, Turkey's exclusion from future role in Gaza Speaking at a conference held by the B’Yachad party, former Israeli Prime Minister Naftali Bennett called for Qatar and Türkiye to be excluded from any future role in managing Gaza, arguing that Egypt should be involved instead. “If you bring Qatar and Türkiye in to manage the situation, they will strengthen Hamas,” Bennett said, adding: “If you bring Egypt, together with Israel, in to manage the situation, we will eliminate Hamas.” Speaking at a conference held by the B’Yachad party, former Israeli Prime Minister Na",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-bennett-calls-qatar-turkeys-exclusion-future-role-gaza",
-      "source": "Middle East Eye",
-      "published": "2026-08-20T00:58:27+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
