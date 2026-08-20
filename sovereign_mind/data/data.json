@@ -1,15 +1,418 @@
 {
-  "generated_at": "2026-08-20T05:05:17.778071+00:00",
+  "generated_at": "2026-08-20T05:47:57.761565+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
       "id": "b60c043a65ecb01f",
       "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
+      "summary": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
       "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T04:49:52+00:00",
+      "published": "2026-08-20T05:45:53+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "232e05e3698c155c",
+      "title": "Trump Says Will Meet North Korea's Kim Later this Year",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309036",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T05:42:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "676cc5059e672c96",
+      "title": "Japan Real Estate Investment Set to Hit Record for Second Year",
+      "summary": "Japan’s real estate investment is likely to reach a record for a second straight year, after demand for offices fueled transactions in the first half, according to Jones Lang LaSalle Inc.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/japan-real-estate-investment-set-to-hit-record-for-second-year",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-20T05:38:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e7a37ee0694691ca",
+      "title": "Lebanon Hands Assad-era General to Syria in 1st Such Transfer Since Assad’s Fall",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309035",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T05:36:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e4a4087084e603b8",
+      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T05:25:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "15ed14104d0a0c7e",
+      "title": "Sudan: More Than 200,000 People Displaced Since Eruption of Blue Nile Fighting",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309032",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T05:23:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1076cc432c8e35b1",
+      "title": "UNESCO to Lead Global Efforts in Riyadh to Shape Responsible AI Policies in September",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309030",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T05:18:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "16fcb210d83611e6",
+      "title": "Can the US Successfully Battle Rising Borrowing Costs?",
+      "summary": "Treasury Secretary Scott Bessent is doubling down on long-term bond buybacks to head off surging yields. Financial analysts weigh in on whether the strategy can really tame borrowing rates for the long-term. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-20/can-the-us-successfully-battle-rising-borrowing-costs-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-20T05:17:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8c2229335ceb1a7d",
+      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T05:10:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "be362b90d8cad3c1",
+      "title": "Saudi Foreign Minister Discusses Regional Developments with Qatari Counterpart",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309027",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-20T05:07:50+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "04c0e3b9bd0ff5ab",
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T05:07:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "df7efdc4983aee7e",
+      "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
+      "summary": "In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-20T05:06:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "23cb0a261102dbaa",
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T05:01:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0dc0590a11d9e218",
+      "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+      "summary": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-20T04:59:22+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -42,37 +445,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-20T04:49:49+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e4a4087084e603b8",
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T04:46:32+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1151,37 +1523,6 @@
       }
     },
     {
-      "id": "8c2229335ceb1a7d",
-      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T03:12:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "428646cd3da58cbd",
       "title": "Traffic through Hormuz Strait shows no rise, data suggests",
       "summary": "Traffic through Hormuz Strait shows no rise, data suggests Shipping traffic at the Strait of Hormuz did not rise, with a total of nine&nbsp;vessels transiting the strategic waterway on Wednesday - unchanged from the previous day,&nbsp;Kpler data showed.",
@@ -1461,37 +1802,6 @@
       }
     },
     {
-      "id": "9267fee7f4400670",
-      "title": "India’s New Listings Sparkle in a Promising Sign for IPO-Bound NSE",
-      "summary": "A gauge of recent BSE mainboard listings has climbed 16% this year to a record.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/india-s-new-listings-sparkle-in-a-promising-sign-for-ipo-bound-nse",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T02:40:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "02de5cee69d3b8a7",
       "title": "Hind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report",
       "summary": "Hind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report The grandmother of five-year-old Palestinian girl Hind Rajab has rejected an Israeli military probe into her killing, Anadolu Agency reported.&nbsp; Following an announcement by the military admitting to Rajab's killing, Hind’s grandmother told Anadolu that the family has no confidence in Israeli investigations or the Israeli judiciary. The grandmother has instead demanded that an independent international investigation&nbsp;be conducted into the killing of Hind, six of h",
@@ -1709,40 +2019,9 @@
       }
     },
     {
-      "id": "601b29d089952039",
-      "title": "Australia’s Higher Unemployment Sees Traders Pare Rate-Hike Bets",
-      "summary": "Australia’s unemployment rate unexpectedly rose in July, supporting the Reserve Bank’s view that the labor market is likely to loosen and prompting traders to pare bets on another interest-rate increase.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-20/australia-s-unemployment-climbs-to-4-5-as-economy-sheds-jobs",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-20T01:33:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "a54934309f2d8b0e",
       "title": "India Bars JPMorgan Unit for Alleged Market Manipulation",
-      "summary": "India’s securities regulator banned a Mauritius-based unit of JPMorgan Chase &amp; Co. from the capital market over allegations of manipulating the country’s newly introduced auction-based system for share price discovery.",
+      "summary": "India’s securities regulator banned a Mauritius-based unit of JPMorgan Chase &amp; Co. from the capital market in its first enforcement action over alleged manipulation of the country’s newly introduced auction-based system for determining closing share prices.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
       "source": "Bloomberg Markets",
       "published": "2026-08-20T01:29:25+00:00",
@@ -2800,285 +3079,6 @@
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-israeli-attack-syrian-air-base-violates-international-law",
       "source": "Middle East Eye",
       "published": "2026-08-19T21:29:13+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d7739b89aab65c94",
-      "title": "FirstFT: Moderna’s ‘landmark’ cancer treatment leads to share price surge",
-      "summary": "Also in this newsletter: US national debt tops $40tn and China’s Unitree makes trading debut",
-      "link": "https://www.ft.com/content/832a6431-5af9-4dd5-aa72-1d4f570527cf?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-19T21:27:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "87ab538988413a37",
-      "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-      "summary": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-19T21:22:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "416629da0cde83de",
-      "title": "US elections: Progressive Democrat scores shock win in Florida",
-      "summary": "US elections: Progressive Democrat scores shock win in Florida Submitted by MEE staff on Wed, 08/19/2026 - 21:22 Voters delivered a mixed bag for US President Donald Trump's allies in Republican primaries Democratic US Senate candidate, Florida state Representative Angie Nixon, participates in a worship service during a visit to the Ebenezer Missionary Baptist Church, on 17 August 2026, in Hallandale Beach, Florida (Joe Raedle/ Getty Images North America via AFP) Off Voters headed to the polls in three US states on Tuesday for a series of Democratic and Republican primaries.&nbsp; The&nbsp; ve",
-      "link": "https://www.middleeasteye.net/news/us-elections-progressive-democrat-scores-shock-win-florida",
-      "source": "Middle East Eye",
-      "published": "2026-08-19T21:21:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1b83090f7742a48d",
-      "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-      "summary": "“You can&#039;t do anything. Just stand here and watch.” Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-19T21:10:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a1088a72b81818c7",
-      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-      "summary": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-19T21:09:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "36576e6aaccc2bef",
-      "title": "Spain denies public broadcaster report on energy sanctions plan to deter Morocco from future migration crises",
-      "summary": "The Spanish government has denied reports that it is considering using its energy links with Morocco to deter Rabat from future migration crises, according to the Spanish news outlet The Objective. Spanish public broadcaster TVE reported on its Mananeros 360 program that the government was studying a comprehensive contingency plan that could include reviewing Morocco’s [&#8230;] The post Spain denies public broadcaster report on energy sanctions plan to deter Morocco from future migration crises appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144073-spain-denies-public-broadcaster-report-on-energy-sanctions-plan-to-deter-morocco-from-future-migration-crises.html",
-      "source": "Hespress EN",
-      "published": "2026-08-19T21:02:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "88d48cf8ac770f4d",
-      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
-      "summary": "Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.",
-      "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-19T21:01:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "10ad6f1495b81103",
-      "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
-      "summary": "Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-19T20:53:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ff8dc6eb715ad8c6",
-      "title": "UK ‘deeply concerned’ about Israeli strikes on Syrian air base",
-      "summary": "UK ‘deeply concerned’ about Israeli strikes on Syrian air base Britain’s special representative for Syria, Barrie Peach, said he was “deeply concerned” about Israeli strikes on the Abu al-Duhur air base, saying the attacks were “leading to the destabilisation of Syria”. “We continue to call on Israel to respect Syrian sovereignty and return to the negotiating table,” Peach said in a post on X, adding that dialogue and diplomacy could secure a more peaceful future for both countries and the region. Barrie Peach, acting UK Special Representative for Syria: \"I am deeply concerned by Israeli strik",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-deeply-concerned-about-israeli-strikes-syrian-airbase",
-      "source": "Middle East Eye",
-      "published": "2026-08-19T20:48:48+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
