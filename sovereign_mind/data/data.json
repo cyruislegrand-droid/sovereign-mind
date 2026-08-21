@@ -1,8 +1,504 @@
 {
-  "generated_at": "2026-08-21T08:07:07.110858+00:00",
+  "generated_at": "2026-08-21T08:59:29.157192+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "598162bf1e6407f8",
+      "title": "UK posts unexpected budget deficit of £1.8bn in July",
+      "summary": "Latest borrowing data underscores challenge facing chancellor John Healey ahead of his first Budget",
+      "link": "https://www.ft.com/content/481b3fd0-6b2d-4bbe-b6e3-b99146df827c?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-21T08:58:42+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0ee23a998ecad296",
+      "title": "What's Next Following Monte dei Paschi's High-Stakes Move?",
+      "summary": "Banca Monte dei Paschi is seeking to buy two separate banks for a combined price of €34 billion ($40 billion) in a defensive move designed to ward off a takeover by rival Intesa Sanpaolo. The Italian lender said it’s launching an all-share bid for Banco BPM valuing it at €25.3 billion and another one for Banca Generali valuing it at €8.7 billion, based on the market close two days ago, according to a statement Friday. Bloomberg's Tommaso Ebhardt reports from Milan. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/what-s-next-following-paschi-s-high-stakes-move-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-21T08:43:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4531086c2624b8d6",
+      "title": "Gold Climbs to Near Three-month Peak after US Treasury Move",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309467",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:41:44+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0bc33c49f588b307",
+      "title": "Real Madrid Star Players Are Compatible, Says Mourinho",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309462",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:40:39+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a3f056a22ada0fd2",
+      "title": "Spurs Reported to Have Agreed £75 Million Deal for City's Savinho",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309454",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:38:21+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3691eface672d05a",
+      "title": "Why the US economy is ringing alarm bells",
+      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T08:38:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aa6717241065704f",
+      "title": "Iran and Iraq will resist foreign interference, Ghalibaf says",
+      "summary": "Iran and Iraq will resist foreign interference, Ghalibaf says Iran’s parliament speaker says efforts by “enemies” to drive Iran and Iraq apart will instead deepen their relationship. Mohammad Bagher Ghalibaf told an Arbaeen ceremony in the city of Karbala that history, geography and shared religious beliefs bound the countries together. “We were two nations that refused to become a footnote in others’ narratives and did not allow our destiny to be written in western capitals,” he said. Ghalibaf said Tehran and Baghdad would not let foreign governments decide their futures. He argued that the t",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-iraq-will-resist-foreign-interference-ghalibaf-says",
+      "source": "Middle East Eye",
+      "published": "2026-08-21T08:31:33+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "02522b3198b2e6dd",
+      "title": "The Liberal Democrats’ problem is not unique",
+      "summary": "Western liberal parties are struggling to win ‘market cosmopolitan’ voters despite sharing their values",
+      "link": "https://www.ft.com/content/7f9274b0-bef6-4dbc-954f-54f8b0cd6464?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-21T08:30:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d0698f4828582d99",
+      "title": "India Orders Removal of Google Firebase Accounts after Spotting Scam Pattern",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309450",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:28:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ec463c5ed507e889",
+      "title": "Euro Zone Business Activity Growth Hits Highest Since November",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309447",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:19:06+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee5d60be69cee7a9",
+      "title": "Israeli Forces Shoot Dead Palestinian Man in West Bank Raid",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309446",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:16:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "45d559045ffdbb56",
+      "title": "Dollar Depreciation Is Sustainable: 3-Minutes MLIV",
+      "summary": "Guy Johnson, Tom Mackenzie, Skylar Montgomery Koning and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/dollar-depreciation-is-sustainable-3-minutes-mliv-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-21T08:13:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "dfede206a96bdc3c",
+      "title": "Imran Khan moved from Pakistan jail to hospital and back again",
+      "summary": "Popular former prime minister received treatment after Supreme Court order",
+      "link": "https://www.ft.com/content/0af3065f-15dc-4444-aa45-b7b62546c649?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-21T08:13:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8634171edbc9d328",
+      "title": "Iran's Qalibaf Says Tehran Must Plan to Overcome 'Unjust Sanctions', Following US Threats",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309444",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:11:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1d3060608aba7c0a",
+      "title": "China Says US ‘Sanctions and Pressure’ on Iran Not a Solution",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309443",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-21T08:07:53+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "035260c196d895be",
+      "title": "Memory Stocks Struggle for Momentum With ‘Smart Money’ Moving On",
+      "summary": "After ripping through the first half of the year, memory stocks are struggling to regain momentum as growing concerns about the state of the artificial intelligence trade overshadow their strong fundamental backdrop.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/memory-stocks-struggle-for-momentum-with-smart-money-moving-on",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-21T08:07:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "1e853944eddc034f",
       "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
@@ -66,6 +562,37 @@
       }
     },
     {
+      "id": "12ab003bbd56e831",
+      "title": "Israeli settlers set fire to Palestinian home while family asleep",
+      "summary": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-21T07:58:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "f3ad1ef3013c5b73",
       "title": "Ben-Gvir Publishes Video of 'Gallows Site for Hanging Palestinians'",
       "summary": "",
@@ -73,6 +600,37 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-21T07:57:43+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "56a22715e59dcb74",
+      "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+      "summary": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-21T07:56:21+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -407,9 +965,9 @@
       }
     },
     {
-      "id": "1bb29527e1c963d7",
-      "title": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM",
-      "summary": "Plan would create an Italian banking giant valued at about €70bn",
+      "id": "c3a38c71683adf76",
+      "title": "Monte dei Paschi launches twin takeover bids to create €70bn Italian bank",
+      "summary": "Latest twist in a protracted run of consolidation of Italian financial services groups",
       "link": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-21T07:17:38+00:00",
@@ -934,37 +1492,6 @@
       }
     },
     {
-      "id": "598162bf1e6407f8",
-      "title": "UK posts unexpected budget deficit of £1.8bn in July",
-      "summary": "Latest borrowing data underscores challenge facing chancellor John Healey ahead of his first Budget",
-      "link": "https://www.ft.com/content/481b3fd0-6b2d-4bbe-b6e3-b99146df827c?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-21T06:38:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "760701d723dcdaa5",
       "title": "Experts to Asharq Al-Awsat: Expanded Yemeni Army Deterrence Operations Pave Way for Wider Battle",
       "summary": "",
@@ -1089,71 +1616,9 @@
       }
     },
     {
-      "id": "139e4b879c24d994",
-      "title": "Horizons Middle East & Africa 8/21/2026",
-      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-21/horizons-middle-east-africa-8-21-2026-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-21T06:32:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7122c95bdfc510a9",
-      "title": "Europe Has Its Own Biotech Star as Argenx Soars on Trial Success",
-      "summary": "It’s been a big week for biotech stocks on both sides of the Atlantic.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/europe-has-its-own-biotech-star-as-argenx-soars-on-trial-success",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-21T06:27:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "54fa5e9fcaee5904",
-      "title": "Israeli shelling in Syrian Golan Height's sparks fire",
-      "summary": "Israeli shelling in Syrian Golan Height's sparks fire Israeli artillery shelling at an agricultural land south of the village of Jubata al-Khashab in Syria’s Golan Height&nbsp;sparked a fire,&nbsp;Alikhbaria TV reported. The broadcaster indicated that Israeli troops launched artillery shelling and&nbsp;illumination flares over the area, igniting fire in the farmland.&nbsp;",
+      "id": "6c332851686164cb",
+      "title": "Israeli shelling in Syrian Golan Heights sparks fire",
+      "summary": "Israeli shelling in Syrian Golan Heights sparks fire Israeli artillery shelling of agricultural land south of the village of Jubata al-Khashab in Syria’s Golan Heights sparked a fire,&nbsp;Alikhbaria TV reported. The broadcaster indicated that Israeli troops launched artillery shelling and&nbsp;illumination flares over the area, igniting a fire on the farmland.&nbsp;",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-shelling-syrian-golan-heights-sparks-fire",
       "source": "Middle East Eye",
       "published": "2026-08-21T06:23:01+00:00",
@@ -1244,37 +1709,6 @@
       }
     },
     {
-      "id": "f02a05c9a32cac20",
-      "title": "Goldman, JPMorgan Are Among Most Bullish on Europe: Taking Stock",
-      "summary": "(Click here or type SQUA &lt;GO&gt; to listen to Bloomberg’s new EMEA Equities Squawk)",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/goldman-jpmorgan-are-among-most-bullish-on-europe-taking-stock",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-21T06:18:53+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "6b2b548821fcb546",
       "title": "Swiatek Into Cincinnati Semis After Rybakina Injury",
       "summary": "",
@@ -1306,230 +1740,13 @@
       }
     },
     {
-      "id": "a6c9ea5def0fe608",
-      "title": "Oil Set for Second Weekly Rise as Unsettled US-Iran War Crimps Supply",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309408",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T06:10:12+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b81d9b3cae735c66",
-      "title": "Saudi Listed Real Estate Firms Post $766 Million in First-Half Profit",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309407",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T06:09:25+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "39538bf645edaef3",
-      "title": "A Question Looms Over Harry’s Return to the UK. Can He Rebuild His Relationship with Prince William?",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309406",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T06:05:51+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "02eb403af72f7665",
-      "title": "Dangote Offers East African Nations 30% Stake in New Refinery",
+      "id": "9f53be68617b0a8d",
+      "title": "Dangote Offers East Africa Nations 30% Stake in New Refinery",
       "summary": "Dangote Group has offered East African countries a 30% equity stake in the giant refinery planned for the region, according to Kenyan President William Ruto’s top economic adviser.",
       "link": "https://www.bloomberg.com/news/articles/2026-08-21/dangote-offers-east-african-nations-30-stake-in-new-refinery",
       "source": "Bloomberg Markets",
       "published": "2026-08-21T05:58:51+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "20fd145e507cc492",
-      "title": "Train to Nowhere? South Korea’s Lonely Push for Peace with the North",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309404",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T05:57:10+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2026f4030a466050",
-      "title": "Australia Charges Man with Trying to Pass Ukraine Military Intel to Russia",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309403",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T05:54:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "29fe1c5a0e8e14f5",
-      "title": "8 Killed in Charter Plane Crash Near Remote Site in Alaska",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309402",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T05:54:04+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7bc4d335bdaa90a7",
-      "title": "US Debt Hits $40 Trillion as Higher Yields Open New Opportunities for Gulf Investors",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309401",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T05:49:10+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1560,68 +1777,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-21T05:47:32+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "16ae89fbfe9ecfa4",
-      "title": "Libya’s Dbeibah Halts Steel Firm's Production Due to Power Shortages",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309398",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T05:41:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dfede206a96bdc3c",
-      "title": "Imran Khan moved from Pakistan jail to hospital and back again",
-      "summary": "Popular former prime minister received treatment after Supreme Court order",
-      "link": "https://www.ft.com/content/0af3065f-15dc-4444-aa45-b7b62546c649?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-21T05:37:54+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1773,7 +1928,7 @@
     {
       "id": "e998e51a3b337932",
       "title": "Ongoing Israeli air strikes, massive blasts reported in south Lebanon",
-      "summary": "Ongoing Israeli air strikes, massive blasts reported in south Lebanon Israeli attacks targeted a number of areas across southern Lebanon, according to state media. Israeli air strikes and massive explosions were reported in overnight and in the early hours of Friday in the town of&nbsp;Mansouri, with sounds of the blasts reverberating throughout southern Lebanon. Elsewhere, the army launched a series of strikes and artillery shelling on the Ali al-Taher Hill. Israeli forces also carried out bombings in the towns of Haddatha and Tayri in the Bint Jbeil district.&nbsp;",
+      "summary": "Ongoing Israeli air strikes, massive blasts reported in south Lebanon Israeli attacks targeted a number of areas across southern Lebanon, according to state media. Israeli air strikes and massive explosions were reported overnight and in the early hours of Friday in the town of&nbsp;Mansouri, with sounds of the blasts reverberating throughout southern Lebanon. Elsewhere, the army launched a series of strikes and artillery shells at the Ali al-Taher Hill. Israeli forces also carried out bombings in the towns of Haddatha and Tayri in the Bint Jbeil district.&nbsp;",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ongoing-israeli-air-strikes-massive-blasts-reported-south-lebanon",
       "source": "Middle East Eye",
       "published": "2026-08-21T05:11:03+00:00",
@@ -2112,9 +2267,9 @@
       }
     },
     {
-      "id": "14890849fc73f573",
-      "title": "The historic coffee port in the Houthis’ crosshairs",
-      "summary": "Mocha, a Yemeni former trading hub, is on the front line of the rebel group’s campaign against Saudi Arabia",
+      "id": "44c8792bae438266",
+      "title": "Houthis escalate campaign against Saudi Arabia",
+      "summary": "Mocha, a historic Yemeni coffee trading hub, is on the front line of the rebel group’s Red Sea offensive",
       "link": "https://www.ft.com/content/17583c3f-f8f4-44f8-bb2e-277a8304f252?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-21T04:00:21+00:00",
@@ -2391,9 +2546,9 @@
       }
     },
     {
-      "id": "fae142644c7a06f7",
-      "title": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue",
-      "summary": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza continue Senior Hamas official Bassem Naim told CNN that the movement remains committed to a peace roadmap for Gaza. \"We are still ready to continue this way to give our people on the ground the chance to revive their life, and to reach the minimum of calm, stability and peace,\" he said during his interview.&nbsp; The Hamas official indicated that Board of Peace mediators and US adviser Jared Kushner had asked the movement to be \"sensitive\" to Benjamin Netanyahu’s political standing ahead of Israel’s upcomi",
+      "id": "437cf307b5fb4e02",
+      "title": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza escalate",
+      "summary": "Hamas told to be 'sensitive' to Netanyahu ahead of Israeli elections as attacks on Gaza escalate Senior Hamas official Bassem Naim told CNN that the movement remains committed to a peace roadmap for Gaza. \"We are still ready to continue this way to give our people on the ground the chance to revive their life, and to reach the minimum of calm, stability and peace,\" he said during his interview.&nbsp; The Hamas official indicated that Board of Peace mediators and US adviser Jared Kushner had asked the movement to be \"sensitive\" to Benjamin Netanyahu’s political standing ahead of Israel’s upcomi",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-told-be-sensitive-netanyahu-ahead-israeli-elections-amid-ongoing",
       "source": "Middle East Eye",
       "published": "2026-08-21T03:51:32+00:00",
@@ -2453,10 +2608,10 @@
       }
     },
     {
-      "id": "d003b158c0fecbdc",
+      "id": "f7f37b403966ff13",
       "title": "North Korea enjoys rare ‘dash for flash’",
       "summary": "Kim Jong Un’s backing for Russian war on Ukraine fuels construction boom and sales of luxury goods",
-      "link": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab",
+      "link": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-21T03:21:12+00:00",
       "region": "global",
@@ -2924,161 +3079,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-21T00:44:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ba1702dc0f4e2ce9",
-      "title": "Gold Set for Third Weekly Gain on US Treasury Buyback Plans",
-      "summary": "Gold was on track for a third weekly gain after the US Treasury’s unexpected ramp-up in buybacks of long-dated government debt underscored concerns about its burden.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-21T00:13:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "813867b0f104be97",
-      "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-      "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-21T00:12:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "08855f2d91a73d89",
-      "title": "Watch: Netanyahu warns Turkey over presence in Syria",
-      "summary": "Watch: Netanyahu warns Turkey over presence in Syria Israeli Prime Minister Benjamin Netanyahu said on Wednesday that Israel would not tolerate a Turkish military presence expanding southwards in Syria, saying it would pose a threat to Israel. “We will not tolerate Turkish military presence establishing itself as it moves south. It threatens us. We conveyed that clearly,” Netanyahu said. His comments came after Israel struck Syria’s Abu al-Duhur airbase on Tuesday, warning that the deployment of Turkish troops there would violate what it described as an agreed security “status quo”. Syrian For",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-netanyahu-warns-turkey-over-presence-syria",
-      "source": "Middle East Eye",
-      "published": "2026-08-21T00:06:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3259acd551e3b2d5",
-      "title": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
-      "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T00:04:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c4bc39f888420724",
-      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-      "summary": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-21T00:00:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
