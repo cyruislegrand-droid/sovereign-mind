@@ -1,8 +1,163 @@
 {
-  "generated_at": "2026-08-22T04:38:58.428349+00:00",
+  "generated_at": "2026-08-22T05:11:10.175839+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "00241db0b6ee9ac2",
+      "title": "Arab Parliament Speaker Condemns Israeli Settlement Plan in West Bank",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309764",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-22T04:54:01+00:00",
+      "region": "mena",
+      "lang": "nl",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ec47365efb065e96",
+      "title": "Canada vows to match US tariffs as trade talks collapse",
+      "summary": "Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘missed opportunity’",
+      "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:51:58+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b01937804a2a906c",
+      "title": "Muslim World League Condemns Israel’s ‘E1’ Settlement Plan",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5309763",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-22T04:47:14+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7ec8baf2e4d4dee5",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-22T04:46:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "388b5ab425407e36",
+      "title": "Inundated Philippine communities seek answers over flood control funds",
+      "summary": "Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-22T04:36:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "42409aa38c9107fa",
       "title": "Syria Requests to Join Anti-chemical Weapons Partnership",
@@ -11,6 +166,68 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-22T04:32:48+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a7240da586ef721e",
+      "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+      "summary": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-22T04:30:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8d3f3ae571aa14de",
+      "title": "Nigeria and the Sahel: A growing security divide",
+      "summary": "A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.",
+      "link": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-22T04:30:07+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -66,9 +283,40 @@
       }
     },
     {
-      "id": "38bf9e7db8abc7ac",
-      "title": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
-      "summary": "Canadian Prime Minister vows retaliatory tariffs &quot;dollar for dollar&quot; following failure to secure a US trade agreement.",
+      "id": "79e5d34ec33b81ef",
+      "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+      "summary": "Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.",
+      "link": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-22T04:24:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2900bac166015d4a",
+      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+      "summary": "Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.",
       "link": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-22T04:02:32+00:00",
@@ -97,12 +345,539 @@
       }
     },
     {
-      "id": "0fb5b657c972d894",
-      "title": "US says Canada rejects its trade deal offer",
-      "summary": "Top Washington representative Jamieson Greer criticises Ottawa’s ‘missed opportunity’",
-      "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+      "id": "35c37931da6908cf",
+      "title": "Bossing the bond market around never works",
+      "summary": "Despite Scott Bessent’s efforts, investors worry something is up",
+      "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
       "source": "FT World",
-      "published": "2026-08-22T03:39:47+00:00",
+      "published": "2026-08-22T04:00:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5025346005f04f9c",
+      "title": "The man selling the Lakers: Mark Walter’s unravelling empire",
+      "summary": "Private capital saw an opportunity to make insurance much more profitable. At what risk?",
+      "link": "https://www.ft.com/content/2099aab6-2492-4b86-b028-38e103d9104d?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "474675789238cc12",
+      "title": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel",
+      "summary": "The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen",
+      "link": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a675950fa8827aa2",
+      "title": "Big running shoe brands are regaining their lead",
+      "summary": "Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum",
+      "link": "https://www.ft.com/content/48ec5bfd-c0ca-4cf8-8b97-3d73225b8258?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fdd8d61f027fb8b7",
+      "title": "Europe’s fatal beauty",
+      "summary": "A less seductive continent would not attract so many enemies",
+      "link": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e8326a5b36469dc3",
+      "title": "Klarna’s stock crash shows the price of being a small fish in a big pond",
+      "summary": "The European fintech has been hit by weak German consumer spending",
+      "link": "https://www.ft.com/content/73755e41-8a6d-4fb4-9f4e-5d768450fc54?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2caa9736cb9bb3c9",
+      "title": "Burnham must reveal his hand on immigration",
+      "summary": "Labour MPs dislike tough proposals to limit rights to settle and collect welfare but voters’ trust has run out",
+      "link": "https://www.ft.com/content/acfe49a7-3b6d-4930-a37a-5f1b91ed6dc8?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "437e60c872a87939",
+      "title": "FT launches charity auction of star journalists",
+      "summary": "Bid for lunch with your favourite columnist to support the Financial Literacy and Inclusion Campaign (FT FLIC)",
+      "link": "https://www.ft.com/content/e2e8a8cf-31b3-448e-89bd-7bac8dfed4b4?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "063984fa6276d890",
+      "title": "Edinburgh festivals demand more money from Scotland’s first tourist tax",
+      "summary": "5% levy charged on first five overnight stays is expected to raise £50mn for council",
+      "link": "https://www.ft.com/content/ecf78c16-4b85-4cfe-9b34-dc9cf9f699bc?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:37+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "046d610a2630c23f",
+      "title": "Who counts in Trump’s America?",
+      "summary": "Gillian Tett on the president’s bid to reform the 10-year census, and the explosive politics behind who gets included and who gets to decide",
+      "link": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c097a89de61cb4ce",
+      "title": "On weaving myths and waters",
+      "summary": "Conjuring fictions on the banks of the Vaigai in Tamil Nadu",
+      "link": "https://www.ft.com/content/f17052f3-5686-499c-a112-e2c7b22be497",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "83b4f5ea940c4029",
+      "title": "Qatar cuts state spending at home and abroad as war shrinks economy",
+      "summary": "Wealthy Gulf nation has been hard hit by US-Iran conflict over Strait of Hormuz",
+      "link": "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b625ed2a50e91408",
+      "title": "EU slips further behind US in race for critical minerals",
+      "summary": "Washington and Beijing are beating Brussels in competition to secure components used in defence and green technologies",
+      "link": "https://www.ft.com/content/c6220205-ee40-4b71-95c0-d53399a17cd1?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4d1babb344b5c6ac",
+      "title": "The fight to save England’s rivers",
+      "summary": "Public confidence in the privatised water suppliers has collapsed. How did they get away with poisoning our water for decades?",
+      "link": "https://www.ft.com/content/9399b276-d8b7-401f-a615-d46a32235b3e?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9dcde2b37df87823",
+      "title": "How Germany’s doctors, lawyers and dentists got burnt by private markets bets",
+      "summary": "Questions mount over management of mandatory pension schemes for professionals worth €300bn",
+      "link": "https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "700965b43657f897",
+      "title": "Why more young workers are leaving the UK behind",
+      "summary": "The gap between Britons leaving and returning has grown every year since 2022 — but claims of a ‘brain drain’ overstate the problem",
+      "link": "https://www.ft.com/content/744eb696-823c-4157-ba36-422606c070ae",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1eae8e86bddc3203",
+      "title": "Germany becomes Europe’s largest regulated cannabis market",
+      "summary": "Critics are calling for legislation to be tightened two years after the drug was partially liberalised",
+      "link": "https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4a50ec10e0248fda",
+      "title": "Why is architecture so afraid of colour?",
+      "summary": "For centuries, western architecture has associated monochrome with purity, seriousness and good taste — but the rebels never went away",
+      "link": "https://www.ft.com/content/90e19951-dd04-49d2-9dc4-fc9694d9e5ab?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-22T04:00:09+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -196,6 +971,37 @@
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-22T03:17:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e3473682ac1a4db0",
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-22T02:39:10+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -351,37 +1157,6 @@
       "link": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-08-22T00:41:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5f288c21578b110f",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-22T00:40:47+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -599,6 +1374,37 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-22T00:06:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "697448629634bbf7",
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "summary": "They will not be working royals when they come back. So what could they be doing instead?",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-22T00:03:10+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2143,37 +2949,6 @@
       }
     },
     {
-      "id": "22c64c721d2f3379",
-      "title": "Can a humanitarian disaster be averted in Somalia?",
-      "summary": "The UN warns of another hunger crisis, with starvation threatening millions.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-21T20:27:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "36386faa0bbd6eff",
       "title": "Iran’s Ghalibaf: ‘We stay out of Iraq’s affairs’",
       "summary": "Iran’s Ghalibaf: ‘We stay out of Iraq’s affairs’ Iran’s parliament speaker and chief negotiator Mohammad Bagher Ghalibaf said on Friday Iran does not interfere in Iraqi internal affairs and will support any agreement between the factions and the Iraqi government. Ghalibaf's statement follows Baghdad's 30 September deadline for all paramilitary factions to integrate into formal state security structures.",
@@ -2236,68 +3011,6 @@
       }
     },
     {
-      "id": "704a7215146da2bf",
-      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-      "summary": "Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-21T20:16:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b55542ad3b90c2a9",
-      "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
-      "summary": "Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-21T20:07:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "913ab89c549902a8",
       "title": "Iran's Qalibaf Urges Baghdad to Break Economic Dependence on Washington",
       "summary": "",
@@ -2305,37 +3018,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-08-21T20:04:22+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5361baa5045bf938",
-      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-      "summary": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-21T20:03:35+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2398,688 +3080,6 @@
       "source": "Hespress EN",
       "published": "2026-08-21T19:43:26+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "65bb12b93a3637e0",
-      "title": "EU to increase funding to Morocco for border control after Ceuta crisis, Commission tells Hespress English",
-      "summary": "The European Commission plans to increase financial support to Morocco for border control following the mass migrant arrivals to the occupied city of Ceuta on July 30, a European Commission spokesperson told Hespress English. “As President von der Leyen said in her letter to PM Sanchez, in cooperation with Spain, especially on anything related to [&#8230;] The post EU to increase funding to Morocco for border control after Ceuta crisis, Commission tells Hespress English appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144153-eu-to-increase-funding-to-morocco-for-border-control-after-ceuta-crisis-commission-tells-hespress-english.html",
-      "source": "Hespress EN",
-      "published": "2026-08-21T19:41:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "742ce09a48e16452",
-      "title": "US elections: Aisha Wahab becomes first Afghan-American in Congress",
-      "summary": "US elections: Aisha Wahab becomes first Afghan-American in Congress Submitted by MEE staff on Fri, 08/21/2026 - 18:19 Wahab will assume the seat of Eric Swalwell, who resigned in April, but she will still compete in the November midterms California State Senator Aisha Wahab speaks to reporters during an election night watch party at Firefighters Local 1909 in Hayward, California on 18 August 2026 (Heather Diehl/Getty Images via AFP) Off The first Afghan-American to take a seat in the US Congress will represent California, following an election which saw a well-financed campaign led by pro-Isra",
-      "link": "https://www.middleeasteye.net/news/us-elections-aisha-wahab-becomes-first-afghan-american-congress",
-      "source": "Middle East Eye",
-      "published": "2026-08-21T19:38:51+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b903a512c5b4b7a8",
-      "title": "How Israel is expanding settlements in drive to reshape West Bank",
-      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T19:31:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f618f5154e8c2f21",
-      "title": "'Shameful:' UK, Canada and Australia condemn Israel's refusal to investigate aid worker attack",
-      "summary": "'Shameful:' UK, Canada and Australia condemn Israel's refusal to investigate aid worker attack Israel's &nbsp;decision not to launch a criminal investigation into an attack on a World Central Kitchen (WCK) convoy in Gaza is \"shameful\", according to the&nbsp; UK , Canada and Australia. The 2024 attack by Israel killed at least seven humanitarian workers. \"The announcement by the [Israeli military] on August 19, 2026, that it would not pursue criminal investigations into this strike, without further explanation, is shameful,\" the three countries wrote in a statement on Friday.&nbsp; Refusing to ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/shameful-uk-canada-and-australia-condemn-israels-refusal-investigate-aid",
-      "source": "Middle East Eye",
-      "published": "2026-08-21T19:22:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0a86d35e1034f2dc",
-      "title": "Ukraine seeks Musk’s help to hit Russian missile launchers",
-      "summary": "Starlink-equipped drones could strike targets up to 200km inside Russia",
-      "link": "https://www.ft.com/content/ff536e6e-dc56-45e3-b5e0-2dfb28148cb6?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-21T18:57:54+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "99e2bf7040b84d04",
-      "title": "Iran’s president calls to end war with US from ‘position of strength’",
-      "summary": "Masoud Pezeshkian’s comments reflect debate within regime over how much economic pressure country can endure",
-      "link": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
-      "source": "FT World",
-      "published": "2026-08-21T18:51:35+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2ca1ed9cb16ee5e0",
-      "title": "Israeli forces kill Palestinian man in Gaza",
-      "summary": "Israeli forces kill Palestinian man in Gaza Israeli forces shot dead 29-year-old Palestinian Ibrahim Mohammed Kawar’a in the Qizan al-Najjar area, south of Khan Younis in southern Gaza, on Friday evening, Wafa news agency reported. The Palestinian Red Crescent said Kawar’a was handcuffed and shackled before the killing. Medical sources said his body was taken to Nasser Medical Complex in Khan Younis.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-gaza",
-      "source": "Middle East Eye",
-      "published": "2026-08-21T18:45:17+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "420fa0fc29b5b5f0",
-      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-      "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
-      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T18:29:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ad91f98bed31e732",
-      "title": "Iran president says time to end war while in position of strength",
-      "summary": "Iran president says time to end war while in position of strength Iranian President Masoud Pezeshkian said Friday it was time to end the months-long war with the United States because Tehran appeared to be in a stronger position than Washington. Talks between the longtime foes remain on hold, and the war started by the US and Israel in February has been locked in a stalemate. Tehran is keeping the key Strait of Hormuz partially shut and Washington is persisting with a naval counter-blockade of&nbsp;Iran. \"It is better that we bring the war to an end now as we are in a position of power and dig",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-time-end-war-while-position-strength",
-      "source": "Middle East Eye",
-      "published": "2026-08-21T18:10:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a8baf5de0c1111dd",
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
-      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T18:09:38+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c1dca81c9cc88b6",
-      "title": "Mexico Governor Accused by US of Cartel Ties Returns to Post",
-      "summary": "The Mexican governor accused by the US of conspiring with a major criminal cartel to traffic drugs is ending his leave of absence, pledging to finish out his term through next year in a move that could inflame tensions with Washington.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/mexican-governor-accused-by-us-of-cartel-ties-returns-to-his-job",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-21T18:01:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ca411d2f892c2d3e",
-      "title": "SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading",
-      "summary": "Former senior Bank of America Corp. investment banker Jason Satsky passed on confidential information about a deal to a friend who made $18.5 million in illegal profits, according to the US Securities and Exchange Commission.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/sec-accuses-ex-bofa-senior-banker-satsky-of-insider-trading",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-21T18:00:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2428b6475dfb1366",
-      "title": "FM Araghchi says US economic pressure campaign is doomed to fail",
-      "summary": "FM Araghchi says US economic pressure campaign is doomed to fail Iranian Foreign Minister Abbas Araghchi said US President Donald Trump’s threat to launch the “most crushing economic operation ever” against Iran was “doomed to failure”. “We’ve seen this movie before; the same old story, just with different bullies,” Araghchi said, adding that US threats to impose the “most crippling sanctions in history” 14 years ago had failed. Iranian Foreign Minister Abbas Araghchi speaks during a joint press conference with his Iraqi counterpart in Baghdad, 28 June 2026 (Ahmad Rubaye / AFP)",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fm-araghchi-says-us-economic-pressure-campaign-doomed-fail",
-      "source": "Middle East Eye",
-      "published": "2026-08-21T17:58:29+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "97ba368719990d86",
-      "title": "Burnham hit by fiscal challenges as O’Neill declines government role",
-      "summary": "£1.8bn deficit in July confounds economists’ expectations as prime minister prepares for October Budget",
-      "link": "https://www.ft.com/content/7b162fb4-8889-4f9c-9d5b-878850d6e8af?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-21T17:38:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "03fe84399ded02f3",
-      "title": "King Receives Youth Day Greetings From Chinese President",
-      "summary": "King Mohammed VI received a message of greetings from President of the People’s Republic of China Xi Jinping on the occasion of Youth Day. In the message, the Chinese President extends his sincere congratulations and best wishes to His Majesty the King. President Xi Jinping hailed the deep historical friendship binding Morocco and China, stressing [&#8230;] The post King Receives Youth Day Greetings From Chinese President appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144150-king-receives-youth-day-greetings-from-chinese-president-r-x.html",
-      "source": "Hespress EN",
-      "published": "2026-08-21T17:30:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "eaa82d279b4ce1e3",
-      "title": "World Bank Projects Lebanon Economy to Contract by 6.4% Due to War",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309671",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T17:24:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fe2cccf6fa88c12b",
-      "title": "New US Sanctions Tighten Grip on Hezbollah, Test Lebanon",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309669",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T17:19:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b6a52a50419663d4",
-      "title": "UK, Canada, Australia Slam Israel Ending Probe into Aid Worker Killings",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309657",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T16:43:19+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8d90edd0ad47e8b6",
-      "title": "Top-ranked Jannik Sinner Withdraws from the US Open with a Knee Injury",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309655",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T16:41:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fd64c04d367caad7",
-      "title": "Rights Group Says Israeli Settler Violence Heads to Established Palestinian Cities",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309653",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T16:32:53+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cac77152e563e1f7",
-      "title": "Palestinian Teen Killed by Israeli Settlers After Rock Throwing Incident",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5309650",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-21T16:29:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "33b1bfedb0a8f1ba",
-      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-      "summary": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T16:26:53+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
