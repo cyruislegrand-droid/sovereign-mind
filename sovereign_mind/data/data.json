@@ -1,8 +1,597 @@
 {
-  "generated_at": "2026-08-24T04:07:39.160694+00:00",
+  "generated_at": "2026-08-24T05:03:11.200598+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "0849927e0bd8e51a",
+      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-24T05:01:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c04e9669ef10b1c8",
+      "title": "Shein Grapples with EU Backlash, But Clients Keep Coming",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5310389",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-24T05:01:05+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ccaff125c85cdf7f",
+      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-24T05:00:12+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a1951906b432d17e",
+      "title": "Shein seeks $27bn valuation from Hong Kong IPO",
+      "summary": "Market capitalisation is nearly three quarters below its peak after fast-fashion retailer’s attempts to list in New York and London failed",
+      "link": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:51:09+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c7df3e287b94f8f8",
+      "title": "Gauff Powers Past Pegula to Win US Open Warm-up in Cincinnati",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5310387",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-24T04:49:37+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "99398d75b47f42e2",
+      "title": "KPMG Australia cuts hundreds of workers and partner pay after audit scandal",
+      "summary": "Big Four firm to let go of 5% of country staff and reduce compensation by 13% as consulting revenue tanks",
+      "link": "https://www.ft.com/content/3e747114-ed56-488b-bd17-1763d2d57d69?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:43:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6dc7038ebf93dee8",
+      "title": "Saudi, French Sports Ministries Sign MoU to Strengthen Cooperation",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5310386",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-24T04:43:36+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7a2a716f781b63f2",
+      "title": "Saudi Crown Prince Attends Esports World Cup 2026 Closing Ceremony in Paris",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5310384",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-24T04:40:49+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9577a4c55091d841",
+      "title": "Alibaba, YMTC Fundraising Hits China Tech Stocks on Supply Woes",
+      "summary": "Chinese technology stocks came under renewed pressure on Monday, reflecting supply concerns over the fundraising plans of Alibaba Group Holding Ltd. and Yangtze Memory Technologies Co.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T04:37:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5dc7e31f25ba3dac",
+      "title": "Korean Financial Regulator Relocation Plan Faces Staff Exodus",
+      "summary": "South Korea risks accelerating staff exodus from its financial regulator as the government considers moving the agency out of Seoul, with an overwhelming majority of surveyed employees saying they would consider quitting if the move goes ahead.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-24/korean-financial-regulator-relocation-plan-faces-staff-exodus",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T04:36:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5e8d73f97fecdea3",
+      "title": "Chinese Builder Logan Wins Court Approval for Debt Restructuring",
+      "summary": "A Hong Kong court gave Logan Group Co. clearance to implement its debt restructuring plan, more than four years after the Chinese developer defaulted in the midst of the country’s property crisis.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-builder-logan-wins-court-approval-for-debt-restructuring",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T04:35:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d07e738e4c367dae",
+      "title": "US Vows 'Economic D-Day' as Iran Threatens to Halt all Oil Exports",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5310383",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-24T04:31:55+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a19ecfa2ff21bc84",
+      "title": "US: Pro-Palestinian Protesters Sentenced over Blocking Golden Gate Bridge Traffic in 2024",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5310382",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-08-24T04:29:46+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4e5bf563704c2793",
+      "title": "Analysts’ views: forecasters continue to see Fed and Bank of England on hold this year",
+      "summary": "Fed and BoE will remain on hold, with rate rises from ECB and Bank of Japan to come this year, according to our August survey",
+      "link": "https://www.ft.com/content/35c2bdcf-110e-456a-a3c1-ba973837b9b9",
+      "source": "FT World",
+      "published": "2026-08-24T04:29:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "57a87cd59666c5b0",
+      "title": "PLS Group's Henderson: Lithium Market in Recovery",
+      "summary": "PLS Managing Director and CEO Dale Henderson says the lithium market is on its way to recovery from a recent trough. He speaks with Yvonne Man and David Ingles on \"Bloomberg: The China Show.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/pls-group-s-henderson-lithium-market-in-recovery-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T04:28:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ad258cf7990dcef1",
+      "title": "Singapore offers new parents $55,000 in battle to boost birth rates",
+      "summary": "City-state is on course to become a ‘super-aged’ society this year",
+      "link": "https://www.ft.com/content/5eda0f29-259a-4aeb-b845-15646473fa55?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:23:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a69559f5c96bd3bf",
+      "title": "Indonesia Bonds Draw Highest Inflows Since 2019 on Rupiah Gains",
+      "summary": "Indonesian government bonds drew the biggest foreign inflows in more than seven years, helped by a stronger rupiah and expectations that the central bank will keep interest rates steady following a 100-basis-point increase this year.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-24/indonesia-bonds-draw-highest-inflows-since-2019-on-rupiah-gains",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T04:21:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "51b38c7568238d2f",
+      "title": "Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m",
+      "summary": "Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T04:19:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "da5814f517aff0fd",
+      "title": "Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc",
+      "summary": "Footage filmed by a climber on Mont Blanc shows rocks cascading down the Goûter Couloir, known as ‘Death Pass’. The clim",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T04:18:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "de6e02942c7d98a3",
       "title": "Shein aims for almost $27bn valuation in stock market debut",
@@ -10,6 +599,502 @@
       "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-24T04:06:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6f97bc36c1ca6ed0",
+      "title": "‘We know this movie’: Iran mocks latest US sanctions",
+      "summary": "Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T04:02:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "373badd0778929e5",
+      "title": "UK statistics agency turns to AI to cut costs and improve data",
+      "summary": "ONS says technology will help save thousands of hours a year as it seeks to strengthen core output",
+      "link": "https://www.ft.com/content/b153db68-a361-4217-9cc5-b766a15c1922?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ca6ce3f5e02cd3a8",
+      "title": "Saudi Arabia holds talks over state-backed war insurance as costs jump",
+      "summary": "Insurers have raised prices or restricted coverage for ships and other firms in the region owing to Iran conflict and Houthi attacks",
+      "link": "https://www.ft.com/content/fce79e4a-3979-4af9-b8e5-27aeb890e53b?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cc6798d8775c6a01",
+      "title": "Shell draws Exxon interest in $8bn US chemical assets sale",
+      "summary": "US supermajor and LyondellBasell among suitors as UK group looks to shed underperforming plants and refocus on oil and gas",
+      "link": "https://www.ft.com/content/d6f1eb66-1684-4b4f-8e4f-cc429d5dd4b0?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b92c4922f818f0dd",
+      "title": "A ‘democratised’ financial crisis is still a crisis",
+      "summary": "Private credit’s insurance boom could have hidden costs",
+      "link": "https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b6b6623d5a699406",
+      "title": "How climate is driving new geostrategy",
+      "summary": "Environmental changes are reshaping trade, commerce, logistics and geopolitics",
+      "link": "https://www.ft.com/content/4a26bc38-1634-4804-81f7-11124c1e3008?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "52f4f318a3e92f78",
+      "title": "Black September by Sandro Veronesi — a boy’s own story",
+      "summary": "The multi-award-winning Italian writer turns memory into drama in this warm, teasing account of an early-1970s adolescence",
+      "link": "https://www.ft.com/content/04084806-e573-4281-b935-1ac9a73cbf9f",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "da63ff2f1c7b7da0",
+      "title": "Where Venice Film Festival insiders go after the credits roll",
+      "summary": "Veterans of one of cinema’s most glamorous gatherings share their favourite places in La Serenissima",
+      "link": "https://www.ft.com/content/7850481c-2eec-4288-8051-a4dfa05b8e5b",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "218699758e2b0697",
+      "title": "Hanneli Rupert, the Richemont scion building a Davos for craft",
+      "summary": "Meet the woman turning Homo Faber into a design powerhouse",
+      "link": "https://www.ft.com/content/fd0353fe-f401-4c3a-aef7-54340e3b1b42",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "19c3cbaf5c1b6102",
+      "title": "My summer without running water",
+      "summary": "Drought and heatwaves have played a part in shortages but the main culprit is years of under-investment in the water industry after privatisation",
+      "link": "https://www.ft.com/content/5319217c-77de-47ad-a5cc-1c46fb70e7b9?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7ee92a1c3cd9e850",
+      "title": "Top UK university graduates owe the most in student loans",
+      "summary": "Average Russell Group alumnus repaying a plan 2 loan has a debt of £52,412, according to FT analysis",
+      "link": "https://www.ft.com/content/48539819-9e46-4a98-9ef6-5db5255379c0?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ab58a0c1fdab86a9",
+      "title": "US widens AI-driven investment gap with Europe",
+      "summary": "The bloc struggles to keep up with US spending on high-tech equipment and facilities",
+      "link": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "720d576693218779",
+      "title": "African nations join the space race",
+      "summary": "Greater access to satellite systems means the continent can now utilise more data than ever",
+      "link": "https://www.ft.com/content/fb2e6718-161c-4f40-8a98-983dc61d1ab2?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d81ea4fcb761c905",
+      "title": "Germany must ditch doubts over private capital, says investment tsar",
+      "summary": "Martin Blessing says foreign investors face sceptical public authorities",
+      "link": "https://www.ft.com/content/7c88554e-8e08-4d9e-a696-daeb82817876?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T04:00:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "58f0d5da479ac432",
+      "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+      "summary": "Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.",
+      "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T03:56:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "87514271305e264f",
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-24T03:55:35+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -128,37 +1213,6 @@
       }
     },
     {
-      "id": "0849927e0bd8e51a",
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-24T03:27:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ac64160beadf9bf7",
       "title": "Why the Fed's Warsh Has 'No Good Options'",
       "summary": "Pepperstone Research Strategist Dilin Wu describes the bond market as \"ahead of the Fed,\" arguing that rising yields on treasuries is a structural issue in the economy. She also warns that Fed Chairman Kevin Warsh is left with only bad options to address the rising cost of servicing US bonds. (Source: Bloomberg)",
@@ -196,37 +1250,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-24T02:55:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a1951906b432d17e",
-      "title": "Shein seeks $27bn valuation from Hong Kong IPO",
-      "summary": "New figure is just over a quarter of its peak after fast-fashion retailer’s attempts to list in New York and London derailed by opposition",
-      "link": "https://www.ft.com/content/1d310566-94ee-48e2-acfa-25de646fc41a?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-24T02:55:10+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -531,37 +1554,6 @@
       }
     },
     {
-      "id": "6a80049fd0012595",
-      "title": "Pimco Expects Elevated Term Premium, Says Bonds Are Attractive",
-      "summary": "The extra compensation investors demand to hold long-dated government bonds is likely to remain elevated barring an unexpected economic downturn, presenting opportunities to buy at higher yields, according to Pacific Investment Management Co.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/pimco-expects-elevated-term-premium-says-bonds-are-attractive",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T01:50:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "cd644fd07dbc7f3d",
       "title": "Hedge Funds Ramp Up Dollar Shorts Into Bessent’s Fiscal Plan",
       "summary": "Hedge funds are ramping up bearish dollar bets as they await more details on Treasury Secretary Scott Bessent’s new fiscal plan to address the highest borrowing costs in years.",
@@ -600,37 +1592,6 @@
       "source": "Middle East Eye",
       "published": "2026-08-24T01:37:28+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0c6f3200d2831c04",
-      "title": "India’s $10 Billion Equity Rush Puts August on Track for Record",
-      "summary": "India’s equity capital market is heading for its best month on record, bucking a lackluster stock market as ample domestic liquidity continues to fuel demand for new shares.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T01:30:00+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -748,74 +1709,12 @@
       }
     },
     {
-      "id": "84084d41a51473b8",
-      "title": "Shein’s Purchase of Everlane Faces US National Security Review",
-      "summary": "US authorities are conducting a national security review of Shein Global Holdings Ltd.’s purchase of American clothing retailer Everlane after Shein sought approval for the deal, people familiar with the matter said, adding to a growing list of regulatory hurdles for the China-founded fast-fashion giant in one of its most important markets.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/shein-s-purchase-of-everlane-faces-us-national-security-review-mt6k4xb6",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T00:44:12+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "5248e6045eeaf9b3",
       "title": "Australian shark attack victim grateful for 'second chance at life'",
       "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
       "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-24T00:34:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b3b6d54ded8d4cb1",
-      "title": "Treasury Market Still Functioning, Fed's Kashkari Says",
-      "summary": "Federal Reserve Bank of Minneapolis President Neel Kashkari has played down concerns over rising US Treasury yields, saying markets are functioning well. His most recent statements come after Treasury Secretary Scott Bessent announced a plan to buy back long-term US debt. Bloomberg's Mark Cranfield has the context. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-24/treasury-market-still-functioning-fed-s-kashkari-says-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T00:31:04+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -965,37 +1864,6 @@
       }
     },
     {
-      "id": "fee526a89027141d",
-      "title": "Australian Firms Rally as Restructuring Efforts Drive Earnings-Season Gains",
-      "summary": "Investors who kept faith with Australian companies pursuing restructuring and leadership changes are reaping the rewards, as signs of progress unveiled during the August earnings season sent their stocks soaring.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-23/australian-firms-in-reset-mode-emerge-as-earnings-season-winners",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-23T23:59:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "1df9ccd7692a08dc",
       "title": "Watch: Iranians express mixed opinions over war recovery",
       "summary": "Watch: Iranians express mixed opinions over war recovery Iranians in Tehran expressed divided opinions over how the country should move forward in the face of increased US sanctions threats and recovering from damage from US and Israeli strikes. On Saturday, Iran warned that any country participating in the US's \"economic war\" against it would be \"considered an enemy\" after US President Donald Trump announced a campaign to isolate Iran economically and encouraged allies to support the move. Iranians in Tehran expressed divided opinions over how the country should move forward in the face of in",
@@ -1033,37 +1901,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-08-23/gold-holds-near-three-month-high-as-debasement-trade-returns",
       "source": "Bloomberg Markets",
       "published": "2026-08-23T23:29:29+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "625c52b8caaf16a5",
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T23:07:10+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1188,6 +2025,37 @@
       "link": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
       "source": "Bloomberg Markets",
       "published": "2026-08-23T23:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5d9c8569e9aab4fd",
+      "title": "Hedge Fund Manager Phil King to Retire From Regal Partners",
+      "summary": "Shares in Regal Partners fell after the company said its chief investment officer for long short equities Phil King would transition to retirement, marking the exit of one of Australia’s most high-profile hedge fund managers.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-23/hedge-fund-manager-phil-king-to-retire-from-regal-partners",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-23T22:55:46+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2212,874 +3080,6 @@
       "source": "Al Jazeera English",
       "published": "2026-08-23T18:15:22+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "259a356a1c135b68",
-      "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
-      "summary": "Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium",
-      "link": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-23T18:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "15f702463ad7f997",
-      "title": "Yahoo, the internet’s ‘OG’, wants to win over Gen Z",
-      "summary": "Group’s chief says vintage web name can help draw younger users",
-      "link": "https://www.ft.com/content/50c666af-1979-4411-9d62-34e18cc0ecc9?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-23T18:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9ad6b436aa4ade51",
-      "title": "Why every French politician is now a Gaullist",
-      "summary": "The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy",
-      "link": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd",
-      "source": "FT World",
-      "published": "2026-08-23T17:58:17+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0e71d90d2ab6165a",
-      "title": "Tunisia sees protests after migrant boat sinking kills eight",
-      "summary": "A migrant boat carrying 15 Tunisians sank off the country&#039;s southeastern coast while heading to Italy, killing eight.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-23T17:57:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "49d023ef3a71f14f",
-      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-      "summary": "Authorities said the fire was caused by humans.",
-      "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-23T17:55:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ce0b2ed6305e31d3",
-      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
-      "summary": "House Speaker Mike Johnson, a Trump ally, admits it &#039;would be helpful&#039; if conflict ends before elections in November.",
-      "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-23T17:53:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "00602a6b35648153",
-      "title": "France links sharp rise in drownings to heatwaves",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T17:39:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c2931e56ecd698f2",
-      "title": "Landfill Collapse Kills 30 in Guinea",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310301",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T17:35:03+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b2ddcf003272d566",
-      "title": "Landfill collapse in Guinea kills at least 30 people",
-      "summary": "Heavy rains wash over the site, triggering a landslide that buries several shacks.",
-      "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-23T17:35:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4531e72f2f498d65",
-      "title": "Trump accused of risking more pain for Americans with Canada trade war",
-      "summary": "Collapse of talks threatens to raise prices even higher months before midterm election",
-      "link": "https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-23T17:28:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9499e8e881e65ccb",
-      "title": "A week of keynote speeches",
-      "summary": "Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talks monetary policy at Jackson Hole and investors await Nvidia earnings call",
-      "link": "https://www.ft.com/content/6aa04f24-c216-467e-834a-7b4af3ef660e?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-23T17:15:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e819c6319e8af12f",
-      "title": "GCC, India Discuss Ministerial Meeting Set to be Held Next Month",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310295",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T17:13:53+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "535dcc92fbddd26c",
-      "title": "The Sunhat is Everywhere in Athens as Crowds Grow Larger at Ancient Sites",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310291",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T17:01:46+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "66330ba526ddfcd0",
-      "title": "Animal groups seek clarity over Morocco’s restrictions on feeding strays",
-      "summary": "Moroccan animal welfare groups have called for urgent regulations clarifying when citizens may feed, shelter or treat stray animals under Law No. 19.25, warning that uncertainty could discourage people from rescuing injured animals. The law, published in Official Gazette No. 7533 on August 10, creates a national framework for protecting stray animals, controlling their populations [&#8230;] The post Animal groups seek clarity over Morocco’s restrictions on feeding strays appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144228-animal-groups-seek-clarity-over-moroccos-restrictions-on-feeding-strays.html",
-      "source": "Hespress EN",
-      "published": "2026-08-23T16:57:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "abcfa929cbfd0e60",
-      "title": "Late Gvardiol Strike Earns Maresca Winning Start and Brighton Hammer Villa",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310287",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T16:49:25+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cbee0535c6f0ad19",
-      "title": "Spain presses FIFA for 2030 World Cup final as Morocco advances rival bid",
-      "summary": "Spanish Football Federation President Rafael Louzán has renewed Spain’s claim to host the 2030 World Cup final, saying staging the match elsewhere would “make no sense” as Morocco advances its competing bid. Louzán said Spain had been central to the joint candidacy from its beginning with Portugal and represented 55% of the tournament’s organizational weight. [&#8230;] The post Spain presses FIFA for 2030 World Cup final as Morocco advances rival bid appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144244-spain-presses-fifa-for-2030-world-cup-final-as-morocco-advances-rival-bid.html",
-      "source": "Hespress EN",
-      "published": "2026-08-23T16:44:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "98bf91b1589790fc",
-      "title": "Norris Wins F1's Dutch Grand Prix after Battle with Antonelli",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310278",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T16:39:46+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c6c114704be4db1c",
-      "title": "Israeli forces open fire on Palestinians across West Bank in separate incidents",
-      "summary": "Israeli forces open fire on Palestinians across West Bank in separate incidents The Israeli army said it apprehended a 16-year-old Palestinian suspected of stabbing an Israeli on Sunday in Al-Auja in the occupied West Bank. Hani Najum, the head of the Al-Auja village council, told AFP that \"the Israeli army raided the village, deployed in its streets,\" and imposed a curfew. The same day, the Israeli army opened fire at a Palestinian man whom it said attempted \"to steal a weapon from an IDF soldier\" near the Palestinian town of Taybeh, northeast of Ramallah, saying he was \"neutralised.\" The Pal",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-open-fire-palestinians-across-west-bank-separate",
-      "source": "Middle East Eye",
-      "published": "2026-08-23T16:34:01+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f4135fada9ce6f53",
-      "title": "Palestinian Authorities Say Israeli Army Kills Teen in West Bank",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310274",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T16:30:10+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "67f54aa6e5091751",
-      "title": "Mossad chief met Syrian foreign minister to ease tensions, Haaretz reports",
-      "summary": "Mossad chief met Syrian foreign minister to ease tensions, Haaretz reports Mossad chief Roman Gofman met with Syrian Foreign Minister Asaad al-Shaibani, Haaretz reported on Sunday, citing a source with knowledge of the meeting. The talks were part of an effort to ease tensions following the Israeli air strike on Syria's Abu al-Duhur airbase earlier this week, according to the Israeli news outlet.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mossad-chief-met-syrian-foreign-minister-ease-tensions-haaretz-reports",
-      "source": "Middle East Eye",
-      "published": "2026-08-23T15:57:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "236c491d030c085f",
-      "title": "Frustration builds in Indiana town struggling without power for 12 days",
-      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T15:54:32+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a3177cf892689526",
-      "title": "GCC Secretary-General Holds Separate Meetings with South Korean, Georgian Ambassadors",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310247",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T15:25:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fd1fe67cea63d7e0",
-      "title": "Tunisia Says Recovered 11 Migrants' Drowned Bodies",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310241",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T15:14:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1c98161005da8083",
-      "title": "Israeli drone strike north of Khan Younis wounds six",
-      "summary": "Israeli drone strike north of Khan Younis wounds six At least six Palestinians have been wounded in an Israeli drone strike north of Khan Younis, Wafa news agency reports. According to the report, two missiles struck a tent near the Albanian mosque. It added that earlier, another four civilians were wounded in a separate Israeli attack targeting an area outside the Israeli-controlled areas north of Khan Younis.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-north-khan-younis-wounds-six",
-      "source": "Middle East Eye",
-      "published": "2026-08-23T15:09:43+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "215f124502d75b46",
-      "title": "The 'Ali al-Taher' Battle: A Test of Hezbollah’s Capabilities",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310238",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T15:06:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fba6376b40618e81",
-      "title": "French Ambassador to Asharq Al-Awsat: Mohammed bin Salman’s Visit Paves Way for New Phase of Strategic Partnership",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310233",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T14:57:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "28882deb056a7855",
-      "title": "Saudi Airlines Compete Against Post-Summer Slump With Cost-Cutting Offers",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5310228",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-08-23T14:47:08+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5a0c8e4400b88e45",
-      "title": "Princess Lalla Meryem receives 50 Al-Quds children in Rabat",
-      "summary": "On the instructions of King Mohammed VI, Princess Lalla Meryem received, on Sunday at the Royal Guest Palace in Rabat, the Al-Quds children participating in the 17th edition of the summer camps organized by the Bayt Mal Al-Quds Acharif Agency. Placed under the High Patronage of King Mohammed VI, Chairman of the Al-Quds Committee, this [&#8230;] The post Princess Lalla Meryem receives 50 Al-Quds children in Rabat appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144238-princess-lalla-meryem-receives-50-al-quds-children-in-rabat.html",
-      "source": "Hespress EN",
-      "published": "2026-08-23T14:32:41+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
