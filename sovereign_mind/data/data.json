@@ -1,8 +1,535 @@
 {
-  "generated_at": "2026-08-24T19:04:18.132809+00:00",
+  "generated_at": "2026-08-24T19:46:24.425405+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "390fc1ba29b6c053",
+      "title": "Need 'All-Weather' Portfolio: Tuttle's Newton",
+      "summary": "Frances Newton, CIO of Tuttle Capital Management, joins Scarlet Fu and Eric Balchunas on \"ETF IQ.\" They discuss a report that the US Treasury could draw down some of its cash pile to fund buybacks of higher-yielding older securities in a bid to tackle rising borrowing costs. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/need-all-weather-portfolio-tuttle-s-newton-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T19:42:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eca1fc451d09a667",
+      "title": "Trump says US to increase tariffs on Canadian cars to 50%",
+      "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
+      "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T19:37:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8267e97485a32dc2",
+      "title": "Iran has a 'two year plan' to counter sanctions, economic minister says",
+      "summary": "Iran has a 'two year plan' to counter sanctions, economic minister says Iranian Economy Minister Ali Madanizadeh said that the country has a \"two-year plan\" to counter new US sanctions announced on Monday, predicting the US will suffer \"another defeat\" as a result.&nbsp; \"They have done everything they could to test the determination of the Iranian people and the country's officials, but they have failed every time. It seems they wished to suffer yet another defeat,\" Madanizadeh told state television. \"We've been waiting for these plans for a long time, and the government is and was ready and ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-has-two-year-plan-counter-sanctions-economic-minister-says",
+      "source": "Middle East Eye",
+      "published": "2026-08-24T19:36:57+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8df078312e26cad3",
+      "title": "US to impose new Iran sanctions on tech, gold, aviation, shipping",
+      "summary": "The United States on Monday vastly expanded the sectors of the Iranian economy it is targeting with secondary sanctions, bringing five new areas under the threat of such actions. &#8220;Treasury has issued determinations against five critical sectors &#8212; digital assets, technology, gold, aviation, and shipping &#8212; that the Iranian regime uses to try to prop [&#8230;] The post US to impose new Iran sanctions on tech, gold, aviation, shipping appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/144295-us-to-impose-new-iran-sanctions-on-tech-gold-aviation-shipping.html",
+      "source": "Hespress EN",
+      "published": "2026-08-24T19:33:48+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "484f2c3eda9bdd16",
+      "title": "Trump unleashes swathe of sanctions on Iran 'enablers'",
+      "summary": "Trump unleashes swathe of sanctions on Iran 'enablers' Submitted by Yasmine El-Sabawi on Mon, 08/24/2026 - 18:23 The US Treasury Secretary did not name the targets of 'Operation Economic Outcast' or offer a timeline for implementation US Treasury Secretary Scott Bessent speaks to reporters to outline further sanctions against Iran, at the Treasury Department in Washington, DC on 24 August 2026 (Evelyn Hockstein/Reuters) Off US Treasury Secretary Scott Bessent on Monday announced a new wave of sanctions against Iran and its \"enablers\", towards what he described as an \"asphyxiation of this regim",
+      "link": "https://www.middleeasteye.net/news/trump-unleashes-swathe-sanctions-iran-enablers",
+      "source": "Middle East Eye",
+      "published": "2026-08-24T19:32:54+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f6a5d6585088e39f",
+      "title": "'True ETF Innovation' Happening at Neos: Goldman's Lake",
+      "summary": "Bryon Lake, chief transformation officer and global head of third party wealth at Goldman Sachs Asset Management, and Troy Cates, co-founder of Neos Investments, join Scarlet Fu and Eric Balchunas on \"ETF IQ.\" They discuss how Neos is innovating in the ETF space. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/-true-etf-innovation-happening-at-neos-goldman-s-lake-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T19:21:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9248ad24f15710af",
+      "title": "Video: Israel attacks desalination plant and mosque in Gaza",
+      "summary": "Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T19:21:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b27df93835730860",
+      "title": "Goldman M&A, NHL Futures | ETF IQ 8/24/2026",
+      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Byron Lake, Goldman Sachs Asset Management Global Co-Head of Third-Party Wealth, Troy Cates, NEOS Co-Founder, Frances Newton, Tuttle Capital Management CIO, Carlos Pena, Texas Capital Head of ETF and Funds Management, and Nick Samouilhan, Wellington Portfolio Manager. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/etf-iq-8-24-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T19:20:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "86db7d9b11840395",
+      "title": "Goldman, Neos Discuss $2.3 Billion Deal",
+      "summary": "Bryon Lake, chief transformation officer and global head of third party wealth at Goldman Sachs Asset Management, and Troy Cates, co-founder of Neos Investments, join Scarlet Fu and Eric Balchunas on \"ETF IQ.\" Goldman Sachs Asset Management will pay as much as $2.25 billion to buy Neos Investments, expanding its asset manager’s reach in the actively managed exchange-traded fund market. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/goldman-neos-discuss-2-3-billion-deal-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T19:19:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5d7dc3eb129edd70",
+      "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
+      "summary": "Israeli restrictions are disrupting fuel supplies across the occupied West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T19:18:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9d5599e44a55002a",
+      "title": "US Tells Iran’s Trade Partners to Cut Ties or Face Sanctions",
+      "summary": "Vali Nasr, professor of international affairs & Middle East studies at Johns Hopkins University, said that he sees the declaration of new sanctions on Iran and its allies as a 'theatrical declaration' and less of a concrete move by the United States. Nasr said that the pressure on Iran's allies could potentially invite Chinese retaliation, which would widen the war 'out of the gulf and into the financial markets.' (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/us-tells-iran-s-allies-to-cut-ties-or-face-sanctions-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T19:15:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "40583af69d13e524",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-24T19:12:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "dc2b0429a694ec13",
+      "title": "Scott Bessent warns Iran’s partners of sanctions but offers no timeline",
+      "summary": "US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action",
+      "link": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-08-24T19:12:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "59876ee1d86be3a0",
+      "title": "Morocco restores wheat import subsidy as mills face supply gap",
+      "summary": "Morocco will reinstate a variable subsidy for soft wheat cargoes loaded between September 16 and December 31, supporting the resumption of imports after a summer pause intended to prioritize the domestic harvest. The measure, announced by the National Interprofessional Office for Cereals and Legumes, or ONICL, applies according to the date grain is loaded at [&#8230;] The post Morocco restores wheat import subsidy as mills face supply gap appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/144293-morocco-restores-wheat-import-subsidy-as-mills-face-supply-gap.html",
+      "source": "Hespress EN",
+      "published": "2026-08-24T19:11:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b4ec896fef8c076d",
+      "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+      "summary": "Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T19:09:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "21b2500ea2ee37c7",
+      "title": "Protolabs Rides Manufacturing Momentum",
+      "summary": "US manufacturing is getting a boost from growing demand across defense, aerospace and drones. Protolabs is tapping into that demand, using digital manufacturing to produce custom parts in as little as a day. CEO Suresh Krishna discusses the opportunity on Bloomberg Open Interest. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-24/protolabs-rides-manufacturing-momentum-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-08-24T19:03:12+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "442c0569c1f0ad47",
+      "title": "Israel threatens attacks in Gaza over children’s kites",
+      "summary": "Israel has threatened intensified attacks and forced displacement in Gaza over children’s kites",
+      "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-08-24T19:00:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "7c91712a59d995b9",
       "title": "Israeli forces raid village in Syria’s Quneitra governorate",
@@ -41,37 +568,6 @@
       "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-24T18:46:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "40583af69d13e524",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-24T18:39:53+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -196,37 +692,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-24T18:22:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cb69d946b1aebb7f",
-      "title": "Scott Bessent threatens more US sanctions on Iran’s economic partners",
-      "summary": "Treasury secretary’s announcement stops short of sweeping immediate action on China and other countries",
-      "link": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-24T18:21:47+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -382,37 +847,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-08-24/blackrock-pitches-tcp-private-credit-assets-to-rival-managers",
       "source": "Bloomberg Markets",
       "published": "2026-08-24T17:59:23+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "eca1fc451d09a667",
-      "title": "Trump says US to increase tariffs on Canadian cars to 50%",
-      "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
-      "link": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-24T17:53:49+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -692,37 +1126,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-08-24/broadcom-credit-risk-soars-on-mega-ai-debt-financing-backstops",
       "source": "Bloomberg Markets",
       "published": "2026-08-24T17:21:16+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "57b791ef0f6a94cd",
-      "title": "Siemens Energy Taps Goldman Sachs for Steam Turbine Stake Sale",
-      "summary": "Siemens Energy AG is working with Goldman Sachs Group Inc. as it prepares to start fielding offers for a majority stake in its steam turbine business, people familiar with the matter said.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/siemens-energy-taps-goldman-sachs-for-steam-turbine-stake-sale",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T17:20:58+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1213,37 +1616,6 @@
       }
     },
     {
-      "id": "61601dabb6337221",
-      "title": "Pimco gana con su apuesta por los bonos de Colombia",
-      "summary": "Read the story in English",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/pimco-gana-con-su-apuesta-por-los-bonos-de-colombia",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T16:34:40+00:00",
-      "region": "global",
-      "lang": "es",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "84d37a9b03b160c2",
       "title": "Iranian and Pakistani top officials meet in Tehran",
       "summary": "Iranian and Pakistani top officials meet in Tehran Pakistan’s military chief Asim Munir met with Iran’s chief negotiator and parliament speaker Mohammad Bagher Ghalibaf in Tehran on Monday, according to Iran’s Mehr News Agency. The two discussed US violations of its commitments to implement the Pakistani-mediated Memorandum of Understanding (MoU) signed with Iran in June.&nbsp; According to Mehr, Ghalibaf told Munir that “the US, by breaching its commitments, prevented the establishment of stability in the region and created another reason for distrust”. Munir said he will continue his efforts",
@@ -1368,37 +1740,6 @@
       }
     },
     {
-      "id": "684367b0e6ec675b",
-      "title": "Pimco Wins Big From Betting on Colombia While Other Funds Fled",
-      "summary": "Pacific Investment Management Co. is now the dominant foreign player in Colombia’s local debt market after a buying spree that more than offset outflows by other overseas investors.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/pimco-wins-big-from-betting-on-colombia-while-other-funds-fled",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T16:04:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b867d114b819057d",
       "title": "IRGC says Iran will target ‘US energy chokepoints’ if attacked",
       "summary": "IRGC says Iran will target ‘US energy chokepoints’ if attacked Hossein Mohebbi, spokesman of Iran’s Islamic Revolutionary Guard Corps (IRGC), warned on Monday of “heavy attacks on US energy chokepoints and vital interests” if Iran’s infrastructure is attacked. “Any attack on Iran’s infrastructure will bring heavy strikes on US energy chokepoints and vital interests,” Mohebbi was quoted as saying by Iran’s IRIB state broadcaster, adding that, “contrary to the enemy’s perception that Iran’s military had limited reserves, the production of our smart and guided missiles continues”.",
@@ -1436,37 +1777,6 @@
       "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-08-24T16:02:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "617f312b9a20f124",
-      "title": "Goldman, Wells Say Treasury Buybacks Unlikely to Cut Long Rates",
-      "summary": "Interest-rate strategists at Goldman Sachs Group Inc., Wells Fargo &amp; Co. and other Wall Street firms said the US Treasury Department’s bond buybacks will do little to reverse the jump in long-term yields.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-24/goldman-wells-say-treasury-buybacks-unlikely-to-cut-long-rates",
-      "source": "Bloomberg Markets",
-      "published": "2026-08-24T16:01:15+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2577,37 +2887,6 @@
       }
     },
     {
-      "id": "c7b83a62f336a2c4",
-      "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-      "summary": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-24T13:14:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "c0500be5e93f7594",
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
@@ -2639,74 +2918,12 @@
       }
     },
     {
-      "id": "818878c5a10a5c35",
-      "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
-      "summary": "‘Barrel bomb mufti’ sentenced to life in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-24T13:02:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "65976dc06164adc7",
       "title": "The Palestinian-American determined to defend his home from Israeli settlers",
       "summary": "The Palestinian-American determined to defend his home from Israeli settlers Submitted by Lubna Masarwa on Mon, 08/24/2026 - 13:16 After months of attacks, Louai Abu Ridi leaves Ohio and returns to the occupied West Bank to stop settlers from taking his home Palestinian-American Louai Abu Ridi looks out the window of his home, which has been encircled by settlers for two weeks in Qusra, in the occupied West Bank, on 18 August 2026 (Ammar Awad/Reuters) Off Watching anxiously from more than 10,000km away, Louai Abu Ridi could no longer handle being away from his ancestral home. The Palestinian -",
       "link": "https://www.middleeasteye.net/news/palestinian-american-determined-defend-his-home-israeli-settlers",
       "source": "Middle East Eye",
       "published": "2026-08-24T13:01:03+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2c9ee1f59ac4617c",
-      "title": "Moroccan workers targeted by Italy's ‘agromafia’ with promises of legal jobs",
-      "summary": "Moroccan workers are among migrants targeted by criminal networks in Italy that promise legal agricultural jobs but can leave workers trapped in debt, exploitation and forced labor, according to the Global Initiative Against Transnational Organized Crime. The networks operate through a system known as caporalato, in which illegal labor brokers recruit and control farmworkers, often [&#8230;] The post Moroccan workers targeted by Italy&#039;s ‘agromafia’ with promises of legal jobs appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144273-moroccan-workers-targeted-by-italys-agromafia-with-promises-of-legal-jobs.html",
-      "source": "Hespress EN",
-      "published": "2026-08-24T13:00:20+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -2794,105 +3011,12 @@
       }
     },
     {
-      "id": "2aeab066ee94d79f",
-      "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-      "summary": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
-      "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-24T12:59:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "7345d02c87663991",
       "title": "GCC Secretary-General Highlights Joint Efforts to Combat Money Laundering",
       "summary": "",
       "link": "https://english.aawsat.com/node/5310542",
       "source": "Asharq Al-Awsat",
       "published": "2026-08-24T12:49:37+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "14d054129152a8e4",
-      "title": "Four arrested over fatal shooting of South African boxer Zolani Tete",
-      "summary": "Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-08-24T12:48:53+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1e96b91c0756502e",
-      "title": "Syria sentences Assad-era top Muslim cleric to life imprisonment",
-      "summary": "A Syrian court on Monday handed a life sentence to Ahmed Hassoun, the country&#8217;s former grand mufti under ousted leader Bashar al-Assad, convicting him of crimes including inciting sectarian strife and exploiting his position. Hassoun, the 10th Assad-era figure to be sentenced under the new authorities, was Syria&#8217;s top Muslim cleric for 16 years. He [&#8230;] The post Syria sentences Assad-era top Muslim cleric to life imprisonment appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/144266-syria-sentences-assad-era-top-muslim-cleric-to-life-imprisonment.html",
-      "source": "Hespress EN",
-      "published": "2026-08-24T12:41:52+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -2955,130 +3079,6 @@
       "link": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
       "source": "Bloomberg Markets",
       "published": "2026-08-24T12:23:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ec993558d916d245",
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-24T12:17:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7209a57a25b868d5",
-      "title": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
-      "summary": "British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration",
-      "link": "https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-24T12:00:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "971a15446e1ba6de",
-      "title": "High asset prices, not low interest rates, are driving inflation",
-      "summary": "Wealth distribution in the US has rendered the Federal Reserve’s usual tools less effective",
-      "link": "https://www.ft.com/content/7a9f5756-bf18-4a42-80d1-653c955447aa?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-08-24T12:00:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6a75dfe57bc248f1",
-      "title": "Revisiting the Lockerbie bombing, 37 years later",
-      "summary": "For the first time, a US court will try one of those alleged to be responsible for the attack",
-      "link": "https://www.ft.com/content/895d08d0-5cb9-45f4-9a90-cbfdd164a0dd",
-      "source": "FT World",
-      "published": "2026-08-24T11:57:34+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
