@@ -1,16 +1,543 @@
 {
-  "generated_at": "2026-09-13T18:14:00.135120+00:00",
+  "generated_at": "2026-09-13T20:56:23.998052+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "fd60ff8c4ac45509",
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
-      "summary": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
+      "id": "c6a302ff788ef189",
+      "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+      "summary": "Jared Kushner, says Israel’s failed attack on Hamas leadership in Doha was ‘terrible’ and left the country ‘isolated&#039;",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T20:33:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d891837122e5fb7c",
+      "title": "US will scrap Irish whisky tariff, Trump says",
+      "summary": "The announcement comes several months after the US decreased the tariff by 5 percent.",
+      "link": "https://www.aljazeera.com/news/2026/9/13/trump-says-he-plans-to-remove-a-15-tariff-on-irish-whisky?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T20:29:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ca0e80510773cd79",
+      "title": "Spain says over 5,300 migrants left Ceuta in month",
+      "summary": "The Spanish government on Sunday said more than 5,300 of the migrants who remained in Ceuta after July&#8217;s influx had returned to Morocco in a month, as it faces pressure to restore normality to the increasingly tense city. The new figures come as criticism over the speed at which the migrants are being returned from [&#8230;] The post Spain says over 5,300 migrants left Ceuta in month appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/145382-spain-says-over-5300-migrants-left-ceuta-in-month.html",
+      "source": "Hespress EN",
+      "published": "2026-09-13T20:03:15+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8316134c9c89d27e",
+      "title": "Argentina turns down Morocco’s $1 million offer for October friendly",
+      "summary": "Argentina will not play Morocco in October after the Argentine Football Association rejected a proposal to bring the Argentina team to Rabat for a friendly, according to Argentine journalist Veronica Brunati. Brunati Reported on X that Morocco offered the AFA $1 million to play the match in Rabat. The Argentine federation turned down the proposal [&#8230;] The post Argentina turns down Morocco’s $1 million offer for October friendly appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/145379-argentina-turns-down-moroccos-1-million-offer-for-october-friendly-argentina-will-not-play-morocco-in-october-after-the-argentine-football-association-rejected-a-proposal-to-bring-the-arge.html",
+      "source": "Hespress EN",
+      "published": "2026-09-13T20:00:21+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b5134eee63f6a2e4",
+      "title": "Swedes vote in election that could see far-right in government",
+      "summary": "Voting is under way in Sweden in a closely fought election that could see the far-right enter government.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T19:58:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c32aea49c27258ae",
+      "title": "Canada seeks Ukraine loan role to deepen EU ties",
+      "summary": "Prime Minister Mark Carney to meet leaders in Europe this week as he tries to reduce his country’s dependence on the US",
+      "link": "https://www.ft.com/content/9cd8cc79-e98a-449f-a903-609b034a56e3?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-09-13T19:56:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "29de0e65240a6ff7",
+      "title": "Ronaldo calls for life bans of Saudi Pro League fans after Jota chants",
+      "summary": "Fans at Al-Taawoun and Al-Hilal game seem to taunt Ruben Neves by chanting name of deceased teammate, Diogo Jota.",
+      "link": "https://www.aljazeera.com/sports/2026/9/13/ronaldo-calls-of-life-bans-of-saudi-pro-league-fans-after-jota-chants?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T19:55:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "62b09af00eb58e92",
+      "title": "Guyana’s oil boom and challenges",
+      "summary": "Guyana’s president says his country has seen an increase in oil revenue as the Iran conflict reshapes global markets.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/13/guyanas-oil-boom-and-challenges?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T19:55:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "de05427855a66293",
+      "title": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says",
+      "summary": "Oman meeting between Gulf states and Iran postponed, Omani foreign minister says A meeting in Oman between Gulf countries and&nbsp;Iran&nbsp;to discuss possible agreements on the Strait of Hormuz, which had been scheduled for Monday, has been postponed, Omani Foreign Minister Badr Albusaidi said on X on Sunday. In the interests of consensus the regional meeting set for tomorrow in Salalah has been postponed. We remain committed to fostering dialogue that supports stability and lasting cooperation in our region 🇧🇭 🇮🇷 🇮🇶 🇰🇼 🇴🇲 🇶🇦 🇸🇦 🇦🇪 — Badr Albusaidi - بدر البوسعيدي (@badralbusaidi) September ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-meeting-between-gulf-states-and-iran-postponed-omani-foreign",
+      "source": "Middle East Eye",
+      "published": "2026-09-13T19:52:12+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "df22f680b970e6bc",
+      "title": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
+      "summary": "Israeli forces reportedly raided the Jenin home of Palestinian journalist Ali al-Samoudi and beat his son.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T19:41:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2f67f8d96e9b0b92",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-13T18:09:56+00:00",
+      "published": "2026-09-13T19:34:36+00:00",
       "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "829d882b00f13583",
+      "title": "Centre-left opposition bloc leads in Swedish vote, poll shows",
+      "summary": "Exit polls show Sweden&#039;s centre-left parties with an early ⁠lead of 51.3 percent in general election.",
+      "link": "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T19:25:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0d70488c7f2e08d8",
+      "title": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says",
+      "summary": "A planned meeting for Monday between Iran and several Gulf nations on creating a temporary shipping lane through the Strait of Hormuz has been postponed, according to Oman’s foreign minister.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/hormuz-meeting-with-iran-and-gulf-nations-postponed-oman-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-09-13T19:17:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ab7481e2068d2c71",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-13T19:14:21+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "58c0582c8aaff954",
+      "title": "Trump calls on Ukraine to stop striking Russian diesel refineries",
+      "summary": "US president says the attacks and not his war in Iran are responsible for the fuel hitting record highs",
+      "link": "https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-09-13T19:08:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7e062689a0fbe1cf",
+      "title": "Yemen’s military launches air raids on Houthi vehicles in Dhu Bab, Mocha",
+      "summary": "Yemen’s military launches air raids on Houthi vehicles in Dhu Bab, Mocha Yemen’s Air Force has targeted Houthi vehicles in the Dhu Bab and Mocha areas, Al Jazeera reported, citing a spokesperson from the government’s armed forces. An aerial view shows damaged buildings, as Houthis seized control of Yemen's port city of&nbsp;Mocha&nbsp;on Thursday, in&nbsp;Mocha, Yemen, in its screengrab taken from a handout video released on 12 September 2026 (Al Masirah via Reuters)",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-military-launches-air-raids-houthi-vehicles-dhu-bab-mocha",
+      "source": "Middle East Eye",
+      "published": "2026-09-13T19:01:20+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fd6988457bbe957a",
+      "title": "A 5% Treasury Yield Is Raising New Risks for Markets, Economy",
+      "summary": "The bond selloff has driven a key Treasury yield to the verge of 5%, worsening angst from Wall Street to Washington about the higher borrowing costs hitting the US economy.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-13/a-5-treasury-yield-is-raising-new-risks-for-markets-economy",
+      "source": "Bloomberg Markets",
+      "published": "2026-09-13T19:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3d80cc19093b03bc",
+      "title": "Israeli settlers injure two Palestinians in attack east of Salfit",
+      "summary": "Israeli settlers injure two Palestinians in attack east of Salfit Israeli settlers severely beat two Palestinians on their agricultural land in the Wadi al-Sha’er area, east of Salfit in the occupied West Bank, on Sunday, causing injuries and bruising, the Wafa news agency reported. The agency identified the men as Mohammed Darwish and Nashat Ishtayeh, both from Salfit. Residents, students and vehicles use the area daily because it lies along a main road connecting Salfit with Al-Zaytoona University. Settlers frequently attack and harass Palestinians and target their agricultural land in the a",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-two-palestinians-attack-east-salfit",
+      "source": "Middle East Eye",
+      "published": "2026-09-13T18:52:59+00:00",
+      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -40,8 +567,225 @@
       "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-13T18:03:44+00:00",
+      "published": "2026-09-13T18:49:37+00:00",
       "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6a32344f065b35cc",
+      "title": "​Bangsamoro’s parliamentary election is a turning point",
+      "summary": "It&#039;s a milestone of the self-determination fight in this region of the Philippines. It must be kept peaceful and fair.",
+      "link": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T18:39:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7d555bbcc19cf2a5",
+      "title": "Haaland goal sees 10-man City beat United in controversial Manchester derby",
+      "summary": "Phil Foden is sent off for City, but Erling Haaland&#039;s controversial goal settles Manchester derby 1-0 at United.",
+      "link": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T18:39:24+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ef9750303cedb82f",
+      "title": "Syrian child killed after roadside object explodes near Damascus",
+      "summary": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T18:30:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6d49a68987e20299",
+      "title": "Fighting in Yemen Intensifies as Govt Attacks Houthis Along Read Sea",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5317868",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-09-13T18:25:11+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e8111bf0045554bd",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-13T18:20:22+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1c37905ab4278a70",
+      "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+      "summary": "The US president says Ukraine&#039;s attacks on Russian diesel infrastructure are contributing to global fuel shortages.",
+      "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-09-13T18:15:12+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee138e99dbd19d3e",
+      "title": "Ukrainian Official Expects Imminent Bilateral Meeting Between Zelenskyy and Trump",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5317866",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-09-13T18:14:57+00:00",
+      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -104,37 +848,6 @@
       "source": "Hespress EN",
       "published": "2026-09-13T17:39:59+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ab7481e2068d2c71",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-13T17:38:29+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -227,6 +940,68 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-09-13T17:15:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4f82755e7243398a",
+      "title": "Russians to vote, but the outcome is already decided",
+      "summary": "First election for the Duma since the Ukraine invasion, inflation reports dominate the economic data run, and the Fed, BoE and BoJ make interest rate announcements",
+      "link": "https://www.ft.com/content/7de7cc10-e7a5-414b-a40f-3296eaf49ce7?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-09-13T17:15:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "83dff622bea3a59e",
+      "title": "Bloomberg This Weekend 09/13/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Journalist & Features Writer Isabel Woodford, BMO Capital Markets Senior Economist Jennifer Lee, Delaware Sen. Chris Coons and GasBuddy Head of Petroleum Analysis Patrick De Haan. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-13/bloomberg-this-weekend-09-13-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-09-13T17:11:22+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1833,68 +2608,6 @@
       }
     },
     {
-      "id": "68806590e5f7bfc0",
-      "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-      "summary": "With lost livelihoods, destroyed homes and little security, many displaced Lebanese are facing an entrenched reality.",
-      "link": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T13:09:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e6a35d53fc17f7c0",
-      "title": "Ukraine drone strikes kill four as Russia attacks close to Poland border",
-      "summary": "Russia says four people killed in Ukrainian strikes as both sides continue to attack each other with waves of drones.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/ukraine-drone-strikes-kill-four-as-russia-attacks-close-to-poland-border?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T13:05:40+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "dcb46ca2cb7156b5",
       "title": "Wall Street Says Stay With Stocks Despite Late ‘90s Dot-Com Vibe",
       "summary": "Rising bond yields and soaring oil prices have many Wall Street pros looking back a few decades to the volatile period before the dot-com crash. But that doesn’t mean they’re encouraging investors to dump their stocks.",
@@ -1988,105 +2701,12 @@
       }
     },
     {
-      "id": "d529afa58a921436",
-      "title": "The Iran war reveals the limits of BRICS",
-      "summary": "The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T12:46:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "c544f35a777aa408",
       "title": "Saudi pipeline attack exposes potent Iraqi militia threat",
       "summary": "Baghdad is seeking to reduce the power of Tehran-linked forces accused of striking pipeline",
       "link": "https://www.ft.com/content/b60624fb-0a09-45e6-b148-b7a5ca38f83e?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-09-13T12:39:59+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e4181ca1c6d0c10a",
-      "title": "The Houthis’ escalation in Yemen could flop",
-      "summary": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T12:39:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "76ec91c0f11b6dca",
-      "title": "LIVE: Manchester United vs Manchester City – Premier League",
-      "summary": "Follow updates from our live text commentary stream coverage as Bruno Fernandes and Erling Haaland star in the derby.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T12:31:30+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -2298,68 +2918,6 @@
       }
     },
     {
-      "id": "e20983bcfa574c33",
-      "title": "India vs Sri Lanka live: Asia Cup final",
-      "summary": "Follow our live team score, photos and text commentary stream from the final in Dubai as Sri Lanka chase 184 to win.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T12:06:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bfe6b1a430b43e8f",
-      "title": "BRICS summit 2026: What are the key takeaways?",
-      "summary": "The 11-nation bloc avoids condemning the US-Israel war on Iran, showing the divisions among the members.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T12:04:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e57b511061b464dd",
       "title": "Can Scotland’s Abundant Wind Power a Data Center Boom?",
       "summary": "Scotland produces far more wind power than its grid can handle, forcing turbines to be shut down when supply exceeds demand or transmission capacity. Developers now see a possible solution: build data centers close to the surplus power, turning wasted wind into compute capacity for AI and the digital economy. (Source: Bloomberg)",
@@ -2484,99 +3042,6 @@
       }
     },
     {
-      "id": "a57b427057c61e5b",
-      "title": "A dignified life is a ‘distant dream’ for many Iranian families amid US war",
-      "summary": "With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.",
-      "link": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T11:45:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11749c8e7c710c21",
-      "title": "Morocco forecasts temperatures up to 44°C and strong winds under orange alert",
-      "summary": "Temperatures could reach 44°C in parts of Morocco through Monday, Sept. 14, while strong winds are expected in the north Sunday, the General Directorate of Meteorology said in an updated orange alert. Highs of 40°C to 44°C are forecast Sunday and Monday in provinces including Marrakech, Fez, Beni Mellal, Kenitra, Settat, Taroudant and Tata. Temperatures [&#8230;] The post Morocco forecasts temperatures up to 44°C and strong winds under orange alert appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/145359-morocco-forecasts-temperatures-up-to-44c-and-strong-winds-under-orange-alert.html",
-      "source": "Hespress EN",
-      "published": "2026-09-13T11:35:39+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6bfc1c64335cddb4",
-      "title": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-      "summary": "Philippines set for historic vote in Bangsamoro after decades of conflict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T11:35:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "9405dd38f2f46f15",
       "title": "Iran war reshapes Brics ties but also exposes divisions",
       "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
@@ -2615,471 +3080,6 @@
       "source": "Middle East Eye",
       "published": "2026-09-13T11:11:30+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7811c63f41cd68e0",
-      "title": "Over 2,000 flee Yemen fighting to Djibouti",
-      "summary": "Over 2,000 flee Yemen fighting to Djibouti “More than 2,000 people fleeing hostilities in Yemen have arrived on Djibouti’s shores,” the International Organization for Migration (IOM) said in a social media post on Sunday. The UN’s migration agency added that in Obock, a city only about 20km (12 miles) across the water from the Yemeni coast,&nbsp;it is providing immediate assistance to those arriving, including water and hot meals. “More support is needed,” the IOM added.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-2000-flee-yemen-fighting-djibouti",
-      "source": "Middle East Eye",
-      "published": "2026-09-13T11:02:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9ce6f9d492875b3d",
-      "title": "Why teenagers are doing worse at school",
-      "summary": "Falling global test scores underscore the importance of core knowledge, attention and mindset",
-      "link": "https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-09-13T11:00:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a93af347948467b5",
-      "title": "Will the Fed defy Trump and raise rates?",
-      "summary": "Market Questions is the FT’s guide to the week ahead",
-      "link": "https://www.ft.com/content/1fd5bbf6-9bb6-4848-a01b-7c94b3e59b6e?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-09-13T11:00:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "da1781a6a5512c9f",
-      "title": "The next UN secretary-general: Who would want ‘the most impossible job on earth’?",
-      "summary": "The next UN secretary-general: Who would want ‘the most impossible job on earth’? Submitted by Sondos Asem on Mon, 07/20/2026 - 16:22 Eight candidates are battling to replace Antonio Guterres as the organisation comes under pressure from the US and Israel among others UN Secretary General Antonio Guterres attends a meeting with Japan's Prime Minister Fumio Kishida at the G7 leaders' summit in Hiroshima in May 2023 (AFP) On In April 1953, Norwegian UN secretary-general Trygve Lie was at New York’s Idlewild Airport to meet his successor. \"Welcome, Dag Hammarskjold , to the most impossible job on",
-      "link": "https://www.middleeasteye.net/explainers/un-secretary-general-candidate-election-diplomacy",
-      "source": "Middle East Eye",
-      "published": "2026-09-13T10:57:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1867ed19bb89bd16",
-      "title": "Ukraine Says Passenger Train Headed to Warsaw Hit by Drone",
-      "summary": "The locomotive of a passenger train traveling from Kyiv to Warsaw was hit by a Russian drone just kilometers from the Polish border on Sunday morning, Ukraine’s foreign minister said, as Moscow’s airstrikes push closer to NATO territory.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-13/ukraine-says-passenger-train-headed-to-warsaw-is-hit-by-drone",
-      "source": "Bloomberg Markets",
-      "published": "2026-09-13T10:52:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "63ce192aead40e00",
-      "title": "‘Trumpism’ spawns rare unity at Brics summit",
-      "summary": "Historically unruly bloc finds easy consensus amid worries over Gulf war, tariffs and US sanctions",
-      "link": "https://www.ft.com/content/d17cda71-1c35-4abd-b4d5-773550b109cc?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-09-13T10:50:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "062d76a083697b39",
-      "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-      "summary": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T10:47:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4cafe959a938be00",
-      "title": "Brazil is in Fashion, as Brazilians Like to Say. Here’s Why",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5317730",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-09-13T10:37:15+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ee1a12b2ed63b714",
-      "title": "Senegal Raises $179 Million as Debt Rework Tests Local Market",
-      "summary": "Senegal raised 101 billion CFA francs ($179 million) in a government securities auction on Friday, its first sale since announcing plans to seek a reworking of its external debt.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-13/senegal-raises-179-million-as-debt-rework-tests-local-market",
-      "source": "Bloomberg Markets",
-      "published": "2026-09-13T10:36:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9b1fd40e91bc188f",
-      "title": "Six Moroccans acquitted in Somalia remain detained ahead of terrorism hearing",
-      "summary": "Six Moroccan men acquitted in Somalia remain in pretrial detention in Morocco more than four months after their return, with questioning by an investigating judge expected on Sept. 17, a source familiar with the case said. The men, who returned in early May, are being held at Al Arjat prison near Salé. Their appearance before [&#8230;] The post Six Moroccans acquitted in Somalia remain detained ahead of terrorism hearing appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/145356-six-moroccans-acquitted-in-somalia-remain-detained-ahead-of-terrorism-hearing.html",
-      "source": "Hespress EN",
-      "published": "2026-09-13T10:33:50+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "555d228cea1fbc36",
-      "title": "Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline",
-      "summary": "Houthi missiles target military base in Saudi Arabia as Iraq probes drone attack on oil pipeline Yemen's&nbsp;Houthi group on Sunday&nbsp;claimed&nbsp;that it had launched a ballistic missile and drone attack on a Saudi military base, as fighting between the group and Riyadh-backed Yemeni government forces intensified.&nbsp; Houthi military spokesperson Yahya Saree said the attack targeted the Sharurah base in southern&nbsp;Saudi Arabia, including “weapons depots and command and control centres that are managing the aggression against our nation and people”. He said the strikes hit their targe",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missiles-target-military-base-saudi-arabia-iraq-probes-drone",
-      "source": "Middle East Eye",
-      "published": "2026-09-13T10:28:42+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0c4138d358343ca7",
-      "title": "Israeli attack on Gaza kills two Palestinians",
-      "summary": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
-      "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-09-13T10:22:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "834f23c54d6f4d7b",
-      "title": "Israeli settlers storm Al-Aqsa Mosque under police protection",
-      "summary": "Israeli settlers storm Al-Aqsa Mosque under police protection Israeli settlers stormed the courtyards of Al-Aqsa Mosque in occupied Jerusalem on Sunday under heavy protection from Israeli soldiers, Wafa news reported. Local sources reported that around 240 colonists broke into the mosque compound through the Moroccan Gate, carrying out prayers and rituals, which is prohibited under a&nbsp;1967 status quo agreement&nbsp;governing the site.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-storm-al-aqsa-mosque-under-police-protection-3",
-      "source": "Middle East Eye",
-      "published": "2026-09-13T10:20:30+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "973dbe73fa2a3784",
-      "title": "France Apologizes for UN Diplomatic Spat with Washington",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5317722",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-09-13T10:04:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c1e83c41d124de8b",
-      "title": "Brazil banking scandal engulfs Supreme Court",
-      "summary": "Bitter feud between justices has plunged top court into an unprecedented crisis that could sway October’s presidential vote",
-      "link": "https://www.ft.com/content/c49c583f-940c-4592-ad7e-7c206b6c3c75?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-09-13T10:00:05+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
