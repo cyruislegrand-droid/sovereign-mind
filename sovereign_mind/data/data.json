@@ -1,12 +1,849 @@
 {
-  "generated_at": "2026-10-04T23:15:05.871449+00:00",
+  "generated_at": "2026-10-05T02:06:26.577477+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
+      "id": "0291162d3358232e",
+      "title": "India’s Margin Trading Boom Drives Stock Brokers to Debt Market",
+      "summary": "Stock brokers are emerging as a major force in India’s short-term debt market, borrowing billions of dollars to finance investors’ growing appetite for leveraged equity bets.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/india-s-margin-trading-boom-drives-stock-brokers-to-debt-market",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T01:30:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3206f9da0a8a6ac5",
+      "title": "Bolsonaro’s First-Round Lead Sets Brazil Assets for Monday Surge",
+      "summary": "Brazilian assets are set to jump after Senator Flávio Bolsonaro came in ahead of President Luiz Inácio Lula da Silva in the first round of elections, a far better showing than investors were positioned for.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/bolsonaro-s-first-round-lead-sets-brazil-assets-for-monday-surge",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T01:28:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9b69c197f3e4a0fe",
+      "title": "Saudis Cut Flagship Oil Price to Asia to Lowest in Six Years",
+      "summary": "Saudi Arabia has cut prices for its benchmark oil grade to Asia in November as flows through the Strait of Hormuz increase.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/saudis-cut-flagship-oil-price-to-asia-to-lowest-in-six-years",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T01:09:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a4b84ae9d07f9021",
+      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+      "summary": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
+      "link": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-05T01:08:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "67231f9445723643",
+      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+      "summary": "The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.",
+      "link": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-05T01:03:54+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ad294b6633472d2d",
+      "title": "Saudi-Backed Yemen Forces Begin Operation to Retake Houthi Areas",
+      "summary": "Yemen’s internationally-recognized government launched a full-scale military bid to recapture all areas under the control of the Houthis following weeks of escalation between the Iran-backed group and Saudi Arabia. Bloomberg's Jill Disis breaks down the news. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-05/yemen-forces-begin-operation-to-retake-houthi-areas-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T01:02:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fa3e509a999ac53e",
+      "title": "Indian Bond Yield Curve Seen Flatter as RBI Drains Surplus Cash",
+      "summary": "India’s bond curve is poised to flatten further as the Reserve Bank of India steps up liquidity withdrawals, prompting some investors to favor 10-year debt over five-year notes.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/indian-bond-yield-curve-seen-flatter-as-rbi-drains-surplus-cash",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T01:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "71358b1231992e5d",
+      "title": "Nippon Paint to Buy Akzo’s Southeast Asia Unit for $1.35 Billion",
+      "summary": "Nippon Paint Holdings Co. is buying Akzo Nobel NV’s decorative paints business in Southeast Asia for $1.35 billion, acquiring a regional slice of a business it had sought to buy in full.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/nippon-paint-to-buy-akzo-s-southeast-asia-unit-for-1-35-billion",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T00:48:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9cc1337c4cdf3973",
+      "title": "Gold Edges Higher as Markets Weigh Jobs Data Impact on Fed Path",
+      "summary": "Gold edged up after its biggest weekly drop since June, as traders weighed the impact of a slowdown in the US jobs market and higher bond yields on the Federal Reserve’s path for interest rates.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/gold-edges-higher-as-markets-weigh-jobs-data-impact-on-fed-path",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T00:41:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e5950112391a069a",
+      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+      "summary": "Egyptian, Eritrean, Somali and Sudanese leaders also call for talks to end the civil war in Sudan.",
+      "link": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-05T00:33:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9bd31f87bf318cb6",
+      "title": "Election panel orders Netanyahu to remove 'election propaganda' videos",
+      "summary": "Election panel orders Netanyahu to remove 'election propaganda' videos The chairman of&nbsp;Israel's Central Elections Committee chairman ordered that prime minister Benjamin Netanyahu remove online videos where&nbsp;military and public resources were used without&nbsp;authorisation, according to Haaretz.&nbsp; With election season in Israel set to begin on 27 October, Noam Sohlberg ruled that the videos constituted campaigning and included remarks that could only be seen as \"boasting\" over the government and the prime minister's achievements.&nbsp; He also said that the videos are \"election p",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/election-panel-orders-netanyahu-remove-election-propaganda-videos",
+      "source": "Middle East Eye",
+      "published": "2026-10-05T00:30:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "50ac4f361fbe1fb5",
+      "title": "China Fund Closures Head for Eight-Year High as Demand Fades",
+      "summary": "China’s mutual funds are closing at the fastest pace in eight years as weak returns and investor redemptions leave hundreds of products too small to survive.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/china-fund-closures-head-for-eight-year-high-as-demand-fades",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-05T00:30:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e569666b0125d67d",
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-05T00:27:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eb6157ee94e65c4e",
+      "title": "Flávio Bolsonaro takes lead in first round of Brazil election",
+      "summary": "Son of jailed former far-right president is the unexpected favourite against Luiz Inácio Lula da Silva",
+      "link": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-10-05T00:22:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5565eb48b1e25a89",
+      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+      "summary": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-05T00:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6581b8a69204d871",
+      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ after ties over",
+      "summary": "Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-04T23:52:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "dd34e3ff08711a2b",
+      "title": "Japan Should Keep Focus on Cheap Mideast Oil, Local Refiner Says",
+      "summary": "Japan should continue to rely on the Middle East for the bulk of its crude as that’s cost-effective, processor Taiyo Oil Co. said, pushing back against a government drive to diversify triggered by the US-Iran war.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-04/japan-should-keep-focus-on-cheap-mideast-oil-local-refiner-says",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-04T23:51:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d7aa10939d77a81c",
+      "title": "Nearly 600 migrants return to Morocco during Ceuta camp clearance",
+      "summary": "Nearly 600 Moroccan migrants returned voluntarily to Morocco on Sunday as Spanish authorities began clearing the large El Trampolín beach camp in Ceuta, according to EFE. Cadena SER reported that around 700 people were removed during the first phase of the operation. An earlier estimate put voluntary returns at at least 400, but EFE said [&#8230;] The post Nearly 600 migrants return to Morocco during Ceuta camp clearance appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/146725-nearly-600-migrants-return-to-morocco-during-ceuta-camp-clearance.html",
+      "source": "Hespress EN",
+      "published": "2026-10-04T23:43:54+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6ae466deb653f992",
+      "title": "Israeli troops kill man in southern Syria",
+      "summary": "Israeli troops kill man in southern Syria The Israeli army early on Monday killed a man in southern Syria, as it continues to carry out raids in the country.&nbsp; The army made claims that the individual attempted to enter one of its military posts, when troops opened fire and killed him.&nbsp; It added that it military operations in the area remain ongoing to \"remove any threat\" to Israeli citizens and troops.&nbsp; Israel has repeatedly&nbsp;violated Syrian territory since&nbsp;the fall of the Assad regime in late 2024, with numerous incursions, detentions and attacks taking place in the co",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-man-southern-syria",
+      "source": "Middle East Eye",
+      "published": "2026-10-04T23:43:43+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ad8da5cf2c07b304",
+      "title": "Watch: Saudi air strike hits foam factory in Yemen’s Sanaa",
+      "summary": "Watch: Saudi air strike hits foam factory in Yemen’s Sanaa Smoke rises as people attempt to extinguish a fire inside a foam factory in Yemen’s Houthi-held capital, Sanaa, following a strike that Houthi-run broadcaster Al Masirah attributed to Saudi Arabia. &nbsp; Yemen’s Saudi-backed government forces said they carried out strikes on Houthi targets in Sanaa and elsewhere on Sunday. Smoke rises as people attempt to extinguish a fire inside a foam factory in Yemen’s Houthi-held capital, Sanaa, following a strike that Houthi-run broadcaster Al Masirah attributed to Saudi Arabia. https://t.co/vhZi",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-saudi-air-strike-hits-foam-factory-yemens-sanaa",
+      "source": "Middle East Eye",
+      "published": "2026-10-04T23:31:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "16ac0df019290d72",
+      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-04T23:29:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c5ecbb4614f946ea",
+      "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+      "summary": "Jesse Marsch alleges Man City&#039;s financial wrongdoing was widely known in the Premier League, and relegation must follow.",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-04T23:22:02+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "db97fbdf8b97e394",
+      "title": "Jewish groups attack Greens after anti-Zionism motion passes",
+      "summary": "Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters",
+      "link": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-10-04T23:19:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aab80d9da5cc93fa",
+      "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+      "summary": "Ex-Manchester United and Real Madrid star Cristiano Ronaldo left Portugal squad on Wednesday, but door open for return.",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-04T23:16:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2b6eb7b3561c0c77",
+      "title": "Pro-Russia strongman claims victory in Bosnia elections",
+      "summary": "Milorad Dodik says he will aim for Republika Srpska to break away from the rest of the Balkan country",
+      "link": "https://www.ft.com/content/4ab13290-5208-4f20-9a34-f368b7484304?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-10-04T23:15:05+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "41b8da127a776a93",
+      "title": "Mysterious luminous object burns in the skies above Libya",
+      "summary": "A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-04T22:56:32+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6f9f2c631aac311e",
+      "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+      "summary": "Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-04T22:47:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "c625d938d7877a1f",
       "title": "Nicaragua says it will withdraw from Central American Parliament",
-      "summary": "The Central American country&#039; crackdown on human rights has left it increasingly isolated in Latin America.",
+      "summary": "The country&#039;s crackdown on human rights has left it increasingly isolated in Latin America.",
       "link": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-04T22:36:54+00:00",
@@ -128,9 +965,9 @@
       }
     },
     {
-      "id": "b169dac3ff7eb814",
-      "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap",
-      "summary": "Asian stocks were poised to gain after a softer US jobs data report eased pressure on the Federal Reserve to keep raising interest rates. Brent crude rose as Yemen launched a bid to recapture Houthi-controlled areas.",
+      "id": "5d000f353e636fb6",
+      "title": "Asian Shares Rise as Fed Bets Ease, Bonds Edge Up: Markets Wrap",
+      "summary": "Asian stocks rose after softer US jobs data reduced pressure on the Federal Reserve to keep raising interest rates. Oil erased early gains, while bonds crept higher.",
       "link": "https://www.bloomberg.com/news/articles/2026-10-04/asian-stocks-to-rise-as-hike-bets-ease-oil-climbs-markets-wrap",
       "source": "Bloomberg Markets",
       "published": "2026-10-04T22:17:26+00:00",
@@ -320,37 +1157,6 @@
       "link": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-04T21:30:22+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f7c04cdffa389b8e",
-      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-04T21:11:49+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -655,37 +1461,6 @@
       }
     },
     {
-      "id": "db97fbdf8b97e394",
-      "title": "Jewish groups attack Greens after anti-Zionism motion passes",
-      "summary": "Community leaders warn that ‘Zionism is Racism’ motion discriminates against Jewish supporters",
-      "link": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-10-04T20:05:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ef825f5a2a420e19",
       "title": "Dealmaking slowdown threatens early end to M&A boom",
       "summary": "Interest rate rises, AI anxiety and midterm elections cool animal spirits after record-breaking start to the year",
@@ -717,9 +1492,9 @@
       }
     },
     {
-      "id": "5662ae2966987063",
-      "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
-      "summary": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+      "id": "814507329b346744",
+      "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
+      "summary": "These were the updates on the Brazilian general election for Sunday, October 4, 2026.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-04T20:00:05+00:00",
@@ -1399,37 +2174,6 @@
       }
     },
     {
-      "id": "18087d687aaf3376",
-      "title": "Mass protests demanding poll chief resignation shake India for third day",
-      "summary": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.",
-      "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T16:55:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "e1ef006f31d4d4b0",
       "title": "Yemen's government announces all-out war to reclaim land from Houthis",
       "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
@@ -1498,37 +2242,6 @@
       "link": "https://www.ft.com/content/9972c7fa-ebed-4c0c-8ff6-17e66a547394?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-10-04T16:40:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b21dc5b23ce7e7ac",
-      "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-      "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T16:38:45+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1647,74 +2360,12 @@
       }
     },
     {
-      "id": "9aab29bf00e7917f",
-      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-      "summary": "Trucks were &#039;clearly marked as humanitarian vehicles&#039;, UN agency says.",
-      "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T16:28:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "8edceb3de381bbad",
       "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
       "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
       "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-10-04T16:24:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3b8f8ddbc9302693",
-      "title": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
-      "summary": "Sullivan’s goal beat fellow teenager Julian Hall&#039;s record for United States which was only set against Chile on Tuesday.",
-      "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T16:23:59+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1771,105 +2422,12 @@
       }
     },
     {
-      "id": "b0e1a28f4dd94f9f",
-      "title": "Three years of genocide in Gaza through one man’s camera",
-      "summary": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T16:18:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e560764a4c207274",
-      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "summary": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T16:04:53+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "236c7f19723c0378",
       "title": "Russia strikes Kyiv as Germany’s Merz visits",
       "summary": "Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe",
       "link": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-10-04T16:02:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1f2c4599847ff5c1",
-      "title": "Philippines arrests 244 suspects in online scam crackdown",
-      "summary": "Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder.",
-      "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T16:00:50+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1933,68 +2491,6 @@
       "source": "Middle East Eye",
       "published": "2026-10-04T15:48:39+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e728cd94b6ad61a6",
-      "title": "Portugal 2-1 Norway: UEFA Nations League – as it happened",
-      "summary": "All the updates from our live text commentary stream coverage as Cristiano Ronaldo focus switches to Bruno Fernandes.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T15:47:10+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "93491991d08f98ab",
-      "title": "Japan summons US envoy as marine arrested over Okinawa murder",
-      "summary": "Ambassador vows cooperation as Japan protests after a US marine’s arrest in connection to Okinawa murder case.",
-      "link": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-04T15:45:04+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2211,37 +2707,6 @@
       "link": "https://english.aawsat.com/node/5325853",
       "source": "Asharq Al-Awsat",
       "published": "2026-10-04T15:00:39+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "00491f99141b8ed5",
-      "title": "Morocco’s next government faces Oct. 20 deadline to reshape inherited 2027 budget",
-      "summary": "Morocco’s incoming government faces an immediate fiscal test: it has little more than two weeks before the legal deadline for submitting the 2027 Finance Bill, much of which was prepared under Aziz Akhannouch’s outgoing administration. Article 48 of Morocco’s Organic Finance Law requires the annual budget bill to reach the House of Representatives no later [&#8230;] The post Morocco’s next government faces Oct. 20 deadline to reshape inherited 2027 budget appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/146697-moroccos-next-government-faces-oct-20-deadline-to-reshape-inherited-2027-budget.html",
-      "source": "Hespress EN",
-      "published": "2026-10-04T15:00:35+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -2615,471 +3080,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-10-04T14:00:30+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0136e15761acb44b",
-      "title": "Wall Street Strategists Steer Investors to Cross-Asset Hedges",
-      "summary": "With equities, gold and oil struggling to make new highs while Treasury yields surge, Wall Street strategists are focusing on trades that pit one asset class against another.",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-strategists-steer-investors-to-cross-asset-hedges",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-04T14:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d257a9d5ed113ad2",
-      "title": "As olive harvest nears, Palestinian farmers urgently need international protection: Opinion by Fareed Taamallah",
-      "summary": "As olive harvest nears, Palestinian farmers urgently need international protection: Opinion by Fareed Taamallah Every October, the ancient olive groves in my hometown and across the occupied West Bank become dynamic hubs of life and labour. For generations of&nbsp; Palestinians , the olive harvest has been the pulse of our economic survival and a living link to our ancestors. The olive tree, resilient and deep-rooted, is a symbol of who we are and of our connection to this land. As this year's harvest approaches, our villages are gripped by a dread I have not seen before. In recent weeks, the ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/olive-harvest-nears-palestinian-farmers-urgently-need-international",
-      "source": "Middle East Eye",
-      "published": "2026-10-04T13:59:56+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cc1456c5c042765f",
-      "title": "Houthis claim attacks on Aramco sites in Saudi Arabia",
-      "summary": "Houthis claim attacks on Aramco sites in Saudi Arabia The Houthi group has claimed a series of attacks on sites belonging to Saudi energy giant Aramco in Riyadh and the Khurais area in the east of the kingdom. The Houthi military's spokesman Yahya Saree said in a statement on X that fighters had targeted the sites with ballistic missiles and drones, and that \"both operations&nbsp;successfully achieved their objectives\". “The strikes were precise causing large fires at the targeted sites,\" Saree added, saying that the attacks came in response to Saudi strikes on Houthi-controlled areas of Yemen",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-aramco-sites-saudi-arabia",
-      "source": "Middle East Eye",
-      "published": "2026-10-04T13:56:27+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "082be5a546c1d1f5",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
-      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-04T13:33:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "99439028ef27ec94",
-      "title": "Al-Moammar Receives First Work Order Under HUMAIN Agreement, Worth More Than 148% of 2025 Revenue",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5325766",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-04T13:31:59+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "983403e7e6849a62",
-      "title": "KSGAAL Opens Fifth Annual International Conference on Arabic Language and Culture",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5325759",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-04T13:25:02+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b25fceb4d2711970",
-      "title": "AlUla Manara Marks World Space Week with Educational, Cultural Programs",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5325755",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-04T13:21:54+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "03a6b23016c568e1",
-      "title": "Stone Towers of Aseer: A Legacy of Defense and Storage",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5325754",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-04T13:19:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0f3bc7c92ec63cb3",
-      "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5325751",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-04T13:05:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "399ebfd87d5bf022",
-      "title": "Jobs Slow but Inflation Keeps Fed on Alert",
-      "summary": "Bloomberg Intelligence Chief US Interest Rate Strategist Ira Jersey tells Bloomberg This Weekend that softer September jobs data give the Federal Reserve room to hold rates steady in October, but persistent inflation could still lead policymakers to raise rates again in December and early next year. Speaking with hosts David Gura and Christina Ruffini, Jersey says strong economic growth and loose fiscal policy are also contributing to higher global bond yields, keeping pressure on central banks to restrain inflation. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/jobs-slow-but-inflation-keeps-fed-on-alert-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-04T13:04:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2744f957ad63227f",
-      "title": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
-      "summary": "Wall Street’s artificial intelligence fixation is so strong that it’s overwhelming all risks, including soaring interest rates, as investors continue to plow money into the market’s largest technology stocks and push equity indexes toward record highs.",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/wall-street-s-ai-party-is-on-edge-as-soaring-yields-raise-risks",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-04T13:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "839820f99f892c72",
-      "title": "Saudi Arabia Announces Results of Natural Gas Distribution Licensing Competition in Al-Kharj",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5325749",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-04T12:57:55+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7b83c6302f4672b4",
-      "title": "What Does Saudi Exchange’s New Market Order Mechanism Mean?",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5325744",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-04T12:40:47+00:00",
-      "region": "mena",
-      "lang": "de",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f3d216a16e59445d",
-      "title": "White House Moves to Assess Growing AI Risks",
-      "summary": "Bloomberg Opinion Columnist Gautam Mukunda tells Bloomberg This Weekend that voluntary safeguards may not be enough to manage AI risks because competitive and financial pressures can push companies to prioritize growth over safety. Speaking with hosts David Gura and Christina Ruffini, Mukunda discusses the White House’s new AI task force, Anthropic’s planned IPO and broader questions about whether increasingly advanced AI systems can be safely governed. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-04/white-house-moves-to-assess-growing-ai-risks-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-04T12:40:30+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9f8810a394e3c764",
-      "title": "Markets Brace for Sharp Swings No Matter Result of Brazil Vote",
-      "summary": "Investors are expecting sharp swings in Brazilian markets in the aftermath of Sunday’s elections no matter the outcome, with assets to adjust quickly as the neck-and-neck presidential race prevented traders from taking too strong a view in the lead up to the vote.",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-04/markets-brace-for-sharp-swings-no-matter-result-of-brazil-vote",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-04T12:30:00+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
