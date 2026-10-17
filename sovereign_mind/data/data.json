@@ -1,8 +1,628 @@
 {
-  "generated_at": "2026-10-17T17:14:14.968123+00:00",
+  "generated_at": "2026-10-17T19:29:19.656225+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "90e12559f919aedf",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-17T19:19:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "53d4da88525f7ca6",
+      "title": "Protesters clash with police as demonstrations erupt across France",
+      "summary": "Clashes overshadow day of protests by tens of thousands over high living costs and dissatisfaction with the education system",
+      "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-10-17T19:15:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e940dc8d09b1fb43",
+      "title": "Six Palestinians killed in Israeli strikes across Gaza in a day",
+      "summary": "Six Palestinians killed in Israeli strikes across Gaza in a day An Israeli drone strike killed a young Palestinian man and wounded several others in the Jabalia refugee camp in the northern Gaza Strip on Saturday evening, according to the Palestinian news agency Wafa. Citing a medical source, Wafa said the drone hit a group of Palestinians near al-Falouja cemetery, west of the camp. Medical sources in Gaza said Israeli strikes across the strip had killed six Palestinians since dawn on Saturday.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-strikes-across-gaza-day",
+      "source": "Middle East Eye",
+      "published": "2026-10-17T19:04:22+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "3c6782689b6e7779",
+      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+      "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T19:04:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "05d0da8281d8ff1a",
+      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+      "summary": "US support at risk as Trump-Zelenskyy relations nosedive.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T19:03:49+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "69d487e9238a6fc5",
+      "title": "Around 550,000 people took part in France cost-of-living protests: interior minister",
+      "summary": "More than half a million people took part in French protests against dwindling purchasing power on Saturday, a minister said, adding there were 110,000 in the capital. Police arrested around 400 people, most of whom were adults, Interior Minister Laurent Nunez told reporters, after vandalism &#8220;at the very clear instigation of the hard left&#8221; and [&#8230;] The post Around 550,000 people took part in France cost-of-living protests: interior minister appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/147519-around-550000-people-took-part-in-france-cost-of-living-protests-interior-minister.html",
+      "source": "Hespress EN",
+      "published": "2026-10-17T19:00:52+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4be19fdb006cdd20",
+      "title": "White House chaos overshadows Trump’s midterms push",
+      "summary": "Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps",
+      "link": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-10-17T18:57:36+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e592cffd6b1899b2",
+      "title": "Is the US Embassy in Jerusalem for Israel or America?",
+      "summary": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T18:41:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d98529006581125d",
+      "title": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
+      "summary": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says The US military says the “vast majority” of Iran’s attempted attacks on ships in the Strait of Hormuz have failed, and that the waterway remains open. On Saturday, US Central Command spokesperson Tim Hawkins told Fox News that about 97 percent of vessels trying to cross the strait had done so without being struck, many of them with US military protection. “What the Islamic Revolutionary Guard Corps of Iran is doing is unjustified and it’s also unsuccessful because they are not achieving their objective of closing the Strait of Horm",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-attacks-hormuz-shipping-unsuccessful-centcom-says-0",
+      "source": "Middle East Eye",
+      "published": "2026-10-17T18:38:04+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4b05921d6118eb86",
+      "title": "Morocco launches 11 dam construction tenders worth more than MAD 339 million",
+      "summary": "Morocco’s Water Infrastructure Directorate has launched 11 tenders for dam construction projects across eight provinces, with a combined estimated cost exceeding MAD 339 million, as the kingdom continues to develop its water infrastructure. Public procurement data reviewed by Hespress shows that the projects are spread across the provinces of Rehamna, Boulemane, Chefchaouen, Khouribga, Taroudant, Taourirt, [&#8230;] The post Morocco launches 11 dam construction tenders worth more than MAD 339 million appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/147515-morocco-launches-11-dam-construction-tenders-worth-more-than-mad-339-million.html",
+      "source": "Hespress EN",
+      "published": "2026-10-17T18:30:42+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8b1e1be8aa3e9af2",
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T18:26:59+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "250fc73d8d95d5eb",
+      "title": "Met Police rules Sarah Helm's post backing Palestine Action not criminal",
+      "summary": "Met Police rules Sarah Helm's post backing Palestine Action not criminal The Metropolitan Police said Saturday that a social media post by Sarah Helm, the wife of the British prime minister’s national security adviser, backing the proscribed group Palestine Action did not merit a criminal investigation. Sarah Helm, a journalist and author and wife of Jonathan Powell, Prime Minister Andy Burnham’s national security adviser, posted on X Thursday “God help us authors who support Palestine and Palestine Action”, an activist group proscribed by the UK government last year. A spokesperson for the ca",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/met-police-rules-sarah-helms-post-backing-palestine-action-not-criminal",
+      "source": "Middle East Eye",
+      "published": "2026-10-17T18:24:45+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0605a3797bef94e9",
+      "title": "Ex-Senegal president Macky Sall withdraws as candidate for UN leader",
+      "summary": "Former president of Senegal Macky Sall on Saturday withdrew from the seven person race to be the next UN secretary general, a day after an informal UN Security Council poll produced no clear favourite. In a statement released on social media, Sall said he had noted the result of the poll and &#8220;hoped to contribute [&#8230;] The post Ex-Senegal president Macky Sall withdraws as candidate for UN leader appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/147508-ex-senegal-president-macky-sall-withdraws-as-candidate-for-un-leader.html",
+      "source": "Hespress EN",
+      "published": "2026-10-17T18:16:44+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c18493d3b9ec59c6",
+      "title": "Israeli settlers attack European diplomats in the West Bank",
+      "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+      "link": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+      "source": "FT World",
+      "published": "2026-10-17T17:58:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cfe6a62f03562270",
+      "title": "Yemeni government forces claim heavy Houthi losses in a day of strikes",
+      "summary": "Yemeni government forces claim heavy Houthi losses in a day of strikes Forces of Yemen's internationally recognised government said on Saturday they had carried out 1,417 strikes against the Houthis over the previous 24 hours, killing or wounding about 800 fighters. Spokesperson Majed Abdullah al-Nuzaili said the strikes had destroyed or disabled more than 190 armoured vehicles and supply assets. The army also said they had hit Houthi barracks, depots and command centres in northern al-Jawf governorate, and had repelled a Houthi attack south of Taiz city with air support. Meanwhile, the Houthi",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-heavy-houthi-losses-day-strikes",
+      "source": "Middle East Eye",
+      "published": "2026-10-17T17:53:55+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f5a7f5e50073774c",
+      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
+      "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T17:42:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9e87d938e1a09d6f",
+      "title": "Pope Leo returns to Vatican after lung cancer surgery",
+      "summary": "Doctors say they are seeing &#039;continued improvement&#039; after the US-born pope had a lump removed from his lung on Tuesday.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T17:37:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6f004dd37dc12c37",
+      "title": "Seven years after controversial Government exit, Charafat Afailal makes cabinet return",
+      "summary": "Morocco’s newly appointed Minister of Energy, Mines and Sustainable Development, Charafat Afailal, is returning to government after a previous tenure overseeing the water sector, bringing an engineering background, parliamentary experience and a long-standing role within the Party of Progress and Socialism (PPS). Appointed by King Mohammed VI on Friday, Oct. 16, Afailal succeeds Leila Benali, [&#8230;] The post Seven years after controversial Government exit, Charafat Afailal makes cabinet return appeared first on HESPRESS English - Morocco News .",
+      "link": "https://en.hespress.com/147502-seven-years-after-controversial-government-exit-charafat-afailal-makes-cabinet-return.html",
+      "source": "Hespress EN",
+      "published": "2026-10-17T17:37:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "48f29c42072b8992",
+      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T17:24:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a239fcd93965667b",
+      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T17:18:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "57db4834ebea6259",
       "title": "French mayor attacked by settlers in West Bank says Israel ‘tolerates’ settler violence",
@@ -11,6 +631,161 @@
       "source": "Middle East Eye",
       "published": "2026-10-17T17:09:58+00:00",
       "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c3f1f951e006b98c",
+      "title": "Al Jazeera reports from Paris as protests turn violent",
+      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T16:56:40+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "346aef72e93b67bd",
+      "title": "Why are Latin American countries building closer ties with Israel?",
+      "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T16:54:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c1c0d57c30e0cc82",
+      "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+      "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T16:49:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a29251e186b1b154",
+      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+      "summary": "⁠Three health workers who ⁠treated the country&#039;s first Ebola patient are among the latest confirmed cases.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T16:48:46+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "31f422d2f7a8068c",
+      "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Rescue Committee CEO and Fmr. UK Foreign Secretary David Miliband, Fmr. Deputy Prime Minister of Canada and “Unreliable Boyfriend” Author Chrystia Freeland and Northwell Health President & CEO Dr. John D’Angelo. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-17T16:31:01+00:00",
+      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -73,37 +848,6 @@
       "source": "Hespress EN",
       "published": "2026-10-17T16:14:43+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c18493d3b9ec59c6",
-      "title": "Israeli settlers attack European diplomats in the West Bank",
-      "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-      "link": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
-      "source": "FT World",
-      "published": "2026-10-17T16:11:59+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -655,37 +1399,6 @@
       }
     },
     {
-      "id": "460aae2a35c68d74",
-      "title": "Protesters clash with police in Paris and Marseille",
-      "summary": "Thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system",
-      "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-10-17T14:16:53+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "fc841b7d9f0ece41",
       "title": "Tunisians demonstrate over living costs, freedoms",
       "summary": "More than 3,000 people demonstrated in Tunis on Saturday against soaring living costs and a rollback of rights and freedoms. &#8220;No democracy without freedoms,&#8221; and &#8220;No dignity with poverty,&#8221; read placards at the march, which was organised by the Tunisian General Labour Union and opposition parties. Tunisia emerged as the only democracy of the Arab [&#8230;] The post Tunisians demonstrate over living costs, freedoms appeared first on HESPRESS English - Morocco News .",
@@ -934,9 +1647,9 @@
       }
     },
     {
-      "id": "dff3ed3afa9f8d62",
-      "title": "‘Yellow vest’ legacy fuels France protests as thousands demand reforms",
-      "summary": "Tens of thousands rally in Paris and other cities for protest that unites students, teachers, unions and &#039;yellow vests&#039;.",
+      "id": "8f4a5960f6d4a987",
+      "title": "Tens of thousands protest for reforms in France amid tear gas and unrest",
+      "summary": "More than 500,000 gather in Paris and other cities for protests uniting students, teachers, unions and &#039;yellow vests&#039;.",
       "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-17T13:44:42+00:00",
@@ -1151,37 +1864,6 @@
       }
     },
     {
-      "id": "7d96a054a787c1f6",
-      "title": "Both Houses of Parliament hold Monday joint plenary session to present Government’s program",
-      "summary": "Both Houses of Parliament will hold a joint plenary session on Monday for the Head of Government to present the government’s program. This session will take place in accordance with the provisions of Article 88 of the Constitution and the rules of procedure of both Houses of Parliament, beginning at 3 p.m., according to a [&#8230;] The post Both Houses of Parliament hold Monday joint plenary session to present Government’s program appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/147483-both-houses-of-parliament-hold-monday-joint-plenary-session-to-present-governments-program.html",
-      "source": "Hespress EN",
-      "published": "2026-10-17T13:04:23+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "b718fa79ba9808e2",
       "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
       "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
@@ -1244,75 +1926,13 @@
       }
     },
     {
-      "id": "1cc4a304609050d3",
-      "title": "Child, four women among Palestinians injured in West Bank pogroms",
-      "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
+      "id": "77353c45a10309e5",
+      "title": "Israeli settlers attack European diplomats during West Bank olive harvest",
+      "summary": "Four Palestinian women and a child are among those injured in separate ongoing Israeli assaults and pogroms.",
       "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-17T12:48:03+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "fc6cc9daa83452d3",
-      "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-      "summary": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.",
-      "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T12:46:48+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ddb3ec5d21f1a30e",
-      "title": "Morocco issues orange alert for thunderstorms in several provinces",
-      "summary": "Morocco’s General Directorate of Meteorology has issued an orange-level weather alert warning of locally heavy thunderstorms, potentially accompanied by hail and strong wind gusts, across several provinces on Saturday and Sunday. In a warning bulletin, the directorate forecast rainfall of 20 to 30 millimeters on Saturday in the provinces of Azilal, Oujda-Angad, Jerada, Taourirt, Guercif, [&#8230;] The post Morocco issues orange alert for thunderstorms in several provinces appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/147481-morocco-issues-orange-alert-for-thunderstorms-in-several-provinces.html",
-      "source": "Hespress EN",
-      "published": "2026-10-17T12:46:31+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1343,68 +1963,6 @@
       "link": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
       "source": "Bloomberg Markets",
       "published": "2026-10-17T12:44:18+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5ddeee6fe34dc2cc",
-      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-      "summary": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
-      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T12:27:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "34f6193bbd031062",
-      "title": "France tackles new wave of nationwide protests",
-      "summary": "France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T12:18:55+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1461,136 +2019,12 @@
       }
     },
     {
-      "id": "bb8516a1111d7dcf",
-      "title": "Morocco’s New Head of Government Mansouri takes over from Aziz Akhannouch",
-      "summary": "Morocco’s new Head of Government, Fatima Zahra Mansouri, formally took over from outgoing head of government Aziz Akhannouch on Saturday during a handover ceremony at the head of government’s headquarters in Rabat. The ceremony followed established administrative traditions, emphasizing the transfer of responsibilities and public service, according to an official statement. During the meeting, officials [&#8230;] The post Morocco’s New Head of Government Mansouri takes over from Aziz Akhannouch appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/147485-moroccos-new-head-of-government-mansouri-takes-over-from-aziz-akhannouch.html",
-      "source": "Hespress EN",
-      "published": "2026-10-17T12:12:02+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ec3deab99abe00c1",
       "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
       "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
       "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-10-17T12:11:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f62457711ba86c65",
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
-      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T12:10:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f731f074467cbdee",
-      "title": "Women protest in New Delhi against police brutality",
-      "summary": "Women protest in New Delhi against police brutality",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T12:07:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "90e12559f919aedf",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-17T11:56:06+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1647,37 +2081,6 @@
       }
     },
     {
-      "id": "7c8e99b24a6ecf07",
-      "title": "French protesters briefly break into town hall in Marseille: AFP",
-      "summary": "Protesters briefly broke into the town hall of France&#8217;s second city Marseille on Saturday amid nationwide protests against the cost of living, an AFP reporter said. Masked protesters rammed the door with security barriers. Several then entered, one spray painting an anarchist &#8220;A&#8221; symbol on a wall before police intervened, the reporter said. &#8220;We&#8217;re taking [&#8230;] The post French protesters briefly break into town hall in Marseille: AFP appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/147479-french-protesters-briefly-break-into-town-hall-in-marseille-afp.html",
-      "source": "Hespress EN",
-      "published": "2026-10-17T11:44:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "bc9361b64307083d",
       "title": "Five Palestinians killed by Israel in Gaza",
       "summary": "Five Palestinians killed by Israel in Gaza At least one Palestinian has been killed and another wounded after Israeli drones struck a vehicle in Rafah, in the southern Gaza Strip, Al Jazeera reported, citing ambulance and emergency service sources. Four other Palestinians have been killed by Israeli drones in Gaza since Saturday morning.",
@@ -1685,99 +2088,6 @@
       "source": "Middle East Eye",
       "published": "2026-10-17T11:30:01+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4078cda8f48b39b8",
-      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-      "summary": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T11:22:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d1b177cb2117c36c",
-      "title": "Protests spread across France as ‘yellow vests’ set to join",
-      "summary": "Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.",
-      "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T11:21:32+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e07cfd5712c5aa3f",
-      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-      "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T11:10:22+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1926,37 +2236,6 @@
       }
     },
     {
-      "id": "724b3969af582baa",
-      "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
-      "summary": "We asked students what they think.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T10:50:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ecce20ad9125ec52",
       "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
       "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
@@ -2057,37 +2336,6 @@
       "source": "Middle East Eye",
       "published": "2026-10-17T10:20:09+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "95174e1bc5152948",
-      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-      "summary": "With Southeast Asia&#039;s largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
-      "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T10:12:01+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2267,37 +2515,6 @@
       }
     },
     {
-      "id": "1ef53ced807ba76b",
-      "title": "LIVE: India vs West Indies – fifth T20 International",
-      "summary": "Follow updates, including toss and team news, from our live text commentary stream of the cricket series decider.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T09:54:49+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3239ac716e2ba634",
       "title": "Trump exempts Russia from further sanctions mandated by new law",
       "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
@@ -2360,68 +2577,6 @@
       }
     },
     {
-      "id": "187c090b452c3def",
-      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
-      "summary": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
-      "link": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T09:47:55+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "738e6797fea62e69",
-      "title": "Egypt's Sisi says his presidency will end in 2030",
-      "summary": "Egypt's Sisi says his presidency will end in 2030 Egyptian President Abdel Fattah al-Sisi said on Saturday that his presidential term would end in 2030 and that the question of his departure from office was “settled and will not be discussed”, reaffirming that Egypt's constitution would not be amended.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-sisi-says-his-presidency-will-end-2030",
-      "source": "Middle East Eye",
-      "published": "2026-10-17T09:46:22+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "ffcd66f30cd4448d",
       "title": "Tiny Fiji Village Restores Dying Fishery with Coral Planting",
       "summary": "",
@@ -2459,37 +2614,6 @@
       "link": "https://english.aawsat.com/node/5330487",
       "source": "Asharq Al-Awsat",
       "published": "2026-10-17T09:36:34+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "547b774e4520f0e8",
-      "title": "Why Israel's claims cannot be accepted at face value",
-      "summary": "Why Israel's claims cannot be accepted at face value Submitted by Faisal Hanif on Fri, 10/16/2026 - 14:00 Any statement from Netanyahu, who has a long and troubling history of twisting the media to serve his agenda, deserves rigorous scrutiny People walk through the entrance to the BBC’s offices in London on 11 November 2025 (AFP) Off Every journalism student learns the same lesson: if your mother says she loves you, check it out. A claim is not a fact until it has been tested, and the more power and self-interest behind it, the more rigorously it should be tested. A BBC Verify investigation h",
-      "link": "https://www.middleeasteye.net/opinion/why-israels-claims-cannot-be-accepted-face-value",
-      "source": "Middle East Eye",
-      "published": "2026-10-17T09:34:55+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
@@ -2825,68 +2949,6 @@
       }
     },
     {
-      "id": "56969c6d344f661c",
-      "title": "Morning update",
-      "summary": "Morning update Good morning, Middle East Eye readers, If you are just joining us, here are key developments from across the region and beyond: Iran’s Islamic Revolutionary Guard Corps Navy has said a supertanker carrying more than 2 million barrels of crude oil struck a sea mine while attempting to cross the Strait of Hormuz through a “prohibited” area. US President Donald Trump says the US Navy is carrying out an effective blockade of Iran and that no Iranian ship has been able to cross the Strait of Hormuz. Yemen’s government-backed forces said&nbsp;378 Houthi fighters have been killed or wo",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-643",
-      "source": "Middle East Eye",
-      "published": "2026-10-17T06:56:49+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7342aa6781d94e0b",
-      "title": "UKMTO says unknown projectile hit tanker off Saudi Arabia's coast",
-      "summary": "UKMTO says unknown projectile hit tanker off Saudi Arabia's coast The United Kingdom Maritime Trade Operations (UKMTO) has said that a&nbsp;tanker has been struck by an unknown projectile 68 nautical miles northeast of Al Jubail, Saudi Arabia, on Friday. All crew members were reported safe and evacuated, with no environmental impact observed following the incident, UKMTO said on X. UKMTO WARNING 174-26 Click here to view the full product.⤵️ https://t.co/DRPSnZ4cfj #MaritimeSecurity #MarSec https://t.co/j2hxlTUJp4 — UKMTO Operations Centre (@UK_MTO) October 17, 2026",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-unknown-projectile-hit-tanker-saudi-arabias-coast",
-      "source": "Middle East Eye",
-      "published": "2026-10-17T06:51:03+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "3a79808846218ac5",
       "title": "Georgieva: More Work Needed on Lebanon Program",
       "summary": "",
@@ -2980,37 +3042,6 @@
       }
     },
     {
-      "id": "0a1e67a0d0e0d86f",
-      "title": "Israeli forces arrest two Palestinians, settlers open fire at farmers in West Bank",
-      "summary": "Israeli forces arrest two Palestinians, settlers open fire at farmers in West Bank Israeli settlers opened fire at and attacked Palestinian farmers in the village of Deir Jarir, east of Ramallah in the occupied West Bank, Al Jazeera reported. Three people were injured in a settler attack a day earlier when they went to pick olives, Wafa reported. Al Jazeera reported that Israeli settlers attacked Palestinian homes in the Ma’in area east of Yatta city, south of Hebron. Separately, Wafa reported that Israeli forces arrested two Palestinian men during dawn raids in Nablus and the nearby village o",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-two-palestinians-settlers-open-fire-farmers-west",
-      "source": "Middle East Eye",
-      "published": "2026-10-17T06:21:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "8b8d676f049bb47f",
       "title": "Pakistan Says Attacks on Gulf Energy Infrastructure 'Worrying' for Outlook",
       "summary": "",
@@ -3048,37 +3079,6 @@
       "link": "https://english.aawsat.com/node/5330454",
       "source": "Asharq Al-Awsat",
       "published": "2026-10-17T05:50:35+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "88aeba3d4329ba45",
-      "title": "Iran's Guards Say Tanker Exploded after Hitting Mine in Strait of Hormuz",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5330452",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-17T05:37:27+00:00",
       "region": "mena",
       "lang": "en",
       "body": "",
