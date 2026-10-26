@@ -1,8 +1,690 @@
 {
-  "generated_at": "2026-10-25T22:28:54.540004+00:00",
+  "generated_at": "2026-10-26T00:39:25.610325+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
+    {
+      "id": "45786d89b58b5431",
+      "title": "Western Sydney Airport Opens With Uncertain Prospects",
+      "summary": "Western Sydney International Airport has opened after decades of delays and political turnover, with a billion-dollar price tag. Bloomberg's Paul Allen reports. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-26/western-sydney-airport-opens-with-uncertain-prospects-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-26T00:33:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "964bc8f92fcc5b17",
+      "title": "Slow AI Buildout Could Be Inflationary: Natixis' Herrero",
+      "summary": "Alicia Garcia Herrero, chief APAC economist at Natixis, tells Bloomberg TV that rapid AI adoption could be inflationary if data-center construction falls short of what is needed to meet demand for compute. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-10-26/slow-ai-buildout-could-be-inflationary-natixis-herrero-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-26T00:17:35+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c2c0746f03f5514c",
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "summary": "Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-26T00:16:29+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "56de9ea2d705fc3b",
+      "title": "Ingenia Soars on Fresh $1.6 Billion Takeover Bid From AVID",
+      "summary": "Ingenia Communities Group shares soared following a takeover bid from AVID Property Group Holdings, as a bidding war ramps up for the owner of Australian retirement living accommodation.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/ingenia-soars-on-fresh-1-6-billion-takeover-bid-from-avid",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-26T00:14:27+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "652e6554b5697f55",
+      "title": "Mexico’s Electoral Chief Is Resigning After Graft Probe Opened",
+      "summary": "Mexico’s top electoral official said Sunday she will resign after facing mounting pressure over a corruption probe.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/mexico-s-electoral-chief-is-resigning-after-graft-probe-opened",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-26T00:03:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e24b06ea707ddb1f",
+      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "summary": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-26T00:02:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7ba878805c55df59",
+      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+      "summary": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-26T00:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c857b390b79cdb08",
+      "title": "Trump reiterates endorsement of Netanyahu in Israeli elections",
+      "summary": "Trump reiterates endorsement of Netanyahu in Israeli elections US President Donald Trump on Sunday called on Israelis to cast their ballots for Prime Minister Benjamin Netanyahu in upcoming elections, citing the US-Israel war on Iran&nbsp;as an example of \"winning together.\" \"When you go to the Polls please remember that Bibi has been an outstanding Warrior Prime Minister,\" Trump wrote on his Truth Social platform. “Vote for Bibi Netanyahu for Prime Minister, we have to finish the job that we started!” he said.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-endorsement-netanyahu-israeli-elections",
+      "source": "Middle East Eye",
+      "published": "2026-10-25T23:47:13+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "52cbbb7d4c197584",
+      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+      "summary": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&#039;Or at the age of 21.",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T23:38:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "461a4ff5f57d308c",
+      "title": "Islamic University suspends in-person classes as Gaza death toll rises to eight",
+      "summary": "Islamic University suspends in-person classes as Gaza death toll rises to eight We have earlier reported that Israeli strikes killed seven people in Gaza, including three security guards&nbsp;at the Islamic University of Gaza earlier today. The death toll from the Israeli air strikes on Gaza on Sunday has risen to eight, Al Jazeera reported. The report said the university has suspended in-person classes for the rest of the week. Mourners grieve during the funeral of three Palestinians at Al Shifa Hospital in Gaza City on 25 October 2026, after they were killed in an Israeli strike on the Islam",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-islamic-university-suspends-classes-death-toll-reaches-eight-0",
+      "source": "Middle East Eye",
+      "published": "2026-10-25T23:33:31+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a41a2585c736cc9f",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-25T23:33:14+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "7765fba9b754588d",
+      "title": "Burnham promises Budget cash to end rough sleeping",
+      "summary": "Chancellor John Healey prepares to unveil a fiscal statement aimed at reassuring markets while finding cash for Labour’s social objectives",
+      "link": "https://www.ft.com/content/8b6b5ec9-a5d6-4c2b-bf83-4317e4018ed8?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-10-25T23:32:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "93e0edfa474488ba",
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition&#039;s proposed reforms pose a threat to press freedom.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T23:29:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6f92fa0b5fb4f710",
+      "title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+      "summary": "Gold steadied after its biggest weekly drop since June, with traders weighing stubbornly high energy prices ahead of the Federal Reserve’s upcoming policy meeting.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-25T23:23:38+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8fd72f9c19b27ee4",
+      "title": "Venezuela’s opposition leader Machado returns after months in exile",
+      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T23:23:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "759e9a36d7384e0b",
+      "title": "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
+      "summary": "The yen is becoming a more effective hedge against an artificial intelligence-driven market shock as changes in Japan’s policy backdrop reduce the risk of the currency weakening sharply when global yields rise, according to Goldman Sachs.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-says-yen-becoming-better-hedge-against-ai-market-shock",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-25T23:22:52+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "fbf080c3bb65446e",
+      "title": "Brazil’s Supreme Court extends voting as transport complaints mar election",
+      "summary": "Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump",
+      "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-10-25T23:01:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b0fd6ce72cdf5387",
+      "title": "Baht to Rebound on Inflows Into Nation’s Bonds, Analysts Say",
+      "summary": "Thailand’s baht may be nearing a turning point after a bruising eight months, with analysts seeing scope for a rebound as foreign money returns to the nation’s bonds and an improving current account supports the currency.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/baht-to-rebound-on-inflows-into-nation-s-bonds-analysts-say",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-25T23:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "08361705f7346474",
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T22:57:17+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "71104f9207e214ef",
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-25T22:54:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bac3888979d0ff6d",
+      "title": "Yemen government says it condemns attacks on Mecca and Medina",
+      "summary": "Yemen government says it condemns attacks on Mecca and Medina Yemen’s Ministry of Foreign Affairs condemned the ongoing Houthi attacks on Saudi Arabia, \"including the launch of two ballistic missiles toward the regions of Mecca and Medina.\" In a statement on X, the ministry also “denounced the continued targeting of the Kingdom’s cities and facilities, and the resulting injuries among civilians and damage to property in Khamis Mushait and Ahad Rafidah”. The internationally recognised Yemeni government issued a separate statement welcoming and reaffirming Pope Leo’s earlier condemnation of atta",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-condemns-attacks-mecca-and-medina",
+      "source": "Middle East Eye",
+      "published": "2026-10-25T22:38:05+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "45b380fc85d67cf4",
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+      "summary": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona&#039;s first domestic defeat of the campaign.",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T22:22:53+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
     {
       "id": "1e00ccfa41081278",
       "title": "Israel to close occupied West Bank crossings over election",
@@ -66,74 +748,12 @@
       }
     },
     {
-      "id": "fbf080c3bb65446e",
-      "title": "Brazil’s Supreme Court extends voting as transport complaints mar election",
-      "summary": "Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump",
-      "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-10-25T22:10:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "47ff886d0a2da48d",
-      "title": "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap",
-      "summary": "US stock futures advanced and crude oil retreated as traders weighed the latest geopolitical developments over Iran and looked ahead to a string of central bank rate decisions this week.",
+      "id": "829a557a9bd8ae53",
+      "title": "Stocks Under Pressure Before Earnings, Oil Dips: Markets Wrap",
+      "summary": "Asian stocks declined in early Monday trading after a volatile week, with investors bracing for megacap earnings that will test the artificial intelligence trade and key central bank decisions.",
       "link": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
       "source": "Bloomberg Markets",
       "published": "2026-10-25T22:09:07+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "71104f9207e214ef",
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-25T22:06:26+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -190,6 +810,37 @@
       }
     },
     {
+      "id": "9c35a46158a881f1",
+      "title": "Latest Oil Market News and Analysis for Oct. 26",
+      "summary": "Oil edged lower as the US and Iran stuck to familiar rhetoric in their conflict, and a technical gauge pointed to overbought conditions.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26",
+      "source": "Bloomberg Markets",
+      "published": "2026-10-25T22:04:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
       "id": "f471e3029ed2c350",
       "title": "Israeli forces release Palestinian 'doctor of the poor ' with visible signs of abuse",
       "summary": "Israeli forces release Palestinian 'doctor of the poor ' with visible signs of abuse Israel i forces released&nbsp; Palestinian &nbsp;doctor Mazen al-Rantisi, 71, from Ofer prison on Sunday after nearly four months in detention, with visible signs of physical abuse on his body. In a photo circulated on social media after his release, the physician appeared gaunt, with a prominent red wound on his forehead. Popularly described as the “doctor of the poor” for waiving fees, supplying medicines and operating a clinic that became a refuge for low-income Palestinians,&nbsp;al-Rantisi was detained in",
@@ -221,10 +872,10 @@
       }
     },
     {
-      "id": "100ce1b5692bc6d5",
+      "id": "fcb8fb2d42372c83",
       "title": "Venezuelan opposition leader Machado returns from exile",
       "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
-      "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+      "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-10-25T21:55:32+00:00",
       "region": "global",
@@ -686,9 +1337,9 @@
       }
     },
     {
-      "id": "288d3f39f7b74f4c",
-      "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-      "summary": "Legal challenges likely as voting hour extension adds tension to Brazil&#039;s polarized political landscape.",
+      "id": "2c2b6a7b42fc295c",
+      "title": "Brazil election results 2026 live: Lula beats Bolsonaro in shock upset",
+      "summary": "Brazil&#039;s veteran president has secured an unprecedented fourth term after edging past right-wing challenger in runoff",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-25T20:00:04+00:00",
@@ -748,9 +1399,9 @@
       }
     },
     {
-      "id": "3b1d26bf8c7d5f18",
-      "title": "Burnham stokes Brexit debate ahead of UK-EU summit",
-      "summary": "Prime Minister calls for ‘honest discussion’ about free movement of people",
+      "id": "4052db90606bfb23",
+      "title": "PM stokes Brexit debate ahead of UK-EU summit",
+      "summary": "Leader calls for ‘honest discussion’ about free movement as he prepares to set out options for country’s long-term relationship with Brussels",
       "link": "https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3?syn-25a6b1a6=1",
       "source": "FT World",
       "published": "2026-10-25T19:37:03+00:00",
@@ -872,9 +1523,9 @@
       }
     },
     {
-      "id": "88751dd1d114a514",
-      "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
-      "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+      "id": "84c9255cf36c7051",
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
       "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-25T19:19:54+00:00",
@@ -1126,37 +1777,6 @@
       "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
       "source": "Al Jazeera English",
       "published": "2026-10-25T18:34:19+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a41a2585c736cc9f",
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-25T18:29:00+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -1554,37 +2174,6 @@
       }
     },
     {
-      "id": "ac8ea88fe1879451",
-      "title": "Can protests in Europe bring about change?",
-      "summary": "People have been taking to the streets to demand action.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T17:39:42+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "2a035845d0b66c21",
       "title": "Commander of Yemeni Coast Guard: Our Duties Are Continuing Normally and Our Morale Is High",
       "summary": "",
@@ -1623,37 +2212,6 @@
       "source": "Middle East Eye",
       "published": "2026-10-25T17:32:51+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f6228eb59165ec26",
-      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-      "summary": "The deputy secretary-general of UN&#039;s ICT agency says unequal access to AI means poorer nations may be left behind.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T17:26:22+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1747,37 +2305,6 @@
       "source": "Middle East Eye",
       "published": "2026-10-25T17:14:46+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "501746947c720d02",
-      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "summary": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T17:12:59+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -1957,37 +2484,6 @@
       }
     },
     {
-      "id": "60140a2e86ba8169",
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "summary": "Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T16:42:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "f033f0cbf1096724",
       "title": "Search continues for five fishermen aboard missing boat off Morocco’s Safi coast",
       "summary": "Moroccan authorities are continuing search and rescue operations for five fishermen aboard a traditional fishing boat that went missing off the coast of Safi, the Ministry of Maritime Fisheries announced. Authorities were alerted on Friday, October 23, at approximately 5 p.m., after the owner of the fishing boat Lalla Khadija, registered under number 7-7016, reported [&#8230;] The post Search continues for five fishermen aboard missing boat off Morocco’s Safi coast appeared first on HESPRESS English - Morocco News .",
@@ -1995,37 +2491,6 @@
       "source": "Hespress EN",
       "published": "2026-10-25T16:42:33+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "12590fd694ed1364",
-      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "summary": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T16:30:51+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2081,37 +2546,6 @@
       }
     },
     {
-      "id": "dcb295af9948723e",
-      "title": "Barcelona 1-2 Real Madrid LIVE: La Liga El Clasico",
-      "summary": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T16:30:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "cda3c591103eeffb",
       "title": "Death toll from Israeli bombardments across Gaza rises to seven",
       "summary": "Death toll from Israeli bombardments across Gaza rises to seven The death toll from Israeli bombardments across Gaza today has risen to seven after a drone strike killed two Palestinians in the al-Mazraa area east of Deir el-Balah, Wafa news agency reported. The strike also left several people “critically wounded”, Wafa said. Earlier Israeli strikes killed five Palestinians, including two in Khan Younis and three around the Islamic University campus in northern Gaza City. Israeli forces also reportedly shot a Palestinian in the foot in the al-Faluja area of northern Gaza.",
@@ -2119,37 +2553,6 @@
       "source": "Middle East Eye",
       "published": "2026-10-25T16:21:11+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "044ad007c765b9a2",
-      "title": "Jordanians mourn victims of deadly church attack",
-      "summary": "Jordanians mourn victims of deadly church attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T16:16:48+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2243,37 +2646,6 @@
       "source": "Asharq Al-Awsat",
       "published": "2026-10-25T16:12:39+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "08cc7eeeb6826713",
-      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "summary": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T16:11:37+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -2708,378 +3080,6 @@
       "source": "Bloomberg Markets",
       "published": "2026-10-25T13:48:02+00:00",
       "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "06978dcb113ea481",
-      "title": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says",
-      "summary": "House Speaker Mike Johnson says he has spoken over the weekend to President Donald Trump and Secretary of State Marco Rubio, who told him the US is planning trilateral negotiations.",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-25/rubio-plans-trilateral-negotiations-over-ukraine-johnson-says",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-25T13:43:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e7013a416278eca6",
-      "title": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke",
-      "summary": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke Israeli Prime Minister Benjamin Netanyahu has proposed &nbsp;exploring the use of cryptocurrency to circumvent potential international banking sanctions, as nations around the world continue to debate sanctions against Tel Aviv.&nbsp; Netanyahu proposed the move in an interview with Channel 10’s economic broadcaster, aired on Friday, days before Israel’s 27 October parliamentary election.&nbsp; “We need to prepare ways to evade banking sanctions through an alternative economic system,” Netanyahu said",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/diplomatic-and-financial-isolation-netanyahus-crypto-plan-bypass",
-      "source": "Middle East Eye",
-      "published": "2026-10-25T12:48:13+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e0147ece38b26cf8",
-      "title": "Israeli attacks kill at least five Palestinians in Gaza",
-      "summary": "Israeli attacks kill at least five Palestinians in Gaza At least two Palestinians have been killed and four injured in Israeli air strikes on Khan Younis in Gaza. Al Jazeera said that the attack struck a gathering of people in the al-Sinaa area, while several other Palestinians were also wounded by an Israeli drone strike in nearby al-Mawasi. Ambulance service sources told the outlet that three people were killed in an Israeli air strike on the Islamic University Campus in northern Gaza City.",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza",
-      "source": "Middle East Eye",
-      "published": "2026-10-25T12:46:19+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c00daacefcf947d3",
-      "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow",
-      "summary": "Investors from JPMorgan Asset Management to Generali and Ninety One SA are loading up on emerging-market debt, defying a surge in Treasury yields that would once have sent them running for the exits.",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-25T12:30:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "338b059418d01d4c",
-      "title": "What’s Happening in EM: Bond Investors Turn to Developing World",
-      "summary": "This week, Mpho Hlakudi and Selcuk Gokoluk discuss how some of the world’s biggest asset managers increase their exposure to emerging markets despite the surge in US Treasury yields, weakening a traditional correlation in financial markets.",
-      "link": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-25T12:30:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "db206e72456abb80",
-      "title": "By The Way: Headlines You May Have Missed",
-      "summary": "The artist behind the moving bird in the Kelly Clarkson/Toy Store drama, colleges helping grads pay loans back, child-free flights and cruises, and a 'timeless ticket' to the World Series: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-25/by-the-way-headlines-you-may-have-missed-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-25T12:26:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4e52bc46ef552809",
-      "title": "London’s most famous shopping street bans cars in bid to revive its fortunes",
-      "summary": "Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores",
-      "link": "https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-10-25T12:26:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e60916052f135b6d",
-      "title": "Britain needs ‘chainsaw economics’",
-      "summary": "Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state",
-      "link": "https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-10-25T12:00:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "23b26c7af5b9107d",
-      "title": "Measles surge exposes Republicans’ vulnerability on vaccines",
-      "summary": "Health secretary Robert F Kennedy Jr’s scepticism of jabs is not shared by the majority of Americans",
-      "link": "https://www.ft.com/content/86e2ad4c-4a19-4221-8043-1c26e3354936?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-10-25T12:00:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "483c14dc4794dcdb",
-      "title": "Will the Fed drop any hints on rate rises?",
-      "summary": "Market Questions is the FT’s guide to the week ahead",
-      "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-10-25T12:00:03+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "16fec5a51fc1f8a3",
-      "title": "IndiGo, Air India to Shift Some Flights to New Mumbai Airport",
-      "summary": "IndiGo and Air India will move some of their international operations to Navi Mumbai International Airport as two of India’s biggest airlines expand their presence at the new aviation facility serving the country’s financial capital.",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-25/indigo-air-india-to-shift-some-flights-to-new-mumbai-airport",
-      "source": "Bloomberg Markets",
-      "published": "2026-10-25T11:20:11+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ba7da56ba0e4dd8a",
-      "title": "Shock and Grief in a Jordanian Village after Church Attack",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5333409",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-10-25T11:13:12+00:00",
-      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
