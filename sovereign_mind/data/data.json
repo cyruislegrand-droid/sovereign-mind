@@ -1,16 +1,2930 @@
 {
-  "generated_at": "2026-11-05T01:29:17.321884+00:00",
+  "generated_at": "2026-11-05T08:26:29.568166+00:00",
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "article_count": 100,
   "articles": [
     {
-      "id": "4d1cba230ada8932",
-      "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
-      "summary": "South Korea’s top financial regulator will introduce a system for cornerstone investors in initial public offerings to curb sharp price drops after listings.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-05/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-05T00:48:32+00:00",
+      "id": "09c22c8589f6a021",
+      "title": "Tech Hit by New AI Worries on Positive Day for Most Markets",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337819",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T08:08:19+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "301dd4a2c39879d5",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-05T08:07:22+00:00",
       "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "584fd40f4d18793c",
+      "title": "Italian chef fired after refusing to put pineapple on pizza",
+      "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-05T07:56:53+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d391e5124c7e2e40",
+      "title": "Australian F1 Great Alan Jones Dies Aged 80",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337815",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T07:55:33+00:00",
+      "region": "mena",
+      "lang": "af",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "81ad9ab21bd273f9",
+      "title": "Gaza Turns Rubble into Power with Homemade Wind Turbines",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337814",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T07:51:09+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4e6f21bf2a070997",
+      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+      "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T07:50:44+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "52c696b26ea4ed1c",
+      "title": "BOE Set to Hike Rates for First Time Three Years",
+      "summary": "The Bank of England looks ready to raise interest rates by a quarter point to 4%, its first hike in more than three years. Ana Andrade of Bloomberg Economics has a preview of the decision. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/boe-set-to-hike-rates-for-first-time-three-years-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:50:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6327b99af1b6b00f",
+      "title": "Morning update",
+      "summary": "Morning update Good morning Middle East Eye readers, Here are the latest developments:&nbsp; Iran's Islamic Revolutionary Guard Corps (IRGC) announced that two oil tankers and a tugboat caught fire in the Strait of Hormuz.&nbsp;According to the statement, the separate incidents occurred after the vessels were attempting to pass through an \"unauthorised route\". South Korea's anti-piracy Cheonghae unit will expand its operations into waters nearby the Strait of Hormuz, according to a report by the Yonhap News Agency citing the Korean Defence Ministry. The government is set to submit a motion to ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-661",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T07:48:58+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "be8e2a3747faca66",
+      "title": "BOE Decision Day: With a Hike Baked in Traders Look to December",
+      "summary": "Plus earnings from Next and Diageo",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-05/boe-decision-day-with-a-hike-baked-in-traders-look-to-december",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:45:03+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "503b41aad6dfc0ba",
+      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+      "summary": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T07:44:47+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "558c2e94fa9f1bce",
+      "title": "Gamers Set for Zelda Remake to Hit the Shelves",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337813",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T07:44:15+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "316f4110afd288d8",
+      "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+      "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T07:41:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f7acee3b22cc5aaf",
+      "title": "Türkiye Showcases Renewables Surge, but Leaves Coal Intact",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337811",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T07:39:00+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "256d41614287e044",
+      "title": "Rheinmetall cuts sales forecast after delays to armoured vehicle megadeal",
+      "summary": "Boxer order delay is fresh setback for German defence group",
+      "link": "https://www.ft.com/content/4d0c5a48-3ef7-494d-baf8-063ef9edb2e5?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T07:35:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d06b87a5dee05fe2",
+      "title": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
+      "summary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:32:55+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "13c6b348da773402",
+      "title": "Commerzbank in 'Position of Strength' Ahead of UniCredit Deal, CEO Says",
+      "summary": "Commerzbank CEO Bettina Orlopp speaks on Bloomberg Television after the lender reported a better-than-expected 45% jump in profit, in one of the last quarterly results as an independent bank before UniCredit SpA takes control of the German rival. \"I think we can act out of a position of strength,\" Orlopp says. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/commerzbank-in-position-of-strength-ahead-of-deal-ceo-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:31:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "488dcba3906d67fa",
+      "title": "Iran Says Two Tankers and Tugboat Caught Fire in Hormuz",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337809",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T07:28:58+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "16525d15b876e6ae",
+      "title": "Germany’s Merz expects Trump to keep ignoring Congress",
+      "summary": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T07:25:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "70dbe99b912426d8",
+      "title": "Shot in class: Gaza's children return to school under Israeli fire",
+      "summary": "Shot in class: Gaza's children return to school under Israeli fire Submitted by Maha Hussaini on Wed, 11/04/2026 - 15:19 In Gaza’s first formal school year since the genocide, Israeli forces intensify shootings targeting teachers and pupils, alongside air strikes on universities Palestinian children walk to school past the rubble of destroyed buildings as the academic year begins in Khan Younis, southern Gaza Strip, 19 September 2026 (Bashar Taleb/AFP) Off Palestinian teacher Sahar Abushbeika was explaining a science lesson to her third-grade pupils when an Israeli bullet struck her lower back",
+      "link": "https://www.middleeasteye.net/news/shot-class-gazas-children-return-school-under-israeli-fire",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T07:21:30+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4a4af73d89367df3",
+      "title": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
+      "summary": "Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.",
+      "link": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T07:21:01+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9f96f4a61608adb5",
+      "title": "Oil tumbles below $100 on post-election peace hopes",
+      "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
+      "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T07:20:20+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "0b77b0847ba292c1",
+      "title": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
+      "summary": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
+      "link": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T07:20:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9f3d0228c5c2dd86",
+      "title": "Yardeni: Yields Attractive at 5%; Nasdaq to Outperform",
+      "summary": "Yardeni Research President, Ed Yardeni, says US 10-year Treasury yields look “very attractive” at around the 5% level with inflation expected to cool. On Bloomberg's Insight with Haslinda Amin, he also told us why the Nasdaq 100 is his preferred asset for the next 24 months. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/yardeni-yields-attractive-at-5-nasdaq-to-outperform-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:16:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a3d4b9c97e358eb7",
+      "title": "Indonesia Deploys Troops Amid Wiretapping Scandal",
+      "summary": "Indonesia's military is mobilizing troops to bolster security in Jakarta as authorities investigate the alleged wiretapping of President Prabowo Subianto. Bloomberg's Ben Otto and Faris Mokhtar discussed the developments on Insight with Haslinda Amin. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/indonesia-deploys-troops-amid-wiretapping-scandal-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:16:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2017f84108564273",
+      "title": "Emirates Profit Drops 66% as Iran War, High Oil Prices Hit Dubai Airline",
+      "summary": "Emirates Group’s first-half profit dropped by more than half as regional warfare and soaring oil prices weighed on the world’s largest international carrier.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/emirates-profit-drops-66-as-iran-war-high-oil-prices-hit-dubai-airline",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:15:48+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6c0c26599f164b97",
+      "title": "Egypt Offers Israel Fresh Assurances over Sinai Development Projects",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337808",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T07:14:35+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d928adbef8b2e0de",
+      "title": "China’s ‘swarm’ strategy for the space race",
+      "summary": "Beijing has fostered a new national champion in LandSpace",
+      "link": "https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T07:14:10+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bfbd0e23d8025384",
+      "title": "Orsted Completes Offshore Wind Farm That Trump Tried to Stop",
+      "summary": "Orsted A/S completed a wind farm off the northeast coast of the US that became a lightning rod for efforts by the administration of President Donald Trump to eliminate the nascent American offshore wind industry.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/orsted-completes-offshore-wind-farm-that-trump-tried-to-stop",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:02:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bd5424ccfc6c5129",
+      "title": "Canada’s Avenir Global Acquires Marker Collective, Adding Nvidia, Meta Clients",
+      "summary": "Canadian holding company Avenir Global struck a deal to acquire communications and marketing firms owned by London’s Next 15 Group Plc, expanding its client list to reach more technology companies.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/canada-s-avenir-global-acquires-marker-collective-adding-nvidia-meta-clients",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:01:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6c62938911a3065d",
+      "title": "Air France-KLM Deepens Dutch Airline Overhaul; Stock Surges",
+      "summary": "Air France-KLM is deepening an overhaul of its Dutch subsidiary as the airline group grapples with higher fuel expenses and a cost-of-living crisis that’s starting to deter some passengers.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/air-france-klm-to-deepen-dutch-airline-overhaul-amid-high-costs",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T07:00:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6b22da5b562e4a24",
+      "title": "Hormuz Diplomacy Gains Ground as Trump Plays Down New Iran Strikes",
+      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/horizons-middle-east-africa-11-5-2026-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T06:58:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "5c87d95f2687c513",
+      "title": "France Braces for Demonstrations as Trade Unions Strike",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337806",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T06:57:54+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "a9cc85dc6ea36233",
+      "title": "Trump Says Hegseth Doing 'a Very Good Job' as Questions Swirl about His Future",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337805",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T06:52:34+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4f035f32fbbe18f8",
+      "title": "Ed Yardeni Says 5% Treasury Yields Now Attractive",
+      "summary": "Yardeni Research President Ed Yardeni argues that 10-year Treasuries yielding around 5% offer an attractive real return, driven by expectations that productivity gains will keep inflation contained. While he expects bond coupons to outpace inflation over the next decade, Yardeni maintains that stocks will continue to outperform bonds over the long term. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-05/ed-yardeni-says-5-treasury-yields-now-attractive-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T06:52:15+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b603b53dc8289f4e",
+      "title": "Herzog warns Netanyahu of 'highly explosive and dangerous reality' amid rising settler violence",
+      "summary": "Herzog warns Netanyahu of 'highly explosive and dangerous reality' amid rising settler violence Israeli president&nbsp;Isaac Herzog warned prime minister&nbsp;Benjamin Netanyahu other senior officials of a \"highly explosive and dangerous reality\" in the West Bank amid increasing settler violence. \"The IDF commanders, the police officers and the Shin Bet personnel present a worrying picture of limited tools and a shortage of manpower,\" Herzog wrote in the letter sent to Netanyahu, defence minister Israel Katz, the Israeli army chief of staff Eyal Zamir and attorney general&nbsp;Gali Baharav-Mia",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/herzog-warns-netanyahu-highly-explosive-and-dangerous-reality-amid",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T06:47:28+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "66a878df9a373eb9",
+      "title": "Race for 2028 Heats Up after US Midterms Firestorm",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337803",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T06:41:41+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1f6ca09d66dd5309",
+      "title": "New Zealand braces for knife-edge election: What you need to know",
+      "summary": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T06:34:50+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "93ae0beb7be05be1",
+      "title": "Democratic Congress Could Test Decades of US Support for Israel",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337801",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T06:32:47+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "906b243eddf5241e",
+      "title": "Markets surf the blue wave",
+      "summary": "Clarity is good",
+      "link": "https://www.ft.com/content/04094401-1966-4bc1-8aa7-b91ea8bf680c?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T06:30:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "83b00fa317fd0af7",
+      "title": "Toyota shares soar 17% on strong US hybrid demand",
+      "summary": "World’s largest carmaker raises annual outlook after posting its first profit increase in six quarters",
+      "link": "https://www.ft.com/content/4c40362a-8994-43e1-8000-68cd92cf7d51?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T06:29:28+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "eee160f7ca408afb",
+      "title": "Arab Parties Extend a Hand to Try and Topple Netanyahu, but Challenges Remain",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337798",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T06:14:34+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "22c37347cae54e2e",
+      "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
+      "summary": "Sharjeel Imam questioned foundational ideas of India&#039;s nationalism in interview with The Quint, inspiring heated debate.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T06:10:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "900344b54a0fcaab",
+      "title": "Commerzbank Flags Deposit Competition Before UniCredit Deal",
+      "summary": "Commerzbank AG lowered its outlook for lending income this year amid increasing competition for client money, in one of the last quarters before the lender will be taken over by UniCredit SpA.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/commerzbank-quarterly-net-rises-45-ahead-of-unicredit-takeover",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T06:08:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2d8c09d52b43f028",
+      "title": "Hong Kong sentences democracy activist Joshua Wong to 10 years",
+      "summary": "Second security law penalty pushes expected release date to 2036",
+      "link": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T06:06:33+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d2c75279d7a97cfd",
+      "title": "Saudi Crown Prince Meets Bahraini King’s Representative for Humanitarian Affairs and National Security Adviser",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337796",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T06:03:59+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d2d7249cbf03b9cf",
+      "title": "France urges EU to adopt higher fast fashion levy",
+      "summary": "Also in this newsletter: Belgium pushes ahead with vote on controversial migration powers",
+      "link": "https://www.ft.com/content/13776a58-b640-4771-8256-03003498c96b?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T06:00:06+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f7da51a2b80cd58a",
+      "title": "Historic Jeddah Offers Rich Heritage, Diverse Cultural Experiences",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337794",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T05:55:44+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ee8f280cc91b8557",
+      "title": "Has Israel ousted Netanyahu for good?",
+      "summary": "Has Israel ousted Netanyahu for good? Israelis voted against Netanyahu's coalition in a decisive majority. Will the opposition bloc seize this historic moment and form a minority government with the Arab parties? And if they do, how will Israel's powerful far-right react?&nbsp; On this episode of the Big Picture, Israeli analyst Meron Rapaport explains what is at stake for Israel, why these elections may be a turning point, and what the Israeli Right may still do to block the outcome.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/has-israel-ousted-netanyahu-good",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T05:53:05+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e1dd9b2407ce9955",
+      "title": "Saudi Foreign Minister Holds Phone Talks with Pakistani Counterpart",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337792",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T05:51:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "da5df4007e379b2b",
+      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+      "summary": "Netanyahu&#039;s rivals say US midterm results show Israel &#039;cannot afford&#039; to have the prime minister remain in office.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T05:39:31+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d5cf536a017b9e4f",
+      "title": "Saudi Arabia and Syria Sign Defense Cooperation Agreement",
+      "summary": "",
+      "link": "https://english.aawsat.com/node/5337786",
+      "source": "Asharq Al-Awsat",
+      "published": "2026-11-05T05:34:47+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4d179ed5cba1d6b3",
+      "title": "US midterm elections 2026: Record number of hijabis elected to statewide and national offices",
+      "summary": "US midterm elections 2026: Record number of hijabis elected to statewide and national offices Tuesday's midterm elections saw a remarkable wave of firsts that may have been unthinkable if US President Donald Trump had not spurred such backlash across the country.&nbsp; Among them were victories for four state senators-elect and one US congresswoman who all wear the hijab - a record for the country, and certainly a stunning outcome given the rabid anti-Islam rhetoric and threats that have taken hold since the Trump administration swept to power in January 2025. These are women whose appearance ",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-midterm-elections-2026-record-number-hijabis-elected-statewide-and",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T05:31:23+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "015050f690e78086",
+      "title": "FirstFT: Democrats look to reshape America",
+      "summary": "Also in today’s newsletter: Russia-Iran ties and UK inflation",
+      "link": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:31:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b0741a3d2744db2e",
+      "title": "France Braces for Marches and Strikes Amid Stalled Budget",
+      "summary": "France is bracing for a day of strikes and demonstrations over the cost of living, extending more than a month of protests, as parliamentary talks over next year’s budget remain deadlocked.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T05:15:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2b7a0c9c5f797944",
+      "title": "Asian tech stocks slide on post-midterm AI fears",
+      "summary": "Concerns mount that Democratic control of Congress will slow data centre build-out",
+      "link": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:12:51+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "94de499c826afca7",
+      "title": "Wall Street after the anti-Trump tsunami",
+      "summary": "Here’s what the US midterm elections mean for the AI supply chain and dealmaking",
+      "link": "https://www.ft.com/content/1ec65f1e-fa8e-4e47-8b9e-612be738a900?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:26+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c0aedff566e88b20",
+      "title": "Democrats look to reshape America after historic midterm victories",
+      "summary": "Party promises dramatic change in the wake of its ‘blue wave’",
+      "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:25+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "96a20139c90e8ce1",
+      "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale",
+      "summary": "Fresh blow ahead of start-up’s IPO as tech giant turns down option to more than double Texas data centre contract",
+      "link": "https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "09d211f608110463",
+      "title": "Thieves revealed how feeble my digital defences were",
+      "summary": "What remains of my hair stood on end when I remembered I had kept a full list of online passwords in the missing bag",
+      "link": "https://www.ft.com/content/5a7fe0b8-07f0-4c29-b19a-1480b1978778",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f41665132f98aeec",
+      "title": "Russia deepened Iran support with missile launcher deal",
+      "summary": "Moscow increased military aid for Tehran despite strains from Ukraine war",
+      "link": "https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b3fb92cda1b2eea4",
+      "title": "A&O Shearman invests $1.1bn in AI",
+      "summary": "The ‘magic circle’ firm has told lawyers each practice area must commit at least 3% of billable time to creating AI tools",
+      "link": "https://www.ft.com/content/b832654a-79d1-4db0-9de8-d1a65251539d?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "f1cd632358e6c76b",
+      "title": "The city vilified by France’s far right",
+      "summary": "Trappes has long been a battleground over French identity. Then came the shooting spree",
+      "link": "https://www.ft.com/content/c01cff54-b6a1-484c-baae-fbf5c1b0c768?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "faff50ce36f7cd5f",
+      "title": "UK public spending on ‘preventative’ measures to be ringfenced in overhaul",
+      "summary": "Healey says next year’s spending review will mark shift by protecting investment that stops problems escalating",
+      "link": "https://www.ft.com/content/3d4fb12a-cce4-4312-a8a3-42d7f4dad977?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "95387093c708ace4",
+      "title": "UK inflation to peak at 4.4% in 2027, according to FT survey of economists",
+      "summary": "Energy bills set to jump by nearly £470 in January to about £2,200 a year for a typical household",
+      "link": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cfc3bee2c227baad",
+      "title": "Morning in America, twilight in the markets",
+      "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
+      "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:16+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bbd2cd5566d9ebee",
+      "title": "Paris’s new wave of fire-cooking restaurants",
+      "summary": "The red-hot trend for open-flame cuisine reflects the growing cosmopolitanism of the French capital’s food scene",
+      "link": "https://www.ft.com/content/802f1077-0c5d-418e-9ebc-e391816061f0",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "85f0b3da542f5e8e",
+      "title": "To the French Riviera — with Monet and Matisse",
+      "summary": "Inspired by the Royal Academy’s blockbuster exhibition, a new tour explores the Côte d’Azur through artists’ eyes",
+      "link": "https://www.ft.com/content/0b9053bb-ae71-4be4-b136-0a54d9059228?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "c660826eeb891214",
+      "title": "Lessons in Harmony by Jonathan Coe — notes between nations",
+      "summary": "A witty historical novel turns the real-life relationship between Ralph Vaughan Williams and Maurice Ravel into a meditation on art, nationhood and love",
+      "link": "https://www.ft.com/content/109ece27-5b98-4cea-8b11-c95e29267d53",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "33f2bd68975e2f83",
+      "title": "The next US presidential race has begun",
+      "summary": "The Republicans and Democrats positioning themselves for a run at the Oval Office in 2028",
+      "link": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "8bac0d2050433d8c",
+      "title": "Can a new ‘groundscraper’ recharge Hong Kong’s buzz?",
+      "summary": "Having lost some of its sheen to cheaper Shenzhen, the city is looking to new development Central Yards to revitalise the city’s shopping and leisure",
+      "link": "https://www.ft.com/content/bbcb2b7d-8876-4b74-a647-d3a6725c5627?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e84ccf17128e2e7f",
+      "title": "The greenbelt backlash in Andy Burnham’s backyard",
+      "summary": "As the prime minister promises good growth in every postcode, his local Labour authority has axed all the employment schemes in its planning blueprint",
+      "link": "https://www.ft.com/content/3ae956ad-383e-4cb1-aec1-2dc2ada0b935?syn-25a6b1a6=1",
+      "source": "FT World",
+      "published": "2026-11-05T05:00:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "78ee5bcae58428a3",
+      "title": "Iran’s IRGC says two tankers, tugboat were ablaze in Hormuz Strait",
+      "summary": "Iran’s IRGC says two tankers, tugboat were ablaze in Hormuz Strait Iran's Islamic Revolutionary Guard Corps (IRGC)&nbsp;announced that&nbsp;two oil tankers and a tugboat caught fire in the Strait of Hormuz.&nbsp; According to the statement, the separate incidents occurred after the vessels were attempting to&nbsp;pass through an \"unauthorised route\",&nbsp; One large oil tanker was passing through what the IRGC described as an \"illegal southern passageway\", hitting a mine and catching fire.&nbsp; Another supertanker, leaving eastern section of the waterway, was caught in a massive fire. A tugbo",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-two-tankers-tugboat-were-ablaze-hormuz-strait",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T04:58:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "41b07b2f084f948d",
+      "title": "Trump's midterm defeat gives the Gulf a chance to escape America's forever wars",
+      "summary": "Trump's midterm defeat gives the Gulf a chance to escape America's forever wars Submitted by Andreas Krieg on Wed, 11/04/2026 - 16:07 Regional leaders must use their influence in Congress to prevent another attack on Iran and negotiate a non-aggression pact with Tehran on their own terms US President Donald Trump and Vice President JD Vance in the Oval Office on 16 March 2026. Vance said on 4 November that the war on Iran was 'the reason we lost' the midterms (Annabelle Gordon/AFP/File photo) Off The US midterm elections were fought over the cost of living, the pundits will say. Look closer an",
+      "link": "https://www.middleeasteye.net/opinion/trumps-midterm-defeat-gives-gulf-chance-escape-america-forever-wars",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T04:53:18+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e47ed8e455665b1c",
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T04:49:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cc32ddf0dd8e84fa",
+      "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
+      "summary": "New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T04:30:18+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "abc4a1b8e8d8d6cc",
+      "title": "Report: South Korea's anti-piracy unit to expand operations closer to Hormuz Strait",
+      "summary": "Report: South Korea's anti-piracy unit to expand operations closer to Hormuz Strait South Korea's anti-piracy Cheonghae unit will expand its operations into waters nearby the Strait of Hormuz, according to a report by the Yonhap News Agency&nbsp;citing the Korean Defence Ministry. The government is set to submit a&nbsp;motion to parliament&nbsp;to extend the period of the unit's deployment to the region, which is expected to expire at the end of this year.&nbsp;",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-south-koreas-anti-piracy-unit-expand-operations-closer-hormuz",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T04:15:24+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ccc8082cbb459363",
+      "title": "Brazilian airport torn apart by violent storm",
+      "summary": "Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T04:12:11+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4641ca97ea755a57",
+      "title": "Paraguay bank collapses with half of population’s savings",
+      "summary": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T04:11:45+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "e608c40bb7ddac04",
+      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+      "summary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T04:04:57+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ca9f59e5c0ed3f9c",
+      "title": "World record 53 red cards shown in Brazil football match",
+      "summary": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T03:48:19+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bef24da260a0866c",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-05T03:47:56+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "83125abe99e6169c",
+      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+      "summary": "Defence cooperation deal signed as Syria&#039;s President al-Sharaa visits Riyadh for the second time in less than a month.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T03:46:13+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "b4bdf602600c4a0d",
+      "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+      "summary": "After languishing for much of the year, Hong Kong stocks are staging a comeback as investors rotate away from hardware stocks into discounted Chinese internet platforms.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T03:35:41+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ea4a7a705fa39cc1",
+      "title": "Watch: Trump admits Iran war caused election losses",
+      "summary": "Watch: Trump admits Iran war caused election losses US President Donald Trump, speaking to reporters at the construction site for the ballroom on Wednesday, said that the Iran war was responsible for his Republican Party's resounding midterm election defeat. Asked whether he agreed with Vice President JD Vance earlier remarks that the Iran war was \"the reason we lost\", Trump told reporters outside the White House ballroom construction site that his comments were \"largely true because it drove the gasoline up a little bit short term\". US President Donald Trump, speaking to reporters at the cons",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-trump-admits-iran-war-caused-election-losses",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T03:23:16+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "dac0940150282157",
+      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
+      "summary": "Ranked-choice voting may decide Alaska&#039;s Senate outcome, while Mississippi&#039;s race hangs on a knife&#039;s edge.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T03:13:08+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "d27db6bd4bd2e334",
+      "title": "Former Israeli generals help Palestinian olive farmers",
+      "summary": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T02:52:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "6db5099da13caee5",
+      "title": "Vote counting underway in critical South Africa elections",
+      "summary": "Votes are being counted across South Africa after a record 29.2 million people registered to vote.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T02:43:04+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "1e74b501b4de0432",
+      "title": "US hands out sanctions over accusations of supplying Iran with air defence systems",
+      "summary": "US hands out sanctions over accusations of supplying Iran with air defence systems The US sanctioned two individuals and another entity accused of aiding Iran in sourcing man-portable air-defense systems (MANPADS). The statement said that sanctions&nbsp;\"close off more of the channels Tehran uses to try to rebuild its arsenal and raise the risk for third-country brokers and suppliers\". \"The United States will keep exposing the networks that arm Iran’s military and the Islamic Revolutionary Guard Corps and will keep denying the regime the resources that sustain its destabilizing activities,\" th",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-hands-out-sanctions-over-accusations-supplying-iran-air",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T02:40:07+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "4d81ba6283da576c",
+      "title": "China’s Copper Squeeze Deepens as Buyers Scramble For Metal",
+      "summary": "Copper buyers in China are scrambling for physical metal, with spot premiums soaring as supplies tighten sharply in the world’s biggest consumer.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-s-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal",
+      "source": "Bloomberg Markets",
+      "published": "2026-11-05T02:30:00+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "9fd18d86e7813c41",
+      "title": "El Salvador’s Bukele touts military intervention in Haiti",
+      "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T02:10:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "aac0f2a1a3f31bb6",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-05T02:09:23+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "bb253e8bc6d2380c",
+      "title": "Election deniers lose races for governor in key US swing states",
+      "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T02:06:07+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "cf14a19fea1143f4",
+      "title": "Saudi-led coalition hits in Yemen reportedly kill 20 people over past day",
+      "summary": "Saudi-led coalition hits in Yemen reportedly kill 20 people over past day Saudi-led coalition attacks over the past 24 hours have reportedly killed around 20 people across Yemen, including in the provinces of&nbsp;al-Jawf, al-Bayda, Saada, and Taiz, according to&nbsp;Houthi-affiliated media.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-hits-yemen-reportedly-kill-20-people-over-past-day",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T02:00:08+00:00",
+      "region": "mena",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "ba05b5ffbc67ce8c",
+      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+      "summary": "Move deals blow to Netanyahu&#039;s efforts to discredit the elections, in which he and his allies lost their majority.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T01:53:30+00:00",
+      "region": "global",
+      "lang": "en",
+      "body": "",
+      "entities": [],
+      "geo_tags": [],
+      "topics": [],
+      "sentiment": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "risk": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      },
+      "hidden_links": [],
+      "arc_to": [],
+      "arc_strength": {
+        "MA": 0.0,
+        "SA": 0.0,
+        "AE": 0.0
+      }
+    },
+    {
+      "id": "2d0b8bd455475f82",
+      "title": "Here's why US Republicans lost the midterms so badly",
+      "summary": "Here's why US Republicans lost the midterms so badly The US Democratic Party has swept the midterm elections, taking control of both the Senate and the House of Representatives by wide margins.&nbsp; Exceeding pollsters' expectations in red states from Kansas to South Carolina to Mississippi, MEE explains why so many voters turned out - and what they were voting against. The US Democratic Party has swept the midterm elections, taking control of both the Senate and the House of Representatives by wide margins. MEE explains why so many voters turned out - and what they were voting against. https",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/heres-why-us-republicans-lost-midterms-so-badly",
+      "source": "Middle East Eye",
+      "published": "2026-11-05T01:52:57+00:00",
+      "region": "mena",
       "lang": "en",
       "body": "",
       "entities": [],
@@ -128,136 +3042,12 @@
       }
     },
     {
-      "id": "d04988e2bfaf2c7b",
-      "title": "Historic firsts redraw US political map in 2026 midterm elections",
-      "summary": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim, gay and Native American politicians.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-05T00:24:20+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
       "id": "740af44a1c5407bd",
       "title": "Philippine October Inflation Accelerates 7.8%, Close to Four-Year High",
-      "summary": "Philippine inflation accelerated to its fastest pace in almost four years in October as the prolonged Middle East conflict drove up the cost of fuel, electricity and transport in a nation heavily reliant on the region for its energy supplies.",
+      "summary": "Philippine inflation accelerated to the fastest pace in almost four years in October as the prolonged Middle East conflict drove up energy costs, raising the odds of another large interest rate increase by the central bank.",
       "link": "https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high",
       "source": "Bloomberg Markets",
       "published": "2026-11-05T00:05:46+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "55fc8755cbffeda0",
-      "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
-      "summary": "President Trump admits Iran war &#039;largely&#039; caused Republicans&#039; US election wipeout, but says he &#039;had to do it&#039;.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-05T00:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5372708386b278f8",
-      "title": "China Tech Frenzy Turns Into Year of Dismay for Retail Traders",
-      "summary": "What started out as a year of hope for China’s stock market has turned into one of disillusion for its 250 million retail investors.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-05T00:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f89c398f9924166c",
-      "title": "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline",
-      "summary": "Gold extended gains — after jumping more than 3% on Wednesday — as a Democratic sweep of Congress in the US midterm elections sent the dollar and Treasury yields lower.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T23:58:33+00:00",
       "region": "global",
       "lang": "en",
       "body": "",
@@ -290,2796 +3080,6 @@
       "source": "Hespress EN",
       "published": "2026-11-04T23:58:07+00:00",
       "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "36c8d9266df7fcc7",
-      "title": "Who gets to vote in the US?",
-      "summary": "Tati Abu King lost his voting rights after felony convictions.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T23:50:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8065373e2145ed90",
-      "title": "Australia Chain David Jones Collapses After Almost 200 Years",
-      "summary": "Australia’s oldest department store David Jones collapsed on Thursday, finally succumbing after almost 200 years as the digital era drove shoppers to cheaper and nimbler online rivals.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T23:44:05+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9216b58bcd05b535",
-      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
-      "summary": "Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T23:43:26+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "30acc9b288a404cb",
-      "title": "Houthi attack kills four people as Yemeni government forces make gains in al-Jawf and Taiz",
-      "summary": "Houthi attack kills four people as Yemeni government forces make gains in al-Jawf and Taiz A ballistic missile attack which hit Hayfan in Yemen's Taiz governorate, killed four Yemenis from the same family, including three children, on Wednesday. Yemen’s Saudi-backed government's state media reported that four others, also from the same family, were injured after their home was targeted by Houthi fighters, and number of homes nearby were also damaged. Yemeni government forces said in a statement on X that they have made territorial gains in al-Jawf province, seizing several Houthi positions, an",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attack-kills-four-people-yemeni-government-forces-make-gains-al",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T23:36:39+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11a0185504a55576",
-      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-      "summary": "A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T23:34:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8a6e879861c78815",
-      "title": "Asian Markets React as Trump Cools Iran Fears",
-      "summary": "President Trump stated he has no immediate plans for further strikes on Iran, easing geopolitical risk across the region. The remarks triggered a sharp decline in crude oil and fueled a broad rally across Asian equities. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-04/asian-markets-react-as-trump-cools-iran-fears-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T23:31:57+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bbe96f2d33af2524",
-      "title": "Trump blames Iran war for midterms losses",
-      "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T23:30:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "35401bd8a41fdd6a",
-      "title": "Latest Oil Market News and Analysis for Nov. 5",
-      "summary": "Brent oil steadied after tumbling more than 8% in the previous session as investors bet that a Democratic sweep in the US midterm elections could accelerate efforts to end the war in the Middle East.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T23:08:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b804a313330a3889",
-      "title": "The Trump era is over. The world should take note",
-      "summary": "The Trump era is over. The world should take note Submitted by David Hearst on Wed, 11/04/2026 - 21:38 If the Netanyahu camp is trembling at where the US appears to be headed, Gulf leaders should be in no less than a panic An Iranian demonstrator carries a placard depicting US President Donald Trump during a rally in Tehran, on 4 November 2026 (Atta Kenare/AFP) Off It took nine months, but regime change has finally been achieved.&nbsp; Nine months after Israeli Prime Minister Benjamin Netanyahu and Mossad director David Barnea put the idea into US President Donald Trump’s head that regime chan",
-      "link": "https://www.middleeasteye.net/opinion/trump-era-over-world-should-take-note",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T23:08:00+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f07a502b21364014",
-      "title": "Malaysia Set to Hold Rates on Strong Growth, Signal Hike in 2027",
-      "summary": "Malaysia’s central bank is expected to keep interest rates unchanged at its final policy meeting of the year on Thursday while signaling scope for a hike early in 2027 as economic growth remains strong.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/malaysia-set-to-hold-rates-on-strong-growth-signal-hike-in-2027",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T23:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6a6902b6a7b7f7b5",
-      "title": "Upbeat Earnings Bolster Case for India Stocks as Asia Wavers",
-      "summary": "Indian equities are gaining an edge in Asia as stronger earnings and a nascent return of foreign investors bolster the case for further outperformance.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/upbeat-earnings-bolster-case-for-india-stocks-as-asia-wavers",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T23:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "684b63a51defb6ef",
-      "title": "DBS Profit Misses Estimates on Trading Drop, Names Lim Chair",
-      "summary": "DBS Group Holdings Ltd. posted quarterly earnings that missed analyst estimates, as a tumble in markets trading income dampened gains from lending and wealth. The bank also announced a new chairman.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/dbs-profit-misses-estimates-on-trading-income-names-lim-chair",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T22:52:52+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4a0dc1698dfd4818",
-      "title": "Bernie Sanders hails ‘progressive victories’ across the US",
-      "summary": "Bernie Sanders hails ‘progressive victories’ across the US Independent Bernie Sanders on Wednesday celebrated \"some of the greatest progressive victories in modern American history\" during the recent US midterm elections. He congratulated Democratic candidates he worked to get elected, including Michigan Senator Abdul El-Sayed, and US House representatives&nbsp;Will Lawrence,&nbsp;Adam Hamawy and&nbsp;Melat Kiros - many of whom ran on an explicitly anti-war and pro-Palestinian ticket.&nbsp; \"All across the country, in rural and urban areas, Americans said NO to oligarchy, and YES to an agenda ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bernie-sanders-hails-progressive-victories-across-us",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T22:49:12+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bbb0642df8d343b3",
-      "title": "Host Hotels & Resorts CEO on 3Q Quarterly Results",
-      "summary": "Host Hotels & Resorts raised its full-year outlook, including adjusted EBITDA and comparable hotel RevPAR growth. CEO and President Jim Risoleo discussed the acquisition of 1 Hotel Brooklyn Bridge, the fourth 1e Hotel in Host’s portfolio. He cited its 2017 opening, lack of deferred capital expenditures, 175 rooms, meeting space, dining options and waterfront location overlooking Manhattan. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-11-04/host-hotels-resorts-ceo-on-3q-quarterly-results-video",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T22:48:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "11875e71a6685dc6",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T22:48:43+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1e8e25e35c8e85fa",
-      "title": "Democratic Socialists of America see record wins in US midterm elections",
-      "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T22:45:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0fb9f52ab06ec175",
-      "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
-      "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
-      "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T22:38:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c88ec9b739bec8a8",
-      "title": "'Freed up or congressionally constrained': Is Trump more or less likely to resume war on Iran?",
-      "summary": "'Freed up or congressionally constrained': Is Trump more or less likely to resume war on Iran? The Democrats secured a sweeping midterm election victory on Tuesday, but one critical question remains unresolved: is&nbsp;US&nbsp;President Donald Trump now more or less likely to resume the&nbsp;war on Iran&nbsp;with the election cycle over? Before the midterms, the US appeared to be&nbsp;on the verge&nbsp;of launching a new, wide-scale attack against Iran. The families of US diplomats were evacuated from the region, and additional US military assets flooded into the Middle East. Arab leaders issu",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/freed-or-congressionally-constrained-trump-more-or-less-likely-resume",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T22:33:06+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "973272ad24b65b23",
-      "title": "Sudan factories struggle to restart after devastating wartime losses",
-      "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T22:31:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "c0a14fba71b5c8a2",
-      "title": "Sony Needs More Than ‘GTA’ and Spider-Man to Lift Stock Further",
-      "summary": "Investors are looking for reassurance on longer term earnings stability from Sony Group Corp. to help extend the nascent rebound in its shares.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/sony-needs-more-than-gta-and-spider-man-to-lift-stock-further",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T22:30:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "774bd32934d088aa",
-      "title": "Israel detains Palestinian activist without charge",
-      "summary": "Israel detains Palestinian activist without charge Israeli police have detained Abed Abou Shhadeh, a former city council representative of the Palestinian community in Jaffa, a southern suburb of Tel Aviv, Al Jazeera reported on Wednesday. Palestinian legal group Adalah told Al Jazeera that Israeli police searched Abou Shhadeh’s house and arrested him overnight but have not yet charged him with anything. The rights group said he is currently being held in a detention centre and is due to appear in an Israeli court later on Wednesday. “This is not a criminal investigation – it is a campaign to ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-detains-palestinian-activist-without-charge",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T22:21:10+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "33693023aef9c6f7",
-      "title": "Asian Stocks Mixed as Investors Rotate From Chips: Markets Wrap",
-      "summary": "Asian stocks were mixed as consumer and financial stocks rose following gains in US equities, while investors rotated away from semiconductor shares.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T22:15:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "985417bdccb23b61",
-      "title": "Palestinians, Israelis react after Democrats sweep US midterms",
-      "summary": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T22:06:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ebc43cb310cfb14d",
-      "title": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
-      "summary": "Nearly 27.1 million people watched primetime news coverage of the 2026 midterm elections across the six largest TV networks, according to preliminary Nielsen data.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T22:03:01+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f6939436fb2a4dc9",
-      "title": "Wall Street Trading Desks Bet on US Stock Rally After Midterms",
-      "summary": "Wall Street’s biggest trading desks are urging clients to increase their exposure to US stocks, betting that lackluster investor positioning leading up to the midterm elections has created room for a year-end rally.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/wall-street-trading-desks-bet-on-us-stock-rally-after-midterms",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T22:02:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0846d98197ba8116",
-      "title": "Over 264,000 students leave school in Morocco as public enrollment rises",
-      "summary": "More than 264,000 students left school in Morocco during the 2025–2026 academic year, with only 21% entering reintegration programs, according to figures presented by Education Minister Nabil Benabdellah to the House of Representatives. Of the 264,889 students who dropped out, 56,114 were reintegrated through educational or vocational pathways, leaving 208,775 outside the reintegration measures recorded [&#8230;] The post Over 264,000 students leave school in Morocco as public enrollment rises appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148562-over-264000-students-leave-school-in-morocco-as-public-enrollment-rises.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T21:56:59+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f4523ce61e5c7ef6",
-      "title": "Australia’s Heavy October Rainfall Sparks Grain Quality Concerns",
-      "summary": "Concerns are emerging in Australia over crop quality and harvest delays after one of the wettest Octobers on record, in a further threat to global supply of high-protein wheat.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/australia-s-heavy-october-rainfall-sparks-grain-quality-concerns",
-      "source": "Bloomberg Markets",
-      "published": "2026-11-04T21:52:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9af4dee56ac57225",
-      "title": "FirstFT: Republican infighting erupts after landslide midterms defeat",
-      "summary": "Also in today’s newsletter: wiretapping scandal rocks Indonesia and Oracle cancels $7bn Tencent AI deal under Trump pressure",
-      "link": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T21:52:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e2f15ceee5fc931b",
-      "title": "Gendarme injured in Khenifra hit-and-run after driver refuses to stop",
-      "summary": "A Royal Gendarmerie officer was struck by a rented vehicle in Khenifra province on Wednesday after its driver refused to stop at a roadside checkpoint, local sources reported. The incident occurred on the road linking Ait Ishaq and Tighassaline, where the driver allegedly ignored officers&#8217; instructions and hit a member of the patrol before fleeing [&#8230;] The post Gendarme injured in Khenifra hit-and-run after driver refuses to stop appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148573-gendarme-injured-in-khenifra-hit-and-run-after-driver-refuses-to-stop.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T21:49:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "38febc6a773e2ff9",
-      "title": "Egyptian doctor who undertook medical missions to Gaza will now go to US Congress",
-      "summary": "Egyptian doctor who undertook medical missions to Gaza will now go to US Congress Egyptian-American surgeon Adam Hamawy has won his bid for Congress in New Jersey’s 12th congressional district, joining the blue wave across the US and making history as the first Muslim and Egyptian American to represent the state. During his victory speech in the midterm elections on Tuesday, he spoke directly to the people in Gaza, saying: “To the men, women and children of Gaza and Palestine. Your smiles give me the courage and the hope to fight for a better world.\" Republicans previously held the majority of",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-doctor-who-undertook-medical-missions-gaza-will-now-go-congress",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T21:48:18+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3e2c3603ff3b4d0c",
-      "title": "Vance blames Iran war for crushing Republican midterms defeat",
-      "summary": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
-      "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T21:34:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "dbceb3577789a15d",
-      "title": "US stocks post best day since August after Democrats sweep midterms",
-      "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
-      "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T21:33:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f2389de9da52e624",
-      "title": "Saudi, Syrian defence ministries sign cooperation agreement",
-      "summary": "Saudi, Syrian defence ministries sign cooperation agreement Saudi Arabia and Syria signed a defence cooperation agreement on Wednesday, Saudi news agency SPA reported, amid the kingdom's ongoing conflict with Yemen's Houthis. The agreement was signed during a visit by Syrian President Ahmed al-Sharaa to Riyadh, where he met Saudi Crown Prince Mohammed bin Salman - their second meeting in a month.&nbsp; Details of the agreement have not been disclosed, but Reuters reported&nbsp;last month&nbsp;that Syria was carefully weighing providing military assistance to Saudi Arabia amid the kingdom's esc",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-syrian-defence-ministries-sign-cooperation-agreement",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T21:32:47+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "26312ef704da8d53",
-      "title": "Social media reacts to Democrats’ takeover of US Congress",
-      "summary": "Social media is awash with reactions to Democrats’ sweeping midterm gains.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T21:21:58+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "09ec383ec211a3fe",
-      "title": "Heavy rain puts northern Morocco on flood alert as dam reserves reach 65.8%",
-      "summary": "Heavy rain has spread across Morocco this week, bringing up to 40 millimeters of rainfall to parts of the country and prompting authorities in the north to prepare for possible flooding, as national reservoirs enter November holding more than twice as much water as a year ago. The General Directorate of Meteorology (DGM) extended its [&#8230;] The post Heavy rain puts northern Morocco on flood alert as dam reserves reach 65.8% appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148560-heavy-rain-puts-northern-morocco-on-flood-alert-as-dam-reserves-reach-65-8.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T21:21:51+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "3814b1403de9fea8",
-      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-      "summary": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T21:13:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "22563f071a43f628",
-      "title": "US midterm election results live: Trump blames Iran war after losses",
-      "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T21:00:00+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "cfdc8da80f6a1b46",
-      "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
-      "summary": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat",
-      "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T20:58:24+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "caff2db0f2874abd",
-      "title": "The Democrats' midterm election sweep breaks the internet",
-      "summary": "The Democrats' midterm election sweep breaks the internet Submitted by Nouran Saleh on Wed, 11/04/2026 - 19:22 Democrats secure majorities in both chambers of Congress in the US midterm elections, prompting celebrations across social media US Senator-elect James Talarico speaks during a midterm election night event at the Long Center for the Performing Arts on 3 November 2026 in Austin, Texas (Chip Somodevilla/Getty Images/AFP). Off In a sweeping victory, the Democratic Party won&nbsp; majorities &nbsp;in both the House of Representatives and the Senate in the US midterm elections on Tuesday. ",
-      "link": "https://www.middleeasteye.net/trending/democratss-congressional-victory-breaks-internet",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T20:52:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8a8bc34690ba873c",
-      "title": "Democrat leaders hail midterm election success",
-      "summary": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T20:50:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "765e335c7133eb32",
-      "title": "Bessent says ‘you are either with us or against us’ after new Iran-linked sanctions",
-      "summary": "Bessent says ‘you are either with us or against us’ after new Iran-linked sanctions US Treasury Secretary Scott Bessent said on Wednesday that \"you are either with us or against us\" after his department issued fresh sanctions targeting what it described as a “vast criminal network” aiding Iran’s shadow fleet of oil tankers. \"As we have said many times, under Operation Economic Outcast, you are either with us or against us,\" Bessent wrote in a post on X. \"We know where you are, and we will sanction those who continue supporting the Iranian regime, whether by land, sea, or air,\" he added. As we ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bessent-says-you-are-either-us-or-against-us-after-new-iran-linked",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T20:47:11+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "171fd5dbd9e42e10",
-      "title": "US midterm elections 2026: Record number of hijabis elected to statewide and national offices",
-      "summary": "US midterm elections 2026: Record number of hijabis elected to statewide and national offices Submitted by Yasmine El-Sabawi on Wed, 11/04/2026 - 16:04 There's a distinct difference when an American lawmaker is so visibly Muslim, given the rampant Islamophobia across the country Georgia State Representative Ruwa Romman speaks as part of the 'No Kings' rallies at Love Park in Philadelphia, Pennsylvania, on 14 June 2025 (Lisa Lake/Getty Images via AFP) Off Tuesday's midterm elections saw a remarkable wave of firsts that may have been unthinkable &nbsp;if&nbsp; US &nbsp;President Donald Trump had",
-      "link": "https://www.middleeasteye.net/news/us-elections-2026-hijabis-elected-statewide-and-national-offices",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T20:39:17+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d333c401dcf95801",
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T20:31:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5965ad9d888f5575",
-      "title": "Will the US resume its attacks on Iran?",
-      "summary": "Tehran says it&#039;s ready with a maximum deterrence plan.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T20:25:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "9f96f4a61608adb5",
-      "title": "Oil tumbles below $100 on post-election peace hopes",
-      "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
-      "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T20:18:53+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5d93f143c8ad0552",
-      "title": "Morocco updates orange weather alert as thunderstorms threaten 18 provinces",
-      "summary": "Morocco&#8217;s General Directorate of Meteorology (DGM) updated its orange weather alert Wednesday evening, warning that heavy thunderstorms, hail and strong wind gusts could affect 18 provinces across northern, eastern and central Morocco until 11 p.m. The revised bulletin forecasts rainfall of between 20 and 35 millimeters from 3 p.m. Wednesday, extending the warning to areas [&#8230;] The post Morocco updates orange weather alert as thunderstorms threaten 18 provinces appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148570-morocco-updates-orange-weather-alert-as-thunderstorms-threaten-18-provinces.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T20:11:40+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "447e5f5529ef785b",
-      "title": "Netanyahu says 'serious suspicions' of foreign interference in vote",
-      "summary": "Netanyahu says 'serious suspicions' of foreign interference in vote Israeli Prime Minister Benjamin Netanyahu said on Wednesday that there are \"serious suspicions\" of foriegn interference in the Israeli elections after his Likud party suffered resounding defeats in the recent vote.&nbsp; \"There are serious suspicions that foreign states have spent considerable sums to influence the outcome of the elections in Israel,\" Netanyahu said in a video posted on social media. He blamed \"extremist Islam\" for \"tearing apart countries in Europe\", adding that this \"challenge\" cannot be confronted by \"a gov",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-serious-suspicions-foreign-interference-vote",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T20:11:18+00:00",
-      "region": "mena",
-      "lang": "he",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "48ae13c0a01ad2ae",
-      "title": "Morocco's Press Council urges media to counter Sahara disinformation after MINURSO exit",
-      "summary": "Morocco&#8217;s National Press Council has called on domestic media organizations to strengthen their coverage of the Sahara dispute and counter what it described as misleading foreign narratives following the UN Security Council&#8217;s failure to renew MINURSO&#8217;s mandate on October 30. In a statement, the council welcomed the Royal Cabinet&#8217;s position on the mission&#8217;s departure and [&#8230;] The post Morocco&#039;s Press Council urges media to counter Sahara disinformation after MINURSO exit appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148568-moroccos-press-council-urges-media-to-counter-sahara-disinformation-after-minurso-exit.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T20:10:01+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0d39b337490b26ba",
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "summary": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T19:59:14+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6499a5994b7dbc30",
-      "title": "Democratic progressive wing notches win in California Central Valley",
-      "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T19:50:37+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "04b9e745df556e09",
-      "title": "Israel's Eisenkot vows to 'deepen' ties to US if he becomes PM",
-      "summary": "Israel's Eisenkot vows to 'deepen' ties to US if he becomes PM Israeli opposition bloc leader Gadi Eisenkot vowed on Wednesday to strengthen ties with the US and work with President Donald Trump to stabilise the Middle East&nbsp;if he becomes prime minister. \"Under my leadership, we will renew and deepen that partnership, strengthen the bipartisan foundations that have long sustained it,\" Eisenkot said, adding that he looked forward to working with Trump to \"advance our shared security interests, strengthen regional stability, and open new doors to prosperity for the peoples of the Middle East",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-eisenkot-vows-deepen-ties-us-if-he-becomes-pm",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T19:35:58+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "df1995eadb7e59e9",
-      "title": "Houthi Donation Boxes Target Merchants, Shoppers to Fund War Effort",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337676",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T19:33:09+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e28b834d4edb8146",
-      "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-      "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T19:30:41+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6fd1e4dcf67811af",
-      "title": "WHO approves trials for two new Ebola vaccines",
-      "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T19:22:09+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e3a5d0d800da2adc",
-      "title": "US midterms 2026: What key races remain undecided?",
-      "summary": "Ballots continue to be counted in states like Alaska, Mississippi, Kansas and California for toss-up races.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T19:18:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b460808883a16cbc",
-      "title": "How US midterm results could reshape Trump’s foreign policy",
-      "summary": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T19:15:50+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "72b896dd4dd95f47",
-      "title": "How Democrats pulled off the blue wave in maps and charts",
-      "summary": "Party on track for largest swing in their favour in House elections in more than 75 years",
-      "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T19:12:33+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b02746fea2ed1d31",
-      "title": "Moroccan nutritionist Mohamed Faid faces travel ban over alleged hate speech",
-      "summary": "Moroccan prosecutors have imposed a travel ban on nutritionist and YouTuber Mohamed Faid, who faces criminal charges over controversial public statements, judicial sources told Hespress on Wednesday. The decision followed Faid&#8217;s appearance before the public prosecutor at the Benslimane Court of First Instance, after an investigation conducted by the National Judicial Police Brigade. Faid faces [&#8230;] The post Moroccan nutritionist Mohamed Faid faces travel ban over alleged hate speech appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148564-moroccan-nutritionist-mohamed-faid-faces-travel-ban-over-alleged-hate-speech.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T19:08:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "1aab183421019080",
-      "title": "Impeachments, Iran and the presidency: what’s next after the midterms?",
-      "summary": "A sweeping victory for Democrats has started a jostle for presidential hopefuls",
-      "link": "https://www.ft.com/content/18e00ce0-aef2-41e9-ab7f-8a5dd8a9c217?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T19:06:34+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "b97af65c74e9070c",
-      "title": "US issues fresh sanctions against individuals and entities aiding Iran",
-      "summary": "US issues fresh sanctions against individuals and entities aiding Iran The US Treasury issued fresh sanctions on Wednesday&nbsp;targeting what it called \"the vast criminal network\"&nbsp;of companies and individuals tied to Iran. It named Indian nationals Suniel Kumar Sharma and his wife, Jaspreet Preeti Shahid, as well as two other Indian citizens who head two of the couple's businesses, and nine separate entities connected to Sharma. \"Their schemes have provided false flags and certifications to sanctioned vessels involved in transporting Iranian petroleum, including vessels operating on beha",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-fresh-sanctions-against-individuals-and-entities-aiding-iran",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T19:00:16+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ea6e6cbda6787a69",
-      "title": "Saudi Arabia Offers 100% Social Insurance Debt Waiver to Businesses That Have Exited Market",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337668",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T18:56:05+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "2f8d40fc2e03fefa",
-      "title": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
-      "summary": "Two tankers change course in setback to White House gambit to lower fuel prices and shore up political support",
-      "link": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T18:54:44+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0051b516c2374891",
-      "title": "Trump admits Iran war caused election losses but ‘we had to do it’",
-      "summary": "Trump admits Iran war caused election losses but ‘we had to do it’ US President Donald Trump said on Wednesday that the Iran war was responsible for his Republican Party's resounding midterm election defeat. Asked whether he agreed with Vice President JD Vance&nbsp;earlier remarks that the Iran war was \"the reason we lost\", Trump told reporters outside the White House ballroom construction site that his comments were \"largely true because it drove the gasoline up a little bit short term\". \"But at the same time, if I had it to do again, I'd have to do it again. Because long term, it's the only ",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-admits-iran-war-caused-election-losses-we-had-do-it",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T18:53:41+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "4b2a3d11029e9d78",
-      "title": "The biggest winners and losers of the 2026 US midterms",
-      "summary": "Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T18:52:25+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "f73a03691f79b88c",
-      "title": "Five takeaways from the midterm results",
-      "summary": "Democrats record broad gains from almost all demographic groups",
-      "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T18:47:36+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0b060ff64e99ca2f",
-      "title": "UK: Dozens arrested outside Supreme Court hearing on Palestine Action ban",
-      "summary": "UK: Dozens arrested outside Supreme Court hearing on Palestine Action ban Lawyers representing the co-founder of&nbsp;Palestine Action&nbsp;have argued that the direct-action group has never advocated for violence against individuals, as the campaign to overturn its designation as a terrorist organisation by the&nbsp; UK &nbsp;government reached the Supreme Court. Speaking on the first day of the two-day hearing, Raza Husain KC, representing Huda Ammori, opened proceedings and said that less than one percent of the group’s protests met the legal definition of terrorism. \"It’s not the label tha",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-dozens-arrested-outside-supreme-court-hearing-palestine-action-ban",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T18:43:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "36866aaed2b0a0da",
-      "title": "Gaza Welcomes US Election Results With Reservations",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337665",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T18:40:18+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "7d345ae08742bd96",
-      "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
-      "summary": "Voters’ repudiation of Republican agenda seen as a ‘victory’ for neighbour targeted by president’s trade war",
-      "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T18:34:21+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "16ff08924f4e85d5",
-      "title": "Republicans turn on each other after disastrous midterms",
-      "summary": "Party figures lash out at Donald Trump, his candidates and his staff over Iran war, cost of living and corruption allegations",
-      "link": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T18:29:39+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8bbbdd5f30177c17",
-      "title": "Americans voted against war. The Democrats must not mistake that for a mandate",
-      "summary": "Americans voted against war. The Democrats must not mistake that for a mandate Submitted by Omar Suleiman on Wed, 11/04/2026 - 17:20 Midterms showed that political power can be challenged, even when backed by extraordinary wealth. But can this movement be channelled towards global peace? US Senate Minority Leader Chuck Schumer takes questions in Washington, DC, on 4 November 2026, after historic Democratic midterm victories (Tom Brenner/Getty Images/AFP) Off The American political establishment is about to learn a dangerous lesson from the wrong interpretation of a historic election. On Tuesda",
-      "link": "https://www.middleeasteye.net/opinion/americans-voted-against-war-democrats-must-not-mistake-mandate",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T18:23:59+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a0a5a560a21ede55",
-      "title": "HCP: Morocco’s job shortfall affects 2.4 million people, nearly half of young people",
-      "summary": "Morocco’s job shortfall affected 2.4 million people in the third quarter of 2026, with nearly half of young people aged 15 to 24 facing unmet employment needs, according to new figures from the High Commission for Planning (HCP). The HCP’s latest labor market report, covering July through September, found that the composite rate of labor [&#8230;] The post HCP: Morocco’s job shortfall affects 2.4 million people, nearly half of young people appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148550-hcp-moroccos-job-shortfall-affects-2-4-million-people-nearly-half-of-young-people.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T18:09:02+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "0dfeeea9fea05d28",
-      "title": "Morocco Launches Development Projects in Southern Bir Gandouz & El Guergarat",
-      "summary": "Several economic, social, sports and service-related projects were inaugurated or launched on Tuesday in the center of Bir Gandouz and at the El Guergarat border post, Southern Morocco, as part of the celebration of the first anniversary of Unity Day. The activities involved projects aimed at strengthening commercial infrastructure, improving drinking water supply, bringing administrative [&#8230;] The post Morocco Launches Development Projects in Southern Bir Gandouz &#038; El Guergarat appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148558-morocco-launches-development-projects-in-southern-bir-gandouz-el-guergarat.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T18:03:12+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "511fdf21bc284d66",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T18:01:31+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "08518f787b99270e",
-      "title": "The party’s over for the Trumpsterz",
-      "summary": "Dancing gives way to dejection at Florida festivities",
-      "link": "https://www.ft.com/content/7a7f5d4f-8e82-48c2-be31-024f8b5a32d7?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T17:57:04+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "5ac779dcb5b80f52",
-      "title": "Europe hails Democrats’ US midterm victory as a rebuke of Trumpism",
-      "summary": "Leaders welcome result, but Germany’s Merz said he expected Trump to continue conducting policy by executive orders",
-      "link": "https://www.ft.com/content/97070d8f-ce2d-4873-8c70-cc8338f7ce1c?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T17:53:47+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a1ddd63b265a1c3c",
-      "title": "Yemeni Govt Forces Regain Initiative Against Houthis",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337643",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T17:49:57+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "56c50e17cfc39870",
-      "title": "The beginning of the end of the age of Trump",
-      "summary": "A stunning rebuke by Americans offers a chance to start rebuilding US democracy",
-      "link": "https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T17:42:56+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "31c97773458ea863",
-      "title": "Trump Licks Wounds as Democrats Celebrate Huge Midterms Win",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337639",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T17:38:28+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "a6ef9b4dff4a3499",
-      "title": "Baghdad, Manama Keen to ‘Unify Stances’ on Regional Issues",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337635",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T17:26:21+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "746d30c0457534f0",
-      "title": "Iran inflicted 'defeat' on Trump, security chief says",
-      "summary": "Iran inflicted 'defeat' on Trump, security chief says Iran's top security chief Mohsen Rezaei said on Wednesday that Tehran had given US President Donald Trump a \"political defeat\" after his Republican party suffered heavy losses in the US midterm&nbsp;elections. \"The Iranian nation handed Trump a strategic defeat on the battlefield and in the Hormuz -- and a POLITICAL DEFEAT in Washington,\" Rezaei, the secretary of Iran's Supreme National Security Council, said on X. The Iranian nation handed Trump a strategic defeat on the battlefield and in the Hormuz—and a POLITICAL DEFEAT in Washington. M",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-inflicted-defeat-trump-security-chief-says-after-midterms",
-      "source": "Middle East Eye",
-      "published": "2026-11-04T17:21:31+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "85c9c21538590760",
-      "title": "CVS Health to break up $102bn healthcare empire",
-      "summary": "Spin-off of roughly 9,000 drugstores comes as political pressure mounts on pharmacy benefit managers and health insurers",
-      "link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T17:20:02+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "6c51315faf3a6c34",
-      "title": "US VP Vance says Iran war is 'the reason we lost' midterms",
-      "summary": "US Vice President JD Vance said Wednesday that the Iran war doomed Republicans in the midterm elections, as he sought to distance himself from the conflict ahead of a possible 2028 White House run. &#8220;The reason we lost is the war. The president himself said so last night,&#8221; Vance said in a lengthy post on [&#8230;] The post US VP Vance says Iran war is &#039;the reason we lost&#039; midterms appeared first on HESPRESS English - Morocco News .",
-      "link": "https://en.hespress.com/148555-us-vp-vance-says-iran-war-is-the-reason-we-lost-midterms.html",
-      "source": "Hespress EN",
-      "published": "2026-11-04T17:09:00+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bbaf0305c8408b32",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T16:59:15+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "baf6042b51808918",
-      "title": "WHO Sounds Alarm Over Lack of Physical Activity Among Teens",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337627",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T16:53:59+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "8572f96b8763d118",
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T16:40:38+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "e5649170153b1ab5",
-      "title": "Red Cross Delivers Essential Medical Supplies to Yemen’s Besieged Taiz City",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337619",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T16:35:10+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d485b0ab6474d822",
-      "title": "The young politicians with African roots making history in the US midterms",
-      "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T16:34:32+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "ddcf55d1fdbbaac6",
-      "title": "Ukraine falls behind Moldova on path to EU membership",
-      "summary": "Kyiv and Chisinau had applied together, but Brussels suggests different dates for completing membership talks",
-      "link": "https://www.ft.com/content/6ccf470f-176f-436f-baa7-e5ac6b4cf20f?syn-25a6b1a6=1",
-      "source": "FT World",
-      "published": "2026-11-04T16:30:45+00:00",
-      "region": "global",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "d6f927c5914fde68",
-      "title": "White House Insists Trump Is ‘Still Your President’ After Midterm Rout",
-      "summary": "",
-      "link": "https://english.aawsat.com/node/5337614",
-      "source": "Asharq Al-Awsat",
-      "published": "2026-11-04T16:28:52+00:00",
-      "region": "mena",
-      "lang": "en",
-      "body": "",
-      "entities": [],
-      "geo_tags": [],
-      "topics": [],
-      "sentiment": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "risk": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      },
-      "hidden_links": [],
-      "arc_to": [],
-      "arc_strength": {
-        "MA": 0.0,
-        "SA": 0.0,
-        "AE": 0.0
-      }
-    },
-    {
-      "id": "bc0a8d2cb54a1480",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T16:26:15+00:00",
-      "region": "global",
       "lang": "en",
       "body": "",
       "entities": [],
